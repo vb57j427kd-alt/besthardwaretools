@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
 """Generate Best Hardware Tools static site: index.html + products/*.html + seo files."""
 import os
+from datetime import datetime
 from products_data import SITE, CATEGORIES, PRODUCTS, RELATED_INDEX
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 DOMAIN = SITE["domain"]
 URL = f"https://{DOMAIN}/"
+YEAR = datetime.now().year
 
 CSS = """
 :root{--bg:#0B0F14;--bg2:#11161D;--card:#171E27;--card2:#1C2532;--accent:#FF8A2A;--accent2:#E06B10;--t1:#E8EDF2;--t2:#A7B3C2;--t3:#6E7B8A;--line:#232C38;--gold:#FF8A2A}
@@ -183,7 +185,7 @@ def footer():
 <div><h5>Company</h5><a href="/#why">Why Us</a><a href="/#oem">OEM/ODM</a><a href="/#contact">Contact</a></div>
 <div><h5>Contact</h5><a href="https://wa.me/8618669693290" target="_blank" rel="noopener">WhatsApp: +86 186 6969 3290</a><a href="mailto:{SITE['email']}">{SITE['email']}</a></div>
 </div>
-<div class="copy">&copy; 2026 {SITE['brand']} ({SITE['domain']}). All rights reserved. Supplier of {', '.join(c['name'] for c in CATEGORIES)}.</div>
+<div class="copy">&copy; {YEAR} {SITE['brand']} ({SITE['domain']}). All rights reserved. Supplier of {', '.join(c['name'] for c in CATEGORIES)}.</div>
 </div></footer>
 <script>var currentOrderProduct='';</script>
 {order_modal()}
