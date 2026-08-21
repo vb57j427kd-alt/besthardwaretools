@@ -32,7 +32,7 @@ PRODUCTS = [
         "badge": "Bestseller",
         "price": "$0.28 - $0.42 /pc",
         "moq": "MOQ 1 pc",
-        "img": "https://cbu01.alicdn.com/img/ibank/O1CN01wf9l5f1MWwRrP5sXO_!!2215426361443-0-cib.jpg",
+        "img": "/images/stainless-steel-soft-close-hinge.jpg",
         "src": "https://detail.1688.com/offer/708534731229.html",
         "desc": "Precision-engineered 304 stainless steel hinge with integrated hydraulic damping for silent, soft-close cabinet doors. The 2.0mm thickened body delivers outstanding rigidity and long service life, while the self-closing mechanism protects cabinets from slamming damage. Ideal for kitchen cabinets, wardrobes and commercial furniture, this hinge suits both new builds and retrofits. Factory-direct supply supports custom finishes, bulk packaging and OEM branding for furniture manufacturers and hardware distributors worldwide.",
         "specs": [
@@ -58,7 +58,7 @@ PRODUCTS = [
         "badge": "Hot",
         "price": "$0.15 - $0.25 /pc",
         "moq": "MOQ 1 pc",
-        "img": "https://cbu01.alicdn.com/img/ibank/O1CN01pMi1By1GmcXSY0frL_!!2222216890665-0-cib.jpg",
+        "img": "/images/black-aluminum-cabinet-handle.jpg",
         "src": "https://detail.1688.com/offer/1037766581644.html",
         "desc": "Modern minimalist cabinet handle machined from solid aluminum with a durable anodized black finish. The clean, slim profile complements contemporary kitchens, wardrobes and office furniture. Available in multiple hole spacings (128mm standard) to match common cabinet panels. Each handle is precision-drilled for accurate alignment and ships with mounting screws. A popular choice for furniture makers, renovation projects and cross-border e-commerce sellers building hardware ranges.",
         "specs": [
@@ -84,7 +84,7 @@ PRODUCTS = [
         "badge": "New",
         "price": "$0.85 - $1.30 /pc",
         "moq": "MOQ 1 pc",
-        "img": "https://cbu01.alicdn.com/img/ibank/O1CN01i0df8k23pHpZlUYl8_!!2216135147304-0-cib.jpg",
+        "img": "/images/heavy-duty-swivel-caster.jpg",
         "src": "https://detail.1688.com/offer/728667477642.html",
         "desc": "Rugged swivel caster with integrated brake, built for trolleys, platform carts, racks and industrial equipment. The hardened rubber wheel delivers smooth, quiet rolling on hard floors while the reinforced steel bracket and ball-bearing swivel ensure heavy load capacity and 360-degree maneuverability. The side brake locks the wheel firmly in place for safe stationary work. Available in multiple sizes and load ratings to match your application. Factory-direct pricing for bulk importers and OEM projects.",
         "specs": [
@@ -110,7 +110,7 @@ PRODUCTS = [
         "badge": "Bestseller",
         "price": "$1.35 - $2.00 /pc",
         "moq": "MOQ 1 pc",
-        "img": "https://cbu01.alicdn.com/img/ibank/O1CN01m3cvIz2AeTyc1eTDP_!!2222186368228-0-cib.jpg",
+        "img": "/images/72-tooth-ratchet-wrench-set.jpg",
         "src": "https://detail.1688.com/offer/1060774840292.html",
         "desc": "High-efficiency dual-drive ratchet wrench combining open-end and box-end functions in one tool. The 72-tooth ratchet mechanism delivers a fine 5-degree swing arc, letting you work in tight spaces without re-positioning. Forged from hardened chrome vanadium steel with a corrosion-resistant black nickel finish and an anti-slip grip, it provides confident torque for automotive, machinery and general maintenance tasks. Available in multiple sizes and as complete sets.",
         "specs": [
@@ -136,7 +136,7 @@ PRODUCTS = [
         "badge": "Hot",
         "price": "$0.36 - $0.55 /pc",
         "moq": "MOQ 1 pc",
-        "img": "https://cbu01.alicdn.com/img/ibank/O1CN01XgfI2L25wH843YSSG_!!2206913207590-0-cib.jpg",
+        "img": "/images/magnetic-screwdriver-set.jpg",
         "src": "https://detail.1688.com/offer/834783626722.html",
         "desc": "Professional-grade screwdriver set featuring hardened chrome vanadium steel shafts with strong magnetic tips that hold screws firmly during fastening. Ergonomic handles provide a comfortable, slip-resistant grip for extended working sessions. This set covers Phillips and slotted (flat) heads in multiple sizes, making it a versatile addition for electricians, mechanics, DIY users and assembly lines. Suitable for household repairs, appliance service and industrial maintenance.",
         "specs": [
@@ -162,7 +162,7 @@ PRODUCTS = [
         "badge": "Bestseller",
         "price": "$0.90 - $1.35 /pc",
         "moq": "MOQ 1 pc",
-        "img": "https://cbu01.alicdn.com/img/ibank/O1CN01JiuqIK1WPkHL5N9mp_!!1000082781-0-cib.jpg",
+        "img": "/images/industrial-lineman-pliers.jpg",
         "src": "https://detail.1688.com/offer/576365440885.html",
         "desc": "Heavy-duty lineman pliers drop-forged from chrome vanadium steel with induction-hardened cutting edges that slice through wire, cable and light metal with ease. The multi-function design integrates cutting, gripping, crimping and stripping functions in one tool. A precision-aligned joint ensures smooth, consistent operation, while the TPR comfort grip reduces hand fatigue. A staple for electricians, construction workers and general trades.",
         "specs": [
@@ -188,7 +188,7 @@ PRODUCTS = [
         "badge": "Hot",
         "price": "$11.00 - $16.00 /kit",
         "moq": "MOQ 1 kit",
-        "img": "https://cbu01.alicdn.com/img/ibank/O1CN01dR6V441w1BBjgNPf5_!!2200758016247-0-cib.jpg",
+        "img": "/images/brushless-cordless-drill.jpg",
         "src": "https://detail.1688.com/offer/806889479426.html",
         "desc": "Powerful 21V brushless cordless drill delivering high efficiency and longer runtime than brushed motors. The variable-speed trigger, keyless chuck and LED work light make drilling and screw-driving fast and accurate in any job site condition. This complete kit includes two lithium batteries, a fast charger and a durable plastic case, ready for export. Excellent for carpenters, electricians, furniture assembly teams and DIY enthusiasts.",
         "specs": [
@@ -214,7 +214,7 @@ PRODUCTS = [
         "badge": "New",
         "price": "$26.00 - $38.00 /kit",
         "moq": "MOQ 1 kit",
-        "img": "https://cbu01.alicdn.com/img/ibank/O1CN01jE2zXd2KtjE1MjqEu_!!2215696889615-0-cib.jpg",
+        "img": "/images/brushless-cordless-angle-grinder.jpg",
         "src": "https://detail.1688.com/offer/919795260450.html",
         "desc": "Versatile brushless cordless angle grinder with a rotating head for cutting, grinding, polishing and rust removal in hard-to-reach positions. The 21V brushless motor delivers consistent power with up to 7.5Ah battery capacity for extended working time. Features include tool-free guard adjustment, side handle for control and spindle lock for fast disc changes. Ideal for metalwork, construction, tile work and maintenance crews who need cordless freedom.",
         "specs": [
@@ -240,7 +240,7 @@ PRODUCTS = [
         "badge": "Bestseller",
         "price": "$15.00 - $22.00 /kit",
         "moq": "MOQ 1 kit",
-        "img": "https://cbu01.alicdn.com/img/ibank/O1CN014OYYxw1w1BDlmYKvW_!!2200758016247-0-cib.jpg",
+        "img": "/images/brushless-impact-wrench.jpg",
         "src": "https://detail.1688.com/offer/842431375043.html",
         "desc": "High-torque brushless cordless impact wrench purpose-built for automotive repair, scaffolding and construction fastening. The 21V brushless motor delivers rapid-impact torque to remove stubborn lug nuts and bolts, while the compact body fits tight engine bays. This export kit includes two 10-cell batteries and a fast charger. A dependable workhorse for mechanics, tire shops and field service teams.",
         "specs": [
@@ -266,7 +266,7 @@ PRODUCTS = [
         "badge": "Hot",
         "price": "$30.00 - $44.00 /pc",
         "moq": "MOQ 1 pc",
-        "img": "https://cbu01.alicdn.com/img/ibank/O1CN01rAfRIf1Ska2FqXQob_!!2214741772285-0-cib.jpg",
+        "img": "/images/air-impact-wrench.jpg",
         "src": "https://detail.1688.com/offer/683522828976.html",
         "desc": "Industrial-grade pneumatic impact wrench with high torque output for automotive tire service, machinery maintenance and heavy assembly work. The pistol-grip body is precision-balanced for comfortable control, and the twin-hammer mechanism delivers reliable, repeatable impact force. Built with a durable aluminum housing and ergonomic rubber grip, this tool connects to any standard air compressor for long, maintenance-free service. A cost-effective choice for garages and workshops worldwide.",
         "specs": [
@@ -292,7 +292,7 @@ PRODUCTS = [
         "badge": "Bestseller",
         "price": "$6.00 - $9.00 /pc",
         "moq": "MOQ 1 pc",
-        "img": "https://cbu01.alicdn.com/img/ibank/O1CN01kYnnrK2F1A203oXb4_!!2532298819-0-cib.jpg",
+        "img": "/images/pneumatic-air-nailer.jpg",
         "src": "https://detail.1688.com/offer/570819195363.html",
         "desc": "Reliable pneumatic straight nailer designed for cabinet making, furniture assembly, trim work and general woodworking. Fires 30mm F-type finish nails with consistent depth control, and the anti-jam magazine keeps production moving. The lightweight aluminum body and comfortable grip reduce operator fatigue during long shifts. Connects to any standard air compressor with a quick-connect fitting. A practical addition to any workshop or production line.",
         "specs": [
@@ -318,7 +318,7 @@ PRODUCTS = [
         "badge": "Hot",
         "price": "$5.00 - $7.50 /pc",
         "moq": "MOQ 1 pc",
-        "img": "https://cbu01.alicdn.com/img/ibank/O1CN01VV5ig02GA8zbUMzjC_!!2212200698974-0-cib.jpg",
+        "img": "/images/hvlp-gravity-spray-gun.jpg",
         "src": "https://detail.1688.com/offer/653316938139.html",
         "desc": "Professional HVLP gravity-feed spray gun delivering fine, even atomization for automotive topcoats, primers, furniture finishes and industrial coatings. The 1.4mm nozzle balances flow rate and finish quality for both base and clear coats. Anodized aluminum body with stainless steel needle and nozzle ensures corrosion resistance and easy cleaning. Precise air and fluid controls give painters full command over pattern width and material delivery. Excellent value for body shops and finishing workshops.",
         "specs": [
