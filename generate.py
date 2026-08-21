@@ -221,7 +221,7 @@ def index_html():
 "contactPoint":{{"@type":"ContactPoint","contactType":"sales","email":"{SITE['email']}"}},
 "areaServed":{{"@type":"Place","name":"Worldwide"}},
 "knowsAbout":["Hardware","Hand Tools","Power Tools","Pneumatic Tools","Cabinet Hardware","Industrial Tools"]}}'''
-    html = head("Best Hardware Tools - Factory Direct Hardware, Hand Tools, Power Tools & Pneumatic Tools Supplier", "Best Hardware Tools supplies factory-direct hardware, hand tools, power tools and pneumatic tools worldwide. Low MOQ, OEM/ODM support, wholesale pricing. WhatsApp +86 186 6969 3290.", URL + "", "https://cbu01.alicdn.com/img/ibank/O1CN01pMi1By1GmcXSY0frL_!!2222216890665-0-cib.jpg")
+    html = head("Best Hardware Tools - Factory Direct Hardware, Hand Tools, Power Tools & Pneumatic Tools Supplier", "Best Hardware Tools supplies factory-direct hardware, hand tools, power tools and pneumatic tools worldwide. Low MOQ, OEM/ODM support, wholesale pricing. WhatsApp +86 186 6969 3290.", URL + "", URL + "images/brushless-cordless-drill.jpg")
     html += f"""<script type="application/ld+json">{jsonld}</script>
 <body>
 {nav()}
@@ -254,7 +254,7 @@ def product_page(p):
     pts = "".join(f"<li>{x}</li>" for x in p["points"])
     rel = "".join(product_card(RELATED_INDEX[s]) for s in p["related"] if s in RELATED_INDEX)
     jsonld = f'''{{"@context":"https://schema.org","@type":"Product","name":"{p['name']}","image":"{p['img']}","description":"{desc}","brand":{{"@type":"Brand","name":"{SITE['brand']}"}},"offers":{{"@type":"Offer","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"{canonical}"}}}}'''
-    html = head(title, desc, canonical, p['img'])
+    html = head(title, desc, canonical, URL + "images/" + p['slug'] + ".jpg")
     html += f"""<script type="application/ld+json">{jsonld}</script>
 <body>
 {nav()}
