@@ -214,6 +214,13 @@ def index_html():
         ("Low MOQ", "Most items start from MOQ 1 - perfect for testing new markets."),
         ("Fast Response", "WhatsApp and email support answered within 24 hours."),
     ]
+    # Daily rotating homepage content (day of month % 3): 1 = extra Why Us feat, 2 = OEM/ODM paragraph, 0 = category intro under hero
+    day = datetime.now().day
+    slot = day % 3
+    if slot == 1:
+        feats.append(("Certified Manufacturing Base", "Audited partner factories with verified capacity and export-grade quality procedures."))
+    oem_extra = ('<p style="color:var(--t2);margin-top:14px">From private-label packaging to full product customization, our partner factories handle tooling, color matching, logo printing and pre-shipment inspection. Share your spec sheet or sample - our engineering team replies within 24 hours with a factory-direct quotation and production timeline.</p>' if slot == 2 else "")
+    cat_intro = ('<p style="color:var(--t2);margin-top:22px;max-width:720px">Four sourcing categories under one roof: <b style="color:var(--t1)">Hardware</b> for cabinet and furniture fittings, <b style="color:var(--t1)">Hand Tools</b> for daily maintenance and repair, <b style="color:var(--t1)">Power Tools</b> for cordless and electric work, and <b style="color:var(--t1)">Pneumatic Tools</b> for compressor-powered jobs - each supplied factory-direct with consistent quality and low MOQs.</p>' if slot == 0 else "")
     feat_html = "".join(f'<div class="feat"><h4>{t}</h4><p>{d}</p></div>' for t, d in feats)
     stats = [("12+", "Core Product Lines"), ("100+", "Countries Served"), ("24h", "Response Time"), ("1 pc", "Minimum Order")]
     stats_html = "".join(f'<div><b>{n}</b><span>{l}</span></div>' for n, l in stats)
@@ -232,12 +239,14 @@ def index_html():
 <p>{SITE['tagline']}. From cabinet hardware to cordless power tools and pneumatic equipment - sourced from China's manufacturing clusters with wholesale pricing, low MOQ and OEM/ODM support for importers, distributors and brands worldwide.</p>
 <a href="#cat-hardware" class="btn btn-p">Shop Categories</a> <a href="https://wa.me/8618669693290" class="btn btn-wa" target="_blank" rel="noopener">WhatsApp Inquiry</a>
 <div class="trust">{stats_html}</div>
+{cat_intro}
 </div></header>
 {sections}
 <section id="why"><div class="wrap"><div class="sec-head"><div><span class="cat-tag">Why Us</span><h2>Why Global Buyers Choose Us</h2></div></div><div class="feats">{feat_html}</div></div></section>
 <section id="oem"><div class="wrap"><div class="sec-head"><div><span class="cat-tag">OEM / ODM</span><h2>Build Your Own Brand</h2></div></div>
 <div class="grid">{product_card(PRODUCTS[0])}{product_card(PRODUCTS[3])}{product_card(PRODUCTS[6])}</div>
 <p style="color:var(--t2);margin-top:22px">Tell us your market and target price - we handle sourcing, quality control, custom packaging and shipping. <a href="https://wa.me/8618669693290" style="color:var(--accent)" target="_blank" rel="noopener">Start a project on WhatsApp</a>.</p>
+{oem_extra}
 </div></section>
 <section id="contact" class="cta"><div class="wrap">
 <h2>Ready to Source Hardware &amp; Tools?</h2>
