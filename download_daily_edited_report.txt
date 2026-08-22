@@ -1,0 +1,10 @@
+loose-pin-door-hinge: 118361 bytes, (816, 816)
+360-degree-pivot-door-hinge: 133762 bytes, (816, 816)
+cabinet-hinge-repair-plate: 177209 bytes, (816, 816)
+mini-ratchet-handle-set: 337962 bytes, (816, 816)
+diagonal-cutting-pliers: 159061 bytes, (816, 816)
+brushless-impact-drill-kit: 151723 bytes, (816, 816)
+brushless-impact-wrench-kit: 206322 bytes, (1008, 1008)
+mining-air-impact-wrench: 554295 bytes, (1920, 1920)
+aluminum-siphon-spray-gun: 115283 bytes, (816, 816)
+12v-cordless-drill: kept original, 50749 bytes
