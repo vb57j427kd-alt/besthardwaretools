@@ -60,7 +60,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/black-aluminum-cabinet-handle.jpg",
         "src": "https://detail.1688.com/offer/1037766581644.html",
-        "desc": "Modern minimalist cabinet handle machined from solid aluminum with a durable anodized black finish. The clean, slim profile complements contemporary kitchens, wardrobes and office furniture. Available in multiple hole spacings (128mm standard) to match common cabinet panels. Each handle is precision-drilled for accurate alignment and ships with mounting screws. A popular choice for furniture makers, renovation projects and cross-border e-commerce sellers building hardware ranges.",
+        "desc": "Modern minimalist cabinet handle machined from solid aluminum with a durable anodized black finish. The clean, slim profile complements contemporary kitchens, wardrobes and office furniture. Available in multiple hole spacings (128mm standard) to match common cabinet panels. Each handle is precision-drilled for accurate alignment and ships with mounting screws. A popular choice for furniture makers, renovation projects and cross-border e-commerce sellers building hardware ranges. Its clean matte black profile also matches the 2026 cabinet hardware trend toward minimal, tactile pulls that anchor modern kitchens, closets and vanities.",
         "specs": [
             ("Material", "Aluminum Alloy"),
             ("Finish", "Anodized Black"),
@@ -242,7 +242,7 @@ PRODUCTS = [
         "moq": "MOQ 1 kit",
         "img": "/images/brushless-impact-wrench.jpg",
         "src": "https://detail.1688.com/offer/842431375043.html",
-        "desc": "High-torque brushless cordless impact wrench purpose-built for automotive repair, scaffolding and construction fastening. The 21V brushless motor delivers rapid-impact torque to remove stubborn lug nuts and bolts, while the compact body fits tight engine bays. This export kit includes two 10-cell batteries and a fast charger. A dependable workhorse for mechanics, tire shops and field service teams.",
+        "desc": "High-torque brushless cordless impact wrench purpose-built for automotive repair, scaffolding and construction fastening. The 21V brushless motor delivers rapid-impact torque to remove stubborn lug nuts and bolts, while the compact body fits tight engine bays. This export kit includes two 10-cell batteries and a fast charger. A dependable workhorse for mechanics, tire shops and field service teams. As cordless impact wrenches become the standard on professional job sites, this high-torque model delivers the removal power crews expect without needing an air compressor nearby.",
         "specs": [
             ("Voltage", "21 V Li-ion"),
             ("Motor", "Brushless"),
