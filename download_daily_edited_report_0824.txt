@@ -1,0 +1,8 @@
+stainless-corner-brace-40mm: 101453 bytes, (816, 816) -> saved
+no-drill-heavy-duty-shelf-bracket: 179784 bytes, (816, 816) -> saved
+adjustable-l-bracket-58mm: 613730 bytes, (1920, 1920) -> saved
+bakelite-grip-claw-hammer: 78001 bytes, (864, 864) -> saved
+dual-temperature-heat-gun-110v: 115888 bytes, (816, 816) -> saved
+hot-air-rework-station-858d: 122438 bytes, (1008, 1008) -> saved
+pistol-air-screwdriver-5h: 95681 bytes, (816, 816) -> saved
+5-inch-air-polisher: 115173 bytes, (816, 816) -> saved
