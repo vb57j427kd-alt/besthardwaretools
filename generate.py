@@ -121,6 +121,7 @@ def head(title, desc, canonical, ogimg):
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="google-site-verification" content="34SoIYpfZyiFCfgYUijxbkcMA456YX6Yut8l1RegbqU">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title}</title>
 <meta name="description" content="{desc}">
