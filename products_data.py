@@ -34,7 +34,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/stainless-steel-soft-close-hinge.jpg",
         "src": "https://detail.1688.com/offer/708534731229.html",
-        "desc": "Precision-engineered 304 stainless steel hinge with integrated hydraulic damping for silent, soft-close cabinet doors. The 2.0mm thickened body delivers outstanding rigidity and long service life, while the self-closing mechanism protects cabinets from slamming damage. Ideal for kitchen cabinets, wardrobes and commercial furniture, this hinge suits both new builds and retrofits. Factory-direct supply supports custom finishes, bulk packaging and OEM branding for furniture manufacturers and hardware distributors worldwide.",
+        "desc": "Precision-engineered 304 stainless steel hinge with integrated hydraulic damping for silent, soft-close cabinet doors. The 2.0mm thickened body delivers outstanding rigidity and long service life, while the self-closing mechanism protects cabinets from slamming damage. Ideal for kitchen cabinets, wardrobes and commercial furniture, this hinge suits both new builds and retrofits. Factory-direct supply supports custom finishes, bulk packaging and OEM branding for furniture manufacturers and hardware distributors worldwide. Ideal for hotel joinery, apartment fit-outs and cabinet workshops where silent closing is a selling point, this hinge reduces warranty callbacks caused by slamming doors. Kitchens, wardrobes and vanities with heavy doors all benefit from the smooth hydraulic damped action, while the corrosion-resistant 304 grade body holds up in humid coastal climates and high-moisture commercial settings.",
         "specs": [
             ("Material", "304 Stainless Steel"),
             ("Thickness", "2.0 mm"),
@@ -60,7 +60,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/black-aluminum-cabinet-handle.jpg",
         "src": "https://detail.1688.com/offer/1037766581644.html",
-        "desc": "Modern minimalist cabinet handle machined from solid aluminum with a durable anodized black finish. The clean, slim profile complements contemporary kitchens, wardrobes and office furniture. Available in multiple hole spacings (128mm standard) to match common cabinet panels. Each handle is precision-drilled for accurate alignment and ships with mounting screws. A popular choice for furniture makers, renovation projects and cross-border e-commerce sellers building hardware ranges. Its clean matte black profile also matches the 2026 cabinet hardware trend toward minimal, tactile pulls that anchor modern kitchens, closets and vanities.",
+        "desc": "Modern minimalist cabinet handle machined from solid aluminum with a durable anodized black finish. The clean, slim profile complements contemporary kitchens, wardrobes and office furniture. Available in multiple hole spacings (128mm standard) to match common cabinet panels. Each handle is precision-drilled for accurate alignment and ships with mounting screws. A popular choice for furniture makers, renovation projects and cross-border e-commerce sellers building hardware ranges. Its clean matte black profile also matches the 2026 cabinet hardware trend toward minimal, tactile pulls that anchor modern kitchens, closets and vanities. Whether renovating a single bathroom or fitting out a whole apartment complex, the consistent anodized finish keeps cabinets and drawers visually uniform across large orders. For furniture factories and e-commerce sellers, the slim bar design installs in minutes with the included screws, cutting assembly time on production lines.",
         "specs": [
             ("Material", "Aluminum Alloy"),
             ("Finish", "Anodized Black"),
@@ -86,7 +86,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/heavy-duty-swivel-caster.jpg",
         "src": "https://detail.1688.com/offer/728667477642.html",
-        "desc": "Rugged swivel caster with integrated brake, built for trolleys, platform carts, racks and industrial equipment. The hardened rubber wheel delivers smooth, quiet rolling on hard floors while the reinforced steel bracket and ball-bearing swivel ensure heavy load capacity and 360-degree maneuverability. The side brake locks the wheel firmly in place for safe stationary work. Available in multiple sizes and load ratings to match your application. Factory-direct pricing for bulk importers and OEM projects.",
+        "desc": "Rugged swivel caster with integrated brake, built for trolleys, platform carts, racks and industrial equipment. The hardened rubber wheel delivers smooth, quiet rolling on hard floors while the reinforced steel bracket and ball-bearing swivel ensure heavy load capacity and 360-degree maneuverability. The side brake locks the wheel firmly in place for safe stationary work. Available in multiple sizes and load ratings to match your application. Factory-direct pricing for bulk importers and OEM projects. Commonly fitted to workbenches, mobile tool cabinets, warehouse shelving and catering equipment, this caster's side brake gives operators a stable platform during loading and maintenance. It is a dependable upgrade for carts carrying compressors, welders or heavy stock, where smooth rolling and secure parking reduce daily handling effort.",
         "specs": [
             ("Wheel Diameter", "4 inch (more sizes available)"),
             ("Type", "Swivel with Brake"),
@@ -126,6 +126,7 @@ PRODUCTS = [
             "Dual drive combines open-end & box-end",
             "Forged CR-V steel with anti-corrosion finish",
             "Ideal for automotive & machinery maintenance",
+            "Dual-drive design saves time by reducing tool changes",
         ],
         "related": ["magnetic-screwdriver-set", "industrial-lineman-pliers", "brushless-impact-wrench"],
     },
@@ -138,7 +139,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/magnetic-screwdriver-set.jpg",
         "src": "https://detail.1688.com/offer/834783626722.html",
-        "desc": "Professional-grade screwdriver set featuring hardened chrome vanadium steel shafts with strong magnetic tips that hold screws firmly during fastening. Ergonomic handles provide a comfortable, slip-resistant grip for extended working sessions. This set covers Phillips and slotted (flat) heads in multiple sizes, making it a versatile addition for electricians, mechanics, DIY users and assembly lines. Suitable for household repairs, appliance service and industrial maintenance.",
+        "desc": "Professional-grade screwdriver set featuring hardened chrome vanadium steel shafts with strong magnetic tips that hold screws firmly during fastening. Ergonomic handles provide a comfortable, slip-resistant grip for extended working sessions. This set covers Phillips and slotted (flat) heads in multiple sizes, making it a versatile addition for electricians, mechanics, DIY users and assembly lines. Suitable for household repairs, appliance service and industrial maintenance. Electricians rely on the magnetic tips when working inside switch boxes and appliances, while assembly technicians value the multi-size coverage that reduces tip changes during long production runs. A dependable companion for handymen, locksmiths and electronics repair shops that need one set for everyday fastening.",
         "specs": [
             ("Material", "Chrome Vanadium Steel (CR-V)"),
             ("Tips", "Phillips & Slotted, Magnetic"),
@@ -177,6 +178,7 @@ PRODUCTS = [
             "Drop-forged CR-V steel - strong & durable",
             "Induction-hardened cutting edges",
             "Multi-function: cut, grip, crimp, strip",
+            "Crimp and strip wire without extra tools",
             "Comfort grip reduces hand fatigue",
         ],
         "related": ["72-tooth-ratchet-wrench-set", "magnetic-screwdriver-set", "pneumatic-air-nailer"],
@@ -190,7 +192,7 @@ PRODUCTS = [
         "moq": "MOQ 1 kit",
         "img": "/images/brushless-cordless-drill.jpg",
         "src": "https://detail.1688.com/offer/806889479426.html",
-        "desc": "Powerful 21V brushless cordless drill delivering high efficiency and longer runtime than brushed motors. The variable-speed trigger, keyless chuck and LED work light make drilling and screw-driving fast and accurate in any job site condition. This complete kit includes two lithium batteries, a fast charger and a durable plastic case, ready for export. Excellent for carpenters, electricians, furniture assembly teams and DIY enthusiasts.",
+        "desc": "Powerful 21V brushless cordless drill delivering high efficiency and longer runtime than brushed motors. The variable-speed trigger, keyless chuck and LED work light make drilling and screw-driving fast and accurate in any job site condition. This complete kit includes two lithium batteries, a fast charger and a durable plastic case, ready for export. Excellent for carpenters, electricians, furniture assembly teams and DIY enthusiasts. On assembly lines and renovation sites, the two-battery kit keeps drilling moving while one pack charges, and the keyless chuck makes bit changes quick between pilot holes and screw-driving. For electricians and furniture teams, the variable-speed trigger and LED work light give clean control in cabinets, roof voids and dark corners.",
         "specs": [
             ("Voltage", "21 V Li-ion"),
             ("Motor", "Brushless"),
@@ -216,7 +218,7 @@ PRODUCTS = [
         "moq": "MOQ 1 kit",
         "img": "/images/brushless-cordless-angle-grinder.jpg",
         "src": "https://detail.1688.com/offer/919795260450.html",
-        "desc": "Versatile brushless cordless angle grinder with a rotating head for cutting, grinding, polishing and rust removal in hard-to-reach positions. The 21V brushless motor delivers consistent power with up to 7.5Ah battery capacity for extended working time. Features include tool-free guard adjustment, side handle for control and spindle lock for fast disc changes. Ideal for metalwork, construction, tile work and maintenance crews who need cordless freedom.",
+        "desc": "Versatile brushless cordless angle grinder with a rotating head for cutting, grinding, polishing and rust removal in hard-to-reach positions. The 21V brushless motor delivers consistent power with up to 7.5Ah battery capacity for extended working time. Features include tool-free guard adjustment, side handle for control and spindle lock for fast disc changes. Ideal for metalwork, construction, tile work and maintenance crews who need cordless freedom. The rotating head lets operators cut and grind flush against surfaces fixed-head grinders cannot reach, such as door frames, chassis rails and confined ductwork. Maintenance crews switch between grinding disc and polishing pad in seconds using the spindle lock, keeping changeover time to a minimum on the job.",
         "specs": [
             ("Voltage", "21 V Li-ion"),
             ("Motor", "Brushless"),
@@ -242,7 +244,7 @@ PRODUCTS = [
         "moq": "MOQ 1 kit",
         "img": "/images/brushless-impact-wrench.jpg",
         "src": "https://detail.1688.com/offer/842431375043.html",
-        "desc": "High-torque brushless cordless impact wrench purpose-built for automotive repair, scaffolding and construction fastening. The 21V brushless motor delivers rapid-impact torque to remove stubborn lug nuts and bolts, while the compact body fits tight engine bays. This export kit includes two 10-cell batteries and a fast charger. A dependable workhorse for mechanics, tire shops and field service teams. As cordless impact wrenches become the standard on professional job sites, this high-torque model delivers the removal power crews expect without needing an air compressor nearby.",
+        "desc": "High-torque brushless cordless impact wrench purpose-built for automotive repair, scaffolding and construction fastening. The 21V brushless motor delivers rapid-impact torque to remove stubborn lug nuts and bolts, while the compact body fits tight engine bays. This export kit includes two 10-cell batteries and a fast charger. A dependable workhorse for mechanics, tire shops and field service teams. As cordless impact wrenches become the standard on professional job sites, this high-torque model delivers the removal power crews expect without needing an air compressor nearby. For tire shops rotating seasonal wheels and field service teams working roadside, the cordless design removes the need for a compressor and hose, while the included twin-battery kit keeps the wrench running through a full day of lug-nut work.",
         "specs": [
             ("Voltage", "21 V Li-ion"),
             ("Motor", "Brushless"),
@@ -282,6 +284,7 @@ PRODUCTS = [
             "Twin-hammer mechanism - reliable power",
             "Lightweight aluminum body, ergonomic grip",
             "Works with standard air compressors",
+            "Standard 1/2 inch drive fits existing sockets",
         ],
         "related": ["pneumatic-air-nailer", "hvlp-gravity-spray-gun", "brushless-impact-wrench"],
     },
@@ -294,7 +297,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/pneumatic-air-nailer.jpg",
         "src": "https://detail.1688.com/offer/570819195363.html",
-        "desc": "Reliable pneumatic straight nailer designed for cabinet making, furniture assembly, trim work and general woodworking. Fires 30mm F-type finish nails with consistent depth control, and the anti-jam magazine keeps production moving. The lightweight aluminum body and comfortable grip reduce operator fatigue during long shifts. Connects to any standard air compressor with a quick-connect fitting. A practical addition to any workshop or production line.",
+        "desc": "Reliable pneumatic straight nailer designed for cabinet making, furniture assembly, trim work and general woodworking. Fires 30mm F-type finish nails with consistent depth control, and the anti-jam magazine keeps production moving. The lightweight aluminum body and comfortable grip reduce operator fatigue during long shifts. Connects to any standard air compressor with a quick-connect fitting. A practical addition to any workshop or production line. Cabinet shops and furniture factories use the F30 nailer for face frames, drawer boxes and trim, where consistent depth control reduces sanding and touch-up work. For installers fitting baseboards and crown molding, the anti-jam magazine and quick-connect air fitting keep the tool feeding smoothly through long finishing runs.",
         "specs": [
             ("Fastener", "F30 Straight Nails (30 mm)"),
             ("Magazine", "Anti-Jam Design"),
