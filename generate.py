@@ -220,6 +220,7 @@ def index_html():
     slot = day % 3
     if slot == 1:
         feats.append(("Certified Manufacturing Base", "Audited partner factories with verified capacity and export-grade quality procedures."))
+        feats.append(("Flexible Shipping Options", "Sea, air and express freight with container consolidation, live tracking and customs paperwork handled for you."))
     oem_extra = ('<p style="color:var(--t2);margin-top:14px">From private-label packaging to full product customization, our partner factories handle tooling, color matching, logo printing and pre-shipment inspection. Share your spec sheet or sample - our engineering team replies within 24 hours with a factory-direct quotation and production timeline.</p>' if slot == 2 else "")
     cat_intro = ('<p style="color:var(--t2);margin-top:22px;max-width:720px">Four sourcing categories under one roof: <b style="color:var(--t1)">Hardware</b> for cabinet and furniture fittings, <b style="color:var(--t1)">Hand Tools</b> for daily maintenance and repair, <b style="color:var(--t1)">Power Tools</b> for cordless and electric work, and <b style="color:var(--t1)">Pneumatic Tools</b> for compressor-powered jobs - each supplied factory-direct with consistent quality and low MOQs.</p>' if slot == 0 else "")
     feat_html = "".join(f'<div class="feat"><h4>{t}</h4><p>{d}</p></div>' for t, d in feats)
