@@ -200,7 +200,8 @@ def product_card(p, full=True):
 
 def index_html():
     sections = ""
-    for c in CATEGORIES:
+    for cid in ["power-tools", "pneumatic-tools", "hand-tools", "hardware"]:
+        c = next(c for c in CATEGORIES if c["id"] == cid)
         items = [p for p in PRODUCTS if p["cat"] == c["id"]]
         cards = "".join(product_card(p) for p in items)
         sections += f"""<section id="cat-{c['id']}"><div class="wrap">
