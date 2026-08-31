@@ -208,6 +208,7 @@ PRODUCTS = [
         "points": [
             "Brushless motor - more power, longer life",
             "Complete kit: 2 batteries + charger + case",
+            "Fast charging - one pack tops up while the other works",
             "Variable speed & keyless chuck",
             "Ready for export with plug options",
             "LED work light brightens dark corners & cabinets",
@@ -726,7 +727,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/rubber-grip-adjustable-wrench.jpg",
         "src": "https://detail.1688.com/offer/804853031408.html",
-        "desc": "Industrial-grade adjustable wrench with a smooth plastic-dipped green grip for comfortable, slip-resistant control. The polished head opens up to 20mm to handle a wide range of nuts, bolts and fittings, and the knurled worm gear adjusts the jaw quickly with one hand. A laser-etched millimeter scale on the fixed jaw lets you set the opening precisely before you reach into the workspace. At 207mm overall, it balances leverage and portability for plumbers, electricians, mechanics and general maintenance work. The hanging hole at the end of the handle keeps it easy to store on a pegboard or tool wall. A dependable everyday wrench for professionals and DIY users alike. For retailers, it fills the mid-price adjustable-wrench slot that complements socket sets in any hand-tool range, and the industrial finish supports strong repeat sales.",
+        "desc": "Industrial-grade adjustable wrench with a soft-grip plastic-dipped green handle for comfortable, slip-resistant control. The polished head opens up to 20mm to handle a wide range of nuts, bolts and fittings, and the knurled worm gear adjusts the jaw quickly with one hand. A laser-etched millimeter scale on the fixed jaw lets you set the opening precisely before you reach into the workspace. At 207mm overall, it balances leverage and portability for plumbers, electricians, mechanics and general maintenance work. The hanging hole at the end of the handle keeps it easy to store on a pegboard or tool wall. A dependable everyday wrench for professionals and DIY users alike. For retailers, it fills the mid-price adjustable-wrench slot that complements socket sets in any hand-tool range, and the industrial finish supports strong repeat sales.",
         "specs": [
             ("Length", "207 mm (8 inch)"),
             ("Max Opening", "20 mm"),
