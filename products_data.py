@@ -2846,5 +2846,265 @@ PRODUCTS = [
         ],
         "related": ["pneumatic-metal-shear", "pneumatic-air-chisel-150mm", "pistol-air-screwdriver-5h"],
     },
+    {
+        "slug": "zinc-alloy-cam-lock-103",
+        "cat": "hardware",
+        "name": "Zinc Alloy Cabinet Cam Lock No.103 (Nickel Plated)",
+        "badge": "Bestseller",
+        "price": "$0.22 - $0.35 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/zinc-alloy-cam-lock-103.jpg",
+        "src": "https://detail.1688.com/offer/829116524938.html",
+        "desc": "Compact zinc-alloy cam lock sized for file cabinets, lockers, wardrobe doors and mail boxes, in the classic No.103 profile with a nickel-plated finish that resists tarnishing in daily use. The 16mm barrel suits standard drilled holes and the rotating cam tongue secures panel doors with a simple quarter turn. Keyed operation keeps contents private, while the lightweight die-cast body keeps cost low for bulk furniture fitting. Installs with two small screws and a drill hole, making it practical for retrofit projects on metal or wooden cabinets. Works equally well on single-door lockers, switchboard enclosures and kitchen wall units where a discreet, dependable lock is required. Reliable tumbler action and smooth key rotation are factory tested before packing, so every piece turns freely from the first use. A straightforward choice for furniture makers, office fit-out teams and hardware traders adding locking accessories to their range.",
+        "specs": [
+            ("Type", "Cam Lock No.103"),
+            ("Material", "Zinc Alloy"),
+            ("Finish", "Nickel Plated"),
+            ("Barrel Diameter", "16 mm"),
+            ("Screw", "22 mm"),
+            ("Cam Tongue", "47 mm")
+        ],
+        "points": [
+            "Quarter-turn cam locking for cabinet and locker doors",
+            "Nickel-plated zinc alloy resists rust and wear",
+            "Fits standard 16 mm drill holes for easy retrofit",
+            "Smooth key operation, factory tested before packing"
+        ],
+        "related": ["magnetic-glass-door-catch", "no-drill-magnetic-door-stop", "stainless-draw-latch"]
+    },
+    {
+        "slug": "invisible-magnetic-floor-door-stop",
+        "cat": "hardware",
+        "name": "Invisible Magnetic Floor Door Stop (304 Stainless, No Drilling)",
+        "badge": "Hot",
+        "price": "$2.35 - $3.60 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/invisible-magnetic-floor-door-stop.jpg",
+        "src": "https://detail.1688.com/offer/888776906417.html",
+        "desc": "Low-profile magnetic door stop designed for ultra-narrow and frameless glass doors, mounting flush on the floor without drilling the door leaf. The strong built-in magnet holds the door steady in any position while a soft bumper cushions the strike plate and keeps the door from slamming. Body and cover are made from 304 stainless steel with a matte black finish that blends into modern interiors and resists fingerprints and corrosion. Fits bathroom, bedroom and office doors where wall or floor space is tight, including reeded-glass and aluminum-framed styles. Full mounting kit is included, so installation takes minutes without special tools. The discreet footprint leaves the doorway visually clean, making it popular with interior fit-out projects and door hardware retailers. Strong magnetic hold and quiet release are checked on every unit before shipment, ensuring dependable, gap-free closure for years of daily use.",
+        "specs": [
+            ("Material", "304 Stainless Steel"),
+            ("Color", "Matte Black + Silver"),
+            ("Installation", "Nail-Free, No Door Drilling"),
+            ("Mounting", "Floor Suction Type"),
+            ("Magnet", "Strong Built-In"),
+            ("Fit", "Ultra-Narrow & Frameless Doors")
+        ],
+        "points": [
+            "No-drill magnetic hold works with narrow and glass doors",
+            "304 stainless build resists rust and corrosion",
+            "Cushioned strike plate prevents door slamming",
+            "Full installation kit included for quick setup"
+        ],
+        "related": ["no-drill-magnetic-door-stop", "magnetic-door-stop", "magnetic-glass-door-catch"]
+    },
+    {
+        "slug": "50pc-crv-screwdriver-bit-set",
+        "cat": "hand-tools",
+        "name": "50-PC CR-V Screwdriver Bit Set with Magnetic Sockets",
+        "badge": "New",
+        "price": "$2.35 - $3.60 /set",
+        "moq": "MOQ 1 pc",
+        "img": "/images/50pc-crv-screwdriver-bit-set.jpg",
+        "src": "https://detail.1688.com/offer/737817353518.html",
+        "desc": "Complete 50-piece screwdriver bit set built around chrome vanadium steel bits that hold their edges through heavy use. The kit combines 36 standard driver bits with 9 long-reach bits, 4 magnetic socket bits and a 1/4 inch bit holder, covering Phillips, flat, hex and other common drive profiles for assembly work around the home, workshop and production line. Magnetic socket tips hold fasteners firmly on vertical and overhead jobs, saving time during repetitive driving. All pieces store in a molded black case with labeled slots so the right bit is always easy to find, and the case keeps the set tidy in tool bags and shop drawers. Bits are hardened and surface treated for corrosion resistance, giving dependable service with cordless drills and impact drivers. An economical, all-in-one answer for DIY users, furniture installers and technicians who want one box of bits to handle most fastening tasks.",
+        "specs": [
+            ("Total", "50 Pieces"),
+            ("Material", "CR-V Chrome Vanadium Steel"),
+            ("Socket Bits", "4 x Magnetic 1/4 inch"),
+            ("Bit Holder", "1/4 inch"),
+            ("Storage", "Molded Case"),
+            ("Use", "Drills & Impact Drivers")
+        ],
+        "points": [
+            "50-piece coverage of common drive profiles",
+            "Chrome vanadium steel for long edge life",
+            "Magnetic socket bits hold fasteners securely",
+            "Labeled molded case keeps bits organized"
+        ],
+        "related": ["43pc-magnetic-screwdriver-set", "magnetic-screwdriver-set", "ratcheting-combination-wrench-10mm"]
+    },
+    {
+        "slug": "5-inch-curved-needle-nose-pliers",
+        "cat": "hand-tools",
+        "name": "5 inch Curved Needle-Nose Pliers with Spring (Carbon Steel)",
+        "badge": "Bestseller",
+        "price": "$0.95 - $1.45 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/5-inch-curved-needle-nose-pliers.jpg",
+        "src": "https://detail.1688.com/offer/1006729831775.html",
+        "desc": "Compact 5 inch curved needle-nose pliers for fine gripping, bending and cutting work in jewelry making, electronics, model building and hobby repair. The curved jaws reach into tight spots and pull wires and small parts with precision, while serrated jaw faces give a non-slip hold on round or smooth stock. Handles are made of 45 carbon steel with a soft orange and black grip that reduces hand fatigue during long sessions, and the built-in spring returns the jaws open for one-handed use. Hardened cutting edges handle copper wire up to 2 mm and soft wire up to 2.5 mm cleanly. At roughly 126 mm overall, the pliers store easily in a pocket, apron or tool tray. A practical precision tool for jewelers, electricians and DIY enthusiasts who need a small, dependable pair of pliers for delicate tasks that standard-size pliers cannot manage comfortably.",
+        "specs": [
+            ("Length", "5 inch / Approx. 126 mm"),
+            ("Material", "45 Carbon Steel"),
+            ("Jaw", "Curved, Serrated"),
+            ("Cutting", "Copper 2 mm / Soft Wire 2.5 mm"),
+            ("Handle", "Orange-Black Soft Grip"),
+            ("Spring", "Auto-Return")
+        ],
+        "points": [
+            "Curved serrated jaws for precise fine work",
+            "Cuts copper and soft wire up to 2.5 mm",
+            "Soft grip handles reduce hand fatigue",
+            "Auto-return spring for one-hand use"
+        ],
+        "related": ["industrial-lineman-pliers", "diagonal-cutting-pliers", "9-inch-chrome-vanadium-combination-pliers"]
+    },
+    {
+        "slug": "8-inch-needle-nose-pliers",
+        "cat": "hand-tools",
+        "name": "8 inch Needle-Nose Pliers, Forged CR-V with Quenched Jaws",
+        "badge": "Hot",
+        "price": "$1.20 - $1.90 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/8-inch-needle-nose-pliers.jpg",
+        "src": "https://detail.1688.com/offer/568338933811.html",
+        "desc": "Heavy-duty 8 inch needle-nose pliers forged from chrome vanadium steel with induction-quenched jaws for high hardness, wear resistance and a long service life. The long, tapered nose reaches into deep and narrow spaces to grip, bend and pull wires, springs and small components, while the heat-treated cutting edges slice through soft wire with a clean cut. Red and black dual-material handles provide a comfortable, non-slip grip even when hands are oily, and the pliers open and close smoothly for accurate control. Ideal for electricians, automotive technicians, plumbers and general maintenance work where a longer reach is needed. The magnetic jaw option helps pick up dropped screws in confined areas. Full-size jaws and forged construction give this tool the leverage smaller pliers lack, making it a solid addition to any professional or home toolbox that sees regular electrical and mechanical repairs.",
+        "specs": [
+            ("Length", "8 inch"),
+            ("Material", "Chrome Vanadium Steel"),
+            ("Jaw", "Long Tapered Nose"),
+            ("Treatment", "Drop-Forged, High-Temp Quenched"),
+            ("Handle", "Dual-Color Grip"),
+            ("Edge", "Hardened Cutting Edge")
+        ],
+        "points": [
+            "Forged CR-V steel with quenched high-hardness jaws",
+            "Long tapered nose for deep narrow spaces",
+            "Comfort dual-material grip for oily hands",
+            "Heat-treated edges cut soft wire cleanly"
+        ],
+        "related": ["9-inch-chrome-vanadium-combination-pliers", "6-inch-drop-forged-combination-pliers", "stainless-multi-purpose-wire-stripper"]
+    },
+    {
+        "slug": "cordless-paint-sprayer-1830b",
+        "cat": "power-tools",
+        "name": "Cordless Electric Paint Sprayer 1830B (21V, 1 Battery + Charger)",
+        "badge": "New",
+        "price": "$8.80 - $13.20 /kit",
+        "moq": "MOQ 1 pc",
+        "img": "/images/cordless-paint-sprayer-1830b.jpg",
+        "src": "https://detail.1688.com/offer/673468201021.html",
+        "desc": "Cordless electric paint sprayer that turns latex paint, emulsion and varnish into a fine, even mist for fast wall, fence and furniture finishing without an air compressor. The high-pressure pump feeds paint steadily from the detachable container, delivering strong output with fine atomization for a smooth, professional-looking coat. A 21V lithium battery pack provides cord-free portability indoors and out, and the included charger and battery keep the tool ready between projects. Variable flow suits thin stains and thicker emulsions, while the easy-clean nozzle and cup disassemble quickly for rinsing after each job. Ideal for DIY renovations, contractors touching up rooms, and anyone painting gates, doors or trim where rollers leave marks. Brushed and brushless motor versions are available on request, and OEM customization is supported for branded retail programs. Everything arrives in retail-ready packaging with manual and accessories included.",
+        "specs": [
+            ("Voltage", "21V Lithium-Ion"),
+            ("Output", "High-Pressure, Fine Atomization"),
+            ("Container", "Detachable Cup"),
+            ("Kit", "1 Battery + Charger"),
+            ("Paint", "Latex, Emulsion, Varnish"),
+            ("Use", "Walls, Fences, Furniture")
+        ],
+        "points": [
+            "Cordless 21V power for indoor and outdoor painting",
+            "Fine atomization gives smooth professional coats",
+            "Detachable cup is easy to clean after use",
+            "Battery and charger included in kit"
+        ],
+        "related": ["brushless-cordless-drill", "cordless-brushless-leaf-blower", "hvlp-gravity-spray-gun"]
+    },
+    {
+        "slug": "cordless-paint-sprayer-dual-battery",
+        "cat": "power-tools",
+        "name": "Cordless Paint Sprayer Kit (2 Batteries, High-Capacity Edition)",
+        "badge": "Bestseller",
+        "price": "$11.80 - $17.80 /kit",
+        "moq": "MOQ 1 pc",
+        "img": "/images/cordless-paint-sprayer-dual-battery.jpg",
+        "src": "https://detail.1688.com/offer/952491636737.html",
+        "desc": "High-capacity cordless paint sprayer kit built for longer sessions, supplied with two lithium batteries and a fast charger so work can continue while one pack charges. The sprayer atomizes latex, emulsion and masonry paints into a consistent mist, covering large wall areas quickly with fewer laps and less roller texture. Brass nozzle options increase durability with abrasive paints, and adjustable flow lets the user dial in coverage for fine trim work or broad surfaces. The balanced body with soft grip stays comfortable over extended use, and the detachable 1000 ml cup handles most rooms before needing a refill. Packed in a sturdy carton with manual and full accessories, this kit suits contractors, painters and serious DIY users painting rooms, ceilings, fences and cabinets. The dual-battery layout removes downtime concerns on big projects and makes the kit a dependable value for busy painting schedules.",
+        "specs": [
+            ("Kit", "2 Batteries + Charger"),
+            ("Container", "Detachable Cup"),
+            ("Nozzle", "Brass Option"),
+            ("Paint", "Latex, Emulsion, Masonry"),
+            ("Flow", "Adjustable"),
+            ("Packaging", "Carton Box")
+        ],
+        "points": [
+            "Two batteries keep long jobs running without downtime",
+            "Brass nozzle option resists abrasive paints",
+            "Adjustable flow for trim or broad coverage",
+            "Detachable cup makes cleaning and refills easy"
+        ],
+        "related": ["brushless-cordless-drill", "5-inch-brushless-cordless-angle-grinder", "cordless-turbo-fan-blower-kit"]
+    },
+    {
+        "slug": "cordless-paint-sprayer-bare-1000ml",
+        "cat": "power-tools",
+        "name": "Cordless Automatic Paint Sprayer (Bare Tool, 1000 ml Cup)",
+        "badge": "Hot",
+        "price": "$6.00 - $9.20 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/cordless-paint-sprayer-bare-1000ml.jpg",
+        "src": "https://detail.1688.com/offer/785541354384.html",
+        "desc": "Automatic cordless paint sprayer supplied as a bare tool for buyers who already own a compatible battery platform. The unit pumps latex and emulsion paint through a fine nozzle automatically, keeping an even spray pattern without pulsing so walls and ceilings come out smooth with less effort. Its 1000 ml cup gives generous coverage per fill, and the trigger-free automatic operation reduces hand strain on big jobs. The body is lightweight and balanced with a non-slip grip, making overhead and high-reach spraying easier to control. Cleaning takes minutes because the cup, pick-up tube and nozzle separate for rinsing under a tap. This bare configuration suits distributors, contractors and traders who prefer to pair the sprayer with their existing power tools and stock, keeping inventory simple and costs low. A battery and charger are not included with this configuration, so existing platform users save on redundant accessories.",
+        "specs": [
+            ("Type", "Bare Tool (No Battery)"),
+            ("Container", "1000 ml Detachable Cup"),
+            ("Operation", "Automatic Even Spray"),
+            ("Paint", "Latex, Emulsion"),
+            ("Use", "Walls, Ceilings, Trim"),
+            ("Cleaning", "Quick-Strip Design")
+        ],
+        "points": [
+            "Bare tool suits buyers with an existing battery platform",
+            "1000 ml cup means fewer refills per room",
+            "Automatic spray keeps an even, pulseless pattern",
+            "Quick-strip parts rinse clean in minutes"
+        ],
+        "related": ["brushless-cordless-drill", "cordless-reciprocating-saw", "cordless-brushless-leaf-blower"]
+    },
+    {
+        "slug": "pneumatic-rivnut-gun",
+        "cat": "pneumatic-tools",
+        "name": "Pneumatic Rivet Nut Gun (M4-M12, Auto Self-Locking Head)",
+        "badge": "New",
+        "price": "$8.40 - $12.70 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/pneumatic-rivnut-gun.jpg",
+        "src": "https://detail.1688.com/offer/605815695296.html",
+        "desc": "Pneumatic rivet nut gun that sets threaded inserts quickly in sheet metal, tubing and panels for strong, reusable thread points. The tool installs rivet nuts from M4 through M12 by pulling the mandrel with compressed air, so even blind-side fastening takes seconds instead of minutes with hand tools. Interchangeable mandrel heads snap in to match the insert size, and the self-locking nose holds the rivet nut securely while the stroke pulls it tight against the material. The comfortable grip and high pulling force reduce operator fatigue across production runs, while the faster cycle time keeps assembly lines moving. A protective nose tip and rugged body stand up to daily shop use, and the tool runs on any standard workshop compressor. Ideal for automotive bodywork, sheet-metal fabrication, appliance assembly and metal furniture manufacturing where reliable thread inserts in thin materials are required.",
+        "specs": [
+            ("Range", "M4-M12 Rivet Nuts"),
+            ("Drive", "Compressed Air"),
+            ("Type", "Auto Self-Locking Head"),
+            ("Included", "Mandrel Heads Set"),
+            ("Use", "Sheet Metal & Tubing"),
+            ("Action", "Fast Blind-Side Setting")
+        ],
+        "points": [
+            "Sets M4-M12 rivet nuts in seconds by air power",
+            "Self-locking nose holds inserts firmly during stroke",
+            "Interchangeable heads cover the common metric range",
+            "Comfortable high-pull design for production use"
+        ],
+        "related": ["pneumatic-rivet-gun", "90-degree-air-ratchet-wrench", "pneumatic-multi-nailer-f30-t64"]
+    },
+    {
+        "slug": "pneumatic-sandblaster-gun",
+        "cat": "pneumatic-tools",
+        "name": "Pneumatic Gravity Sandblaster Gun (Rust & Paint Removal)",
+        "badge": "Bestseller",
+        "price": "$2.25 - $3.40 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/pneumatic-sandblaster-gun.jpg",
+        "src": "https://detail.1688.com/offer/900958824492.html",
+        "desc": "Handheld pneumatic sandblaster gun that strips rust, old paint and scale from metal surfaces using compressed air and abrasive media. The gravity-feed hopper holds a continuous supply of sand or other media, while the air nozzle creates a strong suction that blasts the surface clean for repainting or welding prep. Squeeze-trigger control lets the operator start and stop the stream precisely, keeping media use efficient on small parts, car panels, tools and machinery. Fitting a standard air hose and running on a regular workshop compressor, the tool offers an inexpensive alternative to large sandblasting cabinets for occasional or mobile jobs. Replaceable nozzles extend service life, and the light, balanced body reduces fatigue during longer cleaning sessions. A practical choice for auto body shops, metal fabricators and maintenance crews that need quick, effective surface preparation without bulky stationary equipment.",
+        "specs": [
+            ("Type", "Gravity-Feed Sandblaster"),
+            ("Drive", "Compressed Air"),
+            ("Media", "Sand & Abrasive Grit"),
+            ("Control", "Squeeze Trigger"),
+            ("Use", "Rust, Paint & Scale Removal"),
+            ("Body", "Lightweight Handheld")
+        ],
+        "points": [
+            "Gravity hopper feeds media continuously while blasting",
+            "Removes rust, paint and scale fast for repaint prep",
+            "Squeeze-trigger control saves media on small jobs",
+            "Compact design works with any workshop compressor"
+        ],
+        "related": ["high-pressure-air-blow-gun", "rectangular-air-sander", "pneumatic-air-chisel-150mm"]
+    },
 ]
 RELATED_INDEX = {p["slug"]: p for p in PRODUCTS}
