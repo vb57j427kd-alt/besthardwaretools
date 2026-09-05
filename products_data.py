@@ -3133,5 +3133,265 @@ PRODUCTS = [
         ],
         "related": ["high-pressure-air-blow-gun", "rectangular-air-sander", "pneumatic-air-chisel-150mm"]
     },
+    {
+        "slug": "heavy-duty-ball-bearing-drawer-slide",
+        "cat": "hardware",
+        "name": "Heavy Duty 3-Section Ball-Bearing Drawer Slide (10 inch)",
+        "badge": "Bestseller",
+        "price": "$0.82 - $1.23 /pair",
+        "moq": "MOQ 1 pair",
+        "img": "/images/heavy-duty-ball-bearing-drawer-slide.jpg",
+        "src": "https://detail.1688.com/offer/709979228010.html",
+        "desc": "Thick cold-rolled steel 3-section drawer slide with precision steel ball bearings for smooth, quiet daily opening. The 10 inch (254 mm) runner carries drawers evenly with no side play, while the zinc-coated surface resists rust in kitchens, wardrobes and commercial furniture. Each pair ships complete with mounting screws for side-mount installation on new cabinets or retrofit jobs. The 3-section extension gives full access to the drawer interior, and the silent ball-bearing action keeps bedroom and office spaces free of metal-on-metal noise. Suitable for wooden and board drawers up to a moderate load, this slide is a dependable value line for furniture factories, kitchen workshops and hardware distributors building standard cabinet programs. Factory-direct supply supports bulk packing and custom lengths on request, making it easy to stock one proven model across multiple furniture ranges.",
+        "specs": [
+            ("Material", "Cold-Rolled Steel"),
+            ("Sections", "3-Section Ball-Bearing"),
+            ("Length", "10 inch (254 mm)"),
+            ("Finish", "Zinc Coated"),
+            ("Mounting", "Side Mount, 2 pcs per set"),
+            ("Use", "Drawers, Cabinets & Wardrobes")
+        ],
+        "points": [
+            "Precision steel balls give smooth, quiet slides",
+            "3-section extension opens full drawer access",
+            "Thick steel body resists sag on daily use",
+            "Complete pair with screws - ready to install"
+        ],
+        "related": ["soft-close-drawer-slide-45mm", "cabinet-gas-strut", "black-aluminum-cabinet-handle"]
+    },
+    {
+        "slug": "heavy-duty-sliding-door-pulley",
+        "cat": "hardware",
+        "name": "Heavy Duty Bearing Sliding Door Pulley (100 kg Load)",
+        "badge": "Hot",
+        "price": "$1.68 - $2.53 /set",
+        "moq": "MOQ 3 sets",
+        "img": "/images/heavy-duty-sliding-door-pulley.jpg",
+        "src": "https://detail.1688.com/offer/1039446767578.html",
+        "desc": "Heavy-duty top-hung pulley for wooden, glass and partition sliding doors rated to carry up to 100 kg per set. Precision bearing wheels roll quietly inside the overhead track while the anti-derail profile keeps the door on course even with frequent use. The steel body and stainless fasteners resist corrosion, and the adjustable fitting simplifies alignment during installation. Suited to wardrobe doors, room partitions, patio screens and commercial cubicles, this pulley is built for daily sliding cycles without the wobble common in light rollers. Each set mounts quickly to the door top edge and drops into a standard hanging track, making it a straightforward upgrade for renovation and fit-out projects. Factory-direct pricing and bulk packing make it a practical stock line for hardware distributors and furniture makers supplying sliding-door programs.",
+        "specs": [
+            ("Load Rating", "100 kg per set"),
+            ("Wheels", "Precision Bearing Rollers"),
+            ("Material", "Steel Body, Stainless Fasteners"),
+            ("Design", "Anti-Derail Top-Hung"),
+            ("Track Type", "Standard Hanging Track"),
+            ("Use", "Wooden, Glass & Partition Doors")
+        ],
+        "points": [
+            "100 kg load rating for heavy door panels",
+            "Bearing wheels glide quietly in the track",
+            "Anti-derail profile prevents track jumping",
+            "Steel body with stainless fasteners - rust resistant"
+        ],
+        "related": ["360-degree-pivot-door-hinge", "no-drill-magnetic-door-stop", "heavy-duty-swivel-caster"]
+    },
+    {
+        "slug": "industrial-lockable-equipment-slide",
+        "cat": "hardware",
+        "name": "Heavy Duty Industrial Drawer Slide with Lock (51 mm Wide)",
+        "badge": "New",
+        "price": "$3.29 - $4.94 /pair",
+        "moq": "MOQ 1 pair",
+        "img": "/images/industrial-lockable-equipment-slide.jpg",
+        "src": "https://detail.1688.com/offer/537383441468.html",
+        "desc": "Extra-wide 51 mm heavy-duty slide engineered for equipment cabinets, tool cabinets, workbenches and workshop storage where ordinary household slides are not strong enough. The 1.5 mm cold-rolled steel profile stays rigid under load, and the integrated disconnect lock releases the drawer with a simple pull for cleaning or full access. Ball-bearing movement keeps heavy drawers controllable even when fully loaded with tools and parts. Each pair is supplied with side-mount hardware and suits steel cabinet frames as well as heavy board construction. The wide profile spreads weight across the mounting points, reducing flex and extending service life in daily industrial use. A dependable component choice for tool cabinet makers, van fit-outs, laboratory furniture and machine guarding suppliers that need repeatable quality at factory-direct prices.",
+        "specs": [
+            ("Width", "51 mm Extra-Wide Profile"),
+            ("Material", "1.5 mm Cold-Rolled Steel"),
+            ("Length", "400 mm (16 inch)"),
+            ("Feature", "Disconnect Lock Release"),
+            ("Mounting", "Side Mount, 2 pcs per set"),
+            ("Use", "Tool Cabinets, Equipment & Workbenches")
+        ],
+        "points": [
+            "51 mm wide profile handles heavy workshop loads",
+            "Disconnect lock lets drawer release for full access",
+            "1.5 mm steel resists flex on loaded drawers",
+            "Ideal for tool cabinets and equipment enclosures"
+        ],
+        "related": ["soft-close-drawer-slide-45mm", "zinc-alloy-cam-lock-103", "cabinet-gas-strut"]
+    },
+    {
+        "slug": "7-inch-circlip-pliers-set",
+        "cat": "hand-tools",
+        "name": "7 Inch Circlip Pliers Set (4 Pcs, Straight & Bent Tips)",
+        "badge": "Bestseller",
+        "price": "$2.01 - $3.01 /set",
+        "moq": "MOQ 1 set",
+        "img": "/images/7-inch-circlip-pliers-set.jpg",
+        "src": "https://detail.1688.com/offer/857930536082.html",
+        "desc": "Four-piece circlip pliers set covering internal and external retaining rings in the sizes most common in maintenance and repair work. The set pairs straight-tip and 90-degree bent-tip models so operators can reach open ring grooves as well as recessed or angled positions on shafts and housings. Drop-forged jaws hold their shape under repeated squeezing, while the comfortable grip handles reduce hand fatigue during longer disassembly jobs. The compact 7 inch length gives good leverage without becoming clumsy in tight engine bays or equipment panels. Useful for mechanics, electric motor repair, gearbox overhauls, pump service and general workshop maintenance, this set keeps the right ring pliers within reach and is a practical addition to any professional tool kit at a factory-direct price.",
+        "specs": [
+            ("Set Contents", "4 Pcs (2 Straight, 2 Bent)"),
+            ("Length", "7 inch"),
+            ("Type", "Internal & External Ring"),
+            ("Jaw", "Drop-Forged Steel"),
+            ("Tip", "Straight & 90 Degree Bent"),
+            ("Use", "Retaining Ring Removal & Fitting")
+        ],
+        "points": [
+            "Internal and external ring coverage in one set",
+            "Straight and 90 degree tips reach recessed grooves",
+            "Drop-forged jaws stay true under pressure",
+            "Grip handles keep hands comfortable on long jobs"
+        ],
+        "related": ["15pc-swivel-ratchet-wrench-set", "72-tooth-ratchet-wrench-set", "diagonal-cutting-pliers"]
+    },
+    {
+        "slug": "stainless-digital-caliper-150mm",
+        "cat": "hand-tools",
+        "name": "Digital Caliper 0-150 mm Stainless Electronic Vernier",
+        "badge": "Hot",
+        "price": "$3.61 - $5.41 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/stainless-digital-caliper-150mm.jpg",
+        "src": "https://detail.1688.com/offer/622016074871.html",
+        "desc": "Stainless steel digital caliper with a clear LCD readout for fast, accurate inside, outside, depth and step measurements up to 150 mm. Resolution of 0.01 mm makes it suitable for metalworking, machining setup, quality checks and DIY precision work, while the one-button unit switch reads in millimeters or inches. The zero function allows instant comparative measurement against a reference part, and the hardened stainless beam keeps the slide true over years of workshop use. A thumb roller makes one-hand positioning smooth, and the digital display removes the guesswork of reading a vernier scale in poor light. Supplied with a protective case, this caliper is a dependable precision tool for machinists, woodworkers, jewelers and inspection teams that need repeatable readings without spending on laboratory-grade instruments.",
+        "specs": [
+            ("Measuring Range", "0 - 150 mm"),
+            ("Resolution", "0.01 mm / 0.0005 inch"),
+            ("Material", "Stainless Steel"),
+            ("Display", "LCD Digital"),
+            ("Functions", "mm/inch, ON/OFF, ZERO"),
+            ("Measuring", "Inside, Outside, Depth & Step")
+        ],
+        "points": [
+            "0.01 mm resolution for reliable precision work",
+            "One-button mm/inch conversion and zero set",
+            "Hardened stainless beam stays accurate for years",
+            "Clear LCD removes vernier reading guesswork"
+        ],
+        "related": ["heavy-duty-tape-measure-5m", "magnetic-aluminum-level", "industrial-lineman-pliers"]
+    },
+    {
+        "slug": "110v-electric-demolition-hammer",
+        "cat": "power-tools",
+        "name": "110V Electric Demolition Hammer (2000 W Breaker)",
+        "badge": "New",
+        "price": "$42.80 - $64.20 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/110v-electric-demolition-hammer.jpg",
+        "src": "https://detail.1688.com/offer/984047012597.html",
+        "desc": "Industrial demolition breaker rated for concrete breaking, wall chasing and light demolition on renovation and construction sites. The 2000 W motor drives 30 J of impact energy through the hex shank chisels, busting through concrete slabs, masonry and tile beds faster than a hammer drill. The 110V US-standard supply suits North American job sites, and the anti-vibration body keeps operator fatigue manageable during longer breaking sessions. This export kit ships with pointed and flat chisels, spare carbon brushes and a rugged carrying case, so crews can start work immediately. Ideal for contractors, plumbing and electrical renovation teams opening chases, and maintenance crews removing old floor and wall finishes. Heavy-duty internals and an accessible service design keep this breaker working through demanding daily schedules at a factory-direct price.",
+        "specs": [
+            ("Voltage", "110 V US Standard"),
+            ("Power", "2000 W"),
+            ("Impact Energy", "30 J"),
+            ("Impact Speed", "1400 r/min"),
+            ("Weight", "18 kg"),
+            ("Kit Includes", "Chisels, Brushes & Metal Case")
+        ],
+        "points": [
+            "30 J impact energy breaks concrete and masonry fast",
+            "110V US-standard supply for North American sites",
+            "Pointed and flat chisels included for instant start",
+            "Rugged case and carbon brushes in the export kit"
+        ],
+        "related": ["corded-impact-drill-13mm", "brushless-cordless-rotary-hammer", "13mm-brushless-cordless-impact-drill"]
+    },
+    {
+        "slug": "corded-wood-trim-router",
+        "cat": "power-tools",
+        "name": "Electric Wood Trimmer Router (30000 RPM, 6.35 mm)",
+        "badge": "Bestseller",
+        "price": "$7.32 - $10.99 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/corded-wood-trim-router.jpg",
+        "src": "https://detail.1688.com/offer/895952371633.html",
+        "desc": "Compact electric wood trimmer for edging, trimming, grooving and slotting work on boards, panels and sheet material. The high-speed motor spins 6.35 mm bits at up to 30000 RPM for clean cuts through softwood, hardwood and laminated boards, while the slim body gives the operator a clear view of the cut line. The adjustable base controls trimming depth, and the included guide fence keeps edge cuts straight and consistent along long workpieces. Ideal for cabinet shops, door and window fitters, furniture repair and DIY projects where a full-size router is too heavy or hard to control. Supplied with carbon brushes, a spanner and an edge guide, this trimmer is a practical benchtop and site companion that delivers router-quality edges at a fraction of the cost.",
+        "specs": [
+            ("Speed", "30000 RPM"),
+            ("Collet", "6.35 mm (1/4 inch)"),
+            ("Drive", "Corded Electric"),
+            ("Base", "Adjustable Depth"),
+            ("Includes", "Guide Fence, Wrench & Brushes"),
+            ("Use", "Trimming, Edging & Grooving Wood")
+        ],
+        "points": [
+            "30000 RPM spins bits fast for clean wood cuts",
+            "6.35 mm collet accepts standard trim bits",
+            "Adjustable base and guide keep cuts straight",
+            "Lightweight body suits site and benchtop work"
+        ],
+        "related": ["5-inch-brushless-circular-saw-kit", "brushless-cordless-jigsaw", "electric-hand-planer"]
+    },
+    {
+        "slug": "4-inch-pneumatic-angle-grinder",
+        "cat": "pneumatic-tools",
+        "name": "4 Inch Pneumatic Angle Grinder (100 mm Air Grinder)",
+        "badge": "Hot",
+        "price": "$12.16 - $18.24 /pc",
+        "moq": "MOQ 2 pcs",
+        "img": "/images/4-inch-pneumatic-angle-grinder.jpg",
+        "src": "https://detail.1688.com/offer/1065257933167.html",
+        "desc": "Air-powered 4 inch angle grinder that cuts and grinds without the weight of an electric motor, running on a standard workshop compressor. The 100 mm disc spins at 10000 RPM for fast cutting of sheet metal, bolts and light stock, and smooth grinding on welds and surfaces. The compact body reaches into tight corners where corded grinders will not fit, and the air motor is safe to use in damp or dusty conditions with no electrical shock risk. Consumption of around 5 cfm at normal operating pressure keeps it compatible with most shop compressors. Suited to auto body work, metal fabrication, maintenance and marine repair, this grinder gives crews a light, cool-running option for extended cutting and finishing jobs at a factory-direct price.",
+        "specs": [
+            ("Disc Size", "100 mm (4 inch)"),
+            ("Free Speed", "10000 RPM"),
+            ("Air Consumption", "5 cfm/min"),
+            ("Operating Pressure", "6.2 kgf/cm2"),
+            ("Weight", "1.18 kg"),
+            ("Use", "Cutting, Grinding & Polishing")
+        ],
+        "points": [
+            "10000 RPM air power for fast cutting and grinding",
+            "4 inch discs are low cost and easy to source",
+            "Compact body reaches tight corners and panels",
+            "No electric motor - safe in damp environments"
+        ],
+        "related": ["90-degree-air-die-grinder", "2-inch-air-mini-sander", "5-inch-air-polisher"]
+    },
+    {
+        "slug": "straight-air-drill-3-8-inch",
+        "cat": "pneumatic-tools",
+        "name": "Straight Pneumatic Drill 3/8 Inch (Keyed Chuck)",
+        "badge": "New",
+        "price": "$5.07 - $7.61 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/straight-air-drill-3-8-inch.jpg",
+        "src": "https://detail.1688.com/offer/1005927254522.html",
+        "desc": "In-line straight pneumatic drill with a keyed 3/8 inch chuck that holds bits from 1.5 mm up to 10 mm for drilling metal, wood and composites on shop air. The straight body suits close-quarters drilling in panels, frames and machinery where a pistol drill handle gets in the way. Air power delivers steady torque without the heat buildup of an electric motor, making it well suited to continuous production drilling and assembly work. The self-locking chuck keeps bits secure under load, and the lever throttle gives the operator fine speed control from start to full output. Lightweight and free of electrical components, this drill is a dependable addition for metal fabricators, woodworkers, maintenance crews and production lines that already run compressed air throughout the workshop.",
+        "specs": [
+            ("Chuck", "3/8 inch Keyed"),
+            ("Capacity", "1.5 - 10 mm"),
+            ("Body", "Straight In-Line"),
+            ("Drive", "Compressed Air"),
+            ("Throttle", "Lever Speed Control"),
+            ("Use", "Drilling Metal, Wood & Composites")
+        ],
+        "points": [
+            "Straight body drills in tight panel spaces",
+            "Keyed chuck grips bits from 1.5 to 10 mm",
+            "Air drive runs cool through long work sessions",
+            "Lever throttle gives precise speed control"
+        ],
+        "related": ["1-4-inch-air-ratchet-wrench", "pistol-air-screwdriver-5h", "high-pressure-air-blow-gun"]
+    },
+    {
+        "slug": "pistol-grip-air-drill-10mm",
+        "cat": "pneumatic-tools",
+        "name": "Pistol Grip Pneumatic Drill 10 mm (Reversible)",
+        "badge": "Hot",
+        "price": "$8.45 - $12.68 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/pistol-grip-air-drill-10mm.jpg",
+        "src": "https://detail.1688.com/offer/634255601905.html",
+        "desc": "Pistol-grip pneumatic drill with a 10 mm keyed chuck and forward/reverse control for drilling and light screw work on compressed air. The ergonomic pistol handle and balanced body make one-hand operation comfortable through a full shift, while the variable throttle lets the operator ease into the hole before applying full speed. Reversing direction helps clear chips and back out stuck drill bits or fasteners. The silver body is machined for long service in workshops, and the standard air connector fits common hoses with no adapters on most jobs. Running on shop air, the tool stays cool and lightweight compared with an electric drill of similar power. A practical choice for metalworkers, carpenters, assembly lines and maintenance teams already equipped with a compressor, delivering dependable drilling performance at a factory-direct price.",
+        "specs": [
+            ("Chuck", "Keyed, Max 10 mm"),
+            ("Capacity", "1.5 - 10 mm Bits"),
+            ("Body", "Pistol Grip"),
+            ("Direction", "Forward / Reverse"),
+            ("Speed", "Variable Throttle"),
+            ("Use", "Drilling & Fastening Jobs")
+        ],
+        "points": [
+            "10 mm keyed chuck for standard twist bits",
+            "Forward and reverse clears chips and stuck bits",
+            "Pistol grip keeps one-hand control comfortable",
+            "Air drive runs cool and light all day"
+        ],
+        "related": ["pistol-air-screwdriver-5h", "1-2-inch-air-ratchet-wrench-set", "rectangular-air-sander"]
+    },
 ]
 RELATED_INDEX = {p["slug"]: p for p in PRODUCTS}
