@@ -2665,6 +2665,7 @@ PRODUCTS = [
             "Pre-drilled holes for fast production assembly",
             "Fits drop-leaf tables, folding legs and booths",
             "Includes mounting screws with a 180-degree folding range",
+            "Antique bronze plating coordinates with warm-toned wood and metal furniture lines",
         ],
         "related": ["stainless-flag-weld-hinge", "heavy-duty-welded-hinge", "stainless-draw-latch"],
     },
@@ -2693,6 +2694,7 @@ PRODUCTS = [
             "Mounting screws included",
             "Popular cross-border modern hardware design",
             "Fingerprint-resistant anodizing keeps a uniform look across cabinet runs",
+            "Quick two-screw mounting suits production lines and DIY fit-outs alike",
         ],
         "related": ["black-aluminum-cabinet-handle", "stainless-steel-soft-close-hinge", "gold-long-aluminum-cabinet-pull"],
     },
@@ -2721,6 +2723,7 @@ PRODUCTS = [
             "Clear size marking on both ends",
             "Ideal spare for automotive and workshop sets",
             "Covers common fasteners on bikes, appliances and light machinery",
+            "Hardened ratchet teeth keep their engagement under repeated high-torque use",
         ],
         "related": ["72-tooth-ratchet-wrench-set", "imperial-ratcheting-wrench-set", "15pc-swivel-ratchet-wrench-set"],
     },
@@ -2749,6 +2752,7 @@ PRODUCTS = [
             "210mm length gives strong leverage",
             "Anti-slip handle for oily workshop hands",
             "One dependable belt tool for electrical, plumbing and workshop tasks",
+            "Rust-resistant finish stays dependable in humid workshop conditions",
         ],
         "related": ["industrial-lineman-pliers", "diagonal-cutting-pliers", "stainless-multi-purpose-wire-stripper"],
     },
@@ -2777,6 +2781,7 @@ PRODUCTS = [
             "Reliable jaw alignment for firm gripping",
             "Great spare or set companion for tool bags",
             "Daily gripping, cutting and light crimping on wire, nails and cable ties",
+            "Precisely aligned jaws hold round and flat stock firmly",
         ],
         "related": ["9-inch-chrome-vanadium-combination-pliers", "diagonal-cutting-pliers", "mini-ratchet-handle-set"],
     },
@@ -2805,6 +2810,7 @@ PRODUCTS = [
             "Bare tool - pairs with your 18V batteries",
             "Great for garden, workshop and car care",
             "Clears leaves, dust, snow and debris from patios, driveways and vehicles",
+            "Handy for workshop dust cleanup and car interior drying between garden jobs",
         ],
         "related": ["brushless-cordless-drill", "12v-cordless-drill", "cordless-reciprocating-saw"],
     },
@@ -2833,6 +2839,7 @@ PRODUCTS = [
             "Ready to use out of the box",
             "Retail-friendly set with organized case",
             "Ships as one tidy set - simplifies logistics and retail display",
+            "Dries damp surfaces quickly after washing cars, bikes and outdoor gear",
         ],
         "related": ["cordless-brushless-leaf-blower", "magnetic-cob-work-light", "brushless-cordless-drill"],
     },
@@ -2861,6 +2868,7 @@ PRODUCTS = [
             "Comfortable long-reach handle design",
             "Complete with charger for ready use",
             "Built for gardeners, property managers, landscapers and auto detailers",
+            "Ducted turbo airflow keeps power up on wet, heavy leaf piles",
         ],
         "related": ["cordless-brushless-leaf-blower", "cordless-turbo-fan-blower-kit", "brushless-cordless-angle-grinder"],
     },
@@ -2889,6 +2897,7 @@ PRODUCTS = [
             "Runs cool on standard shop air",
             "Oil included for longer blade life",
             "Efficient replacement for manual snips in daily sheet cutting",
+            "Compact head reaches tight panel edges for accurate trimming",
         ],
         "related": ["pneumatic-air-chisel-150mm", "mining-air-impact-wrench", "90-degree-air-die-grinder"],
     },
@@ -2917,6 +2926,7 @@ PRODUCTS = [
             "Operates on standard 90 PSI shop air",
             "Reduces fatigue vs manual cutters",
             "Keeps consistent cutting force batch after batch",
+            "No electrical hazard - safe for damp work areas",
         ],
         "related": ["pneumatic-metal-shear", "pneumatic-air-chisel-150mm", "pistol-air-screwdriver-5h"],
     },
@@ -2942,7 +2952,8 @@ PRODUCTS = [
             "Quarter-turn cam locking for cabinet and locker doors",
             "Nickel-plated zinc alloy resists rust and wear",
             "Fits standard 16 mm drill holes for easy retrofit",
-            "Smooth key operation, factory tested before packing"
+            "Smooth key operation, factory tested before packing",
+            "Lightweight die-cast body keeps cost low for bulk furniture fitting"
         ],
         "related": ["magnetic-glass-door-catch", "no-drill-magnetic-door-stop", "stainless-draw-latch"]
     },
@@ -2968,7 +2979,8 @@ PRODUCTS = [
             "No-drill magnetic hold works with narrow and glass doors",
             "304 stainless build resists rust and corrosion",
             "Cushioned strike plate prevents door slamming",
-            "Full installation kit included for quick setup"
+            "Full installation kit included for quick setup",
+            "Discreet low-profile design keeps doorways visually clean in modern interiors"
         ],
         "related": ["no-drill-magnetic-door-stop", "magnetic-door-stop", "magnetic-glass-door-catch"]
     },
@@ -2994,7 +3006,8 @@ PRODUCTS = [
             "50-piece coverage of common drive profiles",
             "Chrome vanadium steel for long edge life",
             "Magnetic socket bits hold fasteners securely",
-            "Labeled molded case keeps bits organized"
+            "Labeled molded case keeps bits organized",
+            "Hardened, corrosion-resistant bits pair with cordless drills and impact drivers"
         ],
         "related": ["43pc-magnetic-screwdriver-set", "magnetic-screwdriver-set", "ratcheting-combination-wrench-10mm"]
     },
@@ -3020,7 +3033,8 @@ PRODUCTS = [
             "Curved serrated jaws for precise fine work",
             "Cuts copper and soft wire up to 2.5 mm",
             "Soft grip handles reduce hand fatigue",
-            "Auto-return spring for one-hand use"
+            "Auto-return spring for one-hand use",
+            "Serrated jaw faces hold round and smooth wire without slipping"
         ],
         "related": ["industrial-lineman-pliers", "diagonal-cutting-pliers", "9-inch-chrome-vanadium-combination-pliers"]
     },
@@ -3046,7 +3060,8 @@ PRODUCTS = [
             "Forged CR-V steel with quenched high-hardness jaws",
             "Long tapered nose for deep narrow spaces",
             "Comfort dual-material grip for oily hands",
-            "Heat-treated edges cut soft wire cleanly"
+            "Heat-treated edges cut soft wire cleanly",
+            "Magnetic jaw option helps retrieve dropped screws in confined spaces"
         ],
         "related": ["9-inch-chrome-vanadium-combination-pliers", "6-inch-drop-forged-combination-pliers", "stainless-multi-purpose-wire-stripper"]
     },
@@ -3072,7 +3087,8 @@ PRODUCTS = [
             "Cordless 21V power for indoor and outdoor painting",
             "Fine atomization gives smooth professional coats",
             "Detachable cup is easy to clean after use",
-            "Battery and charger included in kit"
+            "Battery and charger included in kit",
+            "Covers fences, gates, doors and trim where rollers leave marks"
         ],
         "related": ["brushless-cordless-drill", "cordless-brushless-leaf-blower", "hvlp-gravity-spray-gun"]
     },
@@ -3098,7 +3114,8 @@ PRODUCTS = [
             "Two batteries keep long jobs running without downtime",
             "Brass nozzle option resists abrasive paints",
             "Adjustable flow for trim or broad coverage",
-            "Detachable cup makes cleaning and refills easy"
+            "Detachable cup makes cleaning and refills easy",
+            "Covers large walls and ceilings with fewer laps and refills"
         ],
         "related": ["brushless-cordless-drill", "5-inch-brushless-cordless-angle-grinder", "cordless-turbo-fan-blower-kit"]
     },
@@ -3124,7 +3141,8 @@ PRODUCTS = [
             "Bare tool suits buyers with an existing battery platform",
             "1000 ml cup means fewer refills per room",
             "Automatic spray keeps an even, pulseless pattern",
-            "Quick-strip parts rinse clean in minutes"
+            "Quick-strip parts rinse clean in minutes",
+            "Trigger-free automatic spray reduces hand strain on overhead work"
         ],
         "related": ["brushless-cordless-drill", "cordless-reciprocating-saw", "cordless-brushless-leaf-blower"]
     },
@@ -3150,7 +3168,8 @@ PRODUCTS = [
             "Sets M4-M12 rivet nuts in seconds by air power",
             "Self-locking nose holds inserts firmly during stroke",
             "Interchangeable heads cover the common metric range",
-            "Comfortable high-pull design for production use"
+            "Comfortable high-pull design for production use",
+            "Creates strong reusable threads in thin panels without back-side access"
         ],
         "related": ["pneumatic-rivet-gun", "90-degree-air-ratchet-wrench", "pneumatic-multi-nailer-f30-t64"]
     },
@@ -3176,7 +3195,8 @@ PRODUCTS = [
             "Gravity hopper feeds media continuously while blasting",
             "Removes rust, paint and scale fast for repaint prep",
             "Squeeze-trigger control saves media on small jobs",
-            "Compact design works with any workshop compressor"
+            "Compact design works with any workshop compressor",
+            "Lightweight handheld alternative to bulky sandblasting cabinets"
         ],
         "related": ["high-pressure-air-blow-gun", "rectangular-air-sander", "pneumatic-air-chisel-150mm"]
     },
@@ -3202,7 +3222,8 @@ PRODUCTS = [
             "Precision steel balls give smooth, quiet slides",
             "3-section extension opens full drawer access",
             "Thick steel body resists sag on daily use",
-            "Complete pair with screws - ready to install"
+            "Complete pair with screws - ready to install",
+            "Quiet ball-bearing action suits bedrooms, offices and kitchens"
         ],
         "related": ["soft-close-drawer-slide-45mm", "cabinet-gas-strut", "black-aluminum-cabinet-handle"]
     },
@@ -3228,7 +3249,8 @@ PRODUCTS = [
             "100 kg load rating for heavy door panels",
             "Bearing wheels glide quietly in the track",
             "Anti-derail profile prevents track jumping",
-            "Steel body with stainless fasteners - rust resistant"
+            "Steel body with stainless fasteners - rust resistant",
+            "Built for daily sliding cycles on wardrobes, partitions and patio screens"
         ],
         "related": ["360-degree-pivot-door-hinge", "no-drill-magnetic-door-stop", "heavy-duty-swivel-caster"]
     },
@@ -3254,7 +3276,8 @@ PRODUCTS = [
             "51 mm wide profile handles heavy workshop loads",
             "Disconnect lock lets drawer release for full access",
             "1.5 mm steel resists flex on loaded drawers",
-            "Ideal for tool cabinets and equipment enclosures"
+            "Ideal for tool cabinets and equipment enclosures",
+            "Ball-bearing movement keeps fully loaded tool drawers controllable"
         ],
         "related": ["soft-close-drawer-slide-45mm", "zinc-alloy-cam-lock-103", "cabinet-gas-strut"]
     },
@@ -3280,7 +3303,8 @@ PRODUCTS = [
             "Internal and external ring coverage in one set",
             "Straight and 90 degree tips reach recessed grooves",
             "Drop-forged jaws stay true under pressure",
-            "Grip handles keep hands comfortable on long jobs"
+            "Grip handles keep hands comfortable on long jobs",
+            "Covers the retaining rings most common in motor, gearbox and pump service"
         ],
         "related": ["15pc-swivel-ratchet-wrench-set", "72-tooth-ratchet-wrench-set", "diagonal-cutting-pliers"]
     },
@@ -3306,7 +3330,8 @@ PRODUCTS = [
             "0.01 mm resolution for reliable precision work",
             "One-button mm/inch conversion and zero set",
             "Hardened stainless beam stays accurate for years",
-            "Clear LCD removes vernier reading guesswork"
+            "Clear LCD removes vernier reading guesswork",
+            "Thumb roller allows smooth one-hand positioning on the workpiece"
         ],
         "related": ["heavy-duty-tape-measure-5m", "magnetic-aluminum-level", "industrial-lineman-pliers"]
     },
@@ -3332,7 +3357,8 @@ PRODUCTS = [
             "30 J impact energy breaks concrete and masonry fast",
             "110V US-standard supply for North American sites",
             "Pointed and flat chisels included for instant start",
-            "Rugged case and carbon brushes in the export kit"
+            "Rugged case and carbon brushes in the export kit",
+            "Anti-vibration body keeps longer breaking sessions manageable"
         ],
         "related": ["corded-impact-drill-13mm", "brushless-cordless-rotary-hammer", "13mm-brushless-cordless-impact-drill"]
     },
@@ -3358,7 +3384,8 @@ PRODUCTS = [
             "30000 RPM spins bits fast for clean wood cuts",
             "6.35 mm collet accepts standard trim bits",
             "Adjustable base and guide keep cuts straight",
-            "Lightweight body suits site and benchtop work"
+            "Lightweight body suits site and benchtop work",
+            "Slim body and clear cut-line view suit fine edging and laminate trimming"
         ],
         "related": ["5-inch-brushless-circular-saw-kit", "brushless-cordless-jigsaw", "electric-hand-planer"]
     },
@@ -3384,7 +3411,8 @@ PRODUCTS = [
             "10000 RPM air power for fast cutting and grinding",
             "4 inch discs are low cost and easy to source",
             "Compact body reaches tight corners and panels",
-            "No electric motor - safe in damp environments"
+            "No electric motor - safe in damp environments",
+            "5 cfm air consumption fits most standard workshop compressors"
         ],
         "related": ["90-degree-air-die-grinder", "2-inch-air-mini-sander", "5-inch-air-polisher"]
     },
@@ -3410,7 +3438,8 @@ PRODUCTS = [
             "Straight body drills in tight panel spaces",
             "Keyed chuck grips bits from 1.5 to 10 mm",
             "Air drive runs cool through long work sessions",
-            "Lever throttle gives precise speed control"
+            "Lever throttle gives precise speed control",
+            "Self-locking chuck keeps bits secure under load through continuous runs"
         ],
         "related": ["1-4-inch-air-ratchet-wrench", "pistol-air-screwdriver-5h", "high-pressure-air-blow-gun"]
     },
@@ -3436,7 +3465,8 @@ PRODUCTS = [
             "10 mm keyed chuck for standard twist bits",
             "Forward and reverse clears chips and stuck bits",
             "Pistol grip keeps one-hand control comfortable",
-            "Air drive runs cool and light all day"
+            "Air drive runs cool and light all day",
+            "Variable throttle eases into the hole before applying full speed"
         ],
         "related": ["pistol-air-screwdriver-5h", "1-2-inch-air-ratchet-wrench-set", "rectangular-air-sander"]
     },
@@ -3462,7 +3492,8 @@ PRODUCTS = [
             "Smooth hydraulic damping - no door slamming",
             "Left and right hand, four mounting layouts",
             "Adjustable closing speed and latching force",
-            "Complete kit with template and fixings"
+            "Complete kit with template and fixings",
+            "Reliable self-closing suits fire-rated, metal and wooden entry doors"
         ],
         "related": ["no-drill-magnetic-door-stop", "magnetic-door-stop", "cabinet-gas-strut"]
     },
@@ -3488,7 +3519,8 @@ PRODUCTS = [
             "Reposition shelves in seconds, no tools needed",
             "Holds shelf edge securely without scratching",
             "Compact add-on item for easy retail packing",
-            "Pairs with slides, brackets and cam locks"
+            "Pairs with slides, brackets and cam locks",
+            "Adapts wardrobes, bookcases and display cabinets without new holes"
         ],
         "related": ["soft-close-drawer-slide-45mm", "adjustable-l-bracket-58mm", "no-drill-heavy-duty-shelf-bracket"]
     },
@@ -3514,7 +3546,8 @@ PRODUCTS = [
             "Screw-type adjustment from 12 to 18 cm",
             "Enlarged rubber base protects floors",
             "Sturdy steel body for heavy furniture",
-            "Easy retro-fit on existing furniture"
+            "Easy retro-fit on existing furniture",
+            "Lifts stored goods off damp floors for better air circulation"
         ],
         "related": ["heavy-duty-swivel-caster", "heavy-duty-pu-iron-caster", "cabinet-gas-strut"]
     },
@@ -3540,7 +3573,8 @@ PRODUCTS = [
             "Audible click at preset torque value",
             "Micrometer ring with lockable setting",
             "Chrome vanadium steel build",
-            "Protective case keeps calibration safe"
+            "Protective case keeps calibration safe",
+            "Prevents over-torque damage on engine covers, bicycle parts and precision assemblies"
         ],
         "related": ["72-tooth-ratchet-wrench-set", "15pc-swivel-ratchet-wrench-set", "1-2-inch-socket-set"]
     },
@@ -3566,7 +3600,8 @@ PRODUCTS = [
             "Serrated blades grip thin metal without slipping",
             "Rust-resistant stainless steel construction",
             "Comfortable non-slip TPR handle",
-            "Value-priced everyday cutting tool"
+            "Value-priced everyday cutting tool",
+            "220 mm handles give strong leverage for clean, controlled cuts"
         ],
         "related": ["mini-bolt-cutter-8inch", "diagonal-cutting-pliers", "heavy-duty-utility-knife"]
     },
@@ -3592,7 +3627,8 @@ PRODUCTS = [
             "Brushless motor holds speed under load",
             "Deeper 7-inch cutting capacity",
             "45-degree bevel with quick adjustment",
-            "Electric brake and dust port included"
+            "Electric brake and dust port included",
+            "Rips framing lumber and sheet goods with no extension cord to manage"
         ],
         "related": ["5-inch-brushless-circular-saw-kit", "brushless-cordless-jigsaw", "electric-hand-planer"]
     },
@@ -3618,7 +3654,8 @@ PRODUCTS = [
             "1680 W motor spins 125 mm diamond blades",
             "Adjustable cutting depth for partial cuts",
             "Water hookup reduces dust and cools blades",
-            "Portable 4.5 kg design for site work"
+            "Portable 4.5 kg design for site work",
+            "Built-in 2 m power cord reaches most outlets without an extension lead"
         ],
         "related": ["corded-impact-drill-13mm", "110v-electric-demolition-hammer", "corded-wood-trim-router"]
     },
@@ -3644,7 +3681,8 @@ PRODUCTS = [
             "SDS-Max chuck for large bits and chisels",
             "110 V US standard plug for North America",
             "Safety slip clutch protects against binding",
-            "Full accessory kit with carrying case"
+            "Full accessory kit with carrying case",
+            "Vibration-damped handle keeps long drilling sessions manageable"
         ],
         "related": ["brushless-cordless-rotary-hammer", "corded-impact-drill-13mm", "110v-electric-demolition-hammer"]
     },
@@ -3670,7 +3708,8 @@ PRODUCTS = [
             "High-speed rotary action for fast finishing",
             "Built-in regulator tunes speed to the job",
             "Compact in-line body reaches tight spots",
-            "Cool-running air motor, no sparks"
+            "Cool-running air motor, no sparks",
+            "Accepts standard carbide burrs, mounted points and grinding stones"
         ],
         "related": ["90-degree-air-die-grinder", "4-inch-pneumatic-angle-grinder", "2-inch-air-mini-sander"]
     },
@@ -3696,7 +3735,8 @@ PRODUCTS = [
             "Loop belt design removes material fast",
             "Runs cool and light on shop air",
             "Includes spare belt, wrench and oil",
-            "Ideal for metal finishing and deburring"
+            "Ideal for metal finishing and deburring",
+            "Stable contact pad keeps finishes flat on pipes, edges, welds and frames"
         ],
         "related": ["4-inch-pneumatic-angle-grinder", "rectangular-air-sander", "5-inch-air-polisher"]
     },
