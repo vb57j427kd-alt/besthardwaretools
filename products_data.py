@@ -3440,5 +3440,265 @@ PRODUCTS = [
         ],
         "related": ["pistol-air-screwdriver-5h", "1-2-inch-air-ratchet-wrench-set", "rectangular-air-sander"]
     },
+    {
+        "slug": "hydraulic-door-closer",
+        "cat": "hardware",
+        "name": "Hydraulic Door Closer (Alloy Arm, Silent Damped)",
+        "badge": "Bestseller",
+        "price": "$6.86 - $10.30 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/hydraulic-door-closer.jpg",
+        "src": "https://detail.1688.com/offer/991402633690.html",
+        "desc": "Hydraulic door closer that brings controlled, silent self-closing to residential, office and light commercial doors. The aluminum alloy body with an alloy arm delivers smooth hydraulic damping so doors close firmly without slamming, and the adjustable spring force lets you tune closing speed and latching power to the door weight. It suits both left-hand and right-hand doors across four mounting layouts, including surface mount on the frame and inside top mounting, which keeps the mechanism tucked away where clearance is tight. Ideal for fire-rated doors, metal doors and wooden entry doors that must close reliably every time, the unit comes complete with the closer body, arm, mounting screws and installation template. For hardware importers and renovation suppliers, this is a high-turnover SKU that complements door stops, viewers and hinges in a complete entrance hardware program.",
+        "specs": [
+            ("Body", "Aluminum Alloy"),
+            ("Arm", "Alloy / Plastic Options"),
+            ("Mounting", "Surface & Inside Top"),
+            ("Door Hand", "Left / Right"),
+            ("Feature", "Hydraulic Damped, Silent"),
+            ("Force", "Adjustable Closing Power")
+        ],
+        "points": [
+            "Smooth hydraulic damping - no door slamming",
+            "Left and right hand, four mounting layouts",
+            "Adjustable closing speed and latching force",
+            "Complete kit with template and fixings"
+        ],
+        "related": ["no-drill-magnetic-door-stop", "magnetic-door-stop", "cabinet-gas-strut"]
+    },
+    {
+        "slug": "zinc-alloy-adjustable-shelf-pin",
+        "cat": "hardware",
+        "name": "Zinc Alloy Adjustable Shelf Support Pin",
+        "badge": "New",
+        "price": "$0.02 - $0.03 /pc",
+        "moq": "MOQ 100 pcs",
+        "img": "/images/zinc-alloy-adjustable-shelf-pin.jpg",
+        "src": "https://detail.1688.com/offer/780199082676.html",
+        "desc": "Small but hard-working zinc alloy shelf support pin that lets you reposition shelf boards in seconds without tools. Push one pin into each pre-drilled hole on the cabinet side panel, drop the shelf onto the supports, and move the whole level whenever your storage needs change. The L-shaped design holds the shelf edge securely while the rounded profile protects boards from scratches during loading and unloading. A set of pins keeps wardrobe shelves, bookcases and display cabinets flexible without drilling new holes or buying new furniture. Packed loose for wholesale export, the pins are a compact, low-cost add-on that lifts the average order value of any hardware range, and they are simple to poly-bag, box or hang-card for retail shelves. Hardware distributors add them to drawer slides, shelf brackets and cam locks for a complete cabinet fitting package.",
+        "specs": [
+            ("Material", "Zinc Alloy"),
+            ("Type", "L-Shape Shelf Support"),
+            ("Installation", "Push-in, No Tools"),
+            ("Use", "Wardrobes, Bookcases, Cabinets"),
+            ("Finish", "Silver"),
+            ("Adjustment", "Tool-Free Repositioning")
+        ],
+        "points": [
+            "Reposition shelves in seconds, no tools needed",
+            "Holds shelf edge securely without scratching",
+            "Compact add-on item for easy retail packing",
+            "Pairs with slides, brackets and cam locks"
+        ],
+        "related": ["soft-close-drawer-slide-45mm", "adjustable-l-bracket-58mm", "no-drill-heavy-duty-shelf-bracket"]
+    },
+    {
+        "slug": "adjustable-furniture-support-leg",
+        "cat": "hardware",
+        "name": "Adjustable Furniture Support Leg (12-18 cm, White)",
+        "badge": "Hot",
+        "price": "$0.48 - $0.73 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/adjustable-furniture-support-leg.jpg",
+        "src": "https://detail.1688.com/offer/858654772562.html",
+        "desc": "Adjustable furniture support leg that levels cabinets, sofas, beds and wardrobes on uneven floors in seconds. The height range of 12 to 18 cm is adjusted by simply rotating the leg, no tools or dismantling required, so installers can fine-tune each corner until the furniture sits rock solid. The cold-rolled steel body carries a durable painted white finish that resists scuffs in daily use, and the enlarged base with non-slip rubber pad spreads the load and protects floors from scratches. Each unit ships with mounting screws for quick attachment to the frame or cabinet bottom. A practical levelling solution for furniture makers, renovation teams and flat-pack brands, the leg also lifts stored goods off damp floors for better air circulation and longer furniture life.",
+        "specs": [
+            ("Height", "12 - 18 cm Adjustable"),
+            ("Material", "Cold-Rolled Steel"),
+            ("Finish", "White, Scratch-Resistant"),
+            ("Base", "Enlarged with Rubber Pad"),
+            ("Adjustment", "Screw-Type, No Tools"),
+            ("Includes", "Mounting Screws")
+        ],
+        "points": [
+            "Screw-type adjustment from 12 to 18 cm",
+            "Enlarged rubber base protects floors",
+            "Sturdy steel body for heavy furniture",
+            "Easy retro-fit on existing furniture"
+        ],
+        "related": ["heavy-duty-swivel-caster", "heavy-duty-pu-iron-caster", "cabinet-gas-strut"]
+    },
+    {
+        "slug": "adjustable-torque-wrench-1-4-inch",
+        "cat": "hand-tools",
+        "name": "1/4 inch Micrometer Adjustable Torque Wrench (5-25 Nm)",
+        "badge": "Bestseller",
+        "price": "$4.76 - $7.13 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/adjustable-torque-wrench-1-4-inch.jpg",
+        "src": "https://detail.1688.com/offer/1043556059101.html",
+        "desc": "Micrometer-style adjustable torque wrench for fasteners that must be tightened to a precise value, such as engine covers, bicycle parts and precision assemblies. The 1/4 inch square drive accepts standard sockets, and the range of 5 to 25 Nm covers the light to medium fastening work found in workshops and service bays. Set the target torque by turning the micrometer ring to the scale, lock the ring, and the wrench clicks when the preset value is reached - the click signals that tightening should stop, preventing over-torque damage. Calibrated to plus or minus 4 percent with chrome vanadium steel construction, the tool comes in a protective case that keeps the mechanism and calibration safe during storage and transport. A dependable addition for mechanics, technicians and tool distributors building a complete torque program.",
+        "specs": [
+            ("Drive", "1/4 in Square"),
+            ("Range", "5 - 25 N·m"),
+            ("Accuracy", "±4%"),
+            ("Material", "Chrome Vanadium Steel"),
+            ("Readout", "Micrometer Preset Scale"),
+            ("Includes", "Storage Case")
+        ],
+        "points": [
+            "Audible click at preset torque value",
+            "Micrometer ring with lockable setting",
+            "Chrome vanadium steel build",
+            "Protective case keeps calibration safe"
+        ],
+        "related": ["72-tooth-ratchet-wrench-set", "15pc-swivel-ratchet-wrench-set", "1-2-inch-socket-set"]
+    },
+    {
+        "slug": "industrial-sheet-metal-scissors",
+        "cat": "hand-tools",
+        "name": "Heavy Duty Sheet Metal Scissors (220 mm, Stainless)",
+        "badge": "New",
+        "price": "$0.62 - $0.93 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/industrial-sheet-metal-scissors.jpg",
+        "src": "https://detail.1688.com/offer/1048707277931.html",
+        "desc": "Heavy duty scissors built for cutting sheet metal, cable, cardboard and general trim around the workshop and job site. The 60 mm serrated stainless steel blades bite into thin metal sheet without slipping, while the 220 mm overall length gives enough leverage for clean, controlled cuts. Blades are rust resistant and hold their edge through hard daily use, and the slip-resistant TPR and PP handle keeps a comfortable, secure grip even when hands are oily or gloved. The wide blade opening handles material up to the blade capacity in one pass, making quick work of flashing, wire mesh, gaskets and packaging. A practical everyday tool for electricians, sheet metal workers, decorators and DIY users, and a fast-moving retail line for hardware distributors who want a durable cutting tool at a value price point.",
+        "specs": [
+            ("Total Length", "220 mm"),
+            ("Blade Length", "60 mm, Serrated"),
+            ("Material", "3Cr14 Stainless Steel"),
+            ("Handle", "TPR + PP, Non-Slip"),
+            ("Blade Thickness", "3.5 mm"),
+            ("Use", "Sheet Metal, Cable & Trim")
+        ],
+        "points": [
+            "Serrated blades grip thin metal without slipping",
+            "Rust-resistant stainless steel construction",
+            "Comfortable non-slip TPR handle",
+            "Value-priced everyday cutting tool"
+        ],
+        "related": ["mini-bolt-cutter-8inch", "diagonal-cutting-pliers", "heavy-duty-utility-knife"]
+    },
+    {
+        "slug": "7-inch-brushless-cordless-circular-saw",
+        "cat": "power-tools",
+        "name": "7-Inch Brushless Cordless Circular Saw (21V, 1 Battery + Charger)",
+        "badge": "Hot",
+        "price": "$18.60 - $27.90 /kit",
+        "moq": "MOQ 1 kit",
+        "img": "/images/7-inch-brushless-cordless-circular-saw.jpg",
+        "src": "https://detail.1688.com/offer/1030810604922.html",
+        "desc": "7-inch brushless cordless circular saw that rips lumber, plywood and panels without dragging an extension cord across the shop. The brushless motor holds 3800 rpm under load for smooth, steady cuts through framing timber and sheet goods, and the larger 7-inch blade delivers deeper cutting capacity than compact saws for dimensional lumber. The base tilts up to 45 degrees for angled cuts, and the depth adjustment lets you set the blade just proud of the material for cleaner, safer cuts. A built-in dust port keeps the cutting line visible, and the electric brake stops the blade quickly after every cut. Supplied with one high-capacity lithium battery and a fast charger on the US plug standard, the kit gives contractors and workshop owners a dependable cordless cutting platform ready to work out of the box.",
+        "specs": [
+            ("Blade", "7 in / 165 - 185 mm"),
+            ("Voltage", "21 V Li-ion"),
+            ("Motor", "Brushless"),
+            ("No-Load Speed", "3800 rpm"),
+            ("Bevel", "0 - 45 Degree"),
+            ("Kit Includes", "1 Battery + Charger (US Plug)")
+        ],
+        "points": [
+            "Brushless motor holds speed under load",
+            "Deeper 7-inch cutting capacity",
+            "45-degree bevel with quick adjustment",
+            "Electric brake and dust port included"
+        ],
+        "related": ["5-inch-brushless-circular-saw-kit", "brushless-cordless-jigsaw", "electric-hand-planer"]
+    },
+    {
+        "slug": "handheld-marble-cutter-125mm",
+        "cat": "power-tools",
+        "name": "Handheld Marble Cutter 125 mm (220 V, 1680 W)",
+        "badge": "Bestseller",
+        "price": "$21.95 - $32.95 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/handheld-marble-cutter-125mm.jpg",
+        "src": "https://detail.1688.com/offer/1005925450054.html",
+        "desc": "Handheld marble cutter that makes straight, controlled cuts in tile, stone, brick and concrete block right on the job site. The 1680 W motor spins the 125 mm diamond blade at high speed for clean scoring of ceramic tiles, porcelain, granite offcuts and concrete pavers, while the adjustable cutting depth lets you set the blade for partial or full cuts. A hardened base plate rides flat on the work surface for stability, and the auxiliary water hookup keeps dust down and blades cool during long runs of stone cutting. The two-meter power cord reaches most outlets without an extension lead, and the self-lock switch keeps the tool running comfortably during continuous work. Weighing about 4.5 kg, the cutter is portable enough to carry between floors and rooms, making it a practical choice for tilers, stone masons and renovation crews.",
+        "specs": [
+            ("Disc", "125 mm Diamond Blade"),
+            ("Voltage", "220 V, 2 m Cord"),
+            ("Power", "1680 W"),
+            ("Weight", "4.5 kg"),
+            ("Depth", "Adjustable"),
+            ("Use", "Tile, Stone, Concrete & Wood")
+        ],
+        "points": [
+            "1680 W motor spins 125 mm diamond blades",
+            "Adjustable cutting depth for partial cuts",
+            "Water hookup reduces dust and cools blades",
+            "Portable 4.5 kg design for site work"
+        ],
+        "related": ["corded-impact-drill-13mm", "110v-electric-demolition-hammer", "corded-wood-trim-router"]
+    },
+    {
+        "slug": "110v-sds-max-rotary-hammer",
+        "cat": "power-tools",
+        "name": "110V SDS-Max Rotary Hammer (Two-Mode, Industrial)",
+        "badge": "New",
+        "price": "$53.10 - $79.60 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/110v-sds-max-rotary-hammer.jpg",
+        "src": "https://detail.1688.com/offer/1005282944607.html",
+        "desc": "Industrial rotary hammer running on the 110 V US standard supply, built for heavy concrete drilling and chiseling on construction sites. The SDS-Max chuck takes the larger shank bits and chisels used for serious anchoring, rebar drilling and demolition work, while the two-mode selector switches between rotary hammer drilling and hammer-only chiseling. The 10 kg-class body delivers strong impact energy through reinforced concrete, and the safety clutch disengages the drive if the bit binds to protect both tool and operator. A vibration-damped handle keeps long drilling sessions manageable, and the machine ships with a robust carrying case plus an accessory set of bits, dust cap, oil bottle and spare brushes. For contractors and rental fleets working on North American voltage, this is a heavy-duty alternative to compact cordless hammers when run time and power matter most.",
+        "specs": [
+            ("Voltage", "110 V (US Standard)"),
+            ("Chuck", "SDS-Max"),
+            ("Modes", "Rotary Hammer / Hammer Only"),
+            ("Weight", "10 kg Class"),
+            ("Safety", "Slip Clutch"),
+            ("Kit Includes", "Case + Bits + Dust Cap + Oil + Brushes")
+        ],
+        "points": [
+            "SDS-Max chuck for large bits and chisels",
+            "110 V US standard plug for North America",
+            "Safety slip clutch protects against binding",
+            "Full accessory kit with carrying case"
+        ],
+        "related": ["brushless-cordless-rotary-hammer", "corded-impact-drill-13mm", "110v-electric-demolition-hammer"]
+    },
+    {
+        "slug": "air-die-grinder-6mm",
+        "cat": "pneumatic-tools",
+        "name": "Pneumatic Straight Die Grinder (6 mm Collet)",
+        "badge": "Hot",
+        "price": "$11.30 - $16.95 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/air-die-grinder-6mm.jpg",
+        "src": "https://detail.1688.com/offer/777453742283.html",
+        "desc": "Straight pneumatic die grinder that brings high-speed rotary power to porting, deburring, polishing and light grinding jobs in the workshop. The in-line body with a 6 mm collet takes standard carbide burrs, mounted points and grinding stones, spinning them at high free speed for fast metal removal and smooth surface finishing. A built-in speed regulator lets the operator dial the rpm down for precision work on softer materials or softer abrasives. The compact aluminum housing stays cool even on long runs and reaches into ports, dies and engine components where bulky electric tools cannot fit. Running on shop air, there are no sparks from the motor and no batteries to recharge, making it a dependable daily tool for mold makers, metalworkers and engine shops. The standard 1/4 inch air inlet connects directly to workshop hoses with no special adapters.",
+        "specs": [
+            ("Collet", "6 mm (3 mm Optional)"),
+            ("Speed", "Up to 18000 rpm"),
+            ("Air Inlet", "1/4 in Standard"),
+            ("Air Pressure", "6.3 kg/cm2"),
+            ("Housing", "Aluminum Alloy"),
+            ("Speed Control", "Built-In Regulator")
+        ],
+        "points": [
+            "High-speed rotary action for fast finishing",
+            "Built-in regulator tunes speed to the job",
+            "Compact in-line body reaches tight spots",
+            "Cool-running air motor, no sparks"
+        ],
+        "related": ["90-degree-air-die-grinder", "4-inch-pneumatic-angle-grinder", "2-inch-air-mini-sander"]
+    },
+    {
+        "slug": "air-belt-sander-at7111",
+        "cat": "pneumatic-tools",
+        "name": "Pneumatic Belt Sander (AT-7111, 60 x 260 mm Belt)",
+        "badge": "Bestseller",
+        "price": "$23.55 - $35.35 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/air-belt-sander-at7111.jpg",
+        "src": "https://detail.1688.com/offer/894720737202.html",
+        "desc": "Pneumatic belt sander that smooths, deburrs and finishes metal, wood and composite surfaces with the speed of a looped abrasive belt. The 60 x 260 mm belt rides over a stable contact pad that keeps the finish flat on pipes, sheet edges, welds and frames, and the high free speed removes material quickly while the operator guides the tool for a uniform surface. The lightweight aluminum housing runs cool on compressed air, so long polishing and blending sessions stay comfortable, and the air motor delivers steady power without the stall of electric machines on heavy passes. An ergonomic grip and safety throttle give the operator full control, and the sander works well in body shops, fabrication workshops, metalworking and wood finishing lines. The kit includes a spare abrasive belt, hex wrench and a bottle of air tool oil so the machine is ready to run on arrival.",
+        "specs": [
+            ("Belt Size", "60 x 260 mm"),
+            ("Speed", "Up to 10000 rpm"),
+            ("Air Pressure", "6 - 8 kg/cm2"),
+            ("Housing", "Aluminum Alloy"),
+            ("Air Hose", "8 x 12 mm"),
+            ("Kit Includes", "Belt + Hex Wrench + Air Oil")
+        ],
+        "points": [
+            "Loop belt design removes material fast",
+            "Runs cool and light on shop air",
+            "Includes spare belt, wrench and oil",
+            "Ideal for metal finishing and deburring"
+        ],
+        "related": ["4-inch-pneumatic-angle-grinder", "rectangular-air-sander", "5-inch-air-polisher"]
+    },
 ]
 RELATED_INDEX = {p["slug"]: p for p in PRODUCTS}
