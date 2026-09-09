@@ -3773,5 +3773,265 @@ PRODUCTS = [
         ],
         "related": ["4-inch-pneumatic-angle-grinder", "rectangular-air-sander", "5-inch-air-polisher"]
     },
+    {
+        "slug": "cabinet-push-latch",
+        "cat": "hardware",
+        "name": "Magnetic Cabinet Push Latch (Push-to-Open)",
+        "badge": "Bestseller",
+        "price": "$0.34 - $0.51 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/cabinet-push-latch.jpg",
+        "src": "https://detail.1688.com/offer/641760537863.html",
+        "desc": "Push-to-open cabinet latch that replaces traditional knobs and handles with a clean, handle-free look. Press the door lightly and the dual magnetic mechanism pushes it open; press again and it pulls back flush, so kitchen cabinets, wardrobes and TV units keep a minimalist profile without exposed hardware. The compact metal-and-plastic body installs inside the cabinet with concealed screws, and the magnetic catch holds the door firmly closed even after years of daily use. Matching screws and a simple drilling template keep installation fast for furniture factories and DIY fitters alike, and the latch suits both left- and right-hand doors with no handed parts to order separately. Because the mechanism sits fully inside the cabinet, the exterior stays uninterrupted - an advantage for frameless, handle-free design programs and modern furniture lines. Built from corrosion-resistant materials with a smooth sliding action, it is a dependable stock item for hardware distributors and cabinet manufacturers supplying the growing handle-free furniture trend.",
+        "specs": [
+            ("Type", "Dual Magnetic Push Latch"),
+            ("Material", "Metal + ABS Body"),
+            ("Mounting", "Concealed Screw Fix"),
+            ("Size", "80 x 36 mm Class"),
+            ("Style", "Handle-Free Push Open"),
+            ("Application", "Cabinets, Wardrobes, Drawers")
+        ],
+        "points": [
+            "Press-to-open with dual magnetic catch",
+            "Handle-free look for frameless cabinets",
+            "Suits left- and right-hand doors",
+            "Corrosion-resistant, smooth sliding action"
+        ],
+        "related": ["soft-close-drawer-slide-45mm", "cabinet-gas-strut", "no-drill-magnetic-door-stop"]
+    },
+    {
+        "slug": "stainless-steel-adhesive-hook",
+        "cat": "hardware",
+        "name": "304 Stainless Steel Adhesive Hook (No-Drill)",
+        "badge": "Hot",
+        "price": "$0.07 - $0.10 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/stainless-steel-adhesive-hook.jpg",
+        "src": "https://detail.1688.com/offer/818366910049.html",
+        "desc": "Self-adhesive stainless steel hook for kitchens, bathrooms, entryways and closets where drilling is not an option. The 304 stainless steel plate carries two hooks for keys, towels, utensils, loofahs or lightweight tools, and the industrial adhesive tape on the back fixes firmly to tiles, glass, metal, painted wood and laminate with no screws and no damage to the surface. Simply clean the wall, peel and press for a few seconds, and the hook is ready after the recommended cure time. The brushed metal finish resists rust and water, making it a dependable choice for wet areas where plated hooks corrode quickly. It removes cleanly when repositioning is needed, and the no-drill design allows rental properties and renovated spaces to add storage without patching holes. Sold at a low unit price with small MOQs, it is an easy add-on line for importers supplying household storage, bathroom accessories and kitchen organizers.",
+        "specs": [
+            ("Material", "304 Stainless Steel"),
+            ("Hooks", "Double Hook Design"),
+            ("Mounting", "Self-Adhesive, No Drilling"),
+            ("Plate Size", "4.5 x 6 cm Class"),
+            ("Finish", "Brushed, Rust-Resistant"),
+            ("Application", "Kitchen, Bathroom, Entryway")
+        ],
+        "points": [
+            "304 stainless steel resists rust and water",
+            "No-drill adhesive mounting protects walls",
+            "Double hooks hold keys, towels and tools",
+            "Clean removal when repositioning"
+        ],
+        "related": ["no-drill-heavy-duty-shelf-bracket", "no-drill-magnetic-door-stop", "magnetic-glass-door-catch"]
+    },
+    {
+        "slug": "stainless-steel-adhesive-hook-rack",
+        "cat": "hardware",
+        "name": "Stainless Steel Adhesive Hook Rack (3 Hooks, Baked Enamel)",
+        "badge": "Bestseller",
+        "price": "$0.34 - $0.51 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/stainless-steel-adhesive-hook-rack.jpg",
+        "src": "https://detail.1688.com/offer/840714227256.html",
+        "desc": "Wall-mounted adhesive hook rack that adds three coat hooks without drilling, ideal for entryways, bedrooms, bathrooms, kitchens and utility rooms. The stainless steel body with baked enamel finish gives the rack a smooth matte surface that resists rust, scratches and fingerprints, while the three hooks spread the load for coats, bags, towels, umbrellas and dog leashes. Two mounting options are available in one SKU: peel-and-stick with the included industrial adhesive pad for tile and painted walls, or screw fixing for wood, plasterboard and heavy use. The compact rack fits narrow wall spaces between doors and windows, and its clean styling suits both homes and light commercial interiors such as hotel rooms, salons and offices. Packed 100 pieces per export carton with retail-ready labels, the rack keeps freight cost low and supports store, online and catalog programs for importers and distributors.",
+        "specs": [
+            ("Material", "Stainless Steel"),
+            ("Finish", "Matte Black Baked Enamel"),
+            ("Hooks", "3-Hook Rack"),
+            ("Size", "18 x 4.5 cm Class"),
+            ("Mounting", "Adhesive or Screw (Optional)"),
+            ("Carton", "100 pcs / 13.7 kg")
+        ],
+        "points": [
+            "Three hooks spread load for coats and bags",
+            "Adhesive or screw mounting in one SKU",
+            "Rust-resistant baked enamel finish",
+            "100 pcs per carton for low freight cost"
+        ],
+        "related": ["no-drill-heavy-duty-shelf-bracket", "foldable-shelf-bracket", "adjustable-l-bracket-58mm"]
+    },
+    {
+        "slug": "65mn-wood-handsaw",
+        "cat": "hand-tools",
+        "name": "65Mn Wood Hand Saw with Ergonomic Grip",
+        "badge": "Hot",
+        "price": "$0.59 - $0.88 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/65mn-wood-handsaw.jpg",
+        "src": "https://detail.1688.com/offer/954006053454.html",
+        "desc": "Hand saw built for woodworking, pruning and general cutting jobs where a sharp, fatigue-free blade matters. The 65Mn carbon steel blade is hardened and precision-ground for a very sharp edge that starts cutting immediately and holds it through long sessions, slicing through softwood, hardwood, branches and green timber with a smooth, fast stroke. The two-color ergonomic handle is shaped to fit the palm with a non-slip grip, reducing hand fatigue during repeated cuts, and the blade is riveted firmly into the handle so there is no wobble under load. A hardened tooth pattern clears sawdust quickly and resists binding in green or damp wood, making the saw practical for gardeners, tree pruners, carpenters and general maintenance crews. Light enough for one-hand work yet stiff enough for clean straight cuts, it is a fast-moving stock item for hardware retailers, garden suppliers and tool distributors.",
+        "specs": [
+            ("Blade", "65Mn Carbon Steel"),
+            ("Edge", "Factory Honed, Very Sharp"),
+            ("Handle", "Two-Color Ergonomic Grip"),
+            ("Teeth", "Hardened, Fast Clearing"),
+            ("Cutting", "Wood, Branches, Pruning"),
+            ("Application", "Carpentry, Garden, Maintenance")
+        ],
+        "points": [
+            "65Mn steel blade stays sharp through heavy use",
+            "Ergonomic non-slip grip reduces fatigue",
+            "Tooth pattern resists binding in green wood",
+            "Light one-hand design, wobble-free riveting"
+        ],
+        "related": ["bakelite-grip-claw-hammer", "heavy-duty-utility-knife", "industrial-lineman-pliers"]
+    },
+    {
+        "slug": "diamond-file-set-10-pcs",
+        "cat": "hand-tools",
+        "name": "Diamond File Set (10 Pcs, 140 x 3 mm)",
+        "badge": "Bestseller",
+        "price": "$0.96 - $1.44 /set",
+        "moq": "MOQ 1 set",
+        "img": "/images/diamond-file-set-10-pcs.jpg",
+        "src": "https://detail.1688.com/offer/977269471814.html",
+        "desc": "Diamond file set for shaping, sharpening and smoothing hard materials that destroy ordinary steel files. Each 140 mm file is coated with industrial diamond grit bonded to the steel core, cutting glass, ceramic, hardened steel, carbide, stone and tile with a fast, controlled action. The 10-piece assortment covers flat, half-round, round and other profiles so a single set handles edge work, notches, inside curves, deburring and touch-up sharpening on tools and blades. The slim files reach narrow slots and small bores where power tools cannot fit, and the rigid core keeps the cutting face true under pressure. Files stay sharp far longer than conventional abrasives and need only light pressure to remove material, so beginners get clean results and workshops get a durable bench tool. A compact 10-piece set is a practical add-on sale for hardware stores, tool shops and maintenance departments stocking abrasives and files.",
+        "specs": [
+            ("Set", "10 Pcs Assorted Profiles"),
+            ("Size", "140 x 3 mm Class"),
+            ("Coating", "Industrial Diamond Grit"),
+            ("Cutting", "Glass, Ceramic, Hardened Steel"),
+            ("Core", "Rigid Steel, True Cutting Face"),
+            ("Use", "Deburring, Sharpening, Shaping")
+        ],
+        "points": [
+            "Diamond grit cuts materials that blunt steel files",
+            "10 assorted profiles cover edges and inside curves",
+            "Slim files reach slots and small bores",
+            "Long-lasting abrasive action with light pressure"
+        ],
+        "related": ["mini-bolt-cutter-8inch", "industrial-sheet-metal-scissors", "8-inch-needle-nose-pliers"]
+    },
+    {
+        "slug": "14-inch-cut-off-saw-355mm",
+        "cat": "power-tools",
+        "name": "14 in Cut-Off Saw (355 mm, 2500 W)",
+        "badge": "Hot",
+        "price": "$31.55 - $47.35 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/14-inch-cut-off-saw-355mm.jpg",
+        "src": "https://detail.1688.com/offer/926500167369.html",
+        "desc": "Bench cut-off saw for fabricators, steel stockists and workshops cutting steel, angle iron, rebar and profile sections to length. The 355 mm (14 inch) blade is driven by a full-copper 2500 W motor that keeps torque high through the cut, while the 3600 r/min no-load speed delivers fast, square cuts in solid bar and tube. Cutting depth reaches 120 mm in one pass, and the rigid base and pivoting head hold the blade square to the material so straight and mitre cuts come out clean with minimal burr. A full guard, safety switch and locking clamp protect the operator, and the machine mounts easily to a workbench or optional stand for production use. The cast construction stays stable under heavy workloads, making it a dependable alternative to portable cutters when accuracy and throughput matter. Ideal for metal fabricators, construction crews, machine shops and rental fleets.",
+        "specs": [
+            ("Motor", "Full-Copper 2500 W"),
+            ("Blade", "355 mm (14 in)"),
+            ("No-Load Speed", "3600 r/min"),
+            ("Cutting Depth", "120 mm"),
+            ("Machine Weight", "15 kg Class"),
+            ("Use", "Steel, Angle Iron, Rebar, Tube")
+        ],
+        "points": [
+            "2500 W full-copper motor keeps torque high",
+            "355 mm blade cuts 120 mm depth in one pass",
+            "Rigid pivoting head for square cuts",
+            "Full guard and clamp for operator safety"
+        ],
+        "related": ["handheld-marble-cutter-125mm", "7-inch-brushless-cordless-circular-saw", "corded-wood-trim-router"]
+    },
+    {
+        "slug": "110v-6-speed-corded-angle-grinder",
+        "cat": "power-tools",
+        "name": "110V 6-Speed Corded Angle Grinder",
+        "badge": "Bestseller",
+        "price": "$9.92 - $14.90 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/110v-6-speed-corded-angle-grinder.jpg",
+        "src": "https://detail.1688.com/offer/1051580081032.html",
+        "desc": "Corded angle grinder tuned for North American 110 V supply with six speeds to match the job. The 6-speed dial lets the operator drop the rpm for polishing, stripping and work on thin materials, then open it up for fast cutting and grinding on steel, stone and concrete. The compact body with a 35 cm overall length balances comfortably in one hand, and the low-profile guard keeps the tool easy to control in tight corners. A powerful corded motor delivers consistent torque without the runtime limits of batteries, so long shifts on metal fabrication, auto repair and construction sites are not interrupted by recharging. The side handle mounts on either side for right- or left-hand use, and the spindle lock makes wheel changes quick. Brush access and a durable gear housing simplify servicing, making this a dependable workhorse for workshops, contractors and hardware rental programs.",
+        "specs": [
+            ("Voltage", "110 V (US Standard)"),
+            ("Speed", "6-Speed Adjustable"),
+            ("Body Length", "35 cm"),
+            ("Guard", "Low-Profile Design"),
+            ("Power", "Corded, Consistent Torque"),
+            ("Use", "Grinding, Cutting, Polishing")
+        ],
+        "points": [
+            "110 V US plug for North American markets",
+            "6-speed dial matches rpm to the job",
+            "Compact body for one-hand control",
+            "No battery runtime limits on long shifts"
+        ],
+        "related": ["5-inch-brushless-cordless-angle-grinder", "12v-mini-angle-grinder", "corded-impact-drill-13mm"]
+    },
+    {
+        "slug": "pneumatic-needle-scaler",
+        "cat": "pneumatic-tools",
+        "name": "Pneumatic Needle Scaler (Rust & Paint Remover)",
+        "badge": "Hot",
+        "price": "$11.50 - $17.25 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/pneumatic-needle-scaler.jpg",
+        "src": "https://detail.1688.com/offer/967033482776.html",
+        "desc": "Pneumatic needle scaler for fast rust, scale, paint and weld-slag removal on steel surfaces. A bundle of hardened steel needles hammers at high frequency, breaking corrosion and coatings loose while leaving the base metal undamaged - ideal for preparing beams, tanks, hulls, frames and castings before repainting or welding. The tool reaches into corners, bolt heads, rivets and irregular profiles where disc grinders cannot work safely, and the air-powered action produces no sparks, making it suitable for work near flammable materials where electric tools are restricted. A comfortable grip and trigger throttle give precise control, and the needle set is replaceable when worn. Running on standard workshop air with a 1/4 in inlet, the scaler is a dependable tool for shipyards, steel fabricators, auto-body shops, bridge maintenance and restoration crews cleaning metal quickly and safely.",
+        "specs": [
+            ("Type", "Pneumatic Needle Scaler"),
+            ("Air Pressure", "6.3 kg/cm2 Class"),
+            ("Air Inlet", "1/4 in Standard"),
+            ("Needles", "Multi-Pin Replaceable Bundle"),
+            ("Action", "High-Frequency Hammering"),
+            ("Use", "Rust, Paint & Weld-Slag Removal")
+        ],
+        "points": [
+            "Removes rust and coatings without damaging base metal",
+            "Reaches corners, rivets and irregular profiles",
+            "Spark-free air action for restricted areas",
+            "Replaceable needle bundle extends tool life"
+        ],
+        "related": ["pneumatic-air-chisel-150mm", "pneumatic-sandblaster-gun", "4-inch-pneumatic-angle-grinder"]
+    },
+    {
+        "slug": "air-tapping-machine-m3-m12",
+        "cat": "pneumatic-tools",
+        "name": "Pneumatic Tapping Machine (M3 - M12)",
+        "badge": "Bestseller",
+        "price": "$36.10 - $54.10 /pc",
+        "moq": "MOQ 1 pc",
+        "img": "/images/air-tapping-machine-m3-m12.jpg",
+        "src": "https://detail.1688.com/offer/727528348803.html",
+        "desc": "Pneumatic tapping machine that cuts internal threads from M3 to M12 in steel, aluminum and other metals without a tapping stand. The air motor spins the tap forward at a controlled speed and reverses automatically when the operator releases the trigger, so threads are cut cleanly and the tap backs out without breaking in the hole - a common problem in hand tapping and with rigid electric machines. The lightweight 1.99 kg body is easy to position on workpieces too large to bring to a bench, making it practical for maintenance teams, fabricators and assembly lines tapping frames, brackets, plates and repair work in position. Adjustable air pressure between 5 and 8 kg/cm2 tunes power to material hardness, and low air consumption keeps compressor load modest. The kit includes the main unit plus two chucks to cover the M3-M12 range, with spare chucks available for dedicated sizes.",
+        "specs": [
+            ("Tapping Capacity", "M3 - M12"),
+            ("No-Load Speed", "380 r/min"),
+            ("Air Consumption", "0.46 m3/min"),
+            ("Air Pressure", "5 - 8 kg/cm2"),
+            ("Net Weight", "1.99 kg"),
+            ("Kit Includes", "Main Unit + 2 Chucks")
+        ],
+        "points": [
+            "Taps M3-M12 threads without a tapping stand",
+            "Auto-reverse backs the tap out safely",
+            "1.99 kg body works on large workpieces",
+            "Low air consumption keeps compressor load modest"
+        ],
+        "related": ["straight-air-drill-3-8-inch", "pistol-grip-air-drill-10mm", "air-die-grinder-6mm"]
+    },
+    {
+        "slug": "mini-aluminum-wood-plane",
+        "cat": "hand-tools",
+        "name": "Mini Aluminum Wood Plane (Block Plane)",
+        "badge": "Hot",
+        "price": "$5.94 - $8.91 /pc",
+        "moq": "MOQ 2 pcs",
+        "img": "/images/mini-aluminum-wood-plane.jpg",
+        "src": "https://detail.1688.com/offer/1048663122743.html",
+        "desc": "Mini aluminum wood plane for fine trimming, edging and model-making work where full-size planes are too bulky. The lightweight aluminum alloy body with a hardened adjustable blade takes ultra-fine shavings on end grain, veneers, mouldings and small parts, and the precise adjustment mechanism lets the user set the cut depth to a hair for a glass-smooth finish. The compact 90 mm length and 144 g weight make it easy to control one-handed, reaching into drawers, picture frames, instrument parts and craft pieces that stay in place on the bench. The plane suits cabinetmakers, guitar builders, model makers, luthiers and woodworking hobbyists who need a precise finishing tool for small surfaces and edges. The blade is easily removed for honing, and the rust-resistant body keeps the tool ready for daily use in the shop.",
+        "specs": [
+            ("Body", "Aluminum Alloy"),
+            ("Size", "90 x 33 x 25 mm"),
+            ("Weight", "144 g"),
+            ("Blade", "Hardened Steel, Adjustable"),
+            ("Cut", "Ultra-Fine Shavings"),
+            ("Use", "Edging, Trimming, Model Making")
+        ],
+        "points": [
+            "Compact 90 mm body for one-hand control",
+            "Precise depth adjustment for fine finish",
+            "Reaches small parts and in-place workpieces",
+            "Rust-resistant body for daily shop use"
+        ],
+        "related": ["magnetic-aluminum-level", "stainless-digital-caliper-150mm", "heavy-duty-tape-measure-5m"]
+    },
 ]
 RELATED_INDEX = {p["slug"]: p for p in PRODUCTS}
