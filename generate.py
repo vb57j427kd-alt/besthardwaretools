@@ -242,7 +242,7 @@ def index_html():
 <body>
 {nav()}
 <header class="hero"><div class="wrap">
-<h1>Hardware &amp; Tools, <span>Factory Direct</span> to the World</h1>
+<h1>BEST HARDWARE TOOLS: <span>Factory Direct</span> to the World</h1>
 <p>{SITE['tagline']}. From cabinet hardware to cordless power tools and pneumatic equipment - sourced from China's manufacturing clusters with wholesale pricing, low MOQ and OEM/ODM support for importers, distributors and brands worldwide.</p>
 <a href="#cat-hardware" class="btn btn-p">Shop Categories</a> <a href="https://wa.me/8618669693290" class="btn btn-wa" target="_blank" rel="noopener">WhatsApp Inquiry</a>
 <div class="trust">{stats_html}</div>
