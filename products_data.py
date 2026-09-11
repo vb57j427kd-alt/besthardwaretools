@@ -269,7 +269,7 @@ PRODUCTS = [
     {
         "slug": "brushless-impact-wrench",
         "cat": "power-tools",
-        "name": "21V Brushless Cordless Impact Wrench (Model 285)",
+        "name": "21V Brushless Cordless Impact Wrench Kit (Model 285)",
         "badge": "Bestseller",
         "price": "$15.00 - $22.00 /kit",
         "moq": "MOQ 1 kit",
@@ -299,7 +299,7 @@ PRODUCTS = [
     {
         "slug": "air-impact-wrench",
         "cat": "pneumatic-tools",
-        "name": "1/2\" Heavy Duty Air Impact Wrench (Pistol Grip)",
+        "name": "1/2\" Heavy Duty Air-Powered Impact Wrench (Pistol Grip)",
         "badge": "Hot",
         "price": "$30.00 - $44.00 /pc",
         "moq": "MOQ 1 pc",
