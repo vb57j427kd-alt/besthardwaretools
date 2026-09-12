@@ -150,7 +150,7 @@ def head(title, desc, canonical, ogimg):
 """
 
 def nav(active=""):
-    links = "".join(f'<a href="/#cat-{c["id"]}"{" style=\"color:var(--accent)\"" if active==c["id"] else ""}>{c["nav"]}</a>' for c in CATEGORIES)
+    links = "".join(f'<a href="/category-{c["id"]}.html"{" style=\"color:var(--accent)\"" if active==c["id"] else ""}>{c["nav"]}</a>' for c in CATEGORIES)
     return f"""<nav><div class="wrap nav-in">
 <a href="/" class="logo">BEST <b>HARDWARE</b> TOOLS</a>
 <div class="nav-links"><a href="/">Home</a>{links}<a href="/#contact">Contact</a></div>
@@ -199,14 +199,18 @@ def product_card(p, full=True):
     return f"""<a href="{rel}" class="pc"><div class="pc-img"><img src="{p['img']}" alt="{p['name']}" width="400" height="280" loading="lazy" decoding="async"><span class="badge">{p['badge']}</span></div><div class="pc-body"><h3>{p['name']}</h3><p>{d}</p><div class="price-row"><span class="price">{p['price']}</span><span class="moq">{p['moq']}</span></div></div></a>"""
 
 def index_html():
+    cat_cards = "".join(f'<a href="/category-{c["id"]}.html" class="feat"><h4>{c["name"]}</h4><p>View our full selection of {c["name"].lower()}.</p><span style="color:var(--accent);font-size:.85rem;margin-top:10px;display:block">Browse Collection &rarr;</span></a>' for c in CATEGORIES)
     sections = ""
     for cid in ["power-tools", "pneumatic-tools", "hand-tools", "hardware"]:
         c = next(c for c in CATEGORIES if c["id"] == cid)
         items = [p for p in PRODUCTS if p["cat"] == c["id"]]
-        cards = "".join(product_card(p) for p in items)
+        display_items = items[:9]
+        cards = "".join(product_card(p) for p in display_items)
+        view_all = f'<div style="text-align:center;margin-top:40px"><a href="/category-{c["id"]}.html" class="btn btn-o">View All {c["name"]} ({len(items)})</a></div>' if len(items) > 9 else ""
         sections += f"""<section id="cat-{c['id']}"><div class="wrap">
-<div class="sec-head"><div><span class="cat-tag">{c['name']}</span><h2>{c['name']}</h2></div></div>
+<div class="sec-head"><div><span class="cat-tag">{c['name']}</span><h2>Featured {c['name']}</h2></div><a href="/category-{c['id']}.html">View All &rarr;</a></div>
 <div class="grid">{cards}</div>
+{view_all}
 </div></section>"""
     feats = [
         ("Factory Direct Pricing", "No middlemen - wholesale prices straight from Chinese manufacturing clusters."),
@@ -250,10 +254,14 @@ def index_html():
 <header class="hero"><div class="wrap">
 <h1>BEST HARDWARE TOOLS: <span>Factory Direct</span> to the World</h1>
 <p>{SITE['tagline']}. From cabinet hardware to cordless power tools and pneumatic equipment - sourced from China's manufacturing clusters with wholesale pricing, low MOQ and OEM/ODM support for importers, distributors and brands worldwide.</p>
-<a href="#cat-hardware" class="btn btn-p">Shop Categories</a> <a href="https://wa.me/8618669693290" class="btn btn-wa" target="_blank" rel="noopener">WhatsApp Inquiry</a>
+<div class="cta-row"><a href="#cats" class="btn btn-p">Browse Categories</a> <a href="https://wa.me/8618669693290" class="btn btn-wa" target="_blank" rel="noopener">WhatsApp Inquiry</a></div>
 <div class="trust">{stats_html}</div>
 {cat_intro}
 </div></header>
+<section id="cats" style="background:var(--bg2)"><div class="wrap">
+<div class="sec-head"><h2>Product Categories</h2></div>
+<div class="feats">{cat_cards}</div>
+</div></section>
 {sections}
 <section id="why"><div class="wrap"><div class="sec-head"><div><span class="cat-tag">Why Us</span><h2>Why Global Buyers Choose Us</h2></div></div><div class="feats">{feat_html}</div></div></section>
 <section id="oem"><div class="wrap"><div class="sec-head"><div><span class="cat-tag">OEM / ODM</span><h2>Build Your Own Brand</h2></div></div>
@@ -303,10 +311,39 @@ def product_page(p):
 </html>"""
     return html
 
+def category_html(cid):
+    c = next(c for c in CATEGORIES if c["id"] == cid)
+    items = [p for p in PRODUCTS if p["cat"] == cid]
+    cards = "".join(product_card(p) for p in items)
+    title = f"{c['name']} | Hardware & Tools | Best Hardware Tools"
+    desc = f"Browse our full selection of factory-direct {c['name'].lower()}. From industrial-grade {items[0]['name'].lower()} to professional-grade tools, we provide wholesale pricing and low MOQs."
+    canonical = f"{URL}category-{cid}.html"
+    jsonld = f'''{{"@context":"https://schema.org","@type":"CollectionPage","name":"{title}","description":"{desc}","url":"{canonical}"}}'''
+    html = head(title, desc, canonical, URL + "images/" + items[0]['slug'] + ".jpg")
+    html += f"""<script type="application/ld+json">{jsonld}</script>
+<body>
+{nav(cid)}
+<div class="wrap crumb"><a href="/">Home</a> &rsaquo; {c['name']}</div>
+<section><div class="wrap">
+<div class="sec-head"><div><span class="cat-tag">{c['name']}</span><h1>{c['name']}</h1><p style="color:var(--t3);margin-top:8px">Total {len(items)} products in this category.</p></div></div>
+<div class="grid">{cards}</div>
+</div></section>
+<section id="contact" class="cta"><div class="wrap">
+<h2>Need Bulk Pricing for {c['name']}?</h2>
+<p>Get factory-direct quotes for large orders. Low MOQ, fast samples, worldwide shipping.</p>
+<a href="https://wa.me/8618669693290" class="btn btn-wa" target="_blank" rel="noopener">Chat on WhatsApp +86 186 6969 3290</a>
+</div></section>
+{footer()}
+</html>"""
+    return html
+
 def main():
     os.makedirs(os.path.join(BASE, "products"), exist_ok=True)
     with open(os.path.join(BASE, "index.html"), "w", encoding="utf-8") as f:
         f.write(index_html())
+    for c in CATEGORIES:
+        with open(os.path.join(BASE, f"category-{c['id']}.html"), "w", encoding="utf-8") as f:
+            f.write(category_html(c['id']))
     for p in PRODUCTS:
         with open(os.path.join(BASE, "products", f"{p['slug']}.html"), "w", encoding="utf-8") as f:
             f.write(product_page(p))
@@ -318,6 +355,8 @@ def main():
         f.write(f"User-agent: *\nAllow: /\nSitemap: {URL}sitemap.xml\n")
     # sitemap.xml
     urls = [f"<url><loc>{URL}</loc><priority>1.0</priority><changefreq>daily</changefreq></url>"]
+    for c in CATEGORIES:
+        urls.append(f"<url><loc>{URL}category-{c['id']}.html</loc><priority>0.9</priority><changefreq>daily</changefreq></url>")
     for p in PRODUCTS:
         urls.append(f"<url><loc>{URL}products/{p['slug']}.html</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>")
     with open(os.path.join(BASE, "sitemap.xml"), "w", encoding="utf-8") as f:
