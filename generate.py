@@ -3,6 +3,7 @@
 import os
 from datetime import datetime
 from products_data import SITE, CATEGORIES, PRODUCTS, RELATED_INDEX
+from blog_data import ARTICLES, ARTICLE_INDEX
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 DOMAIN = SITE["domain"]
