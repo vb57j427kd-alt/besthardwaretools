@@ -3186,7 +3186,7 @@ PRODUCTS = [
             "304 stainless build resists rust and corrosion",
             "Cushioned strike plate prevents door slamming",
             "Full installation kit included for quick setup",
-            "Discreet low-profile design keeps doorways visually clean in modern interiors"
+            "Discreet low-profile design keeps doorways visually clean in modern interiors",
             "Rental and hospitality projects can fit door holding without drilling into tiled or stone floors",
         ],
         "related": ["no-drill-magnetic-door-stop", "magnetic-door-stop", "magnetic-glass-door-catch"]
@@ -3295,7 +3295,7 @@ PRODUCTS = [
             "Fine atomization gives smooth professional coats",
             "Detachable cup is easy to clean after use",
             "Battery and charger included in kit",
-            "Covers fences, gates, doors and trim where rollers leave marks"
+            "Covers fences, gates, doors and trim where rollers leave marks",
             "Detachable cup speeds colour changes between trim and wall coats on the same job",
         ],
         "related": ["brushless-cordless-drill", "cordless-brushless-leaf-blower", "hvlp-gravity-spray-gun"]
@@ -3404,7 +3404,7 @@ PRODUCTS = [
             "Removes rust, paint and scale fast for repaint prep",
             "Squeeze-trigger control saves media on small jobs",
             "Compact design works with any workshop compressor",
-            "Lightweight handheld alternative to bulky sandblasting cabinets"
+            "Lightweight handheld alternative to bulky sandblasting cabinets",
             "Contractors can spot-prep small rust and paint areas instead of transporting parts to a blasting cabinet",
         ],
         "related": ["high-pressure-air-blow-gun", "rectangular-air-sander", "pneumatic-air-chisel-150mm"]
@@ -3515,7 +3515,7 @@ PRODUCTS = [
             "Drop-forged jaws stay true under pressure",
             "Grip handles keep hands comfortable on long jobs",
             "Covers the retaining rings most common in motor, gearbox and pump service",
-            "Four configurations let maintenance teams match straight or angled access without buying separate pliers one at a time"
+            "Four configurations let maintenance teams match straight or angled access without buying separate pliers one at a time",
             "Keeps motor, gearbox and pump rebuilds moving without hunting for the right ring pliers mid-job",
         ],
         "related": ["15pc-swivel-ratchet-wrench-set", "72-tooth-ratchet-wrench-set", "diagonal-cutting-pliers"]
@@ -3628,7 +3628,7 @@ PRODUCTS = [
             "Compact body reaches tight corners and panels",
             "No electric motor - safe in damp environments",
             "5 cfm air consumption fits most standard workshop compressors",
-            "Cool-running pneumatic operation helps fabrication and marine-repair teams sustain repeated cutting and grinding work"
+            "Cool-running pneumatic operation helps fabrication and marine-repair teams sustain repeated cutting and grinding work",
             "A sensible spare for yards where compressed air is already piped to every bench",
         ],
         "related": ["90-degree-air-die-grinder", "2-inch-air-mini-sander", "5-inch-air-polisher"]
@@ -3741,7 +3741,7 @@ PRODUCTS = [
             "Compact add-on item for easy retail packing",
             "Pairs with slides, brackets and cam locks",
             "Adapts wardrobes, bookcases and display cabinets without new holes",
-            "Low-cost push-in fitting gives cabinet manufacturers a flexible shelf-adjustment SKU with simple packing and installation"
+            "Low-cost push-in fitting gives cabinet manufacturers a flexible shelf-adjustment SKU with simple packing and installation",
             "Service technicians can replace broken shelf supports without dismantling the cabinet",
         ],
         "related": ["soft-close-drawer-slide-45mm", "adjustable-l-bracket-58mm", "no-drill-heavy-duty-shelf-bracket"]
@@ -3854,7 +3854,7 @@ PRODUCTS = [
             "45-degree bevel with quick adjustment",
             "Electric brake and dust port included",
             "Rips framing lumber and sheet goods with no extension cord to manage",
-            "One-battery kit gives carpenters and renovation crews a deeper-cutting cordless option for mobile framing and panel work"
+            "One-battery kit gives carpenters and renovation crews a deeper-cutting cordless option for mobile framing and panel work",
             "Renovation crews can cut framing and sheet goods on site without running power to the work area",
         ],
         "related": ["5-inch-brushless-circular-saw-kit", "brushless-cordless-jigsaw", "electric-hand-planer"]
@@ -3967,7 +3967,7 @@ PRODUCTS = [
             "Includes spare belt, wrench and oil",
             "Ideal for metal finishing and deburring",
             "Stable contact pad keeps finishes flat on pipes, edges, welds and frames",
-            "Ready-to-run accessories help fabrication and body-shop teams start blending and deburring without a separate setup order"
+            "Ready-to-run accessories help fabrication and body-shop teams start blending and deburring without a separate setup order",
             "Suits stainless and aluminium finishing where consistent belt speed keeps grain patterns even",
         ],
         "related": ["4-inch-pneumatic-angle-grinder", "rectangular-air-sander", "5-inch-air-polisher"]
@@ -4076,7 +4076,7 @@ PRODUCTS = [
             "Ergonomic non-slip grip reduces fatigue",
             "Tooth pattern resists binding in green wood",
             "Light one-hand design, wobble-free riveting",
-            "Fast-clearing teeth help garden and maintenance crews make clean wood cuts without a powered saw"
+            "Fast-clearing teeth help garden and maintenance crews make clean wood cuts without a powered saw",
             "Garden and property crews can make quick clean cuts on branches and timber without fuel or power",
         ],
         "related": ["bakelite-grip-claw-hammer", "heavy-duty-utility-knife", "industrial-lineman-pliers"]
@@ -4185,7 +4185,7 @@ PRODUCTS = [
             "Reaches corners, rivets and irregular profiles",
             "Spark-free air action for restricted areas",
             "Replaceable needle bundle extends tool life",
-            "Needle access follows irregular steel profiles, helping shipyard and bridge crews prepare surfaces where wheels cannot reach"
+            "Needle access follows irregular steel profiles, helping shipyard and bridge crews prepare surfaces where wheels cannot reach",
             "Welders and painters get a faster surface prep step before recoating steel structures and tanks",
         ],
         "related": ["pneumatic-air-chisel-150mm", "pneumatic-sandblaster-gun", "4-inch-pneumatic-angle-grinder"]
@@ -4295,7 +4295,7 @@ PRODUCTS = [
             "Bi-directional lock for maximum safety",
             "Smooth 3-section telescopic extension",
             "Resistant to sag and lateral vibration",
-            "Bi-directional locking gives machinery and tool-chest manufacturers stable drawer positioning during loading and service"
+            "Bi-directional locking gives machinery and tool-chest manufacturers stable drawer positioning during loading and service",
             "A practical upgrade for heavy workshop drawer units that carry tools and store fixtures daily",
         ],
         "related": ["heavy-duty-locking-drawer-slide", "soft-close-cabinet-slide", "heavy-duty-pu-iron-caster"],
@@ -4404,7 +4404,7 @@ PRODUCTS = [
             "Ideal for electronics and delicate repairs",
             "Smooth worm-gear for precise jaw control",
             "Durable forged steel with polished finish",
-            "Two pocket-size formats help electronics and micro-mechanics suppliers cover delicate fastening jobs with one compact SKU"
+            "Two pocket-size formats help electronics and micro-mechanics suppliers cover delicate fastening jobs with one compact SKU",
             "Slips into a pocket-sized service bag for meter, instrument and appliance work",
         ],
         "related": ["wide-opening-short-wrench", "118pc-precision-screwdriver-set", "5-inch-curved-needle-nose-pliers"],
@@ -4513,7 +4513,7 @@ PRODUCTS = [
             "Lightweight 0.73kg body for one-hand operation",
             "Safety trigger and bumper for secure operation",
             "Ideal for auto body and sheet metal workshops",
-            "Lightweight air-powered cutting helps body shops follow curved repair lines without a corded saw or compressor downtime"
+            "Lightweight air-powered cutting helps body shops follow curved repair lines without a corded saw or compressor downtime",
             "Handy for exhaust, panel and trim cutting where a corded saw is awkward to reach",
         ],
         "related": ["pneumatic-reciprocating-file-machine", "pneumatic-metal-shear", "4-inch-pneumatic-angle-grinder"],
