@@ -239,6 +239,7 @@ def index_html():
         oem_extra = ""
     if slot != 0:
         cat_intro = ""
+    cat_intro += '<p style="color:var(--t2);margin-top:10px;max-width:720px">Build a focused buying program by pairing high-use cabinet hardware with dependable hand tools, then add cordless and pneumatic equipment as your customers scale from repair work to production. This layered assortment helps distributors test demand with practical SKUs while keeping replenishment and supplier coordination simple.</p>'
     feat_html = "".join(f'<div class="feat"><h4>{t}</h4><p>{d}</p></div>' for t, d in feats)
     stats = [("12+", "Core Product Lines"), ("100+", "Countries Served"), ("24h", "Response Time"), ("1 pc", "Minimum Order")]
     stats_html = "".join(f'<div><b>{n}</b><span>{l}</span></div>' for n, l in stats)
