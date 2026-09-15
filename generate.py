@@ -205,7 +205,11 @@ def index_html():
     for cid in ["power-tools", "pneumatic-tools", "hand-tools", "hardware"]:
         c = next(c for c in CATEGORIES if c["id"] == cid)
         items = [p for p in PRODUCTS if p["cat"] == c["id"]]
-        display_items = items[:9]
+        # Daily rotation: the featured window advances by 3 products per day so each
+        # category section surfaces a different slice of the catalogue every day.
+        offset = (datetime.now().day * 3) % len(items) if items else 0
+        rotated = items[offset:] + items[:offset]
+        display_items = rotated[:9]
         cards = "".join(product_card(p) for p in display_items)
         view_all = f'<div style="text-align:center;margin-top:40px"><a href="/category-{c["id"]}.html" class="btn btn-o">View All {c["name"]} ({len(items)})</a></div>' if len(items) > 9 else ""
         sections += f"""<section id="cat-{c['id']}"><div class="wrap">
