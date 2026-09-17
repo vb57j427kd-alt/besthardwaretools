@@ -87,6 +87,7 @@ PRODUCTS = [
             "Consistent hole spacing and included screws help installers complete repeat cabinet fit-outs with fewer alignment delays",
             "A coordinated black handle gives furniture makers an easy upgrade path for modern kitchen, wardrobe and office ranges",
             "Standard hole-spacing options help importers plan matching handle assortments across kitchen, wardrobe and office furniture lines",
+            "Smooth bar edges avoid snagging aprons and clothing in busy kitchen and wardrobe use",
         ],
         "related": ["stainless-steel-soft-close-hinge", "heavy-duty-swivel-caster", "magnetic-screwdriver-set"],
     },
@@ -217,6 +218,7 @@ PRODUCTS = [
             "A practical all-in-one choice for electrical fit-outs and maintenance teams that need fewer tool changes at the panel",
             "Multi-function jaws help electrical and construction buyers equip crews with one compact tool for common wire tasks",
             "The combined cutting, gripping and crimping functions help contractors reduce tool changes during panel and junction-box work",
+            "6-inch length fits tight panel and distribution-board work where a full-size plier will not go",
         ],
         "related": ["72-tooth-ratchet-wrench-set", "magnetic-screwdriver-set", "pneumatic-air-nailer"],
     },
@@ -348,6 +350,7 @@ PRODUCTS = [
             "Shop-air operation supports repeated wheel and machinery jobs without battery charging pauses",
             "Twin-hammer air power gives tire and fleet-service buyers a dependable high-volume tool for repeated fastening cycles",
             "Standard compressor operation helps workshops schedule repeated wheel-service work without battery charging pauses",
+            "Aluminum housing keeps the tool light enough for one-hand work under raised vehicles",
         ],
         "related": ["pneumatic-air-nailer", "hvlp-gravity-spray-gun", "brushless-impact-wrench"],
     },
@@ -479,6 +482,7 @@ PRODUCTS = [
             "Concealed mounting keeps wardrobe and partition projects visually clean while giving installers flexible door movement",
             "Concealed 360-degree movement gives furniture and office-fit-out buyers a clean hardware solution for space-conscious door layouts",
             "The compact concealed profile helps installers preserve a clean door edge on wardrobe and partition projects",
+            "Suits corner wardrobes and room dividers where a standard hinge cannot swing clear",
         ],
         "related": ["stainless-steel-soft-close-hinge", "loose-pin-door-hinge", "heavy-duty-swivel-caster"],
     },
@@ -615,6 +619,7 @@ PRODUCTS = [
             "A complete battery-and-charger package lets installers start same-day repair and assembly work without extra accessories",
             "Brushless impact drilling gives tool distributors a versatile 21V starter kit for masonry, fastening and everyday site work",
             "The battery-and-charger package helps installers start same-day drilling and fastening work without sourcing separate power accessories",
+            "Belt clip and LED light keep both hands free when positioning on ladders or in crawl spaces",
         ],
         "related": ["brushless-cordless-drill", "brushless-impact-wrench", "magnetic-screwdriver-set"],
     },
@@ -750,6 +755,7 @@ PRODUCTS = [
             "Extension tubes help body shops and maintenance crews coat boxed sections and cavities that standard spray guns cannot reach",
             "An undercoat-specific canister and nozzle setup help automotive distributors serve the chassis-protection niche alongside standard HVLP lines",
             "The extension tubes help body-shop buyers reach boxed sections and cavities that are difficult to coat with a standard spray gun",
+            "Pressure canister keeps a steady feed across large chassis panels without stopping to refill",
         ],
         "related": ["hvlp-gravity-spray-gun", "pneumatic-air-nailer", "air-impact-wrench"],
     },
@@ -886,6 +892,7 @@ PRODUCTS = [
             "Rubberized grip helps plumbers and maintenance technicians keep control when fittings are oily or wet",
             "A laser-etched scale and rubberized grip help maintenance teams perform fast, controlled fastening across a range of nut and bolt sizes",
             "The 20mm opening helps plumbing and maintenance distributors cover common fitting work with one compact adjustable tool",
+            "Fits standard tool pouches and van kits at 207 mm without adding bulk",
         ],
         "related": ["72-tooth-ratchet-wrench-set", "mini-ratchet-handle-set", "diagonal-cutting-pliers"],
     },
@@ -1022,6 +1029,7 @@ PRODUCTS = [
             "Side handle and depth gauge help rental fleets and maintenance teams deliver repeatable holes across concrete, wood and metal jobs",
             "Plug-and-work corded power gives rental fleets and maintenance teams a low-cost, zero-recharge drilling solution for concrete and masonry jobs",
             "The keyed 13mm chuck and depth gauge help rental users set up common concrete, wood and metal drilling tasks with stable bit retention",
+            "Suits fixed benches and workshops where mains power is always on hand",
         ],
         "related": ["brushless-cordless-drill", "12v-cordless-drill", "brushless-impact-drill-kit"],
     },
@@ -1154,6 +1162,7 @@ PRODUCTS = [
             "Peel-and-stick installation helps renters and home organizers add storage without drilling into finished walls or cabinets",
             "Adhesive mounting and reinforced ribbed design help home organizers add shelf capacity to finished cabinets without tools or drilling",
             "The four-piece format helps rental and home-organization distributors offer a complete shelf-support solution for one cabinet or storage bay",
+            "Peel-and-stick format suits rented apartments and fitted kitchens where drilling is not an option",
         ],
         "related": ["soft-close-drawer-slide-45mm", "cabinet-hinge-repair-plate", "black-aluminum-cabinet-handle"],
     },
@@ -1280,6 +1289,7 @@ PRODUCTS = [
             "Cuts wood, plywood, plastic and light metal",
             "Three-stage orbital action and brushless efficiency help joiners deliver clean, controlled cuts across wood, plastic and light metal projects",
             "The tool-free blade clamp helps workshop buyers switch blades quickly when moving between different cutting materials",
+            "Bevel base lets joiners undercut worktops and skirting without reaching for a second saw",
         ],
         "related": ["5-inch-brushless-circular-saw-kit", "brushless-cordless-drill", "brushless-cordless-angle-grinder"],
     },
@@ -1402,6 +1412,7 @@ PRODUCTS = [
             "Long trigger lever - steady control over long sessions",
             "Handles auto detailing, buffing and flat-surface sanding",
             "One 5-inch air tool covers detailing, paint polishing and flat-surface prep for body shops and furniture finishers",
+            "Air drive keeps the tool light and cool through long buffing and polishing sessions",
         ],
         "related": ["rectangular-air-sander", "aluminum-siphon-spray-gun", "air-impact-wrench"],
     },
@@ -1520,6 +1531,7 @@ PRODUCTS = [
             "3x75 / 4x100 / 5x125 mm slotted + PH1 / PH2 Phillips sizes",
             "Made for electricians, maintenance techs and appliance repair",
             "Five insulated drivers cover common electrical service tasks while the organized blister pack supports retail and field use",
+            "Suits lighting, socket and appliance installation work where terminal screws sit deep in recesses",
         ],
         "related": ["magnetic-screwdriver-set", "industrial-lineman-pliers", "diagonal-cutting-pliers"],
     },
@@ -1638,6 +1650,7 @@ PRODUCTS = [
             "Includes 2 discs, pressure plate & hex wrench",
             "Spare battery keeps the grinder running through longer sessions",
             "Compact two-battery format gives maintenance and DIY users portable cutting and grinding without a full-size grinder",
+            "75 mm disc reaches pipe runs and tile corners that a full-size grinder cannot enter",
         ],
         "related": ["brushless-cordless-angle-grinder", "12v-cordless-drill", "brushless-cordless-drill"],
     },
@@ -1755,6 +1768,7 @@ PRODUCTS = [
             "Clean vibratory-polished finish",
             "Screws supplied separately for custom installation",
             "Automatic re-locking helps equipment builders keep guards and panels secure through repeated vibration and service cycles",
+            "Push-button release lets engineers open guards one-handed while steadying a panel",
         ],
         "related": ["stainless-draw-latch", "stainless-corner-brace-40mm", "adjustable-l-bracket-58mm"],
     },
@@ -1869,6 +1883,7 @@ PRODUCTS = [
             "Retaining pin hole + O-ring included",
             "Black phosphate finish resists wear and corrosion",
             "Six-point impact fit and retaining hardware help tire and maintenance teams keep sockets secure during high-vibration service",
+            "Suits tire, brake and suspension service where one deep hex is used repeatedly",
         ],
         "related": ["brushless-impact-wrench", "air-impact-wrench", "72-tooth-ratchet-wrench-set"],
     },
@@ -1984,6 +1999,7 @@ PRODUCTS = [
             "Manual mode gives precise control for small jobs",
             "Air-powered mode greases tractors, excavators and trucks fast, without hand-pump fatigue",
             "Dual operation lets maintenance teams handle remote small jobs manually and high-volume fleet lubrication with shop air",
+            "Zinc-alloy high-pressure head stands up to daily fleet lubrication schedules",
         ],
         "related": ["high-pressure-air-blow-gun", "air-impact-wrench", "pistol-air-screwdriver-5h"],
     },
@@ -2105,6 +2121,7 @@ PRODUCTS = [
             "Mirror-polished chrome finish wipes clean easily",
             "Dedicated 1/4-inch imperial size fills the gap in metric-focused tool kits",
             "Swivel access and fine ratcheting help mechanics handle imperial fasteners in engine bays and service spaces with fewer repositioning delays",
+            "1/4-inch imperial size suits classic motorcycle, agricultural and older machinery fasteners",
         ],
         "related": ["72-tooth-ratchet-wrench-set", "15pc-swivel-ratchet-wrench-set", "52in1-wrench-set"],
     },
@@ -2226,6 +2243,7 @@ PRODUCTS = [
             "Lock-on switch and guard for safe operation",
             "Full kit - cutting and grinding discs, side handle and wrench included, ready to work",
             "Complete accessories reduce first-order sourcing work for metal, plumbing and construction crews starting a cordless grinding setup",
+            "Guard and side handle let crews switch between cutting and grinding safely on site",
         ],
         "related": ["brushless-cordless-angle-grinder", "12v-mini-angle-grinder", "electric-triangle-sander"],
     },
@@ -2344,6 +2362,7 @@ PRODUCTS = [
             "Pre-drilled holes allow bolt-on mounting when needed",
             "Built for steel doors, gates and machine guards that need a permanent pivot",
             "Weld-or-bolt flexibility helps fabricators adapt one corrosion-resistant hinge format across doors, gates and enclosure projects",
+            "Full 60 x 74 mm plate suits full-size steel doors rather than light cabinet panels",
         ],
         "related": ["360-degree-pivot-door-hinge", "loose-pin-door-hinge", "stainless-corner-brace-40mm"],
     },
@@ -2461,6 +2480,7 @@ PRODUCTS = [
             "Quick-change collet accepts standard rotary bits",
             "Engraves, polishes, cuts and grinds on wood, metal, jade and stone",
             "Pen-style grip gives precise handling for jewelry, model and detail work",
+            "Cordless body reaches awkward workpieces where a bench motor tool cannot be mounted",
         ],
         "related": ["electric-triangle-sander", "brushless-cordless-drill", "mini-cordless-chainsaw"],
     },
@@ -2579,6 +2599,7 @@ PRODUCTS = [
             "Ready-to-sell set with sockets, extensions and case",
             "Reliable choice for fleet maintenance, workshops and field service teams",
             "No battery dependency - continuous shop-air torque for long service sessions",
+            "Built for truck, bus and construction-equipment service where fasteners are heavily torqued",
         ],
         "related": ["mining-air-impact-wrench", "air-impact-wrench", "1-2-inch-socket-set"],
     },
@@ -2693,6 +2714,7 @@ PRODUCTS = [
             "Rust-resistant for adhesive and moisture work",
             "Survives daily abuse from warehouse, builder and decorator work",
             "Handles box cutting, wallpaper stripping and drywall scoring without flexing",
+            "Snap-off 18 mm blade keeps a fresh edge for carton and drywall work without resharpening",
         ],
         "related": ["heavy-duty-tape-measure-5m", "magnetic-aluminum-level", "diagonal-cutting-pliers"],
     },
@@ -2807,6 +2829,7 @@ PRODUCTS = [
             "Impact-resistant body for workshop drops",
             "Cross-sells with cordless tools and repair kits",
             "Runs for hours per charge - tops up from power banks or vehicle USB ports",
+            "Magnetic base frees both hands when working inside panels or under vehicles",
         ],
         "related": ["brushless-cordless-drill", "12v-mini-angle-grinder", "mini-cordless-screwdriver-set"],
     },
@@ -2923,6 +2946,7 @@ PRODUCTS = [
             "Popular cross-border modern hardware design",
             "Fingerprint-resistant anodizing keeps a uniform look across cabinet runs",
             "Quick two-screw mounting suits production lines and DIY fit-outs alike",
+            "96 mm spacing suits drawer fronts and small cabinet doors in compact kitchens",
         ],
         "related": ["black-aluminum-cabinet-handle", "stainless-steel-soft-close-hinge", "gold-long-aluminum-cabinet-pull"],
     },
@@ -3041,6 +3065,7 @@ PRODUCTS = [
             "Great for garden, workshop and car care",
             "Clears leaves, dust, snow and debris from patios, driveways and vehicles",
             "Handy for workshop dust cleanup and car interior drying between garden jobs",
+            "Bare-tool format lets buyers with 18V packs add a blower without a second charger",
         ],
         "related": ["brushless-cordless-drill", "12v-cordless-drill", "cordless-reciprocating-saw"],
     },
@@ -3159,6 +3184,7 @@ PRODUCTS = [
             "Reduces fatigue vs manual cutters",
             "Keeps consistent cutting force batch after batch",
             "No electrical hazard - safe for damp work areas",
+            "Runs on shop air, so it is safe for damp yards and outdoor cable runs",
         ],
         "related": ["pneumatic-metal-shear", "pneumatic-air-chisel-150mm", "pistol-air-screwdriver-5h"],
     },
@@ -3268,7 +3294,8 @@ PRODUCTS = [
             "Cuts copper and soft wire up to 2.5 mm",
             "Soft grip handles reduce hand fatigue",
             "Auto-return spring for one-hand use",
-            "Serrated jaw faces hold round and smooth wire without slipping"
+            "Serrated jaw faces hold round and smooth wire without slipping",
+            "Auto-return spring allows one-hand work inside enclosures and wiring looms"
         ],
         "related": ["industrial-lineman-pliers", "diagonal-cutting-pliers", "9-inch-chrome-vanadium-combination-pliers"]
     },
@@ -3378,7 +3405,8 @@ PRODUCTS = [
             "1000 ml cup means fewer refills per room",
             "Automatic spray keeps an even, pulseless pattern",
             "Quick-strip parts rinse clean in minutes",
-            "Trigger-free automatic spray reduces hand strain on overhead work"
+            "Trigger-free automatic spray reduces hand strain on overhead work",
+            "Detachable cup strips down for quick cleaning between color changes"
         ],
         "related": ["brushless-cordless-drill", "cordless-reciprocating-saw", "cordless-brushless-leaf-blower"]
     },
@@ -3488,7 +3516,8 @@ PRODUCTS = [
             "Bearing wheels glide quietly in the track",
             "Anti-derail profile prevents track jumping",
             "Steel body with stainless fasteners - rust resistant",
-            "Built for daily sliding cycles on wardrobes, partitions and patio screens"
+            "Built for daily sliding cycles on wardrobes, partitions and patio screens",
+            "Top-hung design carries heavy panels without a floor track to trip over"
         ],
         "related": ["360-degree-pivot-door-hinge", "no-drill-magnetic-door-stop", "heavy-duty-swivel-caster"]
     },
@@ -3602,7 +3631,8 @@ PRODUCTS = [
             "Pointed and flat chisels included for instant start",
             "Rugged case and carbon brushes in the export kit",
             "Anti-vibration body keeps longer breaking sessions manageable",
-            "Ready-in-case kit helps renovation crews move from wall chasing to floor and tile removal with fewer setup delays"
+            "Ready-in-case kit helps renovation crews move from wall chasing to floor and tile removal with fewer setup delays",
+            "2000 W motor sustains long breaking shifts on demolition and renovation work"
         ],
         "related": ["corded-impact-drill-13mm", "brushless-cordless-rotary-hammer", "13mm-brushless-cordless-impact-drill"]
     },
@@ -3716,7 +3746,8 @@ PRODUCTS = [
             "Pistol grip keeps one-hand control comfortable",
             "Air drive runs cool and light all day",
             "Variable throttle eases into the hole before applying full speed",
-            "Forward/reverse control helps assembly and maintenance teams drill, clear chips and back out fasteners with one air tool"
+            "Forward/reverse control helps assembly and maintenance teams drill, clear chips and back out fasteners with one air tool",
+            "Air drive runs cool and light, so it suits long production drilling runs"
         ],
         "related": ["pistol-air-screwdriver-5h", "1-2-inch-air-ratchet-wrench-set", "rectangular-air-sander"]
     },
@@ -3830,7 +3861,8 @@ PRODUCTS = [
             "Chrome vanadium steel build",
             "Protective case keeps calibration safe",
             "Prevents over-torque damage on engine covers, bicycle parts and precision assemblies",
-            "Lockable micrometer setting supports repeatable fastening for service teams and assembly work with documented torque requirements"
+            "Lockable micrometer setting supports repeatable fastening for service teams and assembly work with documented torque requirements",
+            "5-25 Nm range covers small engine, bicycle and instrument fasteners"
         ],
         "related": ["72-tooth-ratchet-wrench-set", "15pc-swivel-ratchet-wrench-set", "1-2-inch-socket-set"]
     },
@@ -3944,7 +3976,8 @@ PRODUCTS = [
             "Safety slip clutch protects against binding",
             "Full accessory kit with carrying case",
             "Vibration-damped handle keeps long drilling sessions manageable",
-            "SDS-Max format and two operating modes give contractors one corded platform for anchor drilling and heavy chiseling"
+            "SDS-Max format and two operating modes give contractors one corded platform for anchor drilling and heavy chiseling",
+            "10 kg class body suits ground-level concrete breaking where a heavier hammer would be hard to position"
         ],
         "related": ["brushless-cordless-rotary-hammer", "corded-impact-drill-13mm", "110v-electric-demolition-hammer"]
     },
@@ -4056,7 +4089,8 @@ PRODUCTS = [
             "No-drill adhesive mounting protects walls",
             "Double hooks hold keys, towels and tools",
             "Clean removal when repositioning",
-            "Two-hook format gives household-storage distributors a compact, rust-resistant add-on for wet-area organization"
+            "Two-hook format gives household-storage distributors a compact, rust-resistant add-on for wet-area organization",
+            "Brushed finish blends with kitchen and bathroom fittings for a tidy finished look"
         ],
         "related": ["no-drill-heavy-duty-shelf-bracket", "no-drill-magnetic-door-stop", "magnetic-glass-door-catch"]
     },
@@ -4166,7 +4200,8 @@ PRODUCTS = [
             "355 mm blade cuts 120 mm depth in one pass",
             "Rigid pivoting head for square cuts",
             "Full guard and clamp for operator safety",
-            "Rigid bench cutting helps fabricators and rental fleets deliver repeatable stock lengths with less manual rework"
+            "Rigid bench cutting helps fabricators and rental fleets deliver repeatable stock lengths with less manual rework",
+            "Suits fabrication shops and rental yards cutting steel, angle iron, rebar and tube at a fixed bench"
         ],
         "related": ["handheld-marble-cutter-125mm", "7-inch-brushless-cordless-circular-saw", "corded-wood-trim-router"]
     },
@@ -4276,7 +4311,8 @@ PRODUCTS = [
             "Precise depth adjustment for fine finish",
             "Reaches small parts and in-place workpieces",
             "Rust-resistant body for daily shop use",
-            "Compact control makes fine edge and end-grain work accessible for cabinetmakers, luthiers and model makers"
+            "Compact control makes fine edge and end-grain work accessible for cabinetmakers, luthiers and model makers",
+            "Suits fitting doors and trimming laminate where a full-size plane is too long to balance"
         ],
         "related": ["magnetic-aluminum-level", "stainless-digital-caliper-150mm", "heavy-duty-tape-measure-5m"]
     },
@@ -4387,7 +4423,8 @@ PRODUCTS = [
             "Natural beech handle with mallet reinforcement",
             "Precision ground bevel for accurate joinery",
             "Through-tang design for superior durability",
-            "Multiple width options let woodworking suppliers cover detail carving, joinery and general timber-shaping programs"
+            "Multiple width options let woodworking suppliers cover detail carving, joinery and general timber-shaping programs",
+            "Suits hinge mortising, dovetail work and general joinery in hardwood and softwood"
         ],
         "related": ["65mn-wood-handsaw", "mini-aluminum-wood-plane", "72-tooth-ratchet-wrench-set"],
     },
@@ -4497,7 +4534,8 @@ PRODUCTS = [
             "Complete kit with 2 batteries and fast charger",
             "Variable speed and torque for total control",
             "Ergonomic design for comfortable all-day use",
-            "Two-battery kit helps contractors keep drilling and fastening moving while the spare pack charges"
+            "Two-battery kit helps contractors keep drilling and fastening moving while the spare pack charges",
+            "10 mm keyless chuck speeds up bit changes during fastening-heavy assembly work"
         ],
         "related": ["brushless-impact-wrench-kit", "brushless-cordless-angle-grinder", "13mm-brushless-cordless-impact-drill"],
     },
@@ -4606,6 +4644,7 @@ PRODUCTS = [
             "Compact 1.5 inch format fits standard panel cutouts",
             "Stainless steel surface resists rust in damp settings",
             "Factory-direct with low MOQ and OEM labelling support",
+            "4.7 mm holes accept standard mounting screws for quick panel replacement on site",
         ],
         "related": ["stainless-steel-soft-close-hinge", "stainless-draw-latch", "cabinet-hinge-repair-plate"],
     },
@@ -4712,6 +4751,7 @@ PRODUCTS = [
             "Hardened CR-V jaw cuts wire and grips small fixings",
             "Weighs 195 g, easy to carry in a pouch or tool bag",
             "Factory-direct with low MOQ and bulk packing support",
+            "195 g body suits electrical and control-panel work where reach matters more than leverage",
         ],
         "related": ["9-inch-chrome-vanadium-combination-pliers", "7-inch-circlip-pliers-set", "industrial-water-pump-pliers"],
     },
@@ -4818,6 +4858,7 @@ PRODUCTS = [
             "400 ml cup covers panels with fewer refills",
             "Ships with wrench, brush and quick coupler",
             "Factory-direct with low MOQ and OEM packing support",
+            "10-15 cm spray width suits panel and small-component finishing in body shops",
         ],
         "related": ["cordless-paint-sprayer-1830b", "pneumatic-sandblaster-gun", "pneumatic-needle-scaler"],
     },
@@ -4935,6 +4976,7 @@ PRODUCTS = [
             "Oil-resistant rubber face will not mark tiles or flooring",
             "TPR over-grip stays secure in oily or gloved hands",
             "Four weights from 1 lb to 3 lb for light to heavy fitting",
+            "Suits flooring, tiling and door fitting where a steel hammer would mark the surface",
         ],
         "related": ["bakelite-grip-claw-hammer", "heavy-duty-tape-measure-5m", "crv-woodworking-chisel-set"],
     },
@@ -5054,6 +5096,7 @@ PRODUCTS = [
             "Brushless motor runs cooler with less maintenance",
             "Forward/reverse, safety switch and battery display built in",
             "Supplied as a cased kit with accessories ready to work",
+            "Battery level display lets assemblers plan a full run without stopping mid-task",
         ],
         "related": ["90-degree-air-ratchet-wrench", "brushless-impact-wrench", "1-2-inch-air-ratchet-wrench-set"],
     },
@@ -5171,6 +5214,7 @@ PRODUCTS = [
             "Only 1.8 mm thick, so the fitting stays visually light",
             "Black cushion disc spreads load and protects the glass edge",
             "Polished stainless resists corrosion in bathrooms and kitchens",
+            "Semicircular body keeps glass shelves visually unobtrusive in display cabinets",
         ],
         "related": ["magnetic-glass-door-catch", "frameless-glass-door-hinge-304", "stainless-corner-brace-40mm"],
     },
@@ -5287,6 +5331,7 @@ PRODUCTS = [
             "Wide moving-jaw shoe keeps the clamp square under heavy load",
             "Large two-material handle applies high pressure without an extension",
             "Swivel pad stays flat on angled or uneven workpieces",
+            "Suits cabinet, door-frame and bench glue-ups where panels stay clamped while adhesive cures",
         ],
         "related": ["curved-jaw-locking-pliers-10-inch", "solid-rubber-mallet-non-bounce", "quick-adjust-pipe-wrench"],
     },
@@ -5403,6 +5448,7 @@ PRODUCTS = [
             "Can be dead-headed against a closed valve without a bypass",
             "Flanged ports drop straight into existing standard pipework",
             "Flow set by throttling the air inlet for dosing or full transfer",
+            "Cast base feet allow floor or plinth mounting without a separate bracket",
         ],
         "related": ["pneumatic-paint-mixer-10-30l", "hvlp-pneumatic-spray-gun", "pneumatic-grease-gun"],
     },
