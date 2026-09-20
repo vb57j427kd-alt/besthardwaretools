@@ -117,6 +117,15 @@ document.getElementById('modal').addEventListener('click',function(e){if(e.targe
 function submitOrder(e){e.preventDefault();var n=document.getElementById('orderName').value.trim(),p=document.getElementById('orderPhone').value.trim(),a=document.getElementById('orderAddress').value.trim(),c=document.getElementById('orderCityZip').value.trim();if(!n||!p||!a||!c)return;var d=new Date().toISOString().split('T')[0];var m='New Order - '+currentOrderProduct+'\\nName: '+n+'\\nPhone: '+p+'\\nAddress: '+a+'\\nCity/ZIP: '+c+'\\nDate: '+d+'\\n\\u2014 Sent via besthardwaretools.com';window.open('https://wa.me/8618669693290?text='+encodeURIComponent(m),'_blank');var fd=new FormData();fd.append('product',currentOrderProduct);fd.append('name',n);fd.append('phone',p);fd.append('address',a);fd.append('cityzip',c);fd.append('date',d);fetch('https://formspree.io/f/xeeynyba',{method:'POST',body:fd,headers:{Accept:'application/json'}}).catch(function(){});document.getElementById('orderFormWrap').style.display='none';document.getElementById('orderSuccess').style.display='block'}
 """
 
+def clip_words(text, limit):
+    """Trim text to at most `limit` characters without cutting the final word in half."""
+    if len(text) <= limit:
+        return text
+    window = text[:limit + 1]
+    cut = window.rsplit(" ", 1)[0] if " " in window else text[:limit]
+    return cut.rstrip(" ,;:-")
+
+
 def head(title, desc, canonical, ogimg):
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -288,7 +297,7 @@ def index_html():
 
 def product_page(p):
     title = f"{p['name']} | Factory Direct | Best Hardware Tools"
-    desc = p['desc'][:150]
+    desc = clip_words(p['desc'], 150)
     canonical = f"{URL}products/{p['slug']}.html"
     specs = "".join(f'<tr><td>{k}</td><td>{v}</td></tr>' for k, v in p["specs"])
     pts = "".join(f"<li>{x}</li>" for x in p["points"])
