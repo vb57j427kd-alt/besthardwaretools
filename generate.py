@@ -126,6 +126,17 @@ def clip_words(text, limit):
     return cut.rstrip(" ,;:-")
 
 
+def excerpt(text, limit):
+    """Shorten text to a word boundary within `limit` characters, marking the trim with an ellipsis.
+
+    Trailing sentence punctuation is dropped before the marker is appended, so the
+    result never renders as '....' or ',...'.
+    """
+    if len(text) <= limit:
+        return text
+    return clip_words(text, limit).rstrip(".,;:-!?") + "..."
+
+
 def head(title, desc, canonical, ogimg):
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -205,7 +216,7 @@ def footer():
 
 def product_card(p, full=True):
     rel = f"/products/{p['slug']}.html"
-    d = clip_words(p['desc'], 110) + ("..." if len(p['desc']) > 110 else "")
+    d = excerpt(p['desc'], 110)
     return f"""<a href="{rel}" class="pc"><div class="pc-img"><img src="{p['img']}" alt="{p['name']}" width="400" height="280" loading="lazy" decoding="async"><span class="badge">{p['badge']}</span></div><div class="pc-body"><h3>{p['name']}</h3><p>{d}</p><div class="price-row"><span class="price">{p['price']}</span><span class="moq">{p['moq']}</span></div></div></a>"""
 
 def index_html():
