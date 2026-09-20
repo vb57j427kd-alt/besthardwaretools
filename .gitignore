@@ -1,3 +1,10 @@
 ﻿__pycache__/
 *.pyc
 
+# Raw pre-processing image downloads must never be published:
+# they still carry Chinese text and third-party brand marks.
+images/*_raw.jpg
+images/*_raw.png
+
+# One-off scratch scripts
+_tmp_*.py

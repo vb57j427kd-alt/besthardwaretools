@@ -3149,7 +3149,7 @@ PRODUCTS = [
         "badge": "Bestseller",
         "price": "$6.60 - $10.00 /pc",
         "moq": "MOQ 1 pc",
-        "img": "/images/cordless-leaf-blower-with-storage-box.jpg",
+        "img": "/images/cordless-turbo-fan-blower-kit.jpg",
         "src": "https://detail.1688.com/offer/893679433013.html",
         "desc": "High-airflow cordless turbo fan blower kit that comes complete with lithium battery, charger, manual and a molded storage box. The compact blower body concentrates a strong blast of air for clearing sawdust, dust, leaves, snow and surface water from workshops, patios, cars and outdoor gear. Its portable pistol-grip design is easy to carry on the job, and the included storage box keeps the tool and accessories organized between uses. The kit format is ideal for first-time buyers who want a ready-to-use solution without sourcing a separate battery platform. A fast-moving impulse purchase for hardware stores and e-commerce sellers, this blower also suits 2026 dust-free workshop and garage cleanup trends. Everything ships in one tidy set, simplifying logistics, display and gift-ready retail packaging for volume orders.",
         "specs": [
