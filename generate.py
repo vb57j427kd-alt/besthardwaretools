@@ -205,7 +205,7 @@ def footer():
 
 def product_card(p, full=True):
     rel = f"/products/{p['slug']}.html"
-    d = p['desc'][:110] + ("..." if len(p['desc'])>110 else "")
+    d = clip_words(p['desc'], 110) + ("..." if len(p['desc']) > 110 else "")
     return f"""<a href="{rel}" class="pc"><div class="pc-img"><img src="{p['img']}" alt="{p['name']}" width="400" height="280" loading="lazy" decoding="async"><span class="badge">{p['badge']}</span></div><div class="pc-body"><h3>{p['name']}</h3><p>{d}</p><div class="price-row"><span class="price">{p['price']}</span><span class="moq">{p['moq']}</span></div></div></a>"""
 
 def index_html():
