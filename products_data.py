@@ -7,7 +7,7 @@ SITE = {
     "domain": "besthardwaretools.com",
     "tagline": "One-Stop Hardware & Tools Supplier for Global Buyers",
     "whatsapp": "8618669693290",
-    "email": "yale@mahjongbest.com",
+    "email": "yale@besthardwaretools.com",
     "formspree": "xeeynyba",
     "ga4": "G-5J9VBPKTB4",
     "clarity": "xtrv7vr8dn",
