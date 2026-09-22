@@ -165,6 +165,13 @@ def quote_form_inline():
 </form>
 {quote_ok()}"""
 
+def wa_fab():
+    """Floating WhatsApp button, present on every page. The top utility bar (which carries
+    the same number) is hidden below 900px and the mobile menu needs a tap to open, so this
+    keeps one-tap contact permanently in reach. It is suppressed where the sticky mobile
+    action bar already offers a WhatsApp button, and while the inquiry modal is open."""
+    return f"""<a class="wa-fab" href="{WA_HREF}" target="_blank" rel="noopener" aria-label="Chat on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="10.8" r="8.4"/><polygon points="5.6,17.2 10,16.2 4.6,21.4"/><circle class="d" cx="8.5" cy="10.8" r="1.35"/><circle class="d" cx="12" cy="10.8" r="1.35"/><circle class="d" cx="15.5" cy="10.8" r="1.35"/></svg></a>"""
+
 def footer(pname="", psku="", bar=False):
     """`bar` adds the sticky mobile action bar. Product and category pages pass it so a
     phone visitor always has an inquiry CTA in reach; the long category lists need it most."""
@@ -197,6 +204,7 @@ def footer(pname="", psku="", bar=False):
 <div class="copy"><span>&copy; {YEAR} {SITE['brand']} ({SITE['domain']}). All rights reserved.</span><span>Supplier of {', '.join(c['name'] for c in CATEGORIES)}.</span></div>
 </div></footer>
 {bar}
+{wa_fab()}
 {quote_modal()}
 <script>{JS.replace('__WA__', WA_NUM).replace('__FS__', SITE['formspree'])}</script>
 </body></html>"""
