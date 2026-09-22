@@ -118,7 +118,7 @@ def nav(active=""):
 </div></div>
 <nav><div class="wrap nav-in">
 <a href="/" class="logo">BEST <b>HARDWARE</b> TOOLS</a>
-<div class="nav-links" id="navLinks">{links}<a href="/#why">Why Us</a><a href="/#quote">Contact</a><a href="/#quote" class="btn btn-p nav-cta-m">Get a Free Quote</a></div>
+<div class="nav-links" id="navLinks">{links}<a href="/#why">Why Us</a><a href="/#quote">Contact</a><a href="{WA_HREF}" class="nav-wa" target="_blank" rel="noopener">WhatsApp {WA_SHOW}</a><a href="/#quote" class="btn btn-p nav-cta-m">Get a Free Quote</a></div>
 <a href="/#quote" class="btn btn-p nav-cta">Get a Free Quote</a>
 <button class="nav-toggle" type="button" aria-label="Open menu" aria-controls="navLinks" onclick="toggleNav()"><i></i></button>
 </div></nav>"""

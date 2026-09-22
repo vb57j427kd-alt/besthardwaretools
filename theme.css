@@ -253,7 +253,12 @@ footer{background:var(--bg2);padding:56px 0 26px;border-top:1px solid var(--line
 /* ---------- header CTA (desktop button / mobile menu item) ---------- */
 .nav-cta{display:inline-flex;flex:0 0 auto}
 .nav-cta-m{display:none;margin-top:18px}
+/* Mobile-only WhatsApp entry. The top utility bar carries the same number but is
+   hidden below 900px, so this menu item restores a fixed entry point on phones. */
+.nav-wa{display:none}
 @media(max-width:900px){
   .nav-cta{display:none}
   .nav-cta-m{display:inline-flex}
+  .nav-wa{display:inline-flex;color:var(--wa);font-weight:600}
+  .nav-open .nav-links a.nav-wa{color:var(--wa)}
 }

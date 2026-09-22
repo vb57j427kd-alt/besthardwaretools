@@ -282,9 +282,14 @@ footer{background:var(--bg2);padding:56px 0 26px;border-top:1px solid var(--line
 /* ---------- header CTA (desktop button / mobile menu item) ---------- */
 .nav-cta{display:inline-flex;flex:0 0 auto}
 .nav-cta-m{display:none;margin-top:18px}
+/* Mobile-only WhatsApp entry. The top utility bar carries the same number but is
+   hidden below 900px, so this menu item restores a fixed entry point on phones. */
+.nav-wa{display:none}
 @media(max-width:900px){
   .nav-cta{display:none}
   .nav-cta-m{display:inline-flex}
+  .nav-wa{display:inline-flex;color:var(--wa);font-weight:600}
+  .nav-open .nav-links a.nav-wa{color:var(--wa)}
 }</style>
 </head>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Product","name":"1/2" Heavy Duty Air-Powered Impact Wrench (Pistol Grip)","image":"/images/air-impact-wrench.jpg","description":"Industrial-grade pneumatic impact wrench with high torque output for automotive tire service, machinery maintenance and heavy assembly work. The","brand":{"@type":"Brand","name":"Best Hardware Tools"},"offers":{"@type":"Offer","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://besthardwaretools.com/products/air-impact-wrench.html"}}</script>
@@ -295,7 +300,7 @@ footer{background:var(--bg2);padding:56px 0 26px;border-top:1px solid var(--line
 </div></div>
 <nav><div class="wrap nav-in">
 <a href="/" class="logo">BEST <b>HARDWARE</b> TOOLS</a>
-<div class="nav-links" id="navLinks"><a href="/category-power-tools.html">Power Tools</a><a href="/category-pneumatic-tools.html">Pneumatic Tools</a><a href="/category-hand-tools.html">Hand Tools</a><a href="/category-hardware.html">Hardware</a><a href="/#why">Why Us</a><a href="/#quote">Contact</a><a href="/#quote" class="btn btn-p nav-cta-m">Get a Free Quote</a></div>
+<div class="nav-links" id="navLinks"><a href="/category-power-tools.html">Power Tools</a><a href="/category-pneumatic-tools.html">Pneumatic Tools</a><a href="/category-hand-tools.html">Hand Tools</a><a href="/category-hardware.html">Hardware</a><a href="/#why">Why Us</a><a href="/#quote">Contact</a><a href="https://wa.me/8618669693290" class="nav-wa" target="_blank" rel="noopener">WhatsApp +86 186 6969 3290</a><a href="/#quote" class="btn btn-p nav-cta-m">Get a Free Quote</a></div>
 <a href="/#quote" class="btn btn-p nav-cta">Get a Free Quote</a>
 <button class="nav-toggle" type="button" aria-label="Open menu" aria-controls="navLinks" onclick="toggleNav()"><i></i></button>
 </div></nav>
