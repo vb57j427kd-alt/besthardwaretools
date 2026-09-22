@@ -18,10 +18,10 @@ SITE = {
 }
 
 CATEGORIES = [
-    {"id": "hardware", "name": "Hardware", "nav": "Hardware"},
-    {"id": "hand-tools", "name": "Hand Tools", "nav": "Hand Tools"},
     {"id": "power-tools", "name": "Power Tools", "nav": "Power Tools"},
     {"id": "pneumatic-tools", "name": "Pneumatic Tools", "nav": "Pneumatic Tools"},
+    {"id": "hand-tools", "name": "Hand Tools", "nav": "Hand Tools"},
+    {"id": "hardware", "name": "Hardware", "nav": "Hardware"},
 ]
 
 PRODUCTS = [
