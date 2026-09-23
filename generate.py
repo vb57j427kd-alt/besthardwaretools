@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """Generate Best Hardware Tools static site: index.html + products/*.html + seo files."""
 import os
+import json
 import html as _html
 from datetime import datetime
 from products_data import SITE, CATEGORIES, PRODUCTS, RELATED_INDEX
@@ -77,6 +78,11 @@ def excerpt(text, limit):
 
 
 def head(title, desc, canonical, ogimg):
+    # Some product names carry an inch mark, which is a literal double quote. Inside a
+    # double-quoted attribute that closes the value early, so attribute copy is escaped for the
+    # tag context while the rendered title text stays exactly as written.
+    t_attr = title.replace('"', "&quot;")
+    d_attr = desc.replace('"', "&quot;")
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -84,18 +90,18 @@ def head(title, desc, canonical, ogimg):
 <meta name="google-site-verification" content="34SoIYpfZyiFCfgYUijxbkcMA456YX6Yut8l1RegbqU">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title}</title>
-<meta name="description" content="{desc}">
+<meta name="description" content="{d_attr}">
 <meta name="keywords" content="hardware tools supplier, hand tools, power tools, pneumatic tools, cabinet hardware, wholesale tools, factory direct, OEM tools, Best Hardware Tools">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="{canonical}">
 <meta property="og:type" content="website">
-<meta property="og:title" content="{title}">
-<meta property="og:description" content="{desc}">
+<meta property="og:title" content="{t_attr}">
+<meta property="og:description" content="{d_attr}">
 <meta property="og:image" content="{ogimg}">
 <meta property="og:url" content="{canonical}">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{title}">
-<meta name="twitter:description" content="{desc}">
+<meta name="twitter:title" content="{t_attr}">
+<meta name="twitter:description" content="{d_attr}">
 <meta name="twitter:image" content="{ogimg}">
 <meta name="theme-color" content="#FFFFFF">
 <meta property="og:site_name" content="{SITE['brand']}">
@@ -209,14 +215,20 @@ def footer(pname="", psku="", bar=False):
 <script>{JS.replace('__WA__', WA_NUM).replace('__FS__', SITE['formspree'])}</script>
 </body></html>"""
 
+def _alt(name):
+    """Attribute-safe product name. Several names carry an inch mark, i.e. a literal double
+    quote, which would close the alt value early and leave the remainder as stray attributes."""
+    return name.replace('"', "&quot;")
+
+
 def ot_shot(p, cls="shot"):
     """Uniform framed product image: 1:1 white field, object-fit:contain, no cropping."""
-    return f'<div class="{cls}"><img src="{p["img"]}" alt="{p["name"]}" width="480" height="480" loading="lazy" decoding="async"></div>'
+    return f'<div class="{cls}"><img src="{p["img"]}" alt="{_alt(p["name"])}" width="480" height="480" loading="lazy" decoding="async"></div>'
 
 
 def product_card(p):
     rel = f"/products/{p['slug']}.html"
-    return f"""<a href="{rel}" class="pc"><div class="pc-img"><img src="{p['img']}" alt="{p['name']}" width="600" height="600" loading="lazy" decoding="async"><span class="badge">{p['badge']}</span></div><div class="pc-body"><h3>{p['name']}</h3><p class="pc-d">{excerpt(p['desc'], 110)}</p><div class="price-row"><span class="price">{p['price']}</span><span class="moq">{p['moq']}</span></div></div></a>"""
+    return f"""<a href="{rel}" class="pc"><div class="pc-img"><img src="{p['img']}" alt="{_alt(p['name'])}" width="600" height="600" loading="lazy" decoding="async"><span class="badge">{p['badge']}</span></div><div class="pc-body"><h3>{p['name']}</h3><p class="pc-d">{excerpt(p['desc'], 110)}</p><div class="price-row"><span class="price">{p['price']}</span><span class="moq">{p['moq']}</span></div></div></a>"""
 
 def index_html():
     day = datetime.now().day
@@ -247,7 +259,7 @@ def index_html():
     for c in CATEGORIES:
         items = [p for p in PRODUCTS if p["cat"] == c["id"]]
         pk = picks.get(c["id"])
-        img = f'<img src="{pk["img"]}" alt="{pk["name"]}" width="480" height="360" loading="lazy" decoding="async">' if pk else ""
+        img = f'<img src="{pk["img"]}" alt="{_alt(pk["name"])}" width="480" height="360" loading="lazy" decoding="async">' if pk else ""
         meta = f'{len(items)} products &middot; from {pk["price"].split(" - ")[0]}' if pk else f'{len(items)} products'
         cat_cards += (f'<a href="/category-{c["id"]}.html" class="cat"><div class="cat-img">{img}</div>'
                       f'<div class="cat-b"><h3>{c["name"]}</h3><span>{meta}</span>'
@@ -390,14 +402,36 @@ def product_page(p):
     ]
     trade_rows = "".join(f"<tr><td>{k}</td><td>{v}</td></tr>" for k, v in trade)
     wa_text = p['name'].replace(' ', '%20')
-    jsonld = f'''{{"@context":"https://schema.org","@type":"Product","name":"{p['name']}","image":"{p['img']}","description":"{desc}","brand":{{"@type":"Brand","name":"{SITE['brand']}"}},"offers":{{"@type":"Offer","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"{canonical}"}}}}'''
+    # The stored price is a display range like "$1.55 - $2.33 /pc" and schema.org has no range
+    # field on a single Offer, so the band is published as an AggregateOffer carrying the numeric
+    # lowPrice/highPrice that a Product rich result needs. If that string ever stops parsing, the
+    # offer falls back to currency and availability alone rather than publishing a number we
+    # cannot verify. image is absolute here because the JSON-LD is read out of page context.
+    _pv = p["price"].split(" - ")
+    try:
+        low, high = float(_pv[0].lstrip("$")), float(_pv[1].split(" ")[0].lstrip("$"))
+    except (IndexError, ValueError):
+        low = high = None
+    if low is not None and high is not None:
+        offers = {"@type": "AggregateOffer", "priceCurrency": "USD", "lowPrice": low,
+                  "highPrice": high, "availability": "https://schema.org/InStock", "url": canonical}
+    else:
+        offers = {"@type": "Offer", "priceCurrency": "USD",
+                  "availability": "https://schema.org/InStock", "url": canonical}
+    # json.dumps owns the quoting: several product names carry a literal inch mark that would
+    # otherwise terminate the JSON string and invalidate the whole block.
+    jsonld = json.dumps({
+        "@context": "https://schema.org", "@type": "Product", "name": p["name"],
+        "image": f"{URL}{p['img'].lstrip('/')}", "description": desc,
+        "brand": {"@type": "Brand", "name": SITE["brand"]}, "offers": offers,
+    }, ensure_ascii=False, separators=(",", ":"))
     html = head(title, desc, canonical, URL + "images/" + p['slug'] + ".jpg")
     html += f"""<script type="application/ld+json">{jsonld}</script>
 <body>
 {nav()}
 <div class="wrap crumb"><a href="/">Home</a> &rsaquo; <a href="/category-{p['cat']}.html">{cat_name}</a> &rsaquo; {p['name']}</div>
 <div class="wrap pd">
-<div class="pd-media"><div class="pd-img"><img src="{p['img']}" alt="{p['name']}" width="800" height="800"></div>
+<div class="pd-media"><div class="pd-img"><img src="{p['img']}" alt="{_alt(p['name'])}" width="800" height="800"></div>
 <div class="trustline"><span>Factory-direct</span><span>OEM / ODM</span><span>Third-party inspection welcome</span></div></div>
 <div class="pd-info">
 <h1>{p['name']}</h1>
