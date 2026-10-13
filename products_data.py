@@ -8917,7 +8917,7 @@ PRODUCTS = [
     {
         "slug": "heavy-duty-wall-shelf-bracket",
         "cat": "hardware",
-        "name": "Heavy-Duty Stainless Wall Shelf Bracket (Thickened, Pair)",
+        "name": "Heavy-Duty Cold-Rolled Steel Wall Shelf Bracket (Thickened, Pair)",
         "badge": "New",
         "price": "$0.35 - $0.53 /pc",
         "moq": "MOQ 1 pc",
