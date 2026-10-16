@@ -7515,7 +7515,7 @@ PRODUCTS = [
         "moq": "MOQ 5 pcs",
         "img": "/images/pneumatic-air-hoist-2t.jpg",
         "src": "https://detail.1688.com/offer/729690330716.html",
-        "desc": "Air-powered chain hoist rated at 2 tonnes for lifting and shifting loads where an electric hoist cannot be used. There are no electrical parts in the drive, so it produces no spark and no static, which suits hazardous areas and atmospheres carrying dust or solvent vapour. If the air line is cut the load holds where it is instead of running down, and a self-locking mechanism stops the chain over-speeding on the way down. Running on 0.5 MPa shop air, the motor lifts at 1.4 m per minute and lowers at 1.5 m per minute with the speed adjustable, and the unit is small and light beside an electric hoist of the same capacity. Two falls of chain carry the 2 tonne load. For mine workshops, plant maintenance and fabrication bays, supplied with a one-year warranty on the unit. Crews handling heavy components in a wash bay or tank farm can avoid running power leads to the lifting point, and the chain and hook wear parts are straightforward to replace during routine servicing, which helps a shutdown schedule stay on track.",
+        "desc": "Air-powered chain hoist rated at 2 tonnes for lifting and shifting loads where an electric hoist cannot be used. There are no electrical parts in the drive, so it produces no spark and no static, which suits hazardous areas and atmospheres carrying dust or solvent vapour. If the air line is cut the load holds where it is instead of running down, and a self-locking mechanism stops the chain over-speeding on the way down. Running on 0.5 MPa shop air, the motor lifts at 1.4 m per minute and lowers at 1.5 m per minute with the speed adjustable, and the unit is small and light beside an electric hoist of the same capacity. Two falls of chain carry the 2 tonne load. For mine workshops, plant maintenance and fabrication bays, supplied with a one-year warranty on the unit. Crews handling heavy components in a wash bay or tank farm can avoid running power leads to the lifting point, and the chain and hook wear parts are straightforward to replace during routine servicing, which helps a shutdown schedule stay on track. Rental yards can keep a spare hoist for sites where no electrical supply reaches the lifting point, so a short job needs no generator.",
         "specs": [
             ("Capacity", "2 Tonne"),
             ("Working Air Pressure", "0.5 MPa"),
@@ -7543,7 +7543,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/over-door-hook-rack-8-hooks.jpg",
         "src": "https://detail.1688.com/offer/704191256415.html",
-        "desc": "Over-door hook rack that hangs over the top edge of a door with no drilling and no adhesive, so it can be lifted off and moved whenever the room is rearranged. Eight J-shaped hooks sit on two flat vertical arms and take coats, bags, towels, keys and lanyards at once. The 28 cm drop and 53 cm span fit a standard interior door, and the gunmetal grey finish keeps the rack low-key against pale doors. Because nothing is fixed to the door or the wall, it suits rented flats, hotel rooms, serviced apartments and dormitories where the tenant cannot make holes. It is also a practical way to add hanging space in bathrooms, utility rooms and cloakrooms without a fitter. The slim arms sit flat against the door face when the rack is empty, so the door still closes normally. For importers and distributors it ships as a single carton-ready unit that stacks small beside other door and storage hardware lines. At retail the rack presents well on a pegboard or gondola end because the hooks face forward, and a buyer can cover door, wardrobe and bathroom promotions with a single line rather than several fittings.",
+        "desc": "Over-door hook rack that hangs over the top edge of a door with no drilling and no adhesive, so it can be lifted off and moved whenever the room is rearranged. Eight J-shaped hooks sit on two flat vertical arms and take coats, bags, towels, keys and lanyards at once. The 28 cm drop and 53 cm span fit a standard interior door, and the gunmetal grey finish keeps the rack low-key against pale doors. Because nothing is fixed to the door or the wall, it suits rented flats, hotel rooms, serviced apartments and dormitories where the tenant cannot make holes. It is also a practical way to add hanging space in bathrooms, utility rooms and cloakrooms without a fitter. The slim arms sit flat against the door face when the rack is empty, so the door still closes normally. For importers and distributors it ships as a single carton-ready unit that stacks small beside other door and storage hardware lines. At retail the rack presents well on a pegboard or gondola end because the hooks face forward, and a buyer can cover door, wardrobe and bathroom promotions with a single line rather than several fittings. Landlords refurbishing between tenancies can add hanging space without patching screw holes in the door face before the unit is repainted.",
         "specs": [
             ("Height", "28 cm"),
             ("Width", "53 cm"),
@@ -7571,7 +7571,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/antique-bronze-ring-pull.jpg",
         "src": "https://detail.1688.com/offer/863719375253.html",
-        "desc": "Single-hole ring pull in antique bronze for drawers, cupboards, jewellery boxes and small chests. The circular ring swings on a ball-ended stem and drops back to sit flush against the front when it is not in use, so nothing catches on a sleeve as people walk past. A single fixing hole means it can replace a plain knob without filling and re-drilling, which makes it a quick way to lift the look of an existing chest or cabinet run. The 36 mm height and 30 mm width suit drawer fronts and narrow rails where a bar handle would overhang. Because the ring is a discrete fitting, the pull works on antique, rustic and traditional furniture as well as on modern pieces that want a small dark accent. For furniture makers and hardware distributors it is a low-cost, high-turnover line that mixes easily with other single-hole fittings in one order. Designers following the 2026 warm metallic direction can use the antique bronze tone as the accent that ties a dark or traditional scheme together, and it sits comfortably alongside old brass and satin bronze fittings. On a hardware counter the pull sells as an impulse line, shown loose in a tray beside knobs so customers can match the tone before buying, and it ships in compact inner packs that keep order quantities flexible. The 2026 Modern Heritage direction leans on exactly this combination of a classic shape and a finish that still looks current, so the same pull suits a restored chest and a newly built cabinet run.",
+        "desc": "Single-hole ring pull in antique bronze for drawers, cupboards, jewellery boxes and small chests. The circular ring swings on a ball-ended stem and drops back to sit flush against the front when it is not in use, so nothing catches on a sleeve as people walk past. A single fixing hole means it can replace a plain knob without filling and re-drilling, which makes it a quick way to lift the look of an existing chest or cabinet run. The 36 mm height and 30 mm width suit drawer fronts and narrow rails where a bar handle would overhang. Because the ring is a discrete fitting, the pull works on antique, rustic and traditional furniture as well as on modern pieces that want a small dark accent. For furniture makers and hardware distributors it is a low-cost, high-turnover line that mixes easily with other single-hole fittings in one order. Designers following the 2026 warm metallic direction can use the antique bronze tone as the accent that ties a dark or traditional scheme together, and it sits comfortably alongside old brass and satin bronze fittings. On a hardware counter the pull sells as an impulse line, shown loose in a tray beside knobs so customers can match the tone before buying, and it ships in compact inner packs that keep order quantities flexible. The 2026 Modern Heritage direction leans on exactly this combination of a classic shape and a finish that still looks current, so the same pull suits a restored chest and a newly built cabinet run. Homeowners refreshing a hallway cabinet can swap the knobs one door at a time, spreading the cost of a slow makeover rather than buying everything at once.",
         "specs": [
             ("Finish", "Antique Bronze"),
             ("Height", "36 mm"),
@@ -7599,7 +7599,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/recessed-steel-cabinet-pull.jpg",
         "src": "https://detail.1688.com/offer/819692014667.html",
-        "desc": "Flush-mounted pull for steel filing cabinets, lockers, wardrobes and storage cupboards. The body sits down into a rectangular cut-out, so it takes almost no space off the front of the cabinet and cannot snag clothing or trolley loads moving past. The brushed stainless face wipes clean and resists fingerprints, which matters on equipment that is handled all day in workshops, offices and gyms. Four fixing points hold the frame firm against the panel, and the 105 mm overall length gives a full hand width to pull a loaded drawer open. Because it is recessed rather than surface-mounted, it is the usual choice where drawers sit close together or where the cabinet door opens flat against a wall. For locker and cabinet manufacturers it is a low-cost fitting that can be specified across a whole range without changing the panel design, and for distributors it complements other stainless cabinet hardware in the same order. Fitters working to the 2026 taste for an ultra-clean cabinetry front can specify it as a finger pull, because the recessed body keeps the door face flat with no handle standing proud while the opening still takes a full hand. Cabinet fitters can set the frame into a cut-out made on a standard router setting, so a run of locker fronts is prepared quickly and the panels stack flat for transport before assembly.",
+        "desc": "Flush-mounted pull for steel filing cabinets, lockers, wardrobes and storage cupboards. The body sits down into a rectangular cut-out, so it takes almost no space off the front of the cabinet and cannot snag clothing or trolley loads moving past. The brushed stainless face wipes clean and resists fingerprints, which matters on equipment that is handled all day in workshops, offices and gyms. Four fixing points hold the frame firm against the panel, and the 105 mm overall length gives a full hand width to pull a loaded drawer open. Because it is recessed rather than surface-mounted, it is the usual choice where drawers sit close together or where the cabinet door opens flat against a wall. For locker and cabinet manufacturers it is a low-cost fitting that can be specified across a whole range without changing the panel design, and for distributors it complements other stainless cabinet hardware in the same order. Fitters working to the 2026 taste for an ultra-clean cabinetry front can specify it as a finger pull, because the recessed body keeps the door face flat with no handle standing proud while the opening still takes a full hand. Cabinet fitters can set the frame into a cut-out made on a standard router setting, so a run of locker fronts is prepared quickly and the panels stack flat for transport before assembly. A care home or clinic refit can use the same pull throughout, since a flush front leaves no lever for a walking aid to catch on.",
         "specs": [
             ("Material", "Stainless Steel"),
             ("Finish", "Brushed"),
@@ -7627,7 +7627,7 @@ PRODUCTS = [
         "moq": "MOQ 2 pcs",
         "img": "/images/industrial-bench-vise-3-inch.jpg",
         "src": "https://detail.1688.com/offer/1076114623370.html",
-        "desc": "Cast bench vise with a 75 mm jaw and a swivel base that turns the work to the operator instead of making the operator walk around the bench. The 103 mm maximum opening and 53 mm throat depth take tube, angle iron and flat bar as well as small engine and machine parts, and the anvil face at the back of the body gives somewhere to flatten and set a rivet or a pin. The polished jaws are cross-hatched to bite on round stock, and the sliding T-handle applies steady pressure without needing a cheater bar. At 4 kg the vise is heavy enough to stay put under load yet light enough for a bench that has to be moved, or for a van-mounted workbench. It suits general fabrication, automotive and maintenance workshops as the one vise on the bench, and it gives tool distributors a mid-size option between a small clamp-on vise and a full industrial model. A trainee can clamp a part and work on it in one position rather than holding it by hand, which cuts the risk of a slip during cutting and filing and lets a less experienced fitter complete straightforward jobs unaided.",
+        "desc": "Cast bench vise with a 75 mm jaw and a swivel base that turns the work to the operator instead of making the operator walk around the bench. The 103 mm maximum opening and 53 mm throat depth take tube, angle iron and flat bar as well as small engine and machine parts, and the anvil face at the back of the body gives somewhere to flatten and set a rivet or a pin. The polished jaws are cross-hatched to bite on round stock, and the sliding T-handle applies steady pressure without needing a cheater bar. At 4 kg the vise is heavy enough to stay put under load yet light enough for a bench that has to be moved, or for a van-mounted workbench. It suits general fabrication, automotive and maintenance workshops as the one vise on the bench, and it gives tool distributors a mid-size option between a small clamp-on vise and a full industrial model. A trainee can clamp a part and work on it in one position rather than holding it by hand, which cuts the risk of a slip during cutting and filing and lets a less experienced fitter complete straightforward jobs unaided. Apprentice training centres can fit a row of benches with the same model, so every learner works to the same clamping method.",
         "specs": [
             ("Jaw Width", "75 mm (3 inch)"),
             ("Max Opening", "103 mm"),
@@ -7655,7 +7655,7 @@ PRODUCTS = [
         "moq": "MOQ 2 pcs",
         "img": "/images/rotating-table-vise-80mm.jpg",
         "src": "https://detail.1688.com/offer/993798703615.html",
-        "desc": "Table vise that clamps onto the edge of a bench or table instead of being bolted down, so it can be set up wherever the work is and taken off again in seconds. The 80 mm jaws open to take small parts, and the base clamp grips a table up to 64 mm thick with a hand-turned screw. The whole head swivels on its base, so the jaws can be presented at the angle that suits the cut or the file stroke. At 1657 g it is light enough to carry to a job and firm enough for sawing, filing and drilling small components. This is the vise for model makers, repair benches and site carpenters working from a temporary bench, where a bolted vise is not an option. For distributors it fills the gap between a hobby clamp and a workshop bench vise, and its compact carton keeps freight cost low on mixed hardware orders. Hobby and trade buyers can share one unit between a workshop and a home bench, and the screw clamp leaves no fixing marks behind, so a rented or temporary workspace is left as it was found.",
+        "desc": "Table vise that clamps onto the edge of a bench or table instead of being bolted down, so it can be set up wherever the work is and taken off again in seconds. The 80 mm jaws open to take small parts, and the base clamp grips a table up to 64 mm thick with a hand-turned screw. The whole head swivels on its base, so the jaws can be presented at the angle that suits the cut or the file stroke. At 1657 g it is light enough to carry to a job and firm enough for sawing, filing and drilling small components. This is the vise for model makers, repair benches and site carpenters working from a temporary bench, where a bolted vise is not an option. For distributors it fills the gap between a hobby clamp and a workshop bench vise, and its compact carton keeps freight cost low on mixed hardware orders. Hobby and trade buyers can share one unit between a workshop and a home bench, and the screw clamp leaves no fixing marks behind, so a rented or temporary workspace is left as it was found. A model engineer can hold a brass block steady for filing, then lift the vise off the bench when the dining table is needed again.",
         "specs": [
             ("Jaw Width", "80 mm"),
             ("Clamping Length", "76 mm"),
@@ -7683,7 +7683,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/electric-knife-sharpener-usb.jpg",
         "src": "https://detail.1688.com/offer/1017194336867.html",
-        "desc": "Countertop electric sharpener that takes the guesswork out of bringing a kitchen knife back to a usable edge. Two slotted stages are marked on the stainless steel face, so a dull blade goes through the coarse slot first and then the fine slot to finish, and the angled guides hold the bevel at a steady angle instead of leaving it to the user to judge. The slim stainless body sits tidily on a worktop and wipes clean after use, and its low profile means it stores in a drawer between jobs. It runs from a USB-rechargeable base rather than a fixed cord, so it can be kept anywhere on the counter and topped up from a laptop, power bank or wall adapter. That makes it a practical gift line and a sensible addition for households, holiday lets and staff kitchens where knives are used daily and sharpening is put off until the edge has gone. Supplied ready to retail. For retail the slim body presents well on a small counter or a checkout display, and the rechargeable base means a customer can try it away from a socket, which lets a buyer watch the slots work before purchase.",
+        "desc": "Countertop electric sharpener that takes the guesswork out of bringing a kitchen knife back to a usable edge. Two slotted stages are marked on the stainless steel face, so a dull blade goes through the coarse slot first and then the fine slot to finish, and the angled guides hold the bevel at a steady angle instead of leaving it to the user to judge. The slim stainless body sits tidily on a worktop and wipes clean after use, and its low profile means it stores in a drawer between jobs. It runs from a USB-rechargeable base rather than a fixed cord, so it can be kept anywhere on the counter and topped up from a laptop, power bank or wall adapter. That makes it a practical gift line and a sensible addition for households, holiday lets and staff kitchens where knives are used daily and sharpening is put off until the edge has gone. Supplied ready to retail. For retail the slim body presents well on a small counter or a checkout display, and the rechargeable base means a customer can try it away from a socket, which lets a buyer watch the slots work before purchase. Cooks who rely on one good knife rather than a full block can keep that blade cutting properly instead of reaching for a spare.",
         "specs": [
             ("Function", "Two-Stage Sharpening, Coarse and Fine"),
             ("Power", "USB Rechargeable"),
@@ -7711,7 +7711,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/dust-free-tile-cutting-machine.jpg",
         "src": "https://detail.1688.com/offer/740332186437.html",
-        "desc": "Handheld cutting machine for tile, stone and chasing work where dust has to be kept down. A 1650 W motor drives the blade through the base plate, and the dust port on top takes the supplied bag, so most of the cutting dust is collected at the source instead of settling over the room. The base plate rides flat on the tile or panel to hold a straight line, and the guard covers the blade above the work. Because the machine is carried to the cut rather than the tile being carried to a bench saw, it suits bathroom and kitchen refurbishment, shopfitting and any job where a bench saw will not fit through the doorway. The blade is not included, so the buyer matches the disc to the material being cut. Supplied with a dust bag, two carbon brushes, a scale ruler and a wrench for routine maintenance. For site crews the collected dust means less airborne exposure during chasing and cutting, and less sheeting and clearing down afterwards, so a fitter moves from one opening to the next with fewer delays.",
+        "desc": "Handheld cutting machine for tile, stone and chasing work where dust has to be kept down. A 1650 W motor drives the blade through the base plate, and the dust port on top takes the supplied bag, so most of the cutting dust is collected at the source instead of settling over the room. The base plate rides flat on the tile or panel to hold a straight line, and the guard covers the blade above the work. Because the machine is carried to the cut rather than the tile being carried to a bench saw, it suits bathroom and kitchen refurbishment, shopfitting and any job where a bench saw will not fit through the doorway. The blade is not included, so the buyer matches the disc to the material being cut. Supplied with a dust bag, two carbon brushes, a scale ruler and a wrench for routine maintenance. For site crews the collected dust means less airborne exposure during chasing and cutting, and less sheeting and clearing down afterwards, so a fitter moves from one opening to the next with fewer delays. A tiler working alone can cut a tile in place rather than making repeated trips to a bench in another room.",
         "specs": [
             ("Power", "1650 W"),
             ("Type", "Handheld Dust-Free Cutting Machine"),
@@ -7739,7 +7739,7 @@ PRODUCTS = [
         "moq": "MOQ 1 set",
         "img": "/images/mini-bench-grinder-15-speed.jpg",
         "src": "https://detail.1688.com/offer/1032138517157.html",
-        "desc": "Compact twin-wheel bench grinder that runs at fifteen selectable speeds, so the same machine can dress a chisel edge slowly without burning it and then spin up to grind a drill bit or clean rust off a bracket. The two 5 cm wheels are a different grade on each side, which lets a tool be shaped on one wheel and finished on the other without stopping to change a disc. At 5 cm across and 1.5 cm wide the wheels reach into a chisel bevel, a scissor blade or a small cutter that a full-size grinder is too coarse for. The low frame keeps the wheels below eye level, and the machine is light enough to lift onto a bench when it is needed and put away afterwards, which suits small workshops, repair benches and home shops where bench space is scarce. Supplied as a ready-to-run set. For buyers the compact frame packs into a small carton that sits comfortably on a shelf beside other bench-top lines, and fresh wheels can be ordered on their own so a machine is kept running rather than replaced.",
+        "desc": "Compact twin-wheel bench grinder that runs at fifteen selectable speeds, so the same machine can dress a chisel edge slowly without burning it and then spin up to grind a drill bit or clean rust off a bracket. The two 5 cm wheels are a different grade on each side, which lets a tool be shaped on one wheel and finished on the other without stopping to change a disc. At 5 cm across and 1.5 cm wide the wheels reach into a chisel bevel, a scissor blade or a small cutter that a full-size grinder is too coarse for. The low frame keeps the wheels below eye level, and the machine is light enough to lift onto a bench when it is needed and put away afterwards, which suits small workshops, repair benches and home shops where bench space is scarce. Supplied as a ready-to-run set. For buyers the compact frame packs into a small carton that sits comfortably on a shelf beside other bench-top lines, and fresh wheels can be ordered on their own so a machine is kept running rather than replaced. Knife makers and butchers can restore an edge on the slow setting, then dress a blade tip on the faster wheel.",
         "specs": [
             ("Wheel Diameter", "5 cm"),
             ("Wheel Width", "1.5 cm"),
@@ -7767,7 +7767,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/oil-free-air-compressor-50l.jpg",
         "src": "https://detail.1688.com/offer/760002470100.html",
-        "desc": "Fifty litre oil-free air compressor built for workshops where the machine runs close to the work and noise carries. Because there is no oil in the compression chamber, the air it delivers is free of oil mist, which suits spraying, blow-cleaning and any line that feeds air tools where oil contamination would spoil the finish or the work. Two pump and motor assemblies sit on the horizontal receiver, and the pressure switch, gauge and safety valve are grouped on one side so the cut-in and cut-out are easy to read. The receiver rolls on its feet and the handle bar takes the weight when it has to be moved across a yard or into a van. It is the air source for a small spray shop, a joinery bench or a garage running nailers, blow guns and tyre inflators, and it gives importers a workshop-grade compressor alongside the pneumatic tools already in the range. Because there is no oil to top up or change, the receiver asks for little routine attention beyond draining condensate, which suits a busy workshop where maintenance falls to whoever is free that day.",
+        "desc": "Fifty litre oil-free air compressor built for workshops where the machine runs close to the work and noise carries. Because there is no oil in the compression chamber, the air it delivers is free of oil mist, which suits spraying, blow-cleaning and any line that feeds air tools where oil contamination would spoil the finish or the work. Two pump and motor assemblies sit on the horizontal receiver, and the pressure switch, gauge and safety valve are grouped on one side so the cut-in and cut-out are easy to read. The receiver rolls on its feet and the handle bar takes the weight when it has to be moved across a yard or into a van. It is the air source for a small spray shop, a joinery bench or a garage running nailers, blow guns and tyre inflators, and it gives importers a workshop-grade compressor alongside the pneumatic tools already in the range. Because there is no oil to top up or change, the receiver asks for little routine attention beyond draining condensate, which suits a busy workshop where maintenance falls to whoever is free that day. Bakeries and food packers can blow clean equipment with this air, since oil mist in the line would be unwelcome near open product.",
         "specs": [
             ("Tank Capacity", "50 L"),
             ("Type", "Oil-Free"),
@@ -7795,7 +7795,7 @@ PRODUCTS = [
         "moq": "MOQ 1 set",
         "img": "/images/mini-steel-nail-gun-kit.jpg",
         "src": "https://detail.1688.com/offer/909506151575.html",
-        "desc": "Compact fastening tool kit for fixing into ceilings and panels where a hammer will not reach or a full-size nailer is too bulky to get in. The tool is held against the work and triggered by hand, so it needs no compressor, no hose and no battery, which makes it usable in a finished room where running an air line is not practical. A hundred nails come in the box along with gloves, a cleaning brush, an applicator bottle, ear plugs and a safety operation manual, all held in a moulded carry case that keeps the kit together between jobs. It is the tool for ceiling and sound-insulation fixings, ducting and cable trunking, suspended ceilings and light panel work where the fixing has to go in quickly from below. For distributors and e-commerce sellers it is a complete, low-cost kit that ships as one unit. For e-commerce sellers the kit lists as one product that arrives with its consumables, so a first-time buyer is not left waiting on a separate part, and further fixings can be offered as a simple add-on line.",
+        "desc": "Compact fastening tool kit for fixing into ceilings and panels where a hammer will not reach or a full-size nailer is too bulky to get in. The tool is held against the work and triggered by hand, so it needs no compressor, no hose and no battery, which makes it usable in a finished room where running an air line is not practical. A hundred nails come in the box along with gloves, a cleaning brush, an applicator bottle, ear plugs and a safety operation manual, all held in a moulded carry case that keeps the kit together between jobs. It is the tool for ceiling and sound-insulation fixings, ducting and cable trunking, suspended ceilings and light panel work where the fixing has to go in quickly from below. For distributors and e-commerce sellers it is a complete, low-cost kit that ships as one unit. For e-commerce sellers the kit lists as one product that arrives with its consumables, so a first-time buyer is not left waiting on a separate part, and further fixings can be offered as a simple add-on line. A householder fixing ceiling panels can work alone at height, because the tool is pressed up and fired without a second hand on a hose.",
         "specs": [
             ("Type", "Mini Portable Fastening Tool"),
             ("Nails Supplied", "100"),
@@ -7839,6 +7839,7 @@ PRODUCTS = [
             "304 stainless steel resists surface rust in damp workshops and outdoor fixings",
             "Service vans and counters can carry one sealed case instead of a shelf of loose bins",
             "Assembly technicians can fit a washer without leaving the bench to hunt for the right size, which saves time on mixed fixings",
+            "Maintenance planners can hold it as a single consumable line instead of counting loose fasteners by hand",
         ],
         "related": ["soft-close-drawer-slide-45mm", "slim-soft-close-drawer-slide-35mm", "two-section-drawer-slide-28cm"],
     },
@@ -7867,6 +7868,7 @@ PRODUCTS = [
             "Ball bearing carriages keep the glide light under a loaded drawer",
             "Supplied as a matched pair with a 12.7 mm mounting clearance",
             "Fitters can preset the rails on a bench, so a run of pedestals is assembled quickly on site",
+            "Servicing teams can replace one damped slide from stock instead of refitting the whole drawer unit",
         ],
         "related": ["soft-close-drawer-slide-45mm", "soft-close-cabinet-slide", "two-section-drawer-slide-28cm"],
     },
@@ -7895,6 +7897,7 @@ PRODUCTS = [
             "Black finished steel body takes a plain screw fixing on site",
             "Packs flat, so a bulk order ships economically",
             "Showroom staff can demonstrate the release action by hand, letting customers see how easily a drawer lifts off for cleaning",
+            "Desk and workstation makers can fit the rail where a tray needs to come out for spillage cleaning",
         ],
         "related": ["heavy-duty-ball-bearing-drawer-slide", "slim-soft-close-drawer-slide-35mm", "stainless-washer-assortment-kit-1240"],
     },
@@ -7923,6 +7926,7 @@ PRODUCTS = [
             "130 g and 22.3 cm overall, comfortable for one-handed or overhead use",
             "Matches the 3 inch wooden-handle knife already stocked, so buyers fill a shelf from one source",
             "Suits teaching new decorators to fill window frames, so supervisors can hand out simple filling work with confidence",
+            "Sign makers can spread filler into lettering recesses before sanding the panel flat",
         ],
         "related": ["putty-knife-wooden-handle-3-inch", "large-curved-scraper-knife", "hex-nail-puller-pry-bar"],
     },
@@ -7951,6 +7955,7 @@ PRODUCTS = [
             "26 cm overall with a 15 cm handle, usable two-handed on stubborn material",
             "Rust-free stainless body will not stain the wall or surface being scraped",
             "For plant and tool hire counters, the simple build means no loose parts to lose or replace after each return",
+            "Boat and caravan restorers can strip paint from a hull or a panel in broad sweeps",
         ],
         "related": ["putty-knife-blue-steel-5-inch", "putty-knife-wooden-handle-3-inch", "hex-nail-puller-pry-bar"],
     },
@@ -7979,6 +7984,7 @@ PRODUCTS = [
             "200 mm overall so the puller reaches bearings inside a housing or engine bay",
             "Forged, heat treated jaws and a black finished body suit daily workshop use",
             "Pulling a race in place avoids stripping the assembly off the machine, so the repair is completed without a return trip",
+            "Agricultural fitters can draw a pump or gearbox bearing in the yard without hauling the unit indoors",
         ],
         "related": ["three-jaw-bearing-puller", "hex-nail-puller-pry-bar", "industrial-bench-vise-3-inch"],
     },
@@ -8007,6 +8013,7 @@ PRODUCTS = [
             "Ten second delayed shut-off cools the element before the gun is put down",
             "EU plug, 220 - 240 V and a spare nozzle in the box - ready to work on arrival",
             "New starters pick up the key-set control quickly, letting a supervisor hand off simple shrinking and softening work with confidence",
+            "Restorers can lift a vinyl wrap or an old decal from a panel with the air set low",
         ],
         "related": ["dual-temperature-heat-gun-110v", "cordless-heat-gun-digital", "hot-air-rework-station-858d"],
     },
@@ -8035,6 +8042,7 @@ PRODUCTS = [
             "Waffle and faux wool pads are supplied alongside the flat pad, so no second order is needed",
             "Packs into a 1.61 kg box for easy retail display and shipping",
             "Detailing bays can give each technician a polisher, so cars do not sit waiting for a shared machine to free up",
+            "Auction houses and furniture dealers can brighten a dull finish on site before a lot is photographed",
         ],
         "related": ["dual-action-car-polisher-700w", "5-inch-air-polisher", "electric-triangle-sander"],
     },
@@ -8063,6 +8071,7 @@ PRODUCTS = [
             "Takes standard 5 inch hook and loop discs that body shops already stock",
             "Compact 142 mm body reaches between a panel and its frame",
             "Low weight and a compact body reduce wrist strain when a finisher works overhead or along a vertical panel all day",
+            "Aluminium and steel fabricators can key a weld bead before primer goes on the finished frame",
         ],
         "related": ["rectangular-air-sander", "2-inch-air-mini-sander", "air-belt-sander-at7111"],
     },
@@ -8091,6 +8100,7 @@ PRODUCTS = [
             "0.77 kg body steers one-handed along a rail, post or panel edge",
             "Suits primer flattening, paint preparation, metal cleaning and rust removal",
             "The narrow rectangular platen gives a trainee a clear edge to follow when learning to finish flat panels",
+            "Yacht joiners can flatten a teak trim strip before varnish so the grain stays straight",
         ],
         "related": ["rectangular-air-sander", "air-orbital-sander-5-inch", "pneumatic-reciprocating-file-machine"],
     },
@@ -8118,6 +8128,7 @@ PRODUCTS = [
             "Flat surface-mount plate avoids boring a 35 mm cup into slim or glass-backed doors",
             "Two plate screw positions allow the door to be re-aligned after it is hung",
             "Facilities teams can standardise on a hinge for wardrobes and cupboards, so a maintenance store carries fewer spare variants",
+            "A fitter working on an occupied kitchen can change a door hinge without dismantling the carcass",
         ],
         "related": ["detachable-stainless-hinge", "cabinet-hinge-cup-damper", "stainless-steel-soft-close-hinge"],
     },
@@ -8145,6 +8156,7 @@ PRODUCTS = [
             "Brass-core hydraulic damper cushions the final closing arc so doors shut quietly",
             "Clip-on arm lifts off the plate, so doors are hung and removed without undoing plate screws",
             "Compact pressed body lets distributors pack and store hinges densely, so a fitter's stock takes up little shelf space",
+            "Decorators planning a repaint can take the fronts off in a run and refit them once the frames are dry",
         ],
         "related": ["stainless-steel-soft-close-hinge", "cabinet-hinge-cup-damper", "detachable-stainless-hinge"],
     },
@@ -8172,6 +8184,7 @@ PRODUCTS = [
             "150 mm wheel rolls over thresholds and expansion joints without stalling",
             "Four-hole plate on 85 x 72 mm centres bolts straight to a timber or steel deck",
             "The solid rubber tyre needs no inflation, so a busy yard avoids punctures and the downtime of a flat wheel",
+            "Traders who load a barrow heavily find rigid wheels at the back keep a straight line on rough ground",
         ],
         "related": ["heavy-duty-swivel-caster", "heavy-duty-pu-iron-caster", "3-inch-nylon-swivel-caster"],
     },
@@ -8199,6 +8212,7 @@ PRODUCTS = [
             "CR-V forged sockets and ratchet handle take daily use without rounding",
             "Moulded rail holds every piece in a set position, so shortages show up before a callout",
             "A sound first socket set for an apprentice, covering everyday service jobs without a drawer of loose sockets to sort",
+            "A fitter can carry the rail to the job and lay it down beside the machine",
         ],
         "related": ["1-2-inch-socket-set", "15pc-swivel-ratchet-wrench-set", "72-tooth-ratchet-wrench-set"],
     },
@@ -8226,6 +8240,7 @@ PRODUCTS = [
             "Mirror chrome finish wipes clean of oil and grease between jobs",
             "Canvas roll with strap and eyelet keeps sizes in order and hangs on a pegboard",
             "Workshop stores can issue a matching roll to every bay, so a missing size is spotted before a job starts",
+            "A farmer repairing machinery in the field can hang the roll on the machine and keep both hands free",
         ],
         "related": ["ratcheting-combination-wrench-10mm", "imperial-ratcheting-wrench-set", "15pc-swivel-ratchet-wrench-set"],
     },
@@ -8253,6 +8268,7 @@ PRODUCTS = [
             "Heads swap by hand, so a damaged head is replaced without buying a whole new set",
             "Moulded case gives every piece a fixed slot, making the set easy to check in and out",
             "Keeping the kit in the van, not the workshop, means a head can be changed on site instead of rescheduling the visit",
+            "A lone fitter working from a ladder can change heads without climbing down for another wrench",
         ],
         "related": ["15pc-swivel-ratchet-wrench-set", "7-in-1-double-ended-ratchet-wrench", "72-tooth-ratchet-wrench-set"],
     },
@@ -8280,6 +8296,7 @@ PRODUCTS = [
             "Kit arrives with two batteries and a charger, so one stays on charge while the other works",
             "Moulded case holds the tool, batteries, charger, socket rail and bit set in fixed recesses",
             "Suitable as a first cordless impact for a new van, since the kit arrives complete for immediate work",
+            "Farm workshops doing seasonal machinery repairs keep the kit on the tractor trailer between jobs",
         ],
         "related": ["brushless-impact-wrench-kit", "brushless-impact-wrench", "1-2-inch-socket-set"],
     },
@@ -8307,6 +8324,7 @@ PRODUCTS = [
             "Brushless motor draws less current and runs cooler than a brushed tool at the same output",
             "Rubberised grip and an exposed anvil let the tool stand nose-down between socket changes",
             "The moulded housing presents well on a display board, helping retailers sell it beside the full kits",
+            "A fitter shares the packs already in the workshop and adds only the body to the van kit",
         ],
         "related": ["brushless-impact-wrench", "brushless-impact-wrench-kit", "980nm-high-torque-impact-wrench-kit"],
     },
@@ -8334,6 +8352,7 @@ PRODUCTS = [
             "7.2 kg body with a rubber nose guard takes being set down on concrete between wheels",
             "Front exhaust outlet keeps oil mist and cold air away from the operator's grip",
             "Used on a balancer or support arm, the heavy body takes the strain off the operator during a full set of wheels",
+            "Tyre bays keep the wrench at the bench between shifts, so the next operator starts straight away",
         ],
         "related": ["mining-air-impact-wrench", "air-impact-wrench", "1-inch-heavy-duty-air-impact-wrench"],
     },
@@ -8361,6 +8380,7 @@ PRODUCTS = [
             "Translucent cup shows how much material is left while the gun is in use",
             "Short nozzle and small cup suit single-panel smart repair and touch-up work",
             "Body shops can hand small blend repairs to a junior technician, keeping the main booth free for larger jobs",
+            "Motorcycle restorers find the small cup suits a fairing panel, where the job needs only a little colour",
         ],
         "related": ["hvlp-gravity-spray-gun", "hvlp-pneumatic-spray-gun", "pq2-large-capacity-spray-gun"],
     },
@@ -8373,7 +8393,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/sliding-door-push-pull-handle.jpg",
         "src": "https://detail.1688.com/offer/908238635187.html",
-        "desc": "Recessed aluminium pull handle finished in matte black, sized for sliding doors, wardrobe fronts and cabinet doors where a flush handle keeps the face of the door clear. The body is 148 mm long with mounting hole centres at 102 mm, and it weighs 44.2 g complete with its fittings, so it adds almost nothing to the weight of a sliding panel. The grip is set back from the door face, which gives fingers somewhere to pull without a projecting bar catching on clothing or on the adjacent panel as the door runs past. Because the fixing points sit in the flat end plates, the handle can be fitted to timber, MDF and metal door frames with the screws of your choice, and the same handle suits a sliding door and a hinged cupboard front, which keeps the hardware list short on a fitted job.",
+        "desc": "Recessed aluminium pull handle finished in matte black, sized for sliding doors, wardrobe fronts and cabinet doors where a flush handle keeps the face of the door clear. The body is 148 mm long with mounting hole centres at 102 mm, and it weighs 44.2 g complete with its fittings, so it adds almost nothing to the weight of a sliding panel. The grip is set back from the door face, which gives fingers somewhere to pull without a projecting bar catching on clothing or on the adjacent panel as the door runs past. Because the fixing points sit in the flat end plates, the handle can be fitted to timber, MDF and metal door frames with the screws of your choice, and the same handle suits a sliding door and a hinged cupboard front, which keeps the hardware list short on a fitted job. For a fitter working alone, the pull can be offered up and screwed through the end plates before the door is hung on its track.",
         "specs": [
             ("Material", "Aluminium alloy"),
             ("Finish", "Matte black"),
@@ -8401,7 +8421,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/glass-tile-vacuum-suction-lifter.jpg",
         "src": "https://detail.1688.com/offer/867227895878.html",
-        "desc": "Lever-actuated vacuum cup for lifting, carrying and positioning smooth flat materials by hand. The 118 mm rubber pad is pressed onto the surface and the lever is closed to pull a vacuum, so the load hangs from the aluminium handle rather than being pinched between fingers. The maker rates the cup at approximately 45 kg in the horizontal position and approximately 85 kg vertically, which covers a full-size tile, a sheet of glass, a marble slab and flat metal panels, and it also makes light work of dropping ceiling access panels and aluminium ceiling tiles back into place during service work. The handle is thickened aluminium with a wide arch, so the load sits over the palm rather than on the fingertips. Supplied singly.",
+        "desc": "Lever-actuated vacuum cup for lifting, carrying and positioning smooth flat materials by hand. The 118 mm rubber pad is pressed onto the surface and the lever is closed to pull a vacuum, so the load hangs from the aluminium handle rather than being pinched between fingers. The maker rates the cup at approximately 45 kg in the horizontal position and approximately 85 kg vertically, which covers a full-size tile, a sheet of glass, a marble slab and flat metal panels, and it also makes light work of dropping ceiling access panels and aluminium ceiling tiles back into place during service work. The handle is thickened aluminium with a wide arch, so the load sits over the palm rather than on the fingertips. Supplied singly. A fitter working alone can hold a heavy panel steady and mark the cut with the other hand, instead of calling someone over to help.",
         "specs": [
             ("Body", "Thickened aluminium"),
             ("Pad Diameter", "118 mm"),
@@ -8429,7 +8449,7 @@ PRODUCTS = [
         "moq": "MOQ 1 set",
         "img": "/images/kitchen-cabinet-pull-out-basket.jpg",
         "src": "https://detail.1688.com/offer/1042968714933.html",
-        "desc": "Two-tier stainless steel pull-out basket for a base cabinet, designed to carry plates, bowls, pans and dry goods on runners that bring the whole load out of the cabinet instead of asking the user to reach in. The basket measures 590 x 410 x 140 mm and needs a cabinet with an internal width of 650 to 680 mm, a minimum internal height of 500 mm and a minimum internal depth of 430 mm, so the opening should be checked before ordering. Four soft-close slide rails are included, together with the mounting brackets and two drip trays that catch water from wet plates. The upper and lower tiers are formed from stainless wire with 22 bowl slots and 20 plate slots, and the whole frame is removable for cleaning.",
+        "desc": "Two-tier stainless steel pull-out basket for a base cabinet, designed to carry plates, bowls, pans and dry goods on runners that bring the whole load out of the cabinet instead of asking the user to reach in. The basket measures 590 x 410 x 140 mm and needs a cabinet with an internal width of 650 to 680 mm, a minimum internal height of 500 mm and a minimum internal depth of 430 mm, so the opening should be checked before ordering. Four soft-close slide rails are included, together with the mounting brackets and two drip trays that catch water from wet plates. The upper and lower tiers are formed from stainless wire with 22 bowl slots and 20 plate slots, and the whole frame is removable for cleaning. For an older household, the sliding tiers raise the everyday crockery toward waist height, so a full dinner service need not be lifted from the cabinet floor.",
         "specs": [
             ("Material", "Stainless steel wire"),
             ("Basket Size", "590 x 410 x 140 mm"),
@@ -8457,7 +8477,7 @@ PRODUCTS = [
         "moq": "MOQ 1 set",
         "img": "/images/wire-brush-set-3pc.jpg",
         "src": "https://detail.1688.com/offer/1002688985717.html",
-        "desc": "Three hand brushes in one pack, each with a different bristle so the right one can be picked for the surface in front of you. The stainless steel brush cuts rust, scale and weld spatter from steel and cast iron; the brass brush works on softer metals and on surfaces where a steel brush would scratch or leave a steel trace; the nylon brush takes dust, grit and light grime off painted, plastic and aluminium parts without scoring them. Each brush carries a bristle face at both ends, so a wide panel and a narrow edge can both be worked with the same tool. Handles are moulded in black with a shaped grip. Suited to workshop clean-down, rust removal before painting and general maintenance.",
+        "desc": "Three hand brushes in one pack, each with a different bristle so the right one can be picked for the surface in front of you. The stainless steel brush cuts rust, scale and weld spatter from steel and cast iron; the brass brush works on softer metals and on surfaces where a steel brush would scratch or leave a steel trace; the nylon brush takes dust, grit and light grime off painted, plastic and aluminium parts without scoring them. Each brush carries a bristle face at both ends, so a wide panel and a narrow edge can both be worked with the same tool. Handles are moulded in black with a shaped grip. Suited to workshop clean-down, rust removal before painting and general maintenance. Motorcycle restorers keep the brass brush for carburettor bodies and the steel brush for frame work before paint goes on.",
         "specs": [
             ("Set Contents", "3 brushes"),
             ("Bristle 1", "Stainless steel wire"),
@@ -8485,7 +8505,7 @@ PRODUCTS = [
         "moq": "MOQ 2 kit",
         "img": "/images/through-tang-impact-screwdriver-set.jpg",
         "src": "https://detail.1688.com/offer/1083639333692.html",
-        "desc": "Pair of through-tang screwdrivers built for fasteners that will not shift with ordinary hand pressure. The blade runs right through the handle and out of the back, so the end of the handle can be struck with a mallet while the tip is held in the screw slot, which breaks the grip of a tight or seized screw without the blade twisting out. One driver carries a Phillips tip and the other a slotted tip, both at 6.3 x 100 mm, with overall length 205 mm, exposed shaft 95 mm and shaft diameter 6.3 mm. The tips are magnetic, so steel screws stay on the blade when the driver is offered up one-handed. Handles are black fluted grips with a translucent red core and a hex bolster at the neck for a spanner when extra leverage is needed.",
+        "desc": "Pair of through-tang screwdrivers built for fasteners that will not shift with ordinary hand pressure. The blade runs right through the handle and out of the back, so the end of the handle can be struck with a mallet while the tip is held in the screw slot, which breaks the grip of a tight or seized screw without the blade twisting out. One driver carries a Phillips tip and the other a slotted tip, both at 6.3 x 100 mm, with overall length 205 mm, exposed shaft 95 mm and shaft diameter 6.3 mm. The tips are magnetic, so steel screws stay on the blade when the driver is offered up one-handed. Handles are black fluted grips with a translucent red core and a hex bolster at the neck for a spanner when extra leverage is needed. Plant fitters carry the pair in the service van for machines that have to be split on site, away from the workshop.",
         "specs": [
             ("Type", "Through-tang striking screwdriver"),
             ("Tips", "Phillips and slotted"),
@@ -8513,7 +8533,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/stainless-steel-flat-trowel.jpg",
         "src": "https://detail.1688.com/offer/831113551576.html",
-        "desc": "Flat plastering trowel for laying on and smoothing plaster, render and mortar. The blade is 420 stainless steel, 280 mm long and 110 mm wide at 0.8 mm thick, which keeps the plate stiff enough to pull a flat coat across a wall without the edge riding over hollows. Stainless steel resists the corrosion that carbon steel trowels suffer when they are used with wet mortar, so the face stays smooth and does not rust-mark the finish. The handle is a two-tone blue and orange grip mounted on a raised neck, which holds the knuckles clear of the wall as the trowel is drawn up the surface. Suited to plasterers, renderers and bricklayers, and to anyone patching and levelling walls or floors.",
+        "desc": "Flat plastering trowel for laying on and smoothing plaster, render and mortar. The blade is 420 stainless steel, 280 mm long and 110 mm wide at 0.8 mm thick, which keeps the plate stiff enough to pull a flat coat across a wall without the edge riding over hollows. Stainless steel resists the corrosion that carbon steel trowels suffer when they are used with wet mortar, so the face stays smooth and does not rust-mark the finish. The handle is a two-tone blue and orange grip mounted on a raised neck, which holds the knuckles clear of the wall as the trowel is drawn up the surface. Suited to plasterers, renderers and bricklayers, and to anyone patching and levelling walls or floors. A bricklayer pointing a garden wall uses the trowel to spread a thin mortar bed along the joints before tooling them.",
         "specs": [
             ("Type", "Flat plastering trowel"),
             ("Blade Size", "280 x 110 mm"),
@@ -8541,7 +8561,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/brushless-wall-chaser-grooving-machine.jpg",
         "src": "https://detail.1688.com/offer/1082948286949.html",
-        "desc": "Hand-held wall chaser for cutting straight chases into brick, block and concrete walls to bury conduit, cable and pipework. The brushless motor drives the discs through the wall and cuts a channel up to 65 mm deep, so the conduit can be dropped in and plastered over rather than chased out with a breaker and a bolster. A guide roller and the depth-setting screws on the front of the housing keep the cut parallel to the wall face and hold the depth steady along the run. The machine is supplied in black and yellow, in three colour variants that are dispatched at random, and the cutting discs are not included, so the right disc for the wall material can be selected separately. Suited to electrical and plumbing installers and to refurbishment work.",
+        "desc": "Hand-held wall chaser for cutting straight chases into brick, block and concrete walls to bury conduit, cable and pipework. The brushless motor drives the discs through the wall and cuts a channel up to 65 mm deep, so the conduit can be dropped in and plastered over rather than chased out with a breaker and a bolster. A guide roller and the depth-setting screws on the front of the housing keep the cut parallel to the wall face and hold the depth steady along the run. The machine is supplied in black and yellow, in three colour variants that are dispatched at random, and the cutting discs are not included, so the right disc for the wall material can be selected separately. Suited to electrical and plumbing installers and to refurbishment work. Working alone, a tradesman sets the depth and cuts a long run along the wall at a steady pace without a helper.",
         "specs": [
             ("Model", "HD-195"),
             ("Motor", "Brushless"),
@@ -8569,7 +8589,7 @@ PRODUCTS = [
         "moq": "MOQ 1 set",
         "img": "/images/cordless-airless-paint-sprayer.jpg",
         "src": "https://detail.1688.com/offer/923763348615.html",
-        "desc": "Cordless airless sprayer for emulsion, paint, primer, sealer and waterproof coating, built to work where there is no power lead and no compressor. An airless pump pushes the material through the hose and out of the gun under high pressure instead of atomising it with air, so a full wall can be coated without thinning the paint or dragging a compressor and airlines onto the site. Two batteries and one charger are included, together with the spray gun, the high-pressure hose, the material cup and a carry bag, so the kit arrives complete and one pack can be on charge while the other is in the tool. Packed size is 44.5 x 32 x 20 cm and packed weight is approximately 5.3 kg. Suited to decorators, renovators and site finishing work.",
+        "desc": "Cordless airless sprayer for emulsion, paint, primer, sealer and waterproof coating, built to work where there is no power lead and no compressor. An airless pump pushes the material through the hose and out of the gun under high pressure instead of atomising it with air, so a full wall can be coated without thinning the paint or dragging a compressor and airlines onto the site. Two batteries and one charger are included, together with the spray gun, the high-pressure hose, the material cup and a carry bag, so the kit arrives complete and one pack can be on charge while the other is in the tool. Packed size is 44.5 x 32 x 20 cm and packed weight is approximately 5.3 kg. Suited to decorators, renovators and site finishing work. A landlord repainting between tenancies can coat the whole flat in one visit rather than brushing every room by hand.",
         "specs": [
             ("Type", "Cordless airless (high-pressure) sprayer"),
             ("Batteries", "2 included"),
@@ -8597,7 +8617,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/pneumatic-push-in-air-fitting-pc8.jpg",
         "src": "https://detail.1688.com/offer/1240228228.html",
-        "desc": "Straight push-in connector for joining 8 mm outside-diameter pneumatic tube to a 1/4 inch threaded port. The tube is pushed into the blue release collar until it bottoms out and is then gripped by an internal collet, so no tools and no ferrules are needed and the joint can be broken again by pressing the collar down and pulling the tube out. The hex body is machined in brass, which resists corrosion in the damp air that workshop compressors deliver, and the flats between the collar and the thread take a spanner when the fitting is being run into a manifold, cylinder port or air tool. Commonly used to build and repair air lines on cylinders, valves, blow guns and small automation rigs.",
+        "desc": "Straight push-in connector for joining 8 mm outside-diameter pneumatic tube to a 1/4 inch threaded port. The tube is pushed into the blue release collar until it bottoms out and is then gripped by an internal collet, so no tools and no ferrules are needed and the joint can be broken again by pressing the collar down and pulling the tube out. The hex body is machined in brass, which resists corrosion in the damp air that workshop compressors deliver, and the flats between the collar and the thread take a spanner when the fitting is being run into a manifold, cylinder port or air tool. Commonly used to build and repair air lines on cylinders, valves, blow guns and small automation rigs. On a machine build, a fitter can run the tube first and push the fittings on afterwards, so runs are cut to length on the frame.",
         "specs": [
             ("Model", "PC8-02"),
             ("Tube Outside Diameter", "8 mm"),
@@ -8625,7 +8645,7 @@ PRODUCTS = [
         "moq": "MOQ 1 set",
         "img": "/images/air-filter-regulator-lubricator-afc2000.jpg",
         "src": "https://detail.1688.com/offer/860003327845.html",
-        "desc": "Two-piece air preparation unit that fits between the compressor and the tool. The filter-regulator half drops water and particulate out of the air supply through a 40 um copper filter element and then holds the outlet at a steady set pressure, with a round gauge on the front showing the setting and a manual drain under the bowl; the lubricator half adds a fine oil mist so air motors, cylinders and impact tools stay lubricated in service. The pressure range is 0.05 to 1 MPa, and the inlet and outlet ports are both 1/4 inch, so the unit drops into a standard workshop line without adapters. The bowls are clear so water and oil levels can be seen without breaking the line. Suited to spray booths, automation rigs and general air tool installations.",
+        "desc": "Two-piece air preparation unit that fits between the compressor and the tool. The filter-regulator half drops water and particulate out of the air supply through a 40 um copper filter element and then holds the outlet at a steady set pressure, with a round gauge on the front showing the setting and a manual drain under the bowl; the lubricator half adds a fine oil mist so air motors, cylinders and impact tools stay lubricated in service. The pressure range is 0.05 to 1 MPa, and the inlet and outlet ports are both 1/4 inch, so the unit drops into a standard workshop line without adapters. The bowls are clear so water and oil levels can be seen without breaking the line. Suited to spray booths, automation rigs and general air tool installations. Service technicians check the bowl during a plant walk-round, topping up the oil before a long spray session starts on the line.",
         "specs": [
             ("Model", "AFC2000"),
             ("Configuration", "Filter-regulator and lubricator (2-piece)"),
@@ -8653,7 +8673,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/machine-leveling-caster-gd40.jpg",
         "src": "https://detail.1688.com/offer/1079331066161.html",
-        "desc": "A flat-base leveling caster that bolts under machine frames, workbenches and equipment stands and lets you bring the machine back to level once it is in position. The 40 mm wheel carries the load while the support foot takes the weight off the wheel after the machine is set down, and the foot winds through a 10 mm range so casters on an uneven workshop floor can be brought to the same height. The base plate measures 55 x 55 mm with 42 x 42 mm hole centres, a common pattern on light industrial equipment, and the wheel is 20 mm wide so it still rolls across expansion joints and floor plates. Each caster is rated to 100 kg across a set of four, and four pieces ship in one carton measuring 185 x 136 x 81 mm.",
+        "desc": "A flat-base leveling caster that bolts under machine frames, workbenches and equipment stands and lets you bring the machine back to level once it is in position. The 40 mm wheel carries the load while the support foot takes the weight off the wheel after the machine is set down, and the foot winds through a 10 mm range so casters on an uneven workshop floor can be brought to the same height. The base plate measures 55 x 55 mm with 42 x 42 mm hole centres, a common pattern on light industrial equipment, and the wheel is 20 mm wide so it still rolls across expansion joints and floor plates. Each caster is rated to 100 kg across a set of four, and four pieces ship in one carton measuring 185 x 136 x 81 mm. A workbench fitted with these can be rolled clear of the wall for cleaning, then brought back level against the floor.",
         "specs": [
             ("Model", "GD-40 (40F flat base)"),
             ("Wheel", "40 mm diameter x 20 mm wide"),
@@ -8680,7 +8700,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/heavy-duty-plastic-pipe-clamp.jpg",
         "src": "https://detail.1688.com/offer/729437105255.html",
-        "desc": "A two-piece clamp for holding hydraulic, water and air lines against a wall, beam or machine frame. The green clamp body wraps the pipe in a full circle and is drawn together between two metal cover plates and a metal base plate by a pair of M10 x 65 mm bolts set 60 mm apart, so the line is held firmly without being crushed. Because the body is plastic rather than a hard metal saddle, the clamp also takes vibration out of the run, which is why this style is used on hydraulic power packs, marine lines and pump rooms. The body is 95 mm long and stands 73 mm high, the cover plate is 5.5 mm thick and the base plate 6.5 mm thick, and the bore takes 32 to 42 mm pipe. Dimensions are hand-measured, so a tolerance of 0.5 to 1 mm applies.",
+        "desc": "A two-piece clamp for holding hydraulic, water and air lines against a wall, beam or machine frame. The green clamp body wraps the pipe in a full circle and is drawn together between two metal cover plates and a metal base plate by a pair of M10 x 65 mm bolts set 60 mm apart, so the line is held firmly without being crushed. Because the body is plastic rather than a hard metal saddle, the clamp also takes vibration out of the run, which is why this style is used on hydraulic power packs, marine lines and pump rooms. The body is 95 mm long and stands 73 mm high, the cover plate is 5.5 mm thick and the base plate 6.5 mm thick, and the bore takes 32 to 42 mm pipe. Dimensions are hand-measured, so a tolerance of 0.5 to 1 mm applies. Buyers fitting out a plant room order these by the box so a whole pipe run can be clamped in a single visit rather than revisited later.",
         "specs": [
             ("Pipe Range", "32 - 42 mm"),
             ("Overall Size", "95 mm long x 73 mm high"),
@@ -8707,7 +8727,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/office-chair-swivel-caster-2-5-inch.jpg",
         "src": "https://detail.1688.com/offer/625051366217.html",
-        "desc": "A stem-mount swivel caster for office chairs and light furniture, built around a 60 mm wheel that keeps the chair rolling on laminate, tile and vinyl. The wheel turns on a swivel head, so the chair changes direction without being lifted or tipped, and the tread is smooth rather than ridged, which keeps the roll quiet and is gentle on hard floors. The polished chrome housing and chrome wheel hub match the finish of most office chair bases, and the stem pushes into the socket on the chair base. At 60 mm the wheel adds only a small amount of height, so it is a direct swap for worn casters on a chair that is otherwise sound. Casters are supplied individually, so they can be replaced one at a time or as a full set of five.",
+        "desc": "A stem-mount swivel caster for office chairs and light furniture, built around a 60 mm wheel that keeps the chair rolling on laminate, tile and vinyl. The wheel turns on a swivel head, so the chair changes direction without being lifted or tipped, and the tread is smooth rather than ridged, which keeps the roll quiet and is gentle on hard floors. The polished chrome housing and chrome wheel hub match the finish of most office chair bases, and the stem pushes into the socket on the chair base. At 60 mm the wheel adds only a small amount of height, so it is a direct swap for worn casters on a chair that is otherwise sound. Casters are supplied individually, so they can be replaced one at a time or as a full set of five. When an office is refitted and chairs are rolled between rooms, the chrome finish and smooth tread suit daily use on tiled corridors.",
         "specs": [
             ("Nominal Size", "2.5 inch"),
             ("Wheel Diameter", "60 mm"),
@@ -8734,7 +8754,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/digital-electronic-level-300mm.jpg",
         "src": "https://detail.1688.com/offer/999058304600.html",
-        "desc": "A 300 mm spirit level with a digital readout for work where the bubble alone is not precise enough. The LCD shows the angle in degrees, so a pipe run, a stair rail or a machine bed can be set to a target angle rather than only to level, and the display stays readable with the frame turned over for an inverted measurement. A strong magnetic base holds the level on steel beams, ductwork and machine frames so both hands stay free for the work, and the two vials still give a fast visual check for level and plumb before the display is read. The frame measures 300 x 49 x 23 mm and the supplier states an accuracy of 0.1 mm. Two batteries are included.",
+        "desc": "A 300 mm spirit level with a digital readout for work where the bubble alone is not precise enough. The LCD shows the angle in degrees, so a pipe run, a stair rail or a machine bed can be set to a target angle rather than only to level, and the display stays readable with the frame turned over for an inverted measurement. A strong magnetic base holds the level on steel beams, ductwork and machine frames so both hands stay free for the work, and the two vials still give a fast visual check for level and plumb before the display is read. The frame measures 300 x 49 x 23 mm and the supplier states an accuracy of 0.1 mm. Two batteries are included. Tiling and ducting crews buy it for the times a run has to sit at an angle, not just level, before it is fixed off.",
         "specs": [
             ("Length", "300 mm"),
             ("Width", "49 mm"),
@@ -8761,7 +8781,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/spring-automatic-center-punch.jpg",
         "src": "https://detail.1688.com/offer/1061436795518.html",
-        "desc": "A spring-loaded center punch that marks a drill position with one hand: press the body down against the work and the internal spring releases the hardened point, leaving a dimple where you pressed. There is no hammer to swing and no second pair of hands needed, which makes it useful for marking on a drill press, on a curved surface or inside a bracket where a punch and hammer will not reach. The knurled aluminium body keeps its grip on oily hands, and the hardened point is hard enough to mark mild steel, aluminium, brass and plastics. Because the strike comes from the spring rather than from arm weight, the dimple is consistent from one mark to the next, which helps when a row of holes has to be spotted before drilling. The tool is finished in assorted colours as pictured and is supplied individually.",
+        "desc": "A spring-loaded center punch that marks a drill position with one hand: press the body down against the work and the internal spring releases the hardened point, leaving a dimple where you pressed. There is no hammer to swing and no second pair of hands needed, which makes it useful for marking on a drill press, on a curved surface or inside a bracket where a punch and hammer will not reach. The knurled aluminium body keeps its grip on oily hands, and the hardened point is hard enough to mark mild steel, aluminium, brass and plastics. Because the strike comes from the spring rather than from arm weight, the dimple is consistent from one mark to the next, which helps when a row of holes has to be spotted before drilling. The tool is finished in assorted colours as pictured and is supplied individually. Shops laying out a run of identical brackets mark every position with the same light press, so no worker spends the day swinging a hammer.",
         "specs": [
             ("Type", "Spring-loaded automatic center punch"),
             ("Body", "Knurled aluminium"),
@@ -8788,7 +8808,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/flat-mill-file-6-inch.jpg",
         "src": "https://detail.1688.com/offer/689246620118.html",
-        "desc": "A 6 inch flat mill file for taking material off flat surfaces: squaring the end of a bar, breaking the edge on a cut, dressing a weld before finishing or cleaning up a burr. The blade carries cut teeth along both flat faces and removes material on the push stroke, so a few passes are usually enough to true an edge or bring a surface back to flat. The 150 mm blade runs into a two-tone handle with a hang hole, which keeps the file within reach on a pegboard and gives a grip that stays secure when the blade is warm from work. Overall length is 260 mm and the blade is 16 mm wide, with the handle adding 110 mm on top of the cut length.",
+        "desc": "A 6 inch flat mill file for taking material off flat surfaces: squaring the end of a bar, breaking the edge on a cut, dressing a weld before finishing or cleaning up a burr. The blade carries cut teeth along both flat faces and removes material on the push stroke, so a few passes are usually enough to true an edge or bring a surface back to flat. The 150 mm blade runs into a two-tone handle with a hang hole, which keeps the file within reach on a pegboard and gives a grip that stays secure when the blade is warm from work. Overall length is 260 mm and the blade is 16 mm wide, with the handle adding 110 mm on top of the cut length. Maintenance shops treat it as a consumable and change it once the teeth stop biting, rather than pressing a worn file into a job.",
         "specs": [
             ("Model", "Flat file 6 in"),
             ("Overall Length", "260 mm"),
@@ -8815,7 +8835,7 @@ PRODUCTS = [
         "moq": "MOQ 1 kit",
         "img": "/images/cordless-brushless-electric-planer.jpg",
         "src": "https://detail.1688.com/offer/1062470130033.html",
-        "desc": "A cordless hand planer for trimming a door, easing the edge of a board or taking a light pass off a worktop where there is no power lead within reach. The brushless motor runs from the rechargeable pack in the kit, so the tool can be carried to a fitted frame or an upstairs job without dragging an extension lead behind it, and the flat sole registers on the timber so the cut follows the surface instead of riding up on an edge. The kit arrives ready to work: battery pack, charger, spanner, spare mounting parts and an illustrated user guide are all in the box, and the spanner is supplied for blade changes. The moulded grip keeps a firm hold when the sole is tipped into a cut.",
+        "desc": "A cordless hand planer for trimming a door, easing the edge of a board or taking a light pass off a worktop where there is no power lead within reach. The brushless motor runs from the rechargeable pack in the kit, so the tool can be carried to a fitted frame or an upstairs job without dragging an extension lead behind it, and the flat sole registers on the timber so the cut follows the surface instead of riding up on an edge. The kit arrives ready to work: battery pack, charger, spanner, spare mounting parts and an illustrated user guide are all in the box, and the spanner is supplied for blade changes. The moulded grip keeps a firm hold when the sole is tipped into a cut. A buyer stepping up from a corded planer gets the same sole layout without a lead, which suits upper floor and occupied fit-outs.",
         "specs": [
             ("Type", "Cordless hand planer"),
             ("Motor", "Brushless"),
@@ -8842,7 +8862,7 @@ PRODUCTS = [
         "moq": "MOQ 1 kit",
         "img": "/images/digital-soldering-iron-110v.jpg",
         "src": "https://detail.1688.com/offer/867949637791.html",
-        "desc": "A 60 W soldering iron with a digital readout of the tip temperature, supplied with a US plug for 110 V supplies. The set temperature is dialled in with the two buttons and held on the LCD, so the same joint can be repeated at the same heat instead of being judged by feel, and the internal-heat element keeps the tip at that temperature through a run of joints. The handle is marked ESD safe, which matters when the board being worked on is one that static can damage, and the handle is rated 110 to 240 V for a workshop with mixed supplies. The kit includes a stand with a cleaning sponge, five spare tips in different shapes and a tube of solder to get started.",
+        "desc": "A 60 W soldering iron with a digital readout of the tip temperature, supplied with a US plug for 110 V supplies. The set temperature is dialled in with the two buttons and held on the LCD, so the same joint can be repeated at the same heat instead of being judged by feel, and the internal-heat element keeps the tip at that temperature through a run of joints. The handle is marked ESD safe, which matters when the board being worked on is one that static can damage, and the handle is rated 110 to 240 V for a workshop with mixed supplies. The kit includes a stand with a cleaning sponge, five spare tips in different shapes and a tube of solder to get started. The spare tips let a single iron cover fine pad work and heavier joints without waiting for another iron to come up to heat.",
         "specs": [
             ("Power", "60 W"),
             ("Input", "110 - 240 V, 50/60 Hz"),
@@ -8869,7 +8889,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/pneumatic-solenoid-valve-4v210-08.jpg",
         "src": "https://detail.1688.com/offer/729808172328.html",
-        "desc": "A 4V210-08 solenoid valve for switching a double-acting cylinder from an electrical signal. It is a two-position five-port valve that directs air to both ends of the cylinder, which is the arrangement used on clamping fixtures, sorting gates, packing machines and small automation rigs. The coil is rated 24 V DC and draws 4.8 W at 200 mA, and it is marked 100% ED, so it can be left energised through a shift rather than only pulsed. The body is aluminium alloy and the coil carries an IP 65 rating, which suits the oil mist and dust that come with a workshop air supply. The coil is also marked CE. Because the 4V210-08 pattern is widely used, a spare valve can be kept on the shelf and swapped onto an existing manifold without re-piping the machine.",
+        "desc": "A 4V210-08 solenoid valve for switching a double-acting cylinder from an electrical signal. It is a two-position five-port valve that directs air to both ends of the cylinder, which is the arrangement used on clamping fixtures, sorting gates, packing machines and small automation rigs. The coil is rated 24 V DC and draws 4.8 W at 200 mA, and it is marked 100% ED, so it can be left energised through a shift rather than only pulsed. The body is aluminium alloy and the coil carries an IP 65 rating, which suits the oil mist and dust that come with a workshop air supply. The coil is also marked CE. Because the 4V210-08 pattern is widely used, a spare valve can be kept on the shelf and swapped onto an existing manifold without re-piping the machine. Plants that run several clamping fixtures on the same voltage can standardise on a single valve type instead of stocking a different unit per machine.",
         "specs": [
             ("Model", "4V210-08"),
             ("Function", "2-position, 5-port"),
@@ -8896,7 +8916,7 @@ PRODUCTS = [
         "moq": "MOQ 2 sets",
         "img": "/images/pneumatic-fitting-kit-128-piece.jpg",
         "src": "https://detail.1688.com/offer/809910613043.html",
-        "desc": "A 128 piece assortment of push-in air fittings in a compartmented case, the kind of kit that keeps a machine build or a maintenance round moving instead of stopping to order single fittings. Straight unions, tees and elbows are all in the box, so a line can be joined, branched or turned without a trip to the stores, and each fitting takes its tube with a push and releases it again by pressing the blue collar, which means air lines can be broken and re-made by hand. The bodies are plastic with blue release collars and the case is clear, so the remaining stock is visible without opening it. Twelve compartments keep the different fittings separate. Used on air lines, cylinders, valves and blow guns.",
+        "desc": "A 128 piece assortment of push-in air fittings in a compartmented case, the kind of kit that keeps a machine build or a maintenance round moving instead of stopping to order single fittings. Straight unions, tees and elbows are all in the box, so a line can be joined, branched or turned without a trip to the stores, and each fitting takes its tube with a push and releases it again by pressing the blue collar, which means air lines can be broken and re-made by hand. The bodies are plastic with blue release collars and the case is clear, so the remaining stock is visible without opening it. Twelve compartments keep the different fittings separate. Used on air lines, cylinders, valves and blow guns. Trade counters and hardware retailers stock the kit because a single box covers the fittings most walk-in customers ask for.",
         "specs": [
             ("Quantity", "128 pieces"),
             ("Types Supplied", "Straight, tee and elbow push-in fittings"),
@@ -8923,7 +8943,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/heavy-duty-wall-shelf-bracket.jpg",
         "src": "https://detail.1688.com/offer/1002401862380.html",
-        "desc": "Thickened triangular shelf bracket cut and folded from 5 mm cold-rolled steel, then electroplated so the surface resists damp air and everyday knocks. A double row of mounting holes, a full diagonal brace and pressed reinforcing ribs share the load across the wall instead of concentrating it at the corner, which is what makes a long span of shelving sit level and stay level. The bracket is laser cut and hydraulically bent in one piece, so the angle and the hole pattern line up between batches. Six-hole base plates take a firm fixing into brick, concrete or timber studs, and the matte baked finish reads as a plain industrial fixing rather than a decorative fitting. Lengths run from 10 to 24 inch, thicknesses from 2.0 to 5.0 mm and heights from 13.5 to 59 cm, so shelving, workbench frames, garages, warehouses and retail displays can be specified from one line. Screws are included with each bracket.",
+        "desc": "Thickened triangular shelf bracket cut and folded from 5 mm cold-rolled steel, then electroplated so the surface resists damp air and everyday knocks. A double row of mounting holes, a full diagonal brace and pressed reinforcing ribs share the load across the wall instead of concentrating it at the corner, which is what makes a long span of shelving sit level and stay level. The bracket is laser cut and hydraulically bent in one piece, so the angle and the hole pattern line up between batches. Six-hole base plates take a firm fixing into brick, concrete or timber studs, and the matte baked finish reads as a plain industrial fixing rather than a decorative fitting. Lengths run from 10 to 24 inch, thicknesses from 2.0 to 5.0 mm and heights from 13.5 to 59 cm, so shelving, workbench frames, garages, warehouses and retail displays can be specified from one line. Screws are included with each bracket. Fitters cutting shelves to a set depth order a single bracket length for the whole run, so every shelf in a bay lines up at the same height.",
         "specs": [
             ("Material", "5 mm Cold-Rolled Steel"),
             ("Finish", "Electroplated, Matte Baked"),
@@ -8950,7 +8970,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/folding-wall-shelf-bracket.jpg",
         "src": "https://detail.1688.com/offer/739478768534.html",
-        "desc": "Folding wall bracket in carbon steel that carries a worktop or shelf in the raised position and then drops flat against the wall when the space is needed back. Releasing the twin-slot lock lets the arm fold down, and pressing it back up locks the arm square at 90 degrees, so a bench, a serving counter or a tidy shelf can be cleared without unbolting anything. A thickened spring and a two-stage damping action on the wider variants slow the arm near the end of its travel instead of letting it drop. The baked paint finish takes workshop and kitchen wear. Sizes run from 12 to 24 inch and the wider versions carry a claimed 1000 jin. Useful for garages, laundry rooms, van conversions, market stalls and any room where a fixed shelf would be in the way some of the time. Fixing screws are supplied.",
+        "desc": "Folding wall bracket in carbon steel that carries a worktop or shelf in the raised position and then drops flat against the wall when the space is needed back. Releasing the twin-slot lock lets the arm fold down, and pressing it back up locks the arm square at 90 degrees, so a bench, a serving counter or a tidy shelf can be cleared without unbolting anything. A thickened spring and a two-stage damping action on the wider variants slow the arm near the end of its travel instead of letting it drop. The baked paint finish takes workshop and kitchen wear. Sizes run from 12 to 24 inch and the wider versions carry a claimed 1000 jin. Useful for garages, laundry rooms, van conversions, market stalls and any room where a fixed shelf would be in the way some of the time. Fixing screws are supplied. Anyone short of wall space hangs a folding arm over a washing machine to sort and fold laundry, then clears the wall again.",
         "specs": [
             ("Material", "Carbon Steel"),
             ("Finish", "Baked Paint"),
@@ -8977,7 +8997,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/cabinet-hanging-bracket.jpg",
         "src": "https://detail.1688.com/offer/763921712345.html",
-        "desc": "Hanging bracket set for wall-mounted cabinets, bathroom vanities, floating cupboards and suspended TV units, rated to 240 kg per set in cold-rolled steel. The three-part layout is a hanging plate, a seat and a cover, and it allows 7 mm of vertical and 7 mm of in-out adjustment after the cabinet is on the wall, which is how a run of units gets levelled without packing shims behind the carcass. The seat also clears the 13 mm side space needed by side-mount three-section drawer slides, so a drawer box can slide past the bracket without fouling it. Each set weighs about 525 g, sits 23 or 27 mm high and includes expansion bolts and self-tapping screws. Grey and white covers are available. Suits cabinet depths up to 600 mm and any back panel thickness. Full fixing hardware is supplied.",
+        "desc": "Hanging bracket set for wall-mounted cabinets, bathroom vanities, floating cupboards and suspended TV units, rated to 240 kg per set in cold-rolled steel. The three-part layout is a hanging plate, a seat and a cover, and it allows 7 mm of vertical and 7 mm of in-out adjustment after the cabinet is on the wall, which is how a run of units gets levelled without packing shims behind the carcass. The seat also clears the 13 mm side space needed by side-mount three-section drawer slides, so a drawer box can slide past the bracket without fouling it. Each set weighs about 525 g, sits 23 or 27 mm high and includes expansion bolts and self-tapping screws. Grey and white covers are available. Suits cabinet depths up to 600 mm and any back panel thickness. Full fixing hardware is supplied. Kitchen installers keep spare sets in the van, so a wall unit can be hung on the day the carcasses arrive rather than waiting on another trip.",
         "specs": [
             ("Material", "Cold-Rolled Steel"),
             ("Finish", "Nickel-Plated"),
@@ -9004,7 +9024,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/cross-lug-wrench-20-inch.jpg",
         "src": "https://detail.1688.com/offer/953361270547.html",
-        "desc": "Four-way cross wheel wrench forged from Cr-V alloy steel for roadside and workshop tyre changes. Four sockets sit on a single 20 inch cross, so the two sizes not in use act as the handle and both hands can stay on the tool, which is what stops a stubborn nut from rolling the wrench off. The sockets cover 17, 19, 21 and 23 mm, the four common passenger and light commercial wheel nut sizes, and the chrome-plated finish with a knurled grip wipes clean and does not slip in wet weather. Handles are about 15.8 mm across and the socket walls about 4.5 mm, giving the stiffness needed to take a breaker bar load without splaying. The tool weighs 1.71 kg and is double-reinforced at the centre joint. A useful line for tyre shops, service vans, hire fleets and car accessory sellers.",
+        "desc": "Four-way cross wheel wrench forged from Cr-V alloy steel for roadside and workshop tyre changes. Four sockets sit on a single 20 inch cross, so the two sizes not in use act as the handle and both hands can stay on the tool, which is what stops a stubborn nut from rolling the wrench off. The sockets cover 17, 19, 21 and 23 mm, the four common passenger and light commercial wheel nut sizes, and the chrome-plated finish with a knurled grip wipes clean and does not slip in wet weather. Handles are about 15.8 mm across and the socket walls about 4.5 mm, giving the stiffness needed to take a breaker bar load without splaying. The tool weighs 1.71 kg and is double-reinforced at the centre joint. A useful line for tyre shops, service vans, hire fleets and car accessory sellers. Car owners changing between summer and winter wheels keep it on a garage shelf, since the sockets cover both sets.",
         "specs": [
             ("Material", "Cr-V Alloy Steel"),
             ("Length", "20 inch"),
@@ -9031,7 +9051,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/tungsten-carbide-glass-cutter.jpg",
         "src": "https://detail.1688.com/offer/999366017062.html",
-        "desc": "Roller glass cutter with a tungsten carbide wheel for scoring flat glass, mirror, tile and glazed ceramic before snapping. The wheel is micro-nano ground and runs on a sealed steel shaft, so the score stays even along the length of the cut, and the alloy tapping head at the tail is used to tap under the score line so the break follows it. A 185 mm body gives enough leverage for a straight cut and the knurled ergonomic grip keeps the hand from sliding when pressure is applied. An alloy oil guide tube with an anti-leak rubber ring feeds a small amount of oil to the wheel, which is what keeps a fresh edge running smoothly. Cuts material from 2 to 80 mm and is guided at about 60 degrees. Not for tempered glass or quartz. Weighs 105 g.",
+        "desc": "Roller glass cutter with a tungsten carbide wheel for scoring flat glass, mirror, tile and glazed ceramic before snapping. The wheel is micro-nano ground and runs on a sealed steel shaft, so the score stays even along the length of the cut, and the alloy tapping head at the tail is used to tap under the score line so the break follows it. A 185 mm body gives enough leverage for a straight cut and the knurled ergonomic grip keeps the hand from sliding when pressure is applied. An alloy oil guide tube with an anti-leak rubber ring feeds a small amount of oil to the wheel, which is what keeps a fresh edge running smoothly. Cuts material from 2 to 80 mm and is guided at about 60 degrees. Not for tempered glass or quartz. Weighs 105 g. Hardware and tile shops list it as a counter item, since customers cutting a single panel rarely own a cutter already.",
         "specs": [
             ("Length", "185 mm"),
             ("Cutting Wheel", "Tungsten Carbide, Micro-Nano Ground"),
@@ -9058,7 +9078,7 @@ PRODUCTS = [
         "moq": "MOQ 1 set",
         "img": "/images/tap-wrench-set-6pc.jpg",
         "src": "https://detail.1688.com/offer/901010135092.html",
-        "desc": "Six-piece tap and wrench set for cutting and cleaning threads by hand in the workshop, service van or assembly bench. The taps are fully ground with straight flutes and hardened cutting edges, which keeps them cutting true in steel, aluminium and brass instead of rubbing and tearing the thread. The set covers M3 by 0.5, M4 by 0.7, M5 by 0.8, M6 by 1 and M8 by 1.25, and the tap wrench grips the square shank firmly so the tap cannot spin or snap under load. The die wrench takes M25 dies, and the longer T-handle variants reach M5 through M12 for deeper work. The clamping jaws are made to hold tight rather than slip, which is the usual cause of a broken tap in a blind hole. A compact set to keep on the bench for repair and rethreading jobs.",
+        "desc": "Six-piece tap and wrench set for cutting and cleaning threads by hand in the workshop, service van or assembly bench. The taps are fully ground with straight flutes and hardened cutting edges, which keeps them cutting true in steel, aluminium and brass instead of rubbing and tearing the thread. The set covers M3 by 0.5, M4 by 0.7, M5 by 0.8, M6 by 1 and M8 by 1.25, and the tap wrench grips the square shank firmly so the tap cannot spin or snap under load. The die wrench takes M25 dies, and the longer T-handle variants reach M5 through M12 for deeper work. The clamping jaws are made to hold tight rather than slip, which is the usual cause of a broken tap in a blind hole. A compact set to keep on the bench for repair and rethreading jobs. Plumbers and electricians on site use the set to cut fresh threads on fittings and conduit instead of ordering pre-threaded parts to length.",
         "specs": [
             ("Set Contents", "6 Pieces, Taps and Wrench"),
             ("Tap Sizes", "M3 x 0.5, M4 x 0.7, M5 x 0.8, M6 x 1, M8 x 1.25"),
@@ -9085,7 +9105,7 @@ PRODUCTS = [
         "moq": "MOQ 1 kit",
         "img": "/images/cordless-caulking-gun-21v.jpg",
         "src": "https://detail.1688.com/offer/974347724406.html",
-        "desc": "Cordless caulking gun running a brushless motor on a 21V lithium battery pack, built for long runs of sealant and grout where a hand gun would leave the wrist aching and the bead uneven. Six speed settings let the same tool lay a slow bead of stiff adhesive along a cabinet edge and then run a fast bead of flexible sealant around a window. A solid push rod drives the plunger with the motor instead of a spring, so the bead stays the same thickness from the first centimetre to the last and the material does not surge when the trigger is held. The pull plate releases so the rod can be drawn back and a part-used tube changed without fighting the piston. Suits kitchen and bathroom sealing, tile grout lines, flooring and window and door frame work. Supplied as a kit with battery and charger.",
+        "desc": "Cordless caulking gun running a brushless motor on a 21V lithium battery pack, built for long runs of sealant and grout where a hand gun would leave the wrist aching and the bead uneven. Six speed settings let the same tool lay a slow bead of stiff adhesive along a cabinet edge and then run a fast bead of flexible sealant around a window. A solid push rod drives the plunger with the motor instead of a spring, so the bead stays the same thickness from the first centimetre to the last and the material does not surge when the trigger is held. The pull plate releases so the rod can be drawn back and a part-used tube changed without fighting the piston. Suits kitchen and bathroom sealing, tile grout lines, flooring and window and door frame work. Supplied as a kit with battery and charger. Shopfitters and window installers buy it when a job has a long run of joints to seal in a single visit rather than mixing beads by hand.",
         "specs": [
             ("Power", "21V Lithium Rechargeable"),
             ("Motor", "Brushless"),
@@ -9112,7 +9132,7 @@ PRODUCTS = [
         "moq": "MOQ 1 set",
         "img": "/images/drill-mounted-metal-shear.jpg",
         "src": "https://detail.1688.com/offer/829869489991.html",
-        "desc": "Shear attachment that converts an ordinary 21V or 12V drill, including impact drills, into a powered sheet metal cutter. A precision gear drive takes the drill rotation to the blades, which shear the sheet instead of grinding it, so the cut is clean and burr free with no sparks, no kickback and no water to trap rust on the edge. The thickened alloy steel body is one-piece forged around the gear train, which is what keeps the blades in alignment under load. The blades are detachable and replaceable, and one, two or three blade options can be specified so the same body cuts steel sheet from 0.2 to 1.0 mm, copper and aluminium from 0.3 to 1.2 mm and stainless from 0.2 to 0.8 mm. A non-slip universal hex shank fits the drill chuck. Weighs 412.5 g.",
+        "desc": "Shear attachment that converts an ordinary 21V or 12V drill, including impact drills, into a powered sheet metal cutter. A precision gear drive takes the drill rotation to the blades, which shear the sheet instead of grinding it, so the cut is clean and burr free with no sparks, no kickback and no water to trap rust on the edge. The thickened alloy steel body is one-piece forged around the gear train, which is what keeps the blades in alignment under load. The blades are detachable and replaceable, and one, two or three blade options can be specified so the same body cuts steel sheet from 0.2 to 1.0 mm, copper and aluminium from 0.3 to 1.2 mm and stainless from 0.2 to 0.8 mm. A non-slip universal hex shank fits the drill chuck. Weighs 412.5 g. Sheet metal workers use it on ducting, flashing and guttering where a short cut is quicker than setting up a bench shear.",
         "specs": [
             ("Type", "Drill-Mounted Shear Attachment"),
             ("Compatibility", "21V and 12V Drills, Including Impact Drills"),
@@ -9139,7 +9159,7 @@ PRODUCTS = [
         "moq": "MOQ 1 kit",
         "img": "/images/pneumatic-grease-gun-400cc.jpg",
         "src": "https://detail.1688.com/offer/706693983070.html",
-        "desc": "Dual-mode grease gun that runs either from the shop air line or by hand, so a machine can be greased at the bench with air pressure and then finished in a corner where no hose reaches. In pneumatic mode it takes 0.8 MPa through a 1/4 inch inlet on an 8 mm bore hose, which develops the pressure needed to push grease through a blocked or long grease nipple. The head is zinc alloy on an alloy body, and the pressure rod and threads are thickened to survive the shock of a line that is pulsed on and off. The barrel holds 400 cc and the whole gun weighs 1.5 kg over 43 cm. The kit includes the pneumatic head, a metal grease barrel, a 230 mm hose, a 130 mm rigid pipe, two flat nozzles, two short pointed nozzles, one long pointed nozzle and a switch fitting. Suits excavators, bulldozers, harvesters, tractors, ships and cars.",
+        "desc": "Dual-mode grease gun that runs either from the shop air line or by hand, so a machine can be greased at the bench with air pressure and then finished in a corner where no hose reaches. In pneumatic mode it takes 0.8 MPa through a 1/4 inch inlet on an 8 mm bore hose, which develops the pressure needed to push grease through a blocked or long grease nipple. The head is zinc alloy on an alloy body, and the pressure rod and threads are thickened to survive the shock of a line that is pulsed on and off. The barrel holds 400 cc and the whole gun weighs 1.5 kg over 43 cm. The kit includes the pneumatic head, a metal grease barrel, a 230 mm hose, a 130 mm rigid pipe, two flat nozzles, two short pointed nozzles, one long pointed nozzle and a switch fitting. Suits excavators, bulldozers, harvesters, tractors, ships and cars. Fleet and plant workshops keep the kit beside the air line, so a machine can be greased before it goes back out.",
         "specs": [
             ("Capacity", "400 cc"),
             ("Mode", "Pneumatic and Manual"),
@@ -9166,7 +9186,7 @@ PRODUCTS = [
         "moq": "MOQ 1 bottle",
         "img": "/images/air-tool-oil-500ml.jpg",
         "src": "https://detail.1688.com/offer/663022726811.html",
-        "desc": "Pneumatic lubricant blended for air tools, supplied in a 500 ml bottle at 440 g gross with a three year shelf life and packed 30 bottles to a carton. It is intended to go into the tool rather than onto the floor: a 3 to 5 mm oil column is injected into the air inlet before use and the tool is then run off load for 3 to 5 minutes so the oil reaches the vanes, bearings and seals. Six jobs are claimed for it, deep lubrication, anti-rust and derusting, wear and noise reduction, cooling and anti-corrosion, oxidation stability and cleaning care. Used on air impact wrenches, air nailers and compressors as well as small air and mechanical parts around the workshop such as bearings and door locks. A consumable worth stocking beside every air tool on the shelf.",
+        "desc": "Pneumatic lubricant blended for air tools, supplied in a 500 ml bottle at 440 g gross with a three year shelf life and packed 30 bottles to a carton. It is intended to go into the tool rather than onto the floor: a 3 to 5 mm oil column is injected into the air inlet before use and the tool is then run off load for 3 to 5 minutes so the oil reaches the vanes, bearings and seals. Six jobs are claimed for it, deep lubrication, anti-rust and derusting, wear and noise reduction, cooling and anti-corrosion, oxidation stability and cleaning care. Used on air impact wrenches, air nailers and compressors as well as small air and mechanical parts around the workshop such as bearings and door locks. A consumable worth stocking beside every air tool on the shelf. Kept on the bench beside the compressor, it becomes part of the routine before a nailer or impact wrench goes back in the van.",
         "specs": [
             ("Volume", "500 ml per Bottle"),
             ("Gross Weight", "440 g"),
@@ -9207,6 +9227,7 @@ PRODUCTS = [
             "Zinc-plated steel body holds its finish in kitchens, bathrooms and utility rooms",
             "Matching strike plate mounts on the door, so alignment is set once at installation",
             "Supplied with mounting screws, so a worn original catch can be replaced with a screwdriver",
+            "A practical line for hardware retailers, since the catch suits both new cabinet builds and repairs",
         ],
         "related": ["cabinet-push-latch", "magnetic-glass-door-catch", "silicone-door-bumper-pads"],
     },
@@ -9219,7 +9240,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/adjustable-glass-shelf-clamp.jpg",
         "src": "https://detail.1688.com/offer/829316932579.html",
-        "desc": "A duckbill-shaped shelf clamp that holds glass panels from 3 mm up to 18 mm, so one fitting covers the thicknesses found across a run of shelves instead of needing a separate part for every size. The back plate takes a screw into the wall or the support, and the shelf slides between the jaw and the base where a single screw clamps it tight; soft pads under the jaw spread the load so the glass is not marked. The brushed nickel finish keeps the fitting quiet against glass, mirror and polished stone without the glare of bright chrome. At about 49 g per piece it feels solid in the hand yet stays visually light once it is under a shelf. The jaw reaches 56 mm and the body stands 30 mm high, which gives clearance for thicker shelves and the fixings behind them. Suits bathroom shelving, retail displays and office partitions, on new builds or as a retrofit.",
+        "desc": "A duckbill-shaped shelf clamp that holds glass panels from 3 mm up to 18 mm, so one fitting covers the thicknesses found across a run of shelves instead of needing a separate part for every size. The back plate takes a screw into the wall or the support, and the shelf slides between the jaw and the base where a single screw clamps it tight; soft pads under the jaw spread the load so the glass is not marked. The brushed nickel finish keeps the fitting quiet against glass, mirror and polished stone without the glare of bright chrome. At about 49 g per piece it feels solid in the hand yet stays visually light once it is under a shelf. The jaw reaches 56 mm and the body stands 30 mm high, which gives clearance for thicker shelves and the fixings behind them. Suits bathroom shelving, retail displays and office partitions, on new builds or as a retrofit. Shop and hotel refurbishment crews fit new clamps to existing glass, so a tired display can be refreshed without new panels.",
         "specs": [
             ("Finish", "Brushed Nickel"),
             ("Glass Thickness", "3 - 18 mm"),
@@ -9245,7 +9266,7 @@ PRODUCTS = [
         "moq": "MOQ 2 pc",
         "img": "/images/heavy-duty-swivel-caster-3-inch.jpg",
         "src": "https://detail.1688.com/offer/667560243132.html",
-        "desc": "A three inch swivel caster built around a solid rubber wheel, which rolls far more quietly over hard workshop and showroom floors than a hard nylon or cast iron wheel, and soaks up the small steps and grit that make a loaded trolley bang and judder. The wheel measures 75 mm across and 33 mm wide, and the ball-bearing swivel head turns a full 360 degrees so a cart can be steered into a tight aisle without being lifted. The steel bracket carries a top plate measuring 63 x 95 mm with 45 x 72 mm hole centres and a 100 mm mounting height, so it bolts straight onto the pressed-steel frames used for trolleys, mobile racks and tool cabinets. This medium duty variant is supplied without a brake, for carts that only have to roll. The minimum order is two pieces, so a pair can be fitted in one go.",
+        "desc": "A three inch swivel caster built around a solid rubber wheel, which rolls far more quietly over hard workshop and showroom floors than a hard nylon or cast iron wheel, and soaks up the small steps and grit that make a loaded trolley bang and judder. The wheel measures 75 mm across and 33 mm wide, and the ball-bearing swivel head turns a full 360 degrees so a cart can be steered into a tight aisle without being lifted. The steel bracket carries a top plate measuring 63 x 95 mm with 45 x 72 mm hole centres and a 100 mm mounting height, so it bolts straight onto the pressed-steel frames used for trolleys, mobile racks and tool cabinets. This medium duty variant is supplied without a brake, for carts that only have to roll. The minimum order is two pieces, so a pair can be fitted in one go. Workshops that keep rolling racks and tool cabinets in daily service buy these casters to replace a worn unit and put the cart straight back to work.",
         "specs": [
             ("Wheel Diameter", "75 mm (3 inch)"),
             ("Wheel Material", "Solid Rubber"),
@@ -9271,7 +9292,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/glass-tube-cutter.jpg",
         "src": "https://detail.1688.com/offer/785356418907.html",
-        "desc": "A handheld cutter for scoring glass tubing to length, built around a zinc alloy frame with a coil return spring that opens the jaws as soon as hand pressure is released. The cutting wheel scores the wall of the tube in one pass and the tube is then snapped along the score, which gives a clean, square end without the chips and ragged cracks that come from sawing or from snapping a tube that was never scored. The tool is supplied as a complete set with its cutting wheel fitted, so it is ready to use on arrival and needs no assembly. The compact frame sits in a bench drawer or a tool pocket and can be carried to the glassware store, the laboratory bench or the site where the tube is being run. Suits glass tubing in laboratories, instrument repair, workshops and glass processing.",
+        "desc": "A handheld cutter for scoring glass tubing to length, built around a zinc alloy frame with a coil return spring that opens the jaws as soon as hand pressure is released. The cutting wheel scores the wall of the tube in one pass and the tube is then snapped along the score, which gives a clean, square end without the chips and ragged cracks that come from sawing or from snapping a tube that was never scored. The tool is supplied as a complete set with its cutting wheel fitted, so it is ready to use on arrival and needs no assembly. The compact frame sits in a bench drawer or a tool pocket and can be carried to the glassware store, the laboratory bench or the site where the tube is being run. Suits glass tubing in laboratories, instrument repair, workshops and glass processing. Buyers often keep a cutter at each bench rather than sharing, so a job is never held up waiting for the tool to come back.",
         "specs": [
             ("Body Material", "Zinc Alloy"),
             ("Type", "Glass Tube Cutter"),
@@ -9297,7 +9318,7 @@ PRODUCTS = [
         "moq": "MOQ 1 set",
         "img": "/images/ratchet-flare-nut-wrench-set.jpg",
         "src": "https://detail.1688.com/offer/1075530010053.html",
-        "desc": "A twelve piece set that pairs two swivel-head ratchet wrenches with ten sockets, all laid out in a moulded tray inside a case with a clear lid so a missing piece is obvious before the job starts. The wrenches carry ratcheting heads at each end, sized 14, 15 and 19 mm, and the heads pivot so a fastener tucked beside a bulkhead or behind a pipe can still be turned. The ten sockets cover 8, 9, 10, 11, 12, 13, 15, 16, 17 and 18 mm, which is the band that carries most automotive, plumbing and machinery work, and every size is engraved on the tray as well as on the socket so the right one can be picked without reading glasses. The ratchet action turns the fastener without the wrench having to be lifted and repositioned, which matters where the swing arc is short. Chrome finish wipes clean.",
+        "desc": "A twelve piece set that pairs two swivel-head ratchet wrenches with ten sockets, all laid out in a moulded tray inside a case with a clear lid so a missing piece is obvious before the job starts. The wrenches carry ratcheting heads at each end, sized 14, 15 and 19 mm, and the heads pivot so a fastener tucked beside a bulkhead or behind a pipe can still be turned. The ten sockets cover 8, 9, 10, 11, 12, 13, 15, 16, 17 and 18 mm, which is the band that carries most automotive, plumbing and machinery work, and every size is engraved on the tray as well as on the socket so the right one can be picked without reading glasses. The ratchet action turns the fastener without the wrench having to be lifted and repositioned, which matters where the swing arc is short. Chrome finish wipes clean. Mobile mechanics and service vans are the usual buyers, because the set can be carried to the vehicle and handle a brake or fuel line job without a return trip for tools.",
         "specs": [
             ("Pieces", "12 (2 Wrenches + 10 Sockets)"),
             ("Wrench Head Sizes", "14 / 15 / 19 mm"),
@@ -9323,7 +9344,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/aviation-tin-snips-right-cut.jpg",
         "src": "https://detail.1688.com/offer/813844191754.html",
-        "desc": "A right-curve aviation snip for cutting sheet metal and stainless on site, with a compound linkage that multiplies hand force at the blades so a long cut through thin sheet does not have to be forced. The cutting head is set for right-hand curves, which makes it the snip for trimming flashing, following a radius and cutting out a corner, and the straight lead-in at the tip lets a cut be started from a drilled hole or from the edge of a panel. The tool measures 275 mm overall with 57 mm blades and weighs 517 g, so it has the leverage to be pushed through a run of sheet without the wrist tiring. It is rated for sheet metal from 0.1 to 0.8 mm and stainless steel from 0.1 to 0.6 mm. The blackened cutting head and compound linkage are sized for ducting, roofing and body panel work.",
+        "desc": "A right-curve aviation snip for cutting sheet metal and stainless on site, with a compound linkage that multiplies hand force at the blades so a long cut through thin sheet does not have to be forced. The cutting head is set for right-hand curves, which makes it the snip for trimming flashing, following a radius and cutting out a corner, and the straight lead-in at the tip lets a cut be started from a drilled hole or from the edge of a panel. The tool measures 275 mm overall with 57 mm blades and weighs 517 g, so it has the leverage to be pushed through a run of sheet without the wrist tiring. It is rated for sheet metal from 0.1 to 0.8 mm and stainless steel from 0.1 to 0.6 mm. The blackened cutting head and compound linkage are sized for ducting, roofing and body panel work. Roofers and ducting crews usually carry it alongside a left-cut tool, buying the right-cut version when their work runs mostly the same way around a panel.",
         "specs": [
             ("Overall Length", "275 mm"),
             ("Overall Width", "53 mm"),
@@ -9349,7 +9370,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/drill-mounted-rivet-nut-adapter.jpg",
         "src": "https://detail.1688.com/offer/912739785368.html",
-        "desc": "An adapter that turns an ordinary drill into a powered rivet nut setter, so a job that would otherwise be done with a long-handled manual tool or a dedicated air gun can be run off a drill that is already in the van. The hex shank goes straight into the chuck, the drill turns the mandrel, and the rivet nut is drawn down onto the panel in the same way as with a purpose-built setter, leaving a strong threaded point in thin sheet, tubing or a closed section that cannot be reached from behind. Five nose tips cover M3, M4, M5, M6 and M8, and the tip fitted to the tool as supplied is M6, so the common sizes are covered from the box. The flat spanner provided is used to change the tips and to hold the body while the mandrel is seated. Supplied one piece per order.",
+        "desc": "An adapter that turns an ordinary drill into a powered rivet nut setter, so a job that would otherwise be done with a long-handled manual tool or a dedicated air gun can be run off a drill that is already in the van. The hex shank goes straight into the chuck, the drill turns the mandrel, and the rivet nut is drawn down onto the panel in the same way as with a purpose-built setter, leaving a strong threaded point in thin sheet, tubing or a closed section that cannot be reached from behind. Five nose tips cover M3, M4, M5, M6 and M8, and the tip fitted to the tool as supplied is M6, so the common sizes are covered from the box. The flat spanner provided is used to change the tips and to hold the body while the mandrel is seated. Supplied one piece per order. Trailer builders and shopfitters are typical buyers, since blind fixings let a panel be fastened from the outside without access behind the frame.",
         "specs": [
             ("Type", "Drill-Mounted Rivet Nut Adapter"),
             ("Shank", "Hex Shank for Drill Chuck"),
@@ -9375,7 +9396,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/cordless-rotary-hammer-3-in-1.jpg",
         "src": "https://detail.1688.com/offer/1083347414728.html",
-        "desc": "A three-mode cordless rotary hammer with a brushless motor, supplied as a bare tool so a buyer who already runs a battery platform pays only for the machine. The mode selector switches between straight drilling, hammer drilling and chisel-only work, which lets one tool drill an anchor hole in concrete, chase out a channel and then drive a chisel under a tile bed without a second machine being brought to the job. The brushless motor carries no brushes to replace between services, and the ventilated housing and auxiliary side handle keep the tool steady when it is worked overhead or pushed into a wall. Being cordless it can be carried between rooms and up to a roof without a lead, which suits renovation and fit-out work where power is not always available. Battery and charger are not included.",
+        "desc": "A three-mode cordless rotary hammer with a brushless motor, supplied as a bare tool so a buyer who already runs a battery platform pays only for the machine. The mode selector switches between straight drilling, hammer drilling and chisel-only work, which lets one tool drill an anchor hole in concrete, chase out a channel and then drive a chisel under a tile bed without a second machine being brought to the job. The brushless motor carries no brushes to replace between services, and the ventilated housing and auxiliary side handle keep the tool steady when it is worked overhead or pushed into a wall. Being cordless it can be carried between rooms and up to a roof without a lead, which suits renovation and fit-out work where power is not always available. Battery and charger are not included. Maintenance teams often justify the tool on chisel mode alone, since a machine already on site can lift a tile bed without bringing another tool in.",
         "specs": [
             ("Motor", "Brushless"),
             ("Modes", "3 (Drill, Hammer Drill, Chisel)"),
@@ -9401,7 +9422,7 @@ PRODUCTS = [
         "moq": "MOQ 1 kit",
         "img": "/images/pneumatic-rivet-nut-gun.jpg",
         "src": "https://detail.1688.com/offer/703901238572.html",
-        "desc": "A pistol-grip air tool for pulling rivet nuts into sheet metal, tubing and closed sections where the nut has to be set from one side only. Compressed air drives the mandrel at 600 rpm to spin the nut down onto the panel and then draws it up to form the threaded point, which takes a fraction of the time a hand setter needs and gives the same result on every insert of a run. Three screw-on nose tips are supplied for M5, M6 and M8 rivet nuts, and the tip fitted on the tool as delivered is M6; the same tool family covers the wider M3 to M10 range with further tips. The body and rubber grip are sized for production work where the setter is in the hand all shift, and the tips screw on and off without special tools.",
+        "desc": "A pistol-grip air tool for pulling rivet nuts into sheet metal, tubing and closed sections where the nut has to be set from one side only. Compressed air drives the mandrel at 600 rpm to spin the nut down onto the panel and then draws it up to form the threaded point, which takes a fraction of the time a hand setter needs and gives the same result on every insert of a run. Three screw-on nose tips are supplied for M5, M6 and M8 rivet nuts, and the tip fitted on the tool as delivered is M6; the same tool family covers the wider M3 to M10 range with further tips. The body and rubber grip are sized for production work where the setter is in the hand all shift, and the tips screw on and off without special tools. Body shops and duct fabricators are the usual buyers, since air is already plumbed at the bench and no separate power supply is needed at the point of work.",
         "specs": [
             ("Type", "Pneumatic Rivet Nut Gun"),
             ("Power", "Compressed Air"),
@@ -9427,7 +9448,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/wet-air-stone-polisher-4-inch.jpg",
         "src": "https://detail.1688.com/offer/605017828908.html",
-        "desc": "A water-fed air polisher for grinding and polishing stone, built so the water runs through the tool to the face of the disc rather than being sprayed over it from a bottle. Keeping water at the contact point holds the dust down and keeps the surface cool, which is what stops a polished edge from burning and lets the abrasive keep cutting instead of glazing over. The 90 degree gear head puts the 4 inch pad flat on the work with the body held clear, and the side handle takes the torque of a heavy cut so the operator can steer the tool along an edge without it pulling away. Running on compressed air means there is no electric motor next to the water, which is the practical reason wet stone work is done with air tools. The brass water swivel at the back lets the supply hose follow the tool. Suits granite, marble and engineered stone.",
+        "desc": "A water-fed air polisher for grinding and polishing stone, built so the water runs through the tool to the face of the disc rather than being sprayed over it from a bottle. Keeping water at the contact point holds the dust down and keeps the surface cool, which is what stops a polished edge from burning and lets the abrasive keep cutting instead of glazing over. The 90 degree gear head puts the 4 inch pad flat on the work with the body held clear, and the side handle takes the torque of a heavy cut so the operator can steer the tool along an edge without it pulling away. Running on compressed air means there is no electric motor next to the water, which is the practical reason wet stone work is done with air tools. The brass water swivel at the back lets the supply hose follow the tool. Suits granite, marble and engineered stone. Stone shops that finish on site often pair it with the workshop machine, using the air unit where a bench cannot be brought to the slab.",
         "specs": [
             ("Pad Size", "4 inch"),
             ("Power", "Compressed Air"),
@@ -9453,7 +9474,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/sliding-window-crescent-lock.jpg",
         "src": "https://detail.1688.com/offer/589451872592.html",
-        "desc": "An espagnolette-style crescent lock for aluminium and uPVC sliding windows, built with a die-cast zinc base plate and a cast aluminium lever handle. Turning the handle down swings the cam hook into the frame striker, locking the sash against sliding travel and against being lifted out of its track, which is the anti-theft job this pattern of window lock is normally bought for. Two countersunk fixing holes set the base plate flat against the sash stile so the head sits flush and cannot be worked from the side. The lock is offered in white and in black, letting the hardware match the window profile instead of standing out against it. Zinc die-casting keeps its shape better than pressed sheet, which is what holds the cam hook square after years of daily opening and closing. Suits standard residential aluminium and plastic-steel window sections.",
+        "desc": "An espagnolette-style crescent lock for aluminium and uPVC sliding windows, built with a die-cast zinc base plate and a cast aluminium lever handle. Turning the handle down swings the cam hook into the frame striker, locking the sash against sliding travel and against being lifted out of its track, which is the anti-theft job this pattern of window lock is normally bought for. Two countersunk fixing holes set the base plate flat against the sash stile so the head sits flush and cannot be worked from the side. The lock is offered in white and in black, letting the hardware match the window profile instead of standing out against it. Zinc die-casting keeps its shape better than pressed sheet, which is what holds the cam hook square after years of daily opening and closing. Suits standard residential aluminium and plastic-steel window sections. Window fabricators order these in bulk for new sashes, while service callers fit them as an upgrade on older windows whose original catch no longer seats.",
         "specs": [
             ("Type", "Crescent Window Lock"),
             ("Base Plate", "Die-Cast Zinc Alloy"),
@@ -9479,7 +9500,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/stainless-sliding-window-hook-lock.jpg",
         "src": "https://detail.1688.com/offer/693014449464.html",
-        "desc": "A recessed slab hook lock for sliding aluminium windows and doors, cut into the stile so the handle sits flush with the frame face. The body is 182 mm long, 23 mm wide and 17 mm thick, with screw holes set 164 mm apart, which lines up with the standard 90 series window section used on residential sliding sashes. Pressing the sprung lever throws a 9 mm hook out of the end of the body to catch the striker plate supplied with the lock, and the slotted striker takes up the tolerance in the frame so the hook still engages squarely after the building has settled. The recessed format leaves nothing proud of the frame to snag a curtain or a sleeve, and it gives the assembled window the continuous flat sight line that a surface-mounted latch breaks. Suits aluminium and plastic-steel sliding windows and balcony doors.",
+        "desc": "A recessed slab hook lock for sliding aluminium windows and doors, cut into the stile so the handle sits flush with the frame face. The body is 182 mm long, 23 mm wide and 17 mm thick, with screw holes set 164 mm apart, which lines up with the standard 90 series window section used on residential sliding sashes. Pressing the sprung lever throws a 9 mm hook out of the end of the body to catch the striker plate supplied with the lock, and the slotted striker takes up the tolerance in the frame so the hook still engages squarely after the building has settled. The recessed format leaves nothing proud of the frame to snag a curtain or a sleeve, and it gives the assembled window the continuous flat sight line that a surface-mounted latch breaks. Suits aluminium and plastic-steel sliding windows and balcony doors. Fabricators running balcony door sets keep these beside the profile lengths, so a sash can be drilled and locked as it moves through the shop.",
         "specs": [
             ("Type", "Recessed Slab Hook Lock"),
             ("Overall Length", "182 mm"),
@@ -9505,7 +9526,7 @@ PRODUCTS = [
         "moq": "MOQ 2 pc",
         "img": "/images/chrome-wall-hook-rail-58cm.jpg",
         "src": "https://detail.1688.com/offer/759149423192.html",
-        "desc": "A wall-mounted hook rail for cloakrooms, hallways and utility rooms where coats, bags and towels need to come off the floor. The rail is 58.5 cm long and carries seven hook positions, each formed as a matching pair of ball-end arms so a coat hangs from the upper arm while a bag or an umbrella strap takes the lower one. The arms stand 8 cm clear of the wall, which leaves room for a padded jacket to hang without its shoulders pressing into the plaster, and the 8 cm spacing between positions stops bulky items from crushing together. Two fixing holes are set 42 cm apart, wide enough that the load is spread across a decent span of wall instead of being concentrated in one patch. The rail is finished in polished chrome over steel, and matching screws and wall plugs are included in the carton.",
+        "desc": "A wall-mounted hook rail for cloakrooms, hallways and utility rooms where coats, bags and towels need to come off the floor. The rail is 58.5 cm long and carries seven hook positions, each formed as a matching pair of ball-end arms so a coat hangs from the upper arm while a bag or an umbrella strap takes the lower one. The arms stand 8 cm clear of the wall, which leaves room for a padded jacket to hang without its shoulders pressing into the plaster, and the 8 cm spacing between positions stops bulky items from crushing together. Two fixing holes are set 42 cm apart, wide enough that the load is spread across a decent span of wall instead of being concentrated in one patch. The rail is finished in polished chrome over steel, and matching screws and wall plugs are included in the carton. Rental refurbishment buyers fit rails like this because a long rail covers a hallway wall and cuts the number of separate hooks that have to be bought and fixed.",
         "specs": [
             ("Finish", "Polished Chrome over Steel"),
             ("Length", "58.5 cm"),
@@ -9531,7 +9552,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/flat-masonry-chisel-150mm.jpg",
         "src": "https://detail.1688.com/offer/923716876044.html",
-        "desc": "A flat masonry chisel for cutting brick, block, concrete and stone, and for chasing out mortar where a grinder cannot reach. The body starts at 150 mm overall and measures 145 mm once the cutting edge has been ground back, and it is 8 mm through the thickest part, so it takes a mallet blow straight down the shank without whipping. The cutting tip is 16 mm wide, which is narrow enough to drop into a mortar joint and wide enough to clear spoil as it goes rather than jamming. A bent neck lifts the body away from the wall, so knuckles stay off the masonry when the chisel is driven home. The shank carries a green painted finish and weighs 0.11 kg, light enough to be carried all day but heavy enough to take a proper swing. Suits general building work, tile lifting and light demolition.",
+        "desc": "A flat masonry chisel for cutting brick, block, concrete and stone, and for chasing out mortar where a grinder cannot reach. The body starts at 150 mm overall and measures 145 mm once the cutting edge has been ground back, and it is 8 mm through the thickest part, so it takes a mallet blow straight down the shank without whipping. The cutting tip is 16 mm wide, which is narrow enough to drop into a mortar joint and wide enough to clear spoil as it goes rather than jamming. A bent neck lifts the body away from the wall, so knuckles stay off the masonry when the chisel is driven home. The shank carries a green painted finish and weighs 0.11 kg, light enough to be carried all day but heavy enough to take a proper swing. Suits general building work, tile lifting and light demolition. Bricklayers usually carry the chisel in the tool bag for cutting out a damaged brick, where a grinder would throw dust across the rest of the wall.",
         "specs": [
             ("Material", "Hardened Alloy Steel"),
             ("Nominal Size", "150 mm"),
@@ -9557,7 +9578,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pack",
         "img": "/images/cobalt-drill-bit-pack-2-5mm.jpg",
         "src": "https://detail.1688.com/offer/882415091490.html",
-        "desc": "A workshop pack of ten identical 2.5 mm twist drills in cobalt high-speed steel, the size that gets used up fastest on pilot holes and on stainless steel fittings. Cobalt-alloyed high-speed steel keeps its hardness when the tip runs hot, which is the difference between a drill that keeps cutting stainless sheet and an ordinary bit that dulls and then polishes the surface instead of biting. The 2.5 mm diameter is the pilot size behind M3 screws and self-tapping fixings, and it is the usual size for drilling hinge plates and cabinet hardware on site. The pack is intended for wood, plastic, copper, aluminium and stainless steel. Ten identical bits in one pack keeps the drawer stocked through a batch of work instead of stopping the job when a single bit breaks.",
+        "desc": "A workshop pack of ten identical 2.5 mm twist drills in cobalt high-speed steel, the size that gets used up fastest on pilot holes and on stainless steel fittings. Cobalt-alloyed high-speed steel keeps its hardness when the tip runs hot, which is the difference between a drill that keeps cutting stainless sheet and an ordinary bit that dulls and then polishes the surface instead of biting. The 2.5 mm diameter is the pilot size behind M3 screws and self-tapping fixings, and it is the usual size for drilling hinge plates and cabinet hardware on site. The pack is intended for wood, plastic, copper, aluminium and stainless steel. Ten identical bits in one pack keeps the drawer stocked through a batch of work instead of stopping the job when a single bit breaks. Kitchen and shopfitting crews buy the pack because hinge and handle screws are drilled in a run, and a snapped bit mid-run costs more than the bit does.",
         "specs": [
             ("Pack Quantity", "10 Pieces"),
             ("Diameter", "2.5 mm"),
@@ -9583,7 +9604,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/octagonal-stone-hammer.jpg",
         "src": "https://detail.1688.com/offer/652117426585.html",
-        "desc": "A long-handled octagonal sledge for driving masonry chisels and breaking out brick, block and concrete. The head is an octagonal block of high-carbon steel measuring 15 cm long, 5.5 cm wide and 5.5 cm high, mounted on an 89 cm shaft so the whole tool stands 95 cm from grip to striking face. That length is what makes it useful on demolition: the operator can stand back from the wall and let the head do the work instead of leaning in over the swing. The shaft is sleeved in two black rubber grips, an upper section where the leading hand sits and a lower section at the butt, which is where the vibration of a hard strike on masonry is felt. Head weight is approximately 3.0 kg. Used with a flat chisel or on its own to open up a wall for repair.",
+        "desc": "A long-handled octagonal sledge for driving masonry chisels and breaking out brick, block and concrete. The head is an octagonal block of high-carbon steel measuring 15 cm long, 5.5 cm wide and 5.5 cm high, mounted on an 89 cm shaft so the whole tool stands 95 cm from grip to striking face. That length is what makes it useful on demolition: the operator can stand back from the wall and let the head do the work instead of leaning in over the swing. The shaft is sleeved in two black rubber grips, an upper section where the leading hand sits and a lower section at the butt, which is where the vibration of a hard strike on masonry is felt. Head weight is approximately 3.0 kg. Used with a flat chisel or on its own to open up a wall for repair. It is often bought by crews stripping out partition walls, because a long handle lets the head reach over a demolished stub without the operator stepping onto the rubble.",
         "specs": [
             ("Type", "Octagonal Stone Hammer"),
             ("Head Material", "High-Carbon Steel"),
@@ -9609,7 +9630,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/drywall-sander-telescopic.jpg",
         "src": "https://detail.1688.com/offer/947814156275.html",
-        "desc": "A long-reach drywall sander for levelling filler and skim coat on walls and ceilings without working off a platform. The shaft telescopes from 1.2 m out to 2.2 m and reaches a ceiling up to 3.5 m, so the operator stays on the floor while the head runs overhead. Two extraction tubes run the length of the shaft down to the head, pulling dust straight off the abrasive into the dust bag instead of letting it hang in the room, and a dual-row LED strip lights the working face so the pass marks left in the filler are visible as they are cut back. Speed is set across five steps on an all-copper motor, which lets the tool be run slowly over a filled joint and faster across flat board. The carton holds five accessories: a hex key, two carbon brushes, a dust bag, six abrasive sheets and a 2 m dust hose.",
+        "desc": "A long-reach drywall sander for levelling filler and skim coat on walls and ceilings without working off a platform. The shaft telescopes from 1.2 m out to 2.2 m and reaches a ceiling up to 3.5 m, so the operator stays on the floor while the head runs overhead. Two extraction tubes run the length of the shaft down to the head, pulling dust straight off the abrasive into the dust bag instead of letting it hang in the room, and a dual-row LED strip lights the working face so the pass marks left in the filler are visible as they are cut back. Speed is set across five steps on an all-copper motor, which lets the tool be run slowly over a filled joint and faster across flat board. The carton holds five accessories: a hex key, two carbon brushes, a dust bag, six abrasive sheets and a 2 m dust hose. Decorators and fit-out crews buy it before painting, because filler dust left in a room settles on every surface that has already been finished.",
         "specs": [
             ("Type", "Telescopic Drywall Sander"),
             ("Telescopic Reach", "1.2 - 2.2 m"),
@@ -9635,7 +9656,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/bench-drill-press-tilting-table.jpg",
         "src": "https://detail.1688.com/offer/775593647441.html",
-        "desc": "A bench-mounted drill press with a cast iron base and column, built for drilling steel, timber and plastic where a hand drill will not hold an angle. The spindle rides in an enclosed quill driven by a three-spoke feed handle, which gives the operator the leverage to push a bit through plate while watching the hole rather than the tool. The work table is slotted so a clamp has something to bite on, and it tilts, so an angled hole can be set up on the table instead of by packing the workpiece underneath. The table is raised and lowered on a rack at the column collar. A keyed chuck grips round, hex and triangular shanks and is tightened the same way every time, which is what keeps the bit concentric across a long run of holes. The head carries a belt cover over an all-copper motor. Suits a workshop bench, a farm shop or a maintenance bay.",
+        "desc": "A bench-mounted drill press with a cast iron base and column, built for drilling steel, timber and plastic where a hand drill will not hold an angle. The spindle rides in an enclosed quill driven by a three-spoke feed handle, which gives the operator the leverage to push a bit through plate while watching the hole rather than the tool. The work table is slotted so a clamp has something to bite on, and it tilts, so an angled hole can be set up on the table instead of by packing the workpiece underneath. The table is raised and lowered on a rack at the column collar. A keyed chuck grips round, hex and triangular shanks and is tightened the same way every time, which is what keeps the bit concentric across a long run of holes. The head carries a belt cover over an all-copper motor. Suits a workshop bench, a farm shop or a maintenance bay. Small shops buy a bench press like this when hand drilling starts costing bits, since a machine that holds the angle lets the same job be repeated without checking each hole.",
         "specs": [
             ("Type", "Bench Drill Press"),
             ("Frame", "Cast Iron Base and Column"),
@@ -9661,7 +9682,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/pneumatic-tire-inflator-gauge.jpg",
         "src": "https://detail.1688.com/offer/845933359053.html",
-        "desc": "An air-line inflator gun with a mechanical dial gauge built into the body, used to check and top up tyre pressures in a workshop, a yard or a service bay. Pulling the trigger feeds air down the hose and through the clip-on chuck, which holds itself onto the valve stem so the operator has both hands free; releasing the trigger leaves the gauge reading the pressure that is actually in the tyre. The dial is scaled from 0 to 16 bar and 0 to 220 psi with coloured bands across the range, so the working window for a car or light commercial tyre can be read at a glance instead of being worked out. The gauge sits on a ribbed bezel with a shock-absorbing ring, which is what keeps a dial gauge reading true after it has been dropped on a concrete floor. Body, trigger and chuck are metal.",
+        "desc": "An air-line inflator gun with a mechanical dial gauge built into the body, used to check and top up tyre pressures in a workshop, a yard or a service bay. Pulling the trigger feeds air down the hose and through the clip-on chuck, which holds itself onto the valve stem so the operator has both hands free; releasing the trigger leaves the gauge reading the pressure that is actually in the tyre. The dial is scaled from 0 to 16 bar and 0 to 220 psi with coloured bands across the range, so the working window for a car or light commercial tyre can be read at a glance instead of being worked out. The gauge sits on a ribbed bezel with a shock-absorbing ring, which is what keeps a dial gauge reading true after it has been dropped on a concrete floor. Body, trigger and chuck are metal. Fleet yards keep a gun at the air line by the gate, so a driver can check pressures on the way out instead of booking the vehicle in.",
         "specs": [
             ("Type", "Pneumatic Tire Inflator Gun"),
             ("Gauge", "Mechanical Dial, 0 - 16 bar / 0 - 220 psi"),
@@ -9687,7 +9708,7 @@ PRODUCTS = [
         "moq": "MOQ 1 pc",
         "img": "/images/digital-tire-inflator-gauge.jpg",
         "src": "https://detail.1688.com/offer/618154934365.html",
-        "desc": "An air-line inflator gun with a digital gauge that reads out in four pressure units: pounds per square inch, bar, kilograms per square centimetre and kilopascals. The working ranges are 0 to 100 psi, 0 to 7 bar, 0 to 7 kg per square centimetre and 0 to 700 kPa, which covers car, motorcycle and light commercial tyres, and the unit is switched on the gauge itself, so the same tool can be handed to someone who thinks in bar and to someone who thinks in psi. The trigger has a half-squeeze position that bleeds air back out of the tyre, so pressure can be brought down to the target without pulling the chuck off the valve and letting out more than intended. The hose is 404 mm long with brass threaded fittings at both ends. One brass adapter fitting is supplied with the tool.",
+        "desc": "An air-line inflator gun with a digital gauge that reads out in four pressure units: pounds per square inch, bar, kilograms per square centimetre and kilopascals. The working ranges are 0 to 100 psi, 0 to 7 bar, 0 to 7 kg per square centimetre and 0 to 700 kPa, which covers car, motorcycle and light commercial tyres, and the unit is switched on the gauge itself, so the same tool can be handed to someone who thinks in bar and to someone who thinks in psi. The trigger has a half-squeeze position that bleeds air back out of the tyre, so pressure can be brought down to the target without pulling the chuck off the valve and letting out more than intended. The hose is 404 mm long with brass threaded fittings at both ends. One brass adapter fitting is supplied with the tool. It is usually bought for a vehicle service bay where readings have to be written down, since a digital display is easier to quote back than a needle.",
         "specs": [
             ("Type", "Digital Tire Inflator Gun"),
             ("Gauge", "Digital LCD, 4 Selectable Units"),
