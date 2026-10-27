@@ -8,3 +8,9 @@ images/*_raw.png
 
 # One-off scratch scripts
 _tmp_*.py
+
+# Scratch slug inventories and staged image downloads from daily ops runs
+_all_slugs.json
+_cat_slugs.txt
+_slugs_now.txt
+_tmp_imgs/
