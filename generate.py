@@ -326,6 +326,18 @@ def index_html():
         cat_intro = ""
     else:
         cat_intro += '<p style="color:var(--t2);margin-top:10px;max-width:720px">Build a focused buying program by pairing high-use cabinet hardware with dependable hand tools, then add cordless and pneumatic equipment as your customers scale from repair work to production. This layered assortment helps distributors test demand with practical SKUs while keeping replenishment and supplier coordination simple.</p>'
+    if slot == 0:
+        cat_intro += '<p style="color:var(--t2);margin-top:10px;max-width:720px">Assortment planning starts from what your customers already sell. Tell us the categories, fitting sizes or voltage you work with, and the catalogue is mapped against them - flagging the lines that share the same hinge pattern, drive size or battery pack so a single shelf serves several product families. Where a gap remains, the partner factories quote and tool a new SKU rather than pushing the nearest stock item, and the approved specification is filed against your account so a repeat order is built to the same standard.</p>'
+    oem_details = ""
+    if oem_extra:
+        oem_details = '<details class="pd-more"><summary>More about our OEM / ODM program</summary>' + oem_extra + '</details>'
+    cat_section = ""
+    if cat_intro:
+        cat_parts = [x.strip() + "</p>" for x in cat_intro.split("</p>") if x.strip()]
+        cat_lead = cat_parts[-1]
+        cat_rest = "".join(cat_parts[:-1])
+        cat_more = ('<details class="pd-more"><summary>More about the range</summary>' + cat_rest + '</details>') if cat_rest else ""
+        cat_section = ('<section id="range"><div class="wrap"><div class="sec-head"><div><h2>One Range, Four Categories</h2><p>How the catalogue fits together for importers, distributors and private-label brands.</p></div><a class="view" href="#cats">See all categories &rarr;</a></div>' + cat_lead + cat_more + '</div></section>')
     feat_html = "".join(f'<div class="feat"><div class="ic">{str(i + 1).zfill(2)}</div><h4>{t}</h4><p>{d}</p></div>' for i, (t, d) in enumerate(feats))
     # Real, self-updating figures only. Catalogue size and category count are computed from
     # products_data, so this strip cannot go stale as products are added each day.
@@ -364,6 +376,7 @@ def index_html():
 </div>
 <div class="stats">{stats_html}</div>
 </div></header>
+{cat_section}
 <section id="cats" class="alt"><div class="wrap">
 <div class="sec-head"><div><h2>Product Categories</h2><p>Four sourcing categories under one roof, each supplied factory-direct.</p></div></div>
 <div class="cats">{cat_cards}</div>
@@ -373,7 +386,7 @@ def index_html():
 <section id="oem"><div class="wrap"><div class="sec-head"><div><h2>Build Your Own Brand</h2><p>Private-label packaging, logo marking and sample development through our partner factories.</p></div><a class="view" href="#quote">Start a project &rarr;</a></div>
 <div class="grid">{oem_cards}</div>
 <p style="margin-top:22px">Tell us your market and target price - we handle sourcing, quality control, custom packaging and shipping. <a href="#quote" style="color:var(--accent);font-weight:600">Request a quote</a> or <a href="{WA_HREF}" style="color:var(--accent);font-weight:600" target="_blank" rel="noopener">start a project on WhatsApp</a>.</p>
-<details class="pd-more"><summary>More about our OEM / ODM program</summary>{oem_extra}{cat_intro}</details>
+{oem_details}
 </div></section>
 <section id="quote" class="alt"><div class="wrap"><div class="quote-grid">
 <div class="quote-aside">
