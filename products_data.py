@@ -353,7 +353,7 @@ PRODUCTS = [
             "Formwork and steel-fix crews can tighten clamps and bolts on site without a compressor, so a pour is set up without dragging a hose across the deck",
             "Scaffold and racking erectors can run a full tower of couplers on one pack, without a generator or a hose run up the standards",
         ],
-        "related": ["brushless-cordless-drill", "980nm-high-torque-impact-wrench-kit", "650nm-impact-wrench-bare-tool", "brushless-cordless-angle-grinder", "air-impact-wrench"],
+        "related": ["brushless-cordless-drill", "980nm-high-torque-impact-wrench-kit", "650nm-impact-wrench-bare-tool"],
     },
     {
         "slug": "air-impact-wrench",
@@ -1107,7 +1107,7 @@ PRODUCTS = [
             "Standardising on one SDS-Plus kit across several trades keeps spare bits and batteries common for maintenance departments on mixed work",
             "Anchor drilling on an occupied floor can start without shutting down circuits to run a lead, so a refit works around tenants",
         ],
-        "related": ["brushless-cordless-drill", "cordless-rotary-hammer-3-in-1", "110v-sds-max-rotary-hammer", "brushless-impact-drill-kit", "corded-impact-drill-13mm"],
+        "related": ["brushless-cordless-drill", "cordless-rotary-hammer-3-in-1", "110v-sds-max-rotary-hammer"],
     },
     {
         "slug": "corded-impact-drill-13mm",
