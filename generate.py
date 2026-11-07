@@ -307,6 +307,7 @@ def index_html():
         feat_extra.append(("Packing & Transit Damage Control", "Outer cartons are drop-tested and stack-load checked before the container is filled, and heavy or fragile lines ship with reinforced corners and inner dividers - so retail packaging arrives shelf-ready instead of being written off as transit-damaged stock."))
         feat_extra.append(("Container Loading Supervision", "A loading supervisor photographs the stow, checks carton counts against the packing list and seals the container at the factory gate, then issues the seal number with your shipping documents - so what left the factory matches what reaches your warehouse."))
         feat_extra.append(("FOB to DDP Freight Options", "Quotes can be issued on FOB, CIF, DAP or DDP terms, so your finance team compares landed cost, duty and delivery to your warehouse before the order is confirmed."))
+        feat_extra.append(("Live Production Updates", "At tooling, first-article, mass-production and packing stages we send dated photos and video from the line, so you can follow a running batch without booking a flight to the factory."))
     if slot == 1 and feat_extra:
         take = 3 * min(2, len(feat_extra) // 3)
         start = day % len(feat_extra)
