@@ -3465,6 +3465,7 @@ PRODUCTS = [
             "Dries damp surfaces quickly after washing cars, bikes and outdoor gear",
             "Handles light snow and wet leaves on paths and driveways between seasonal garden jobs",
             "The boxed kit travels and stores as one unit, which suits hire counters and lock-up stores where loose tools tend to go missing",
+            "The manual ships inside the carton, so a shop can hand the kit to a first-time user with the setup notes already in the box",
         ],
         "related": ["cordless-brushless-leaf-blower", "magnetic-cob-work-light", "brushless-cordless-drill"],
     },
@@ -3497,6 +3498,7 @@ PRODUCTS = [
             "Grounds teams can clear long driveways and yards without dragging extension leads outdoors",
             "Car parks, sports courts and loading bays can be cleared of leaves and grit before opening without a corded blower",
             "Two batteries let one operator cover several properties in a day without returning to base to recharge, which suits grounds contracts priced per visit",
+            "Six speeds let an operator drop to a low setting for dusting a doorway or a car interior, then open up for wet leaf piles",
         ],
         "related": ["cordless-brushless-leaf-blower", "cordless-turbo-fan-blower-kit", "brushless-cordless-angle-grinder"],
     },
@@ -3529,6 +3531,7 @@ PRODUCTS = [
             "Cutting on shop air avoids the sparks and burr cleanup that slow angle-grinder work on duct and panel jobs",
             "Sign and cladding shops can trim sheets to a marked line with one hand while the other steadies the panel",
             "A second shear on the bench means a blade change does not idle a whole cutting station during a busy cladding or sign run",
+            "At 1.04 kg the shear can be worked along an overhead duct run without the arm fatigue of a heavier cutter",
         ],
         "related": ["pneumatic-air-chisel-150mm", "mining-air-impact-wrench", "90-degree-air-die-grinder"],
     },
@@ -3560,6 +3563,7 @@ PRODUCTS = [
             "No electrical hazard - safe for damp work areas",
             "Runs on shop air, so it is safe for damp yards and outdoor cable runs",
             "Operators new to cable preparation get the same clean cut as experienced hands, because the cutting force comes from the air cylinder rather than from technique",
+            "The guard and protective grip keep the blade zone covered when the shear is passed between two operators on a cable pull",
         ],
         "related": ["pneumatic-metal-shear", "pneumatic-air-chisel-150mm", "pistol-air-screwdriver-5h"],
     },
@@ -3590,6 +3594,7 @@ PRODUCTS = [
             "47 mm cam tongue suits thicker cabinet doors and locker panels than standard short-cam locks",
             "Standardising on this one lock profile means the incoming crew can pull the same spare for any cabinet or locker on the floor, and a nearly empty store box at handover is its own reorder cue",
             "Locker and cabinet makers can fit one keyed series across a site, so a caretaker carries a single key ring",
+            "The quarter-turn cam sits flush on the door face, so thin cabinet and locker panels keep a clean front without a protruding latch handle",
         ],
         "related": ["magnetic-glass-door-catch", "no-drill-magnetic-door-stop", "stainless-draw-latch"]
     },
@@ -3621,6 +3626,7 @@ PRODUCTS = [
             "Property managers can standardise one stop across a whole building, keeping spare units on hand for quick replacements",
             "On a preventive service round the fitter can test magnet hold and bumper condition door by door in seconds, so a weakening stop is booked for replacement before it ever starts banging",
             "Fits under a door on tiled or timber floors without a fixing hole, so a tenancy can be handed back unmarked",
+            "Because the stop works on the floor rather than the door leaf, one part covers framed, narrow and frameless doors on the same fit-out",
         ],
         "related": ["no-drill-magnetic-door-stop", "magnetic-door-stop", "magnetic-glass-door-catch"]
     },
@@ -3652,6 +3658,7 @@ PRODUCTS = [
             "Installers can pair the set with a cordless driver and cover security, hex and Torx fixings on the same job without a second purchase",
             "New hires and apprentices can be given the set as a starter kit, and the labelled slots let a supervisor check it back in complete at the end of training without counting loose bits",
             "The magnetic socket bits hold a nut on the driver while it is offered up inside a panel, where a plain socket would drop it",
+            "The 1/4-inch holder runs the same bits in a drill or an impact driver, so one set covers both tools on a fit-out",
         ],
         "related": ["43pc-magnetic-screwdriver-set", "magnetic-screwdriver-set", "ratcheting-combination-wrench-10mm"]
     },
@@ -3682,6 +3689,7 @@ PRODUCTS = [
             "Auto-return spring allows one-hand work inside enclosures and wiring looms",
             "Low unit cost makes it practical for a service desk to keep a few pairs as warranty replacements, so a customer with a damaged jaw gets a swap pair on the spot instead of waiting on a repair turnaround",
             "Reaches a terminal screw set at an angle inside a plug or a relay base, where straight jaws cannot square up to the slot",
+            "At about 126 mm overall the pliers sit in a shirt pocket or a small tool roll, so a technician working through wall boxes keeps them to hand",
         ],
         "related": ["industrial-lineman-pliers", "diagonal-cutting-pliers", "9-inch-chrome-vanadium-combination-pliers"]
     },
@@ -3712,6 +3720,7 @@ PRODUCTS = [
             "8-inch length reaches terminal blocks and connectors deep inside control panels",
             "One clearly described full-size model keeps distributor catalogues and export listings tidy, since the same tool can be listed under electrical, automotive and maintenance headings without splitting the range",
             "The long taper lets a technician guide a wire through a grommet and pull it out the other side of a bulkhead",
+            "Dual-material grips stay controllable with oily hands, which matters on engine, hydraulic and oily-cable work",
         ],
         "related": ["9-inch-chrome-vanadium-combination-pliers", "6-inch-drop-forged-combination-pliers", "stainless-multi-purpose-wire-stripper"]
     },
@@ -3743,6 +3752,7 @@ PRODUCTS = [
             "Landlords and maintenance teams can refresh rental units between tenancies without masking up or hiring a decorator for small areas",
             "A charged unit can run on the trade show table and spray a sample board during buyer meetings, so the atomization and cup change can be shown live rather than described from a spec sheet",
             "Fence panels, shed cladding and garage doors can be coated in one outing without masking a whole elevation",
+            "One 21 V pack and its charger cover a room-sized repaint, so a maintenance van needs no generator or lead reel on site",
         ],
         "related": ["brushless-cordless-drill", "cordless-brushless-leaf-blower", "hvlp-gravity-spray-gun"]
     },
@@ -3774,6 +3784,7 @@ PRODUCTS = [
             "Fence, gate and shed painting can be finished in one pass across a property, with the second battery covering the far side",
             "The boxed kit with clearly marked contents makes it easy to give the sprayer its own picking bin and shelf label, so warehouse staff pull the right battery and charger combination without opening the carton",
             "A second battery keeps a long run of fence or a full flat going when the first pack runs down mid-wall",
+            "The brass nozzle option stands up to masonry and abrasive paints that wear a standard nozzle faster, keeping the sprayer in service on render and fence work",
         ],
         "related": ["brushless-cordless-drill", "5-inch-brushless-cordless-angle-grinder", "cordless-turbo-fan-blower-kit"]
     },
@@ -3804,6 +3815,7 @@ PRODUCTS = [
             "Detachable cup strips down for quick cleaning between color changes",
             "Priced as a tool only, it drops into a contractor bid as a single line item that can be marked up on its own, without a battery and charger inflating every estimate",
             "Suits a decorator who already runs the same battery platform and wants a second cup for a trim colour",
+            "The 1000 ml cup covers a full wall run between refills, so ceiling work overhead is not broken by constant topping up",
         ],
         "related": ["brushless-cordless-drill", "cordless-reciprocating-saw", "cordless-brushless-leaf-blower"]
     },
@@ -3834,6 +3846,7 @@ PRODUCTS = [
             "Air-powered setting applies consistent torque to every insert, unlike hand setters",
             "Built for a shared tool pool or rental fleet, one air tool covers the whole metric insert range, so a hire counter does not need a separate manual setter for each size",
             "Sheet metal shops can set inserts after powder coating without cracking the finish, since the setting force stays in the insert",
+            "The included mandrel head set covers the M4-M12 range in one box, so a shop can quote mixed insert sizes without buying heads separately",
         ],
         "related": ["pneumatic-rivet-gun", "90-degree-air-ratchet-wrench", "pneumatic-multi-nailer-f30-t64"]
     },
@@ -3864,6 +3877,7 @@ PRODUCTS = [
             "Contractors can spot-prep small rust and paint areas instead of transporting parts to a blasting cabinet",
             "Farm and plant workshops can strip rust from brackets and implements in place rather than sending parts away",
             "Restorers can clean a small weld or a pitted patch before filler, keeping the repair area tight instead of stripping a whole panel",
+            "Gravity feed keeps media running as the gun is tipped along a weld seam, where a suction-feed unit can stall",
         ],
         "related": ["high-pressure-air-blow-gun", "rectangular-air-sander", "pneumatic-air-chisel-150mm"]
     },
@@ -3894,6 +3908,7 @@ PRODUCTS = [
             "A repeatable side-mount fitting keeps drawer fronts aligned, and the zinc coating suits humid rooms where bare steel would discolour",
             "Full extension lets a drawer open clear of deep carcasses, so contents at the back can be reached without lifting the drawer out",
             "A full-extension runner also suits workshop benches, where a shallow top drawer can hold tools and still open clear of the bench edge",
+            "At 254 mm the runner suits standard 10-inch drawer boxes, so a cabinet maker can quote one length across a bedroom or kitchen run",
         ],
         "related": ["soft-close-drawer-slide-45mm", "cabinet-gas-strut", "black-aluminum-cabinet-handle"]
     },
@@ -3923,6 +3938,7 @@ PRODUCTS = [
             "Built for daily sliding cycles on wardrobes, partitions and patio screens",
             "Top-hung design carries heavy panels without a floor track to trip over",
             "Wardrobe and partition builders can hang a heavier leaf without a bottom track, keeping the floor line clear for cleaning",
+            "Bearing rollers let a heavy leaf be pushed open with one hand from the edge, which suits a partition that staff move several times a day",
         ],
         "related": ["360-degree-pivot-door-hinge", "no-drill-magnetic-door-stop", "heavy-duty-swivel-caster"]
     },
@@ -3953,6 +3969,7 @@ PRODUCTS = [
             "Wide profile helps tool-cabinet makers offer stable, serviceable storage for professional workshops",
             "400 mm length matches standard 16-inch tool-cabinet and workbench drawer bays",
             "Tool cabinets can be locked as a set and opened one drawer at a time on a shared workshop floor",
+            "The disconnect release lets a drawer lift out for cleaning or a layout change without unbolting the runners from the cabinet",
         ],
         "related": ["soft-close-drawer-slide-45mm", "zinc-alloy-cam-lock-103", "cabinet-gas-strut"]
     },
@@ -3984,6 +4001,7 @@ PRODUCTS = [
             "Keeps motor, gearbox and pump rebuilds moving without hunting for the right ring pliers mid-job",
             "Hydraulic and agricultural repair shops can match the ring type on the bench without ordering separate pliers for each task",
             "A single wallet covers both internal and external rings, so a rebuild does not stop for a missing tip",
+            "The 7-inch body gives enough leverage on a stiff external ring while still fitting inside a gearbox or pump housing",
         ],
         "related": ["15pc-swivel-ratchet-wrench-set", "72-tooth-ratchet-wrench-set", "diagonal-cutting-pliers"]
     },
@@ -4015,6 +4033,7 @@ PRODUCTS = [
             "Shop-floor teams can check incoming parts and first-off samples without booking time on a coordinate measuring machine",
             "Machine setters can confirm a dimension against the drawing at the machine, catching a drift before a full batch is run",
             "An inspector can read the value straight off the LCD and pass the same caliper to a colleague, which keeps measurement practice identical across a small quality team",
+            "The ZERO button lets a fitter set a reference on a bore or a shoulder and read variation directly when checking a run of identical parts",
         ],
         "related": ["heavy-duty-tape-measure-5m", "magnetic-aluminum-level", "industrial-lineman-pliers"]
     },
@@ -4046,6 +4065,7 @@ PRODUCTS = [
             "2000 W motor sustains long breaking shifts on demolition and renovation work",
             "Rental yards can stock one 110 V breaker for concrete, block and tile removal work",
             "Groundworkers can break out a footing or a tile bed where a wheeled breaker will not fit through a doorway",
+            "Carbon brushes ship in the export kit, so a site can swap a worn set without ordering a spare part and keep the breaker in service",
         ],
         "related": ["corded-impact-drill-13mm", "brushless-cordless-rotary-hammer", "13mm-brushless-cordless-impact-drill"]
     },
