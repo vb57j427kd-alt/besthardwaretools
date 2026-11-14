@@ -278,6 +278,7 @@ PRODUCTS = [
             "Rental and loaner fleets can issue the complete kit and take it back without sorting loose parts",
             "Facilities maintenance teams replacing corded drills can standardise on this kit, so one pack set covers drilling across several buildings without extension leads",
             "A drill that charges in its case lets a small crew top up over lunch without a dedicated charging bench",
+            "Compact brushless body fits overhead cabinets and tight stud bays - the format behind cordless dominance in everyday drilling",
         ],
         "related": ["brushless-cordless-angle-grinder", "brushless-impact-wrench", "magnetic-screwdriver-set"],
     },

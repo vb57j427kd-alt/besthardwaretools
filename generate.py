@@ -276,8 +276,11 @@ def index_html():
         cards = "".join(product_card(p) for p in display_items)
         view_all = f'<div class="cta-row" style="justify-content:center;margin-top:34px"><a href="/category-{c["id"]}.html" class="btn btn-o">View All {c["name"]} ({len(items)})</a></div>' if len(items) > 9 else ""
         alt = ' class="alt"' if [c["id"] for c in CATEGORIES].index(cid) % 2 else ''
+        # Power Tools leads the range, so only its section head carries the current cordless
+        # reading; the other three categories keep the shared one-liner.
+        sec_note = (' Cordless dominance is the shift behind that list: battery runtime and torque have closed most of the gap on corded and air tools for everyday drilling and fastening, and compact brushless bodies are the format buyers ask for going into 2026.' if c["id"] == "power-tools" else '')
         sections += f"""<section id="cat-{c['id']}"{alt}><div class="wrap">
-<div class="sec-head"><div><h2>{c['name']}</h2><p>{len(items)} factory-direct lines for importers, distributors and private-label brands.</p></div><a class="view" href="/category-{c['id']}.html">View all &rarr;</a></div>
+<div class="sec-head"><div><h2>{c['name']}</h2><p>{len(items)} factory-direct lines for importers, distributors and private-label brands.{sec_note}</p></div><a class="view" href="/category-{c['id']}.html">View all &rarr;</a></div>
 <div class="grid">{cards}</div>
 {view_all}
 </div></section>"""
