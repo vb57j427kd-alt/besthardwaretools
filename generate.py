@@ -312,6 +312,9 @@ def index_html():
         feat_extra.append(("FOB to DDP Freight Options", "Quotes can be issued on FOB, CIF, DAP or DDP terms, so your finance team compares landed cost, duty and delivery to your warehouse before the order is confirmed."))
         feat_extra.append(("Live Production Updates", "At tooling, first-article, mass-production and packing stages we send dated photos and video from the line, so you can follow a running batch without booking a flight to the factory."))
         feat_extra.append(("In-House Heat Treatment & Finishing", "Cutting edges, sockets and plated fittings are hardened, tempered and polished on partner-owned lines, so hardness and coating thickness are set before assembly instead of being subcontracted and re-checked afterwards."))
+        # Day 16 (slot 1): certificate lifecycle - the document file a customs broker or retail
+        # compliance team reads is only useful while it is valid, so expiry is tracked per line.
+        feat_extra.append(("Certificate Renewal Tracking", "Every CE, ISO and test report backing a line is logged with its issue and expiry date, and the current version is filed against your shipment before the container is booked - so a broker or retail compliance team never receives a document that has quietly lapsed."))
     if slot == 1 and feat_extra:
         take = 3 * min(2, len(feat_extra) // 3)
         start = day % len(feat_extra)
