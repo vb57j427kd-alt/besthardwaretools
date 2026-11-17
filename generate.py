@@ -345,6 +345,11 @@ def index_html():
     # Day 14 (slot 2): tooling ownership and territory - what a buyer actually owns once they
     # fund a mould, and which part of the range stays open to the rest of the network.
     oem_extra += '<p style="color:var(--t2);margin-top:14px">When a program needs its own mould, cutting die or printing plate, the quotation states who owns that tooling and what it costs to move it: the tool is held against your project reference, the setup is quoted as a one-off line, and if production ever has to move the tool is released or bought out rather than left behind at the factory. A distributor who funds a developed SKU can also request a territory term - a market or channel in which that exact branded item is not quoted to another buyer - reviewed against the volume committed at each renewal, while the standard catalogue lines stay open to every buyer so the rest of the range never depends on a single account.</p>'
+    # Day 17 (slot 2): change control after release - a long-running program is kept stable by
+    # a written notice for every material, component or packing change, not by a quiet swap on
+    # the line, and the affected batches are identified by lot so one item number never ships
+    # as two different builds.
+    oem_extra += '<p style="color:var(--t2);margin-top:14px">Once a private-label SKU has been released, every change to it passes through a written change notice instead of a quiet substitution on the line: a revised material, motor, finish or packing method is submitted with the reason for the change, the affected batches and the date it would take effect, and production only moves once your side signs the notice and a new first article has been measured back against the sealed golden sample. The same record flags whether the change touches anything your market regulates - a battery cell, a plug configuration, a coating or a printed warning - so the matching test report or declaration is updated and re-issued alongside it rather than being left at the previous revision. Remaining stock of the earlier build is identified by lot and either shipped against the terms already agreed or held back, so a repeat order never arrives as a mixed consignment of two builds under one item number.</p>'
     if slot != 2:
         oem_extra = ""
     if slot != 0:
