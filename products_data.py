@@ -13,9 +13,14 @@ SITE = {
     "ga4": "G-5J9VBPKTB4",
     "clarity": "xtrv7vr8dn",
     "bank_beneficiary": "Zaozhuang China Best Technology Co., Ltd.",
-    "bank_account": "63003927994",
-    "bank_swift": "CHASHKHH / CHASHKHHXXX",
-    "bank_note": "USD Payments: Recommend using US J.P. Morgan (CHASUS33) as transit bank to reduce forex risk. This account cannot receive payments from Russia and Belarus.",
+    "bank_account": "63003452697",
+    "bank_swift": "CHASHKHHXXX",
+    "bank_name": "JPMorgan Chase Bank N.A., Hong Kong Branch",
+    "bank_address": "Charter House, 8 Connaught Road, Central, Hong Kong",
+    "bank_code": "007",
+    "branch_code": "863",
+    "beneficiary_address": "Units 1260, 12/F, Emperor Group Centre, 288 Hennessy Road, Wan Chai, Hong Kong",
+    "bank_note": "Please quote the Beneficiary Account Number exactly as shown - the beneficiary bank reviews it before releasing the payment. For USD remittance, designating US J.P. Morgan (CHASUS33 or CHASUS33XXX) as the transit bank is recommended to reduce the risk of automatic foreign-exchange conversion in transit. This account cannot receive payments from Russia and Belarus.",
 }
 
 CATEGORIES = [

@@ -19,7 +19,7 @@ WA_NUM = SITE["whatsapp"]
 WA_HREF = "https://wa.me/" + WA_NUM
 WA_SHOW = "+86 186 6969 3290"
 LEGAL = SITE["company"]
-LOCATION = "Linyi, Shandong, China"
+LOCATION = "Hong Kong"
 REPLY_PROMISE = "Every inquiry is answered within 24 working hours"
 
 # Curated allow-list of product images that have each been visually verified to be fully
@@ -203,6 +203,10 @@ def footer(pname="", psku="", bar=False):
 <div class="bank-row"><span class="blabel">Beneficiary</span><span class="bvalue">{SITE['bank_beneficiary']}</span></div>
 <div class="bank-row"><span class="blabel">Account No.</span><span class="bvalue">{SITE['bank_account']}</span></div>
 <div class="bank-row"><span class="blabel">SWIFT</span><span class="bvalue">{SITE['bank_swift']}</span></div>
+<div class="bank-row"><span class="blabel">Bank</span><span class="bvalue">{SITE['bank_name']}</span></div>
+<div class="bank-row"><span class="blabel">Bank Address</span><span class="bvalue">{SITE['bank_address']}</span></div>
+<div class="bank-row"><span class="blabel">Bank Code</span><span class="bvalue">{SITE['bank_code']} / Branch {SITE['branch_code']}</span></div>
+<div class="bank-row"><span class="blabel">Beneficiary Address</span><span class="bvalue">{SITE['beneficiary_address']}</span></div>
 <p class="bank-note">{SITE['bank_note']}</p>
 </div></details>
 </div>
@@ -397,7 +401,7 @@ def index_html():
     jsonld = f'''{{
  "@context":"https://schema.org","@type":"Organization","name":"{SITE['brand']}",
  "url":"{URL}","legalName":"{LEGAL}",
- "address":{{"@type":"PostalAddress","addressLocality":"Linyi","addressRegion":"Shandong","addressCountry":"CN"}},
+  "address":{{"@type":"PostalAddress","streetAddress":"{SITE['beneficiary_address']}","addressLocality":"Hong Kong","addressCountry":"HK"}},
  "contactPoint":{{"@type":"ContactPoint","contactType":"sales","email":"{SITE['email']}","telephone":"+{WA_NUM}"}},
  "areaServed":{{"@type":"Place","name":"Worldwide"}},
  "knowsAbout":["Power Tools","Pneumatic Tools","Hand Tools","Hardware","Cabinet Hardware","Industrial Tools"]}}'''
