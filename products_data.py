@@ -66,7 +66,7 @@ PRODUCTS = [
             "Furniture rental and student-accommodation operators can hold one hinge reference for entire blocks, so a tenant-damaged cabinet door is repaired from stock between tenancies",
             "Bathroom and en-suite cabinets need this most, since damp air is where ordinary hinges seize and doors start to bang",
         ],
-        "related": ["black-aluminum-cabinet-handle", "heavy-duty-swivel-caster", "72-tooth-ratchet-wrench-set"],
+        "related": ["black-aluminum-cabinet-handle", "kitchen-cabinet-pull-out-basket", "72-tooth-ratchet-wrench-set"],
     },
     {
         "slug": "black-aluminum-cabinet-handle",
@@ -212,7 +212,7 @@ PRODUCTS = [
             "Tool cribs can hold one set per issue point and reorder by the box, so a busy maintenance store keeps fastening coverage without tracking loose drivers",
             "Refurbishment and strip-out crews can pull screws from dismantled panels for reuse instead of sweeping them into waste",
         ],
-        "related": ["72-tooth-ratchet-wrench-set", "industrial-lineman-pliers", "brushless-cordless-drill"],
+        "related": ["72-tooth-ratchet-wrench-set", "industrial-lineman-pliers", "telescopic-magnetic-pickup-tool"],
     },
     {
         "slug": "industrial-lineman-pliers",
@@ -248,7 +248,7 @@ PRODUCTS = [
             "Panel builders can crimp and trim wire ends at the bench, so cabinet harnesses are finished straight to the terminal before the enclosure leaves the shop",
             "One forged plier on the belt means a junction box is opened, wired and closed without setting a bag down on a finished floor",
         ],
-        "related": ["72-tooth-ratchet-wrench-set", "magnetic-screwdriver-set", "pneumatic-air-nailer"],
+        "related": ["72-tooth-ratchet-wrench-set", "magnetic-screwdriver-set", "9-inch-ratchet-self-locking-pliers"],
     },
     {
         "slug": "brushless-cordless-drill",
@@ -286,7 +286,7 @@ PRODUCTS = [
             "A drill that charges in its case lets a small crew top up over lunch without a dedicated charging bench",
             "Compact brushless body fits overhead cabinets and tight stud bays - the format behind cordless dominance in everyday drilling",
         ],
-        "related": ["brushless-cordless-angle-grinder", "brushless-impact-wrench", "magnetic-screwdriver-set"],
+        "related": ["brushless-cordless-angle-grinder", "21v-cordless-drill-kit-two-batteries", "high-speed-cordless-drill-kit"],
     },
     {
         "slug": "brushless-cordless-angle-grinder",
@@ -323,7 +323,7 @@ PRODUCTS = [
             "Tool hire shops can send the grinder out with one battery and discs, so a weekend DIY customer gets a complete cutting setup in a single hire line",
             "Weld dressing on a finished frame can be done in place, so a fabricated assembly does not travel back to the bench for one rough edge",
         ],
-        "related": ["brushless-cordless-drill", "brushless-impact-wrench", "hvlp-gravity-spray-gun"],
+        "related": ["brushless-cordless-drill", "brushless-impact-wrench", "brushless-mini-cordless-angle-grinder"],
     },
     {
         "slug": "brushless-impact-wrench",
@@ -432,7 +432,7 @@ PRODUCTS = [
             "Store fit-out crews can pin display plinths and panel trim on site, so a shop is merchandised the same week it is handed over",
             "Batch cabinet runs pin together faster than hand nailing, so a small shop can quote more units without adding a second bench hand",
         ],
-        "related": ["air-impact-wrench", "hvlp-gravity-spray-gun", "industrial-lineman-pliers"],
+        "related": ["t50-pneumatic-straight-nail-gun", "hvlp-gravity-spray-gun", "mini-steel-nail-gun-kit"],
     },
     {
         "slug": "hvlp-gravity-spray-gun",
@@ -468,7 +468,7 @@ PRODUCTS = [
             "Second-hand farm and plant dealers can refinish implement panels and frames before resale, so used stock looks presentable on the forecourt without a full respray",
             "A gun kept for one colour lets a finisher lay down a full set of doors from a single mix, so every face in a kitchen matches",
         ],
-        "related": ["pneumatic-air-nailer", "air-impact-wrench", "brushless-cordless-angle-grinder"],
+        "related": ["pneumatic-air-nailer", "air-impact-wrench", "dual-action-airbrush-kit"],
     },
     {
         "slug": "loose-pin-door-hinge",
@@ -543,7 +543,7 @@ PRODUCTS = [
             "Furniture retailers selling modern wardrobes can list the pivot as a replacement part, so a damaged door is sorted with a low-cost fitting rather than a new unit",
             "A pivot that folds the door back flat keeps a small room usable while it stands open, which matters in compact apartments and studio lets",
         ],
-        "related": ["stainless-steel-soft-close-hinge", "loose-pin-door-hinge", "heavy-duty-swivel-caster"],
+        "related": ["concealed-floor-spring-hinge", "loose-pin-door-hinge", "stainless-360-pivot-hinge"],
     },
     {
         "slug": "cabinet-hinge-repair-plate",
@@ -771,7 +771,7 @@ PRODUCTS = [
             "The US charger specification lets North American importers list a kit that plugs straight into workshop outlets without a separate converter",
             "Both packs travel in the case, so a technician working away from the van is not walking back for a recharge mid-job",
         ],
-        "related": ["brushless-impact-wrench", "brushless-cordless-drill", "air-impact-wrench"],
+        "related": ["brushless-impact-wrench", "brushless-cordless-drill", "brushless-right-angle-ratchet-wrench-21v"],
     },
     {
         "slug": "mining-air-impact-wrench",
@@ -961,7 +961,7 @@ PRODUCTS = [
             "During a live refit, shop-fitting contractors can add a hold to display doors, so a store keeps trading while partitions are changed",
             "Glass panels stay undrilled, so the same pane can be moved into a new partition layout instead of scrapped with the old one",
         ],
-        "related": ["no-drill-magnetic-door-stop", "stainless-steel-soft-close-hinge", "heavy-duty-swivel-caster"],
+        "related": ["no-drill-magnetic-door-stop", "magnetic-cabinet-door-catch", "heavy-duty-swivel-caster"],
     },
     {
         "slug": "rubber-grip-adjustable-wrench",
@@ -1076,7 +1076,7 @@ PRODUCTS = [
             "Timber merchants can cut customer sheets to size at the trade counter, so a buyer takes away boards that fit their vehicle",
             "A saw that runs on the pack already on the van means no lead is run across a finished floor to reach a socket",
         ],
-        "related": ["brushless-cordless-drill", "brushless-cordless-angle-grinder", "brushless-impact-wrench"],
+        "related": ["brushless-cordless-drill", "cordless-brushless-electric-planer", "14-inch-cut-off-saw-355mm"],
     },
     {
         "slug": "brushless-cordless-rotary-hammer",
@@ -1151,7 +1151,7 @@ PRODUCTS = [
             "Companies equipping a workshop bench can buy several units at once, since no charger or battery stock is needed alongside them",
             "A drill that needs no charger suits a school or training workshop, where every station is equipped from one purchase order",
         ],
-        "related": ["brushless-cordless-drill", "12v-cordless-drill", "brushless-impact-drill-kit"],
+        "related": ["bench-drill-press-tilting-table", "corded-jigsaw-710w", "brushless-impact-drill-kit"],
     },
     {
         "slug": "rectangular-air-sander",
@@ -1189,7 +1189,7 @@ PRODUCTS = [
             "Small workshops sharing one compressor can pass the sander to whoever needs it, keeping flat-panel preparation moving without buying extra tooling",
             "A rectangular pad that follows a square edge means a door face and its stiles are sanded without swapping to a detail tool",
         ],
-        "related": ["aluminum-siphon-spray-gun", "hvlp-gravity-spray-gun", "air-impact-wrench"],
+        "related": ["pneumatic-rectangular-sanding-block", "hvlp-gravity-spray-gun", "air-impact-wrench"],
     },
     {
         "slug": "high-pressure-air-blow-gun",
@@ -1228,7 +1228,7 @@ PRODUCTS = [
             "Valeting and detailing crews can blow water out of trim gaps and badges after a wash, so a vehicle is dried without a towel in every seam",
             "A gun kept at the bench means swarf is cleared before the next part is clamped, so a setup stays accurate between jobs",
         ],
-        "related": ["air-impact-wrench", "rectangular-air-sander", "pneumatic-air-nailer"],
+        "related": ["air-impact-wrench", "long-nozzle-air-blow-gun", "pneumatic-air-nailer"],
     },
     {
         "slug": "stainless-corner-brace-40mm",
@@ -1406,7 +1406,7 @@ PRODUCTS = [
             "Machine importers can ship a set with each unit for commissioning and maintenance, keeping the buyer's own tools out of the crate",
             "A holder that stands on the bench lets a technician pick the size by eye instead of hunting through a loose drawer",
         ],
-        "related": ["72-tooth-ratchet-wrench-set", "magnetic-screwdriver-set", "mini-ratchet-handle-set"],
+        "related": ["72-tooth-ratchet-wrench-set", "magnetic-screwdriver-set", "extra-long-torx-screwdriver-t15-300mm"],
     },
     {
         "slug": "brushless-cordless-jigsaw",
@@ -1441,7 +1441,7 @@ PRODUCTS = [
             "Trade buyers can add the bare tool to a fitting crew's kit, so each operative keeps their own blade set without sharing one saw between them",
             "A saw that starts without a lead can cut a sink aperture in a fitted worktop with the kitchen already in use",
         ],
-        "related": ["5-inch-brushless-circular-saw-kit", "brushless-cordless-drill", "brushless-cordless-angle-grinder"],
+        "related": ["5-inch-brushless-circular-saw-kit", "21v-cordless-oscillating-multi-tool", "brushless-cordless-angle-grinder"],
     },
     {
         "slug": "dual-temperature-heat-gun-110v",
@@ -1475,7 +1475,7 @@ PRODUCTS = [
             "Trade counters serving cable installers can shelve the gun beside shrink tubing, so a contractor adds a spare heating tool to the same order",
             "A gun light enough to hold overhead lets a wrap or shrink job be finished without a second pair of hands",
         ],
-        "related": ["hot-air-rework-station-858d", "brushless-cordless-drill", "corded-impact-drill-13mm"],
+        "related": ["hot-air-rework-station-858d", "07-dual-temp-hot-melt-glue-gun", "digital-heat-gun-2000w"],
     },
     {
         "slug": "hot-air-rework-station-858d",
@@ -1716,7 +1716,7 @@ PRODUCTS = [
             "A set kept in the van means an isolation check can be done on the first visit, so a fault is cleared without a return",
             "PH1 and PH2 cover the terminal screws on socket plates and light fittings, while the three slotted blades handle the older board terminals still met on refurbishment work",
         ],
-        "related": ["magnetic-screwdriver-set", "industrial-lineman-pliers", "diagonal-cutting-pliers"],
+        "related": ["magnetic-screwdriver-set", "14-in-1-insulated-ratchet-screwdriver-set", "diagonal-cutting-pliers"],
     },
     {
         "slug": "security-triangle-screwdriver-set",
@@ -1783,7 +1783,7 @@ PRODUCTS = [
             "A plant fitter can keep the cased set on the machine tray during a repair, so the next socket is found without emptying a tool bag",
             "A case that lays flat beside the machine keeps every size in view, so a repair is finished without a second walk to the van",
         ],
-        "related": ["72-tooth-ratchet-wrench-set", "rubber-grip-adjustable-wrench", "mini-ratchet-handle-set"],
+        "related": ["72-tooth-ratchet-wrench-set", "rubber-grip-adjustable-wrench", "socket-set-46pc-chrome-vanadium"],
     },
     {
         "slug": "electric-hand-planer",
@@ -1883,7 +1883,7 @@ PRODUCTS = [
             "A furniture restorer can re-cover a chair seat in the workshop without sending it out, so small reupholstery jobs are quoted and finished in-house",
             "A gun that runs from shop air keeps a reupholstery bench productive all day without a pause for a battery change",
         ],
-        "related": ["pneumatic-air-nailer", "high-pressure-air-blow-gun", "rectangular-air-sander"],
+        "related": ["pneumatic-air-nailer", "high-pressure-air-blow-gun", "8016-u-type-air-stapler"],
     },
     {
         "slug": "2-inch-air-mini-sander",
@@ -1917,7 +1917,7 @@ PRODUCTS = [
             "Apprentices learning detail work can practise on this lighter tool before moving to full-size sanders, so smaller panels are not spoiled early on",
             "A small pad kept beside the bench means a run of touch-ups is handled without clearing space for a full panel sander",
         ],
-        "related": ["rectangular-air-sander", "5-inch-air-polisher", "high-pressure-air-blow-gun"],
+        "related": ["rectangular-air-sander", "5-inch-air-polisher", "4-inch-air-orbital-sander"],
     },
     {
         "slug": "stainless-draw-latch",
@@ -2019,7 +2019,7 @@ PRODUCTS = [
             "A door held at the wall keeps paint and plaster intact in a busy hallway, so a handover does not carry a decorating snag list",
             "The stop holds a door open without a floor wedge, so a corridor can be mopped in one pass instead of moving props aside",
         ],
-        "related": ["no-drill-magnetic-door-stop", "magnetic-glass-door-catch", "stainless-steel-soft-close-hinge"],
+        "related": ["no-drill-magnetic-door-stop", "magnetic-glass-door-catch", "304-stainless-door-security-chain"],
     },
     {
         "slug": "52in1-wrench-set",
@@ -2153,7 +2153,7 @@ PRODUCTS = [
             "A triangle pad that reaches into a corner means a filled edge is feathered without hand sanding, so a repaint starts sooner",
             "Side vent windows let the motor cool between passes, so a decorator can work through a room of window frames without stopping",
         ],
-        "related": ["brushless-cordless-jigsaw", "rectangular-air-sander", "dual-temperature-heat-gun-110v"],
+        "related": ["1-4-sheet-palm-sander-110mm", "rectangular-air-sander", "dual-temperature-heat-gun-110v"],
     },
     {
         "slug": "mini-cordless-chainsaw",
@@ -2254,7 +2254,7 @@ PRODUCTS = [
             "A cartridge tube that seals keeps grease clean between uses, so a gun left in a van does not clog before the next round",
             "The quick-connect coupler lets the gun move between hose lines at a shared lube bay without reaching for a spanner",
         ],
-        "related": ["high-pressure-air-blow-gun", "air-impact-wrench", "pistol-air-screwdriver-5h"],
+        "related": ["high-pressure-air-blow-gun", "pneumatic-strapping-tool-pet", "pistol-air-screwdriver-5h"],
     },
     {
         "slug": "casement-window-hinge",
@@ -2359,7 +2359,7 @@ PRODUCTS = [
             "Cabinet makers can keep a small stock of these knobs at the bench, so a finished unit leaves the shop with its hardware already fitted",
             "A bronze tone that hides handling marks keeps a restored dresser looking original between viewings at a dealer",
         ],
-        "related": ["gold-mushroom-aluminum-knob", "black-aluminum-cabinet-handle", "crystal-glass-diamond-knob"],
+        "related": ["acorn-single-hole-cabinet-knob", "antique-bronze-ring-pull", "crystal-glass-diamond-knob"],
     },
     {
         "slug": "imperial-ratcheting-wrench-set",
@@ -2394,7 +2394,7 @@ PRODUCTS = [
             "A wrench sized for imperial fasteners saves a mechanic from improvising with a metric spanner on older equipment",
             "One wrench per imperial size can hang on a shadow board, so a missing size is spotted before the job rather than at the fastener",
         ],
-        "related": ["72-tooth-ratchet-wrench-set", "15pc-swivel-ratchet-wrench-set", "52in1-wrench-set"],
+        "related": ["72-tooth-ratchet-wrench-set", "10mm-flex-head-ratchet-wrench", "52in1-wrench-set"],
     },
     {
         "slug": "43pc-magnetic-screwdriver-set",
@@ -2736,7 +2736,7 @@ PRODUCTS = [
             "One folding stripper covers stripping, cutting, splitting and twisting, so an electrical contractor can specify the same tool for every operative on a job",
             "Stripping without nicking the conductor keeps a joint sound first time, so a termination does not need remaking after testing",
         ],
-        "related": ["insulated-screwdriver-set-5pc", "diagonal-cutting-pliers", "industrial-lineman-pliers"],
+        "related": ["wire-brush-set-3pc", "diagonal-cutting-pliers", "multifunction-wire-stripping-pliers"],
     },
     {
         "slug": "mini-cordless-screwdriver-set",
@@ -2769,7 +2769,7 @@ PRODUCTS = [
             "A driver small enough to hold overhead frees the other hand to steady a bracket during a ceiling fix",
             "The bit selection covers the Phillips and slotted sizes used on hinges, socket plates and flat-pack fittings, so one driver stands in for the two screwdrivers most often reached for indoors",
         ],
-        "related": ["12v-cordless-drill", "magnetic-screwdriver-set", "43pc-magnetic-screwdriver-set"],
+        "related": ["12v-cordless-drill", "magnetic-cob-work-light", "43pc-magnetic-screwdriver-set"],
     },
     {
         "slug": "cordless-mini-rotary-tool",
@@ -2802,7 +2802,7 @@ PRODUCTS = [
             "A pen-style body lets a jeweller work under a bench lamp with the piece held, rather than against a fixed spindle",
             "Charging runs off a USB cable, so the set can be topped up from a bench supply or a power bank when the work is away from a mains socket",
         ],
-        "related": ["electric-triangle-sander", "brushless-cordless-drill", "mini-cordless-chainsaw"],
+        "related": ["angled-tile-groover-550w", "brushless-cordless-drill", "mini-cordless-chainsaw"],
     },
     {
         "slug": "handheld-electric-rotary-tool",
@@ -3230,7 +3230,7 @@ PRODUCTS = [
             "The 90-degree head keeps the operator's knuckles clear of the work, so a casting or weld root can be deburred with the tool held in a natural grip",
             "Weld dressing and casting clean-up run through the same head, so a fabrication bench can deburr a weld root and polish the surrounding face without a changeover",
         ],
-        "related": ["rectangular-air-sander", "5-inch-air-polisher", "high-pressure-air-blow-gun"],
+        "related": ["rectangular-air-sander", "pneumatic-chamfering-tool-45-degree", "wet-air-stone-polisher-4-inch"],
     },
     {
         "slug": "pneumatic-air-chisel-150mm",
@@ -3430,7 +3430,7 @@ PRODUCTS = [
             "Induction-hardened edges hold their bite on cable ties and small nails, so the pair keeps cutting rather than crushing after a busy install week",
             "Light crimping of bootlace ferrules and terminal sleeves is part of the jaw's intended work, so a small control panel can be terminated without a second crimping tool",
         ],
-        "related": ["9-inch-chrome-vanadium-combination-pliers", "diagonal-cutting-pliers", "mini-ratchet-handle-set"],
+        "related": ["9-inch-chrome-vanadium-combination-pliers", "diagonal-cutting-pliers", "revolving-leather-hole-punch-pliers"],
     },
     {
         "slug": "cordless-brushless-leaf-blower",
@@ -3495,7 +3495,7 @@ PRODUCTS = [
             "The manual ships inside the carton, so a shop can hand the kit to a first-time user with the setup notes already in the box",
             "Clearing dust off racking uprights and palletised stock before a stock count keeps labels readable without moving the load",
         ],
-        "related": ["cordless-brushless-leaf-blower", "magnetic-cob-work-light", "brushless-cordless-drill"],
+        "related": ["cordless-brushless-leaf-blower", "heavy-duty-cordless-leaf-blower", "brushless-cordless-drill"],
     },
     {
         "slug": "heavy-duty-cordless-leaf-blower",
@@ -3627,7 +3627,7 @@ PRODUCTS = [
             "The quarter-turn cam sits flush on the door face, so thin cabinet and locker panels keep a clean front without a protruding latch handle",
             "The 22 mm screw length suits the board and sheet thicknesses used for most cabinet and locker fronts, so a fitter can work from one box of fixings across a run of doors",
         ],
-        "related": ["magnetic-glass-door-catch", "no-drill-magnetic-door-stop", "stainless-draw-latch"]
+        "related": ["magnetic-glass-door-catch", "no-drill-magnetic-door-stop", "double-door-cabinet-cam-lock"],
     },
     {
         "slug": "invisible-magnetic-floor-door-stop",
@@ -3660,7 +3660,7 @@ PRODUCTS = [
             "Because the stop works on the floor rather than the door leaf, one part covers framed, narrow and frameless doors on the same fit-out",
             "Because the stop sits on the floor rather than the leaf, a mop or vacuum passes over it while housekeeping works through the corridor",
         ],
-        "related": ["no-drill-magnetic-door-stop", "magnetic-door-stop", "magnetic-glass-door-catch"]
+        "related": ["no-drill-magnetic-door-stop", "magnetic-door-stop", "magnetic-glass-door-catch"],
     },
     {
         "slug": "50pc-crv-screwdriver-bit-set",
@@ -3692,7 +3692,7 @@ PRODUCTS = [
             "The magnetic socket bits hold a nut on the driver while it is offered up inside a panel, where a plain socket would drop it",
             "The 1/4-inch holder runs the same bits in a drill or an impact driver, so one set covers both tools on a fit-out",
         ],
-        "related": ["43pc-magnetic-screwdriver-set", "magnetic-screwdriver-set", "ratcheting-combination-wrench-10mm"]
+        "related": ["43pc-magnetic-screwdriver-set", "magnetic-screwdriver-set", "ratcheting-combination-wrench-10mm"],
     },
     {
         "slug": "5-inch-curved-needle-nose-pliers",
@@ -3724,7 +3724,7 @@ PRODUCTS = [
             "At about 126 mm overall the pliers sit in a shirt pocket or a small tool roll, so a technician working through wall boxes keeps them to hand",
             "The soft-grip handles stay comfortable through a long loom or panel rewire, where bare-metal pliers become hard on the palm after an hour of repeated squeezing",
         ],
-        "related": ["industrial-lineman-pliers", "diagonal-cutting-pliers", "9-inch-chrome-vanadium-combination-pliers"]
+        "related": ["industrial-lineman-pliers", "6-inch-carbon-steel-needle-nose-pliers", "9-inch-chrome-vanadium-combination-pliers"],
     },
     {
         "slug": "8-inch-needle-nose-pliers",
@@ -3755,7 +3755,7 @@ PRODUCTS = [
             "The long taper lets a technician guide a wire through a grommet and pull it out the other side of a bulkhead",
             "Dual-material grips stay controllable with oily hands, which matters on engine, hydraulic and oily-cable work",
         ],
-        "related": ["9-inch-chrome-vanadium-combination-pliers", "6-inch-drop-forged-combination-pliers", "stainless-multi-purpose-wire-stripper"]
+        "related": ["9-inch-chrome-vanadium-combination-pliers", "6-inch-drop-forged-combination-pliers", "stainless-multi-purpose-wire-stripper"],
     },
     {
         "slug": "cordless-paint-sprayer-1830b",
@@ -3788,7 +3788,7 @@ PRODUCTS = [
             "One 21 V pack and its charger cover a room-sized repaint, so a maintenance van needs no generator or lead reel on site",
             "Touch-up work after a repair is quick because the unit sprays a small area from a part-filled cup, so a whole tin does not have to be opened",
         ],
-        "related": ["brushless-cordless-drill", "cordless-brushless-leaf-blower", "hvlp-gravity-spray-gun"]
+        "related": ["brushless-cordless-drill", "cordless-brushless-leaf-blower", "hvlp-gravity-spray-gun"],
     },
     {
         "slug": "cordless-paint-sprayer-dual-battery",
@@ -3820,7 +3820,7 @@ PRODUCTS = [
             "A second battery keeps a long run of fence or a full flat going when the first pack runs down mid-wall",
             "The brass nozzle option stands up to masonry and abrasive paints that wear a standard nozzle faster, keeping the sprayer in service on render and fence work",
         ],
-        "related": ["brushless-cordless-drill", "5-inch-brushless-cordless-angle-grinder", "cordless-turbo-fan-blower-kit"]
+        "related": ["brushless-cordless-drill", "cordless-airless-paint-sprayer", "cordless-turbo-fan-blower-kit"],
     },
     {
         "slug": "cordless-paint-sprayer-bare-1000ml",
@@ -3851,7 +3851,7 @@ PRODUCTS = [
             "Suits a decorator who already runs the same battery platform and wants a second cup for a trim colour",
             "The 1000 ml cup covers a full wall run between refills, so ceiling work overhead is not broken by constant topping up",
         ],
-        "related": ["brushless-cordless-drill", "cordless-reciprocating-saw", "cordless-brushless-leaf-blower"]
+        "related": ["brushless-cordless-drill", "cordless-reciprocating-saw", "cordless-brushless-leaf-blower"],
     },
     {
         "slug": "pneumatic-rivnut-gun",
@@ -3883,7 +3883,7 @@ PRODUCTS = [
             "The included mandrel head set covers the M4-M12 range in one box, so a shop can quote mixed insert sizes without buying heads separately",
             "The blind-side setting action also covers tube and box-section work, where an insert goes into a closed frame that a nut and washer could never reach",
         ],
-        "related": ["pneumatic-rivet-gun", "90-degree-air-ratchet-wrench", "pneumatic-multi-nailer-f30-t64"]
+        "related": ["pneumatic-rivet-gun", "90-degree-air-ratchet-wrench", "pneumatic-multi-nailer-f30-t64"],
     },
     {
         "slug": "pneumatic-sandblaster-gun",
@@ -3914,7 +3914,7 @@ PRODUCTS = [
             "Restorers can clean a small weld or a pitted patch before filler, keeping the repair area tight instead of stripping a whole panel",
             "Gravity feed keeps media running as the gun is tipped along a weld seam, where a suction-feed unit can stall",
         ],
-        "related": ["high-pressure-air-blow-gun", "rectangular-air-sander", "pneumatic-air-chisel-150mm"]
+        "related": ["high-pressure-air-blow-gun", "rectangular-air-sander", "pneumatic-air-chisel-150mm"],
     },
     {
         "slug": "heavy-duty-ball-bearing-drawer-slide",
@@ -3945,7 +3945,7 @@ PRODUCTS = [
             "A full-extension runner also suits workshop benches, where a shallow top drawer can hold tools and still open clear of the bench edge",
             "At 254 mm the runner suits standard 10-inch drawer boxes, so a cabinet maker can quote one length across a bedroom or kitchen run",
         ],
-        "related": ["soft-close-drawer-slide-45mm", "cabinet-gas-strut", "black-aluminum-cabinet-handle"]
+        "related": ["soft-close-drawer-slide-45mm", "industrial-lockable-equipment-slide", "black-aluminum-cabinet-handle"],
     },
     {
         "slug": "heavy-duty-sliding-door-pulley",
@@ -3975,7 +3975,7 @@ PRODUCTS = [
             "Wardrobe and partition builders can hang a heavier leaf without a bottom track, keeping the floor line clear for cleaning",
             "Bearing rollers let a heavy leaf be pushed open with one hand from the edge, which suits a partition that staff move several times a day",
         ],
-        "related": ["360-degree-pivot-door-hinge", "no-drill-magnetic-door-stop", "heavy-duty-swivel-caster"]
+        "related": ["360-degree-pivot-door-hinge", "no-drill-magnetic-door-stop", "heavy-duty-swivel-caster"],
     },
     {
         "slug": "industrial-lockable-equipment-slide",
@@ -4006,7 +4006,7 @@ PRODUCTS = [
             "Tool cabinets can be locked as a set and opened one drawer at a time on a shared workshop floor",
             "The disconnect release lets a drawer lift out for cleaning or a layout change without unbolting the runners from the cabinet",
         ],
-        "related": ["soft-close-drawer-slide-45mm", "zinc-alloy-cam-lock-103", "cabinet-gas-strut"]
+        "related": ["soft-close-drawer-slide-45mm", "zinc-alloy-cam-lock-103", "cabinet-gas-strut"],
     },
     {
         "slug": "7-inch-circlip-pliers-set",
@@ -4038,7 +4038,7 @@ PRODUCTS = [
             "A single wallet covers both internal and external rings, so a rebuild does not stop for a missing tip",
             "The 7-inch body gives enough leverage on a stiff external ring while still fitting inside a gearbox or pump housing",
         ],
-        "related": ["15pc-swivel-ratchet-wrench-set", "72-tooth-ratchet-wrench-set", "diagonal-cutting-pliers"]
+        "related": ["15pc-swivel-ratchet-wrench-set", "72-tooth-ratchet-wrench-set", "diagonal-cutting-pliers"],
     },
     {
         "slug": "stainless-digital-caliper-150mm",
@@ -4070,7 +4070,7 @@ PRODUCTS = [
             "An inspector can read the value straight off the LCD and pass the same caliper to a colleague, which keeps measurement practice identical across a small quality team",
             "The ZERO button lets a fitter set a reference on a bore or a shoulder and read variation directly when checking a run of identical parts",
         ],
-        "related": ["heavy-duty-tape-measure-5m", "magnetic-aluminum-level", "industrial-lineman-pliers"]
+        "related": ["heavy-duty-tape-measure-5m", "magnetic-aluminum-level", "industrial-lineman-pliers"],
     },
     {
         "slug": "110v-electric-demolition-hammer",
@@ -4102,7 +4102,7 @@ PRODUCTS = [
             "Groundworkers can break out a footing or a tile bed where a wheeled breaker will not fit through a doorway",
             "Carbon brushes ship in the export kit, so a site can swap a worn set without ordering a spare part and keep the breaker in service",
         ],
-        "related": ["corded-impact-drill-13mm", "brushless-cordless-rotary-hammer", "13mm-brushless-cordless-impact-drill"]
+        "related": ["corded-impact-drill-13mm", "brushless-cordless-rotary-hammer", "13mm-brushless-cordless-impact-drill"],
     },
     {
         "slug": "corded-wood-trim-router",
@@ -4133,7 +4133,7 @@ PRODUCTS = [
             "Sign shops and shopfitters can trim laminate edging on site with a tool that fits one hand",
             "Cabinet makers can cut a hinge recess or a cable channel in a fitted panel rather than taking it back to the bench",
         ],
-        "related": ["5-inch-brushless-circular-saw-kit", "brushless-cordless-jigsaw", "electric-hand-planer"]
+        "related": ["5-inch-brushless-circular-saw-kit", "brushless-cordless-jigsaw", "electric-hand-planer"],
     },
     {
         "slug": "4-inch-pneumatic-angle-grinder",
@@ -4165,7 +4165,7 @@ PRODUCTS = [
             "Being air powered, it can be signed out of a tool crib with no battery pairing, so units are returned and re-issued without a charging queue",
             "Fabricators can dress a weld at the bench and swap to a cutting disc without changing tool or waiting on a battery",
         ],
-        "related": ["90-degree-air-die-grinder", "2-inch-air-mini-sander", "5-inch-air-polisher"]
+        "related": ["90-degree-air-die-grinder", "2-inch-air-mini-sander", "portable-sandblast-pot-5gal"],
     },
     {
         "slug": "straight-air-drill-3-8-inch",
@@ -4196,7 +4196,7 @@ PRODUCTS = [
             "Boat builders and tank fabricators can drill inside hulls and vessels where an electric tool would need an approved supply",
             "A straight body lets a new operator see the bit and the hole on the same line, which helps on panel work where a pistol drill hides the cut line",
         ],
-        "related": ["1-4-inch-air-ratchet-wrench", "pistol-air-screwdriver-5h", "high-pressure-air-blow-gun"]
+        "related": ["1-4-inch-air-ratchet-wrench", "pistol-air-screwdriver-5h", "high-pressure-air-blow-gun"],
     },
     {
         "slug": "pistol-grip-air-drill-10mm",
@@ -4227,7 +4227,7 @@ PRODUCTS = [
             "Heavy-equipment fitters can drill frame and chassis steel where access rules out a corded tool",
             "Assembly benches can drill a repeated hole pattern with one hand on the trigger and the other steadying the jig",
         ],
-        "related": ["pistol-air-screwdriver-5h", "1-2-inch-air-ratchet-wrench-set", "rectangular-air-sander"]
+        "related": ["pistol-air-screwdriver-5h", "pistol-air-drill-3-8-inch", "rectangular-air-sander"],
     },
     {
         "slug": "hydraulic-door-closer",
@@ -4258,7 +4258,7 @@ PRODUCTS = [
             "Apartment and hotel refurbishments can standardise one closer across a long run of doors",
             "Fire door inspections can be passed with a closing speed that suits a busy corridor without the leaf slamming",
         ],
-        "related": ["no-drill-magnetic-door-stop", "magnetic-door-stop", "cabinet-gas-strut"]
+        "related": ["no-drill-magnetic-door-stop", "magnetic-door-stop", "cabinet-gas-strut"],
     },
     {
         "slug": "zinc-alloy-adjustable-shelf-pin",
@@ -4290,7 +4290,7 @@ PRODUCTS = [
             "Cabinet makers can keep a jar of pins at the assembly bench, so a dropped or missing pin never holds up a carcass on the line",
             "A push-in pin lets a customer re-pitch a shelf without tools, which reduces calls back to a flat-pack helpline",
         ],
-        "related": ["soft-close-drawer-slide-45mm", "adjustable-l-bracket-58mm", "no-drill-heavy-duty-shelf-bracket"]
+        "related": ["soft-close-drawer-slide-45mm", "adjustable-l-bracket-58mm", "no-drill-heavy-duty-shelf-bracket"],
     },
     {
         "slug": "adjustable-furniture-support-leg",
@@ -4322,7 +4322,7 @@ PRODUCTS = [
             "Holding a few spare legs makes it easy to replace a broken or seized one on its own, since a single leg is usually all that fails",
             "A run of units can be brought to one worktop height on an uneven floor without cutting a leg down",
         ],
-        "related": ["heavy-duty-swivel-caster", "heavy-duty-pu-iron-caster", "cabinet-gas-strut"]
+        "related": ["heavy-duty-swivel-caster", "heavy-duty-pu-iron-caster", "cabinet-gas-strut"],
     },
     {
         "slug": "adjustable-torque-wrench-1-4-inch",
@@ -4354,7 +4354,7 @@ PRODUCTS = [
             "Bicycle and small engine work can be torqued to a printed figure without a second, larger wrench on the bench",
             "The +/-4 percent accuracy figure gives a stated tolerance to quote when a customer asks whether the wrench suits a documented workshop procedure",
         ],
-        "related": ["72-tooth-ratchet-wrench-set", "15pc-swivel-ratchet-wrench-set", "1-2-inch-socket-set"]
+        "related": ["72-tooth-ratchet-wrench-set", "15pc-swivel-ratchet-wrench-set", "1-2-inch-socket-set"],
     },
     {
         "slug": "industrial-sheet-metal-scissors",
@@ -4385,7 +4385,7 @@ PRODUCTS = [
             "HVAC and roofing crews can cut duct strapping and mesh with a shear that fits a tool pouch",
             "One pair of shears covers flashing, duct strapping, cable and carton board, so fitters carry fewer cutting tools between trades",
         ],
-        "related": ["mini-bolt-cutter-8inch", "diagonal-cutting-pliers", "heavy-duty-utility-knife"]
+        "related": ["aviation-tin-snips-right-cut", "diagonal-cutting-pliers", "heavy-duty-utility-knife"],
     },
     {
         "slug": "7-inch-brushless-cordless-circular-saw",
@@ -4417,7 +4417,7 @@ PRODUCTS = [
             "Decking and fencing crews can break down long boards at the stack and carry only cut lengths to the work face, which cuts the number of trips across a site",
             "Framers can cut studs and sheathing at the stack and carry only cut lengths to the deck",
         ],
-        "related": ["5-inch-brushless-circular-saw-kit", "brushless-cordless-jigsaw", "electric-hand-planer"]
+        "related": ["5-inch-brushless-circular-saw-kit", "brushless-cordless-jigsaw", "cordless-caulking-gun-21v"],
     },
     {
         "slug": "handheld-marble-cutter-125mm",
@@ -4449,7 +4449,7 @@ PRODUCTS = [
             "Fit-out contractors can hand the cutter to a tiling subcontractor as part of the package, so the same machine is used in every unit of a block and blade wear stays predictable across the run",
             "Tilers can cut a large format tile to a socket or a doorway in the room, avoiding a second visit with a fresh tile",
         ],
-        "related": ["corded-impact-drill-13mm", "110v-electric-demolition-hammer", "corded-wood-trim-router"]
+        "related": ["corded-impact-drill-13mm", "110v-electric-demolition-hammer", "corded-wood-trim-router"],
     },
     {
         "slug": "110v-sds-max-rotary-hammer",
@@ -4480,7 +4480,7 @@ PRODUCTS = [
             "Anchor-bolt work on US sites can be planned around one corded hammer instead of a hire unit",
             "A second unit held in the yard means a hammer going in for a chisel or switch service does not stop a groundworks gang mid-pour",
         ],
-        "related": ["brushless-cordless-rotary-hammer", "corded-impact-drill-13mm", "110v-electric-demolition-hammer"]
+        "related": ["brushless-cordless-rotary-hammer", "corded-impact-drill-13mm", "110v-electric-demolition-hammer"],
     },
     {
         "slug": "air-die-grinder-6mm",
@@ -4511,7 +4511,7 @@ PRODUCTS = [
             "Foundries and pattern shops can keep one grinder at each casting bay for immediate flash removal",
             "New operators get the same finish on their first casting, because the speed is set on the regulator rather than left to hand pressure",
         ],
-        "related": ["90-degree-air-die-grinder", "4-inch-pneumatic-angle-grinder", "2-inch-air-mini-sander"]
+        "related": ["90-degree-air-die-grinder", "4-inch-pneumatic-angle-grinder", "2-inch-air-mini-sander"],
     },
     {
         "slug": "air-belt-sander-at7111",
@@ -4543,7 +4543,7 @@ PRODUCTS = [
             "Paint and panel suppliers can quote abrasives alongside the machine, so the buyer reorders belts and the tool from one line instead of tracking a second supplier",
             "Welders can dress a seam on a gate or a railing that is already hung and cannot come down to a bench",
         ],
-        "related": ["4-inch-pneumatic-angle-grinder", "rectangular-air-sander", "5-inch-air-polisher"]
+        "related": ["4-inch-pneumatic-angle-grinder", "rectangular-air-sander", "5-inch-air-polisher"],
     },
     {
         "slug": "cabinet-push-latch",
@@ -4575,7 +4575,7 @@ PRODUCTS = [
             "A working sample door on the showroom floor lets a customer try the push-to-open action, which explains a handle-free design faster than photographs can",
             "Handle-free fronts suit a wall of cabinets where a run of handles would break a plain door line",
         ],
-        "related": ["soft-close-drawer-slide-45mm", "cabinet-gas-strut", "no-drill-magnetic-door-stop"]
+        "related": ["soft-close-drawer-slide-45mm", "cabinet-gas-strut", "no-drill-magnetic-door-stop"],
     },
     {
         "slug": "stainless-steel-adhesive-hook",
@@ -4605,7 +4605,7 @@ PRODUCTS = [
             "Holiday lets and serviced apartments can fit hooks without damaging tiled or painted walls",
             "Between tenancies a landlord can swap a hook without patching and repainting the wall, which keeps a turnround on schedule",
         ],
-        "related": ["no-drill-heavy-duty-shelf-bracket", "no-drill-magnetic-door-stop", "magnetic-glass-door-catch"]
+        "related": ["no-drill-heavy-duty-shelf-bracket", "no-drill-magnetic-door-stop", "magnetic-glass-door-catch"],
     },
     {
         "slug": "stainless-steel-adhesive-hook-rack",
@@ -4635,7 +4635,7 @@ PRODUCTS = [
             "Retail chains can merchandise the rack alongside matching bathroom and kitchen fittings",
             "In a hallway or utility room the three hooks concentrate coats and bags on one plate, keeping the rest of the wall clear for shelving and mirrors",
         ],
-        "related": ["no-drill-heavy-duty-shelf-bracket", "foldable-shelf-bracket", "adjustable-l-bracket-58mm"]
+        "related": ["no-drill-heavy-duty-shelf-bracket", "foldable-shelf-bracket", "adjustable-l-bracket-58mm"],
     },
     {
         "slug": "65mn-wood-handsaw",
@@ -4667,7 +4667,7 @@ PRODUCTS = [
             "A hand saw also suits one-off cuts where setting up a power saw would take longer than the cut itself, which is common on small repair jobs",
             "Hardened teeth hold their edge across a full season of branch work, so a maintenance kit is not re-sharpened or replaced mid-contract",
         ],
-        "related": ["bakelite-grip-claw-hammer", "heavy-duty-utility-knife", "industrial-lineman-pliers"]
+        "related": ["bakelite-grip-claw-hammer", "heavy-duty-utility-knife", "industrial-lineman-pliers"],
     },
     {
         "slug": "diamond-file-set-10-pcs",
@@ -4698,7 +4698,7 @@ PRODUCTS = [
             "Field service kits can carry one wallet of files instead of several steels in different shapes",
             "Glass and ceramic work can be eased on site, where a mounted point would need a die grinder and a supply",
         ],
-        "related": ["mini-bolt-cutter-8inch", "industrial-sheet-metal-scissors", "8-inch-needle-nose-pliers"]
+        "related": ["mini-bolt-cutter-8inch", "industrial-sheet-metal-scissors", "8-inch-needle-nose-pliers"],
     },
     {
         "slug": "14-inch-cut-off-saw-355mm",
@@ -4728,7 +4728,7 @@ PRODUCTS = [
             "Fabricators can set one saw on a bench and cut repeated stock lengths to the same setting",
             "Site crews can cut rebar and angle to length at the stack and carry only cut pieces to the pour",
         ],
-        "related": ["handheld-marble-cutter-125mm", "7-inch-brushless-cordless-circular-saw", "corded-wood-trim-router"]
+        "related": ["handheld-marble-cutter-125mm", "7-inch-brushless-cordless-circular-saw", "corded-wood-trim-router"],
     },
     {
         "slug": "110v-6-speed-corded-angle-grinder",
@@ -4758,7 +4758,7 @@ PRODUCTS = [
             "US site crews can specify one 110 V grinder for both polishing and cutting tasks",
             "A low guard lets the operator follow a marked line on a pipe without the guard fouling the curve",
         ],
-        "related": ["5-inch-brushless-cordless-angle-grinder", "12v-mini-angle-grinder", "corded-impact-drill-13mm"]
+        "related": ["5-inch-brushless-cordless-angle-grinder", "750w-corded-angle-grinder-100mm", "corded-impact-drill-13mm"],
     },
     {
         "slug": "pneumatic-needle-scaler",
@@ -4789,7 +4789,7 @@ PRODUCTS = [
             "Bridge and plant maintenance crews can descale steelwork without carrying a grinder to the structure",
             "Shipyards and bridge crews can strip a coating back to sound metal before a weld or a plate thickness check",
         ],
-        "related": ["pneumatic-air-chisel-150mm", "pneumatic-sandblaster-gun", "4-inch-pneumatic-angle-grinder"]
+        "related": ["pneumatic-air-chisel-150mm", "pneumatic-sandblaster-gun", "4-inch-pneumatic-angle-grinder"],
     },
     {
         "slug": "air-tapping-machine-m3-m12",
@@ -4820,7 +4820,7 @@ PRODUCTS = [
             "Machine builders can tap final assemblies in place rather than returning a part to a bench",
             "A thread can be cut in a hole that is already in place on a frame, so a part does not come off for repair",
         ],
-        "related": ["straight-air-drill-3-8-inch", "pistol-grip-air-drill-10mm", "air-die-grinder-6mm"]
+        "related": ["straight-air-drill-3-8-inch", "pistol-grip-air-drill-10mm", "air-die-grinder-6mm"],
     },
     {
         "slug": "mini-aluminum-wood-plane",
@@ -4850,7 +4850,7 @@ PRODUCTS = [
             "Piano and furniture restorers can true small mouldings that a bench plane is too long to touch",
             "A carpenter can ease a sticking door or a drawer edge on a fitted unit with a tool that fits a pocket",
         ],
-        "related": ["magnetic-aluminum-level", "stainless-digital-caliper-150mm", "heavy-duty-tape-measure-5m"]
+        "related": ["magnetic-aluminum-level", "stainless-digital-caliper-150mm", "heavy-duty-tape-measure-5m"],
     },
 
     {
@@ -5065,7 +5065,7 @@ PRODUCTS = [
             "Jewellers and camera repairers can work on small assemblies with no mains outlet nearby",
             "Quality inspectors on an electronics line can open a housing, check the board and close it again without walking to a bench",
         ],
-        "related": ["118pc-precision-screwdriver-set", "mini-cordless-screwdriver-set", "brushless-cordless-drill"],
+        "related": ["118pc-precision-screwdriver-set", "mini-cordless-screwdriver-set", "cordless-rebar-tier"],
     },
     {
         "slug": "high-speed-cordless-drill-kit",
@@ -5216,7 +5216,7 @@ PRODUCTS = [
             "Flat-pack producers can ship panels that the customer lifts off for cleaning or access",
             "Commissioning engineers can lift an access door clear while instruments are wired, then drop it back on before handover",
         ],
-        "related": ["stainless-steel-soft-close-hinge", "stainless-draw-latch", "cabinet-hinge-repair-plate"],
+        "related": ["stainless-steel-soft-close-hinge", "304-position-stop-torque-hinge", "cabinet-hinge-repair-plate"],
     },
     {
         "slug": "self-closing-spring-hinge",
@@ -5245,7 +5245,7 @@ PRODUCTS = [
             "Gate and hatch makers can keep a small door shut without fitting a separate latch",
             "Boat and caravan fitters can stop a small cupboard door swinging open while the unit is travelling, using the spring action alone",
         ],
-        "related": ["stainless-draw-latch", "magnetic-glass-door-catch", "stainless-steel-soft-close-hinge"],
+        "related": ["stainless-draw-latch", "self-closing-gate-spring-hinge", "stainless-steel-soft-close-hinge"],
     },
     {
         "slug": "14-in-1-insulated-ratchet-screwdriver-set",
@@ -5393,7 +5393,7 @@ PRODUCTS = [
             "Rental and hire fleets can issue one cordless grinder for cutting and finishing without a generator",
             "Marine and plant maintenance crews can take the grinder to a machine left in position rather than moving it to a workshop",
         ],
-        "related": ["4-inch-pneumatic-angle-grinder", "brushless-cordless-drill", "14-inch-cut-off-saw-355mm"],
+        "related": ["4-inch-pneumatic-angle-grinder", "brushless-cordless-drill", "12v-mini-cordless-angle-grinder"],
     },
     {
         "slug": "hvlp-pneumatic-spray-gun",
@@ -5485,7 +5485,7 @@ PRODUCTS = [
             "Retail and hospitality fit-outs can add glass doors to existing cabinets without glasswork",
             "Aquarium and cabinet builders can fit a glass door without drilling, so an existing pane is reused when a unit is rebuilt",
         ],
-        "related": ["magnetic-glass-door-catch", "360-degree-pivot-door-hinge", "detachable-stainless-hinge"],
+        "related": ["magnetic-glass-door-catch", "360-degree-pivot-door-hinge", "03-frameless-glass-door-clamp"],
     },
     {
         "slug": "matte-silver-aluminum-arched-pull",
@@ -5615,7 +5615,7 @@ PRODUCTS = [
             "Welders can free both hands to tack a joint instead of holding the parts together",
             "Plumbing crews can hold a cut pipe section or a stubborn joint with the 10 inch model while the other hand turns the wrench",
         ],
-        "related": ["industrial-water-pump-pliers", "6-inch-crv-combination-pliers-160mm", "9-inch-chrome-vanadium-combination-pliers"],
+        "related": ["industrial-water-pump-pliers", "octagonal-stone-hammer", "9-inch-chrome-vanadium-combination-pliers"],
     },
     {
         "slug": "aluminum-rotary-caulking-gun",
@@ -5844,7 +5844,7 @@ PRODUCTS = [
             "Shop fitters can add glass shelves to a display unit on site instead of ordering a new case",
             "Van-fitting and workshop installers can hold a glass shelf in a cabinet while the 13 mm pitch screw is started one-handed",
         ],
-        "related": ["magnetic-glass-door-catch", "frameless-glass-door-hinge-304", "stainless-corner-brace-40mm"],
+        "related": ["adjustable-glass-shelf-clamp", "frameless-glass-door-hinge-304", "01-metal-furniture-leg"],
     },
     {
         "slug": "03-frameless-glass-door-clamp",
@@ -6064,7 +6064,7 @@ PRODUCTS = [
              "Runs dry without seizing and passes solids in suspension, so a transfer duty that would clog or corrode a centrifugal pump stays on line",
             "With no motor or wiring in the unit, it can be set down in a bund, a sump or a temporary transfer point where there is no safe power supply",
          ],
-        "related": ["pneumatic-grease-gun", "pneumatic-sandblaster-gun", "high-pressure-air-blow-gun"],
+        "related": ["10-air-diaphragm-pump-aluminum", "pneumatic-sandblaster-gun", "high-pressure-air-blow-gun"],
     },
     {
         "slug": "10-air-diaphragm-pump-aluminum",
@@ -6095,7 +6095,7 @@ PRODUCTS = [
             "Cast base feet allow floor or plinth mounting without a separate bracket",
             "Demolition and groundwork crews can drain a flooded excavation with the pump set at the trench edge",
         ],
-        "related": ["pneumatic-paint-mixer-10-30l", "hvlp-pneumatic-spray-gun", "pneumatic-grease-gun"],
+        "related": ["pneumatic-paint-mixer-10-30l", "hvlp-pneumatic-spray-gun", "09-air-diaphragm-pump-plastic"],
     },
     {
         "slug": "stainless-square-surface-slide-bolt",
@@ -6183,7 +6183,7 @@ PRODUCTS = [
              "100 mm mounting height gives a predictable deck height when casters are replaced on an existing trolley or rack",
              "Nylon resists the flat-spotting that rubber develops when a loaded cart stands in one place for weeks, so the roll stays smooth after long periods parked",
         ],
-        "related": ["heavy-duty-swivel-caster", "heavy-duty-pu-iron-caster", "adjustable-furniture-support-leg"],
+        "related": ["heavy-duty-swivel-caster", "heavy-duty-pu-iron-caster", "heavy-duty-swivel-caster-3-inch"],
     },
     {
         "slug": "manual-hand-rivet-gun",
@@ -6212,7 +6212,7 @@ PRODUCTS = [
              "Hand operation needs no compressor or air line, so the gun goes where a hose will not reach",
              "Spring-loaded jaw releases the mandrel cleanly instead of dropping it onto the work, so the joint and the floor stay clear",
         ],
-        "related": ["curved-jaw-locking-pliers-10-inch", "pneumatic-rivet-gun", "industrial-sheet-metal-scissors"],
+        "related": ["curved-jaw-locking-pliers-10-inch", "pneumatic-rivet-gun", "100cc-single-lever-grease-gun"],
     },
     {
         "slug": "tap-and-die-set-110pc",
@@ -6240,7 +6240,7 @@ PRODUCTS = [
             "Training workshops can issue one set per bench, so learners thread a part from start to finish and the tools are checked back in complete rather than one tap at a time",
             "Colour-coded case holds every tap and die in its own slot, so a missing size is spotted before the job starts",
         ],
-        "related": ["diamond-file-set-10-pcs", "mini-bolt-cutter-8inch", "adjustable-torque-wrench-1-4-inch"],
+        "related": ["diamond-file-set-10-pcs", "tap-wrench-set-6pc", "adjustable-torque-wrench-1-4-inch"],
     },
     {
         "slug": "7-in-1-double-ended-ratchet-wrench",
@@ -6268,7 +6268,7 @@ PRODUCTS = [
             "Machine setters can keep one wrench at the station for routine changeover work instead of walking to the tool crib",
             "Appliance and furniture delivery teams can keep the wrench in the cab for the final fitting on site, so a customer does not wait while the installer looks for the right spanner",
         ],
-        "related": ["15pc-swivel-ratchet-wrench-set", "52in1-wrench-set", "72-tooth-ratchet-wrench-set"],
+        "related": ["15pc-swivel-ratchet-wrench-set", "52in1-wrench-set", "cross-lug-wrench-20-inch"],
     },
     {
         "slug": "cordless-caulking-gun-led",
@@ -6327,7 +6327,7 @@ PRODUCTS = [
             "Accepts standard 300 ml cartridges (52 x 220 mm), the format most structural and tile adhesives are supplied in",
             "Supplied as a bare tool, so a contractor already running 21V packs adds the gun without paying twice for batteries and a charger",
         ],
-        "related": ["cordless-caulking-gun-led", "pneumatic-caulking-gun-310-600ml", "aluminum-rotary-caulking-gun"],
+        "related": ["cordless-caulking-gun-led", "pneumatic-caulking-gun-310-600ml", "cordless-pressure-washer-21v"],
     },
     {
         "slug": "pneumatic-terminal-crimping-pliers",
@@ -6355,7 +6355,7 @@ PRODUCTS = [
              "Panel builders can crimp a full harness at the bench with shop air, so consistency holds across a run instead of drifting as the operator tires",
              "Runs from a standard 1/4 inch air line with no electrical supply, so the crimper can be set up at a bench or in a vehicle bay without a power point",
         ],
-        "related": ["pneumatic-rivet-gun", "pneumatic-rivnut-gun", "high-pressure-air-blow-gun"],
+        "related": ["pneumatic-rivet-gun", "pneumatic-rivnut-gun", "yqk-70-manual-hydraulic-crimper"],
     },
     {
         "slug": "f75-pneumatic-spray-gun",
@@ -6471,7 +6471,7 @@ PRODUCTS = [
              "Contractors fitting split-system air conditioners can trim the interconnecting pipework on site rather than ordering pre-cut lengths and waiting for delivery",
              "The 8 to 29 mm range covers small branch lines as well as main runs, so one cutter handles the pipe sizes on a typical installation",
         ],
-        "related": ["quick-adjust-pipe-wrench", "mini-bolt-cutter-8inch", "industrial-sheet-metal-scissors"],
+        "related": ["quick-adjust-pipe-wrench", "mini-bolt-cutter-8inch", "ratchet-cable-cutter"],
     },
     {
         "slug": "hex-nail-puller-pry-bar",
@@ -6731,7 +6731,7 @@ PRODUCTS = [
             "At roughly 9 mm overall height the cover sits close to the panel, so stacked or wrapped carcasses do not catch on it in the yard",
             "It presses into the 35 mm hole already drilled for ventilation, so a fitted wardrobe or appliance housing can be closed off in place rather than brought back to the bench",
         ],
-        "related": ["soft-close-drawer-slide-45mm", "cabinet-push-latch", "adjustable-furniture-support-leg"],
+        "related": ["heavy-duty-plastic-pipe-clamp", "cabinet-push-latch", "adjustable-furniture-support-leg"],
     },
     {
         "slug": "stainless-straight-connector-plate",
@@ -6818,7 +6818,7 @@ PRODUCTS = [
             "Glazing firms can issue the cutter to every fitter as a low-cost consumable, so a scored pane does not wait for a shared tool to come back",
             "Picture framers and makers of small glass display cases can score a batch of panels at the bench, keeping the tool in hand between cuts",
         ],
-        "related": ["industrial-sheet-metal-scissors", "handheld-marble-cutter-125mm", "heavy-duty-utility-knife"],
+        "related": ["industrial-sheet-metal-scissors", "handheld-marble-cutter-125mm", "glass-tube-cutter"],
     },
     {
         "slug": "broken-screw-extractor-set",
@@ -6936,7 +6936,7 @@ PRODUCTS = [
             "Fabricators can coat their own steelwork in house rather than sending it out, which keeps the delivery date under their own control",
             "Because the same gun covers furniture coating and structural steel work, a distributor can serve both trades from a single shelf line",
         ],
-        "related": ["aluminum-siphon-spray-gun", "f75-pneumatic-spray-gun", "w71g-pneumatic-spray-gun"],
+        "related": ["aluminum-siphon-spray-gun", "f75-pneumatic-spray-gun", "w-77-siphon-feed-spray-gun"],
     },
     {
         "slug": "1-inch-heavy-duty-air-impact-wrench",
@@ -6967,7 +6967,7 @@ PRODUCTS = [
             "A 1/2 inch air inlet matches the line size a tyre bay or heavy workshop already runs, so the wrench does not need a dedicated supply",
             "The quick coupler supplied with the wrench lets it be dropped onto a bay air line and swapped between tools without hunting for a spanner",
         ],
-        "related": ["air-impact-wrench", "mining-air-impact-wrench", "1-2-inch-air-ratchet-wrench-set"],
+        "related": ["air-impact-wrench", "mining-air-impact-wrench", "3-4-inch-air-impact-wrench-1900nm"],
     },
     {
         "slug": "cam-lock-furniture-connector-set",
@@ -7144,7 +7144,7 @@ PRODUCTS = [
             "Jaws hook behind an outer race or spread inside a bore, so one puller covers bearings, pulleys and bushes",
             "At 185 mm overall the puller still swings inside a gearbox housing or a tight bearing pocket where a longer bar will not fit",
         ],
-        "related": ["heavy-duty-lifting-pry-bar", "mini-bolt-cutter-8inch", "quick-adjust-pipe-wrench"],
+        "related": ["heavy-duty-lifting-pry-bar", "dual-purpose-bearing-puller-16-38mm", "quick-adjust-pipe-wrench"],
     },
     {
         "slug": "6-inch-bench-grinder-370w",
@@ -7379,7 +7379,7 @@ PRODUCTS = [
             "At 195 mm overall it drops into a tool pouch, so a decorator working up a ladder still has the knife to hand",
             "Carbon steel blade can be filed and re-ground once the corner rounds over, so it stays in service",
         ],
-        "related": ["heavy-duty-tape-measure-5m", "laser-distance-meter-40m", "cordless-mini-rotary-tool"],
+        "related": ["heavy-duty-tape-measure-5m", "stainless-steel-flat-trowel", "cordless-mini-rotary-tool"],
     },
     {
         "slug": "laser-distance-meter-40m",
@@ -7613,7 +7613,7 @@ PRODUCTS = [
             "Developers and shopfitters handling several units at once can standardise on one pull for every kitchen",
             "22 mm screws suit 18 mm drawer fronts, so a run is fitted from the stock screw box without a second fixing order",
         ],
-        "related": ["black-aluminum-cabinet-handle", "matte-silver-aluminum-arched-pull", "square-black-aluminum-cabinet-handle"],
+        "related": ["casement-window-espagnolette-handle", "matte-silver-aluminum-arched-pull", "square-black-aluminum-cabinet-handle"],
     },
     {
         "slug": "new-chinese-style-single-hole-pull",
@@ -7671,7 +7671,7 @@ PRODUCTS = [
             "Graduated in metric, so a dimension can be read straight off the blade",
             "The 155 mm stock gives a wide fence to register against a board edge, so the square holds its line while the mark is struck",
         ],
-        "related": ["magnetic-aluminum-level", "heavy-duty-tape-measure-5m", "putty-knife-wooden-handle-3-inch"],
+        "related": ["magnetic-aluminum-level", "heavy-duty-tape-measure-5m", "8-line-green-laser-level"],
     },
     {
         "slug": "8-inch-offset-combination-pliers",
@@ -7700,7 +7700,7 @@ PRODUCTS = [
             "Chrome vanadium steel head and jaws, built for daily cutting on wire and cable",
             "Supplied in a plastic case, so the cutting edge stays protected in a tool bag between jobs",
         ],
-        "related": ["8-inch-combination-pliers-190mm", "9-inch-chrome-vanadium-combination-pliers", "industrial-lineman-pliers"],
+        "related": ["9-inch-bent-head-combination-pliers", "9-inch-chrome-vanadium-combination-pliers", "industrial-lineman-pliers"],
     },
     {
         "slug": "6-inch-carbon-steel-needle-nose-pliers",
@@ -7816,7 +7816,7 @@ PRODUCTS = [
             "Plant and farm servicing can be done at the machine with the drum standing alongside instead of bringing the machine indoors",
             "The 5 to 1 air ratio raises oil pressure at the hose end, so a drum standing on the floor still reaches a high-level fill point",
         ],
-        "related": ["pneumatic-caulking-gun-310-600ml", "retractable-air-hose-reel-10m", "12v-electric-oil-transfer-pump"],
+        "related": ["oil-free-air-compressor-50l", "pneumatic-solenoid-valve-4v210-08", "12v-electric-oil-transfer-pump"],
     },
     {
         "slug": "pneumatic-air-hoist-2t",
@@ -7845,7 +7845,7 @@ PRODUCTS = [
             "Lifts at 1.4 m/min going up and 1.5 m/min coming down, from a 0.5 MPa air line",
             "Two falls of chain share the 2 tonne rating, so the hook stays level when the load sits off centre",
         ],
-        "related": ["pneumatic-hydraulic-jack-80t", "1-inch-heavy-duty-air-impact-wrench", "air-tapping-machine-m3-m12"],
+        "related": ["pneumatic-hydraulic-jack-80t", "mini-electric-rope-hoist-220v", "air-tapping-machine-m3-m12"],
     },
     {
         "slug": "over-door-hook-rack-8-hooks",
@@ -7961,7 +7961,7 @@ PRODUCTS = [
             "Home and farm workshops can mount it on a timber bench and handle repair work themselves rather than sending it out",
             "At 4 kg it can be carried out to a site bench, bolted down for the day and taken back to the van",
         ],
-        "related": ["06-heavy-duty-quick-f-clamp", "05-a-type-woodworking-clamp", "72-tooth-ratchet-wrench-set"],
+        "related": ["06-heavy-duty-quick-f-clamp", "05-a-type-woodworking-clamp", "rotating-table-vise-80mm"],
     },
     {
         "slug": "rotating-table-vise-80mm",
@@ -8165,7 +8165,7 @@ PRODUCTS = [
             "Maintenance planners can hold it as a single consumable line instead of counting loose fasteners by hand",
             "Also used as a spacer behind a bracket, so a bolt does not pull into soft material",
         ],
-        "related": ["soft-close-drawer-slide-45mm", "slim-soft-close-drawer-slide-35mm", "two-section-drawer-slide-28cm"],
+        "related": ["soft-close-drawer-slide-45mm", "304-stainless-screw-nut-washer-kit", "two-section-drawer-slide-28cm"],
     },
     {
         "slug": "slim-soft-close-drawer-slide-35mm",
@@ -8225,7 +8225,7 @@ PRODUCTS = [
             "Desk and workstation makers can fit the rail where a tray needs to come out for spillage cleaning",
             "The 25 mm rail leaves room for a drawer box inside a narrow carcass",
         ],
-        "related": ["heavy-duty-ball-bearing-drawer-slide", "slim-soft-close-drawer-slide-35mm", "stainless-washer-assortment-kit-1240"],
+        "related": ["heavy-duty-ball-bearing-drawer-slide", "slim-soft-close-drawer-slide-35mm", "4515-stainless-ball-bearing-slide-350mm"],
     },
     {
         "slug": "putty-knife-blue-steel-5-inch",
@@ -8406,7 +8406,7 @@ PRODUCTS = [
             "Hook and loop discs change by hand, so a grit sequence runs without a spanner",
             "Running on air means no cable trailing across a booth floor, which keeps the walkway round a spray area clear where a lead would be a trip hazard",
         ],
-        "related": ["rectangular-air-sander", "2-inch-air-mini-sander", "air-belt-sander-at7111"],
+        "related": ["sc-series-pneumatic-cylinder", "2-inch-air-mini-sander", "air-belt-sander-at7111"],
     },
     {
         "slug": "straight-line-air-sander-fs30",
@@ -8436,7 +8436,7 @@ PRODUCTS = [
             "Yacht joiners can flatten a teak trim strip before varnish so the grain stays straight",
             "A 3 mm orbit takes out a fine scratch without cutting through a veneer",
         ],
-        "related": ["rectangular-air-sander", "air-orbital-sander-5-inch", "pneumatic-reciprocating-file-machine"],
+        "related": ["rectangular-air-sander", "air-orbital-sander-5-inch", "vane-air-motor-tmy005"],
     },
     {
         "slug": "180-degree-flat-mount-damping-hinge",
@@ -8465,7 +8465,7 @@ PRODUCTS = [
             "A fitter working on an occupied kitchen can change a door hinge without dismantling the carcass",
             "Brushed stainless suits a visible door edge, where a painted hinge would show wear first",
         ],
-        "related": ["detachable-stainless-hinge", "cabinet-hinge-cup-damper", "stainless-steel-soft-close-hinge"],
+        "related": ["clip-on-aircraft-damping-hinge", "cabinet-hinge-cup-damper", "stainless-steel-soft-close-hinge"],
     },
     {
         "slug": "clip-on-aircraft-damping-hinge",
@@ -8524,7 +8524,7 @@ PRODUCTS = [
             "Traders who load a barrow heavily find rigid wheels at the back keep a straight line on rough ground",
             "The four-hole plate matches common deck layouts, so a worn caster is swapped without redrilling",
         ],
-        "related": ["heavy-duty-swivel-caster", "heavy-duty-pu-iron-caster", "3-inch-nylon-swivel-caster"],
+        "related": ["heavy-duty-swivel-caster", "machine-leveling-caster-gd40", "3-inch-nylon-swivel-caster"],
     },
     {
         "slug": "12pc-socket-ratchet-set-crv",
@@ -8584,7 +8584,7 @@ PRODUCTS = [
             "The 22 and 24 mm ends cover the larger nuts on machinery and plumbing fittings",
             "Every size is stamped into the handle, so a fitter picks the right wrench from the roll without first reading the size off the fastener",
         ],
-        "related": ["ratcheting-combination-wrench-10mm", "imperial-ratcheting-wrench-set", "15pc-swivel-ratchet-wrench-set"],
+        "related": ["copper-tube-flaring-tool-kit", "mirror-combination-wrench-set-8pc", "15pc-swivel-ratchet-wrench-set"],
     },
     {
         "slug": "13pc-interchangeable-head-ratchet-set",
@@ -8762,7 +8762,7 @@ PRODUCTS = [
             "The 102 mm hole centres line up with pulls already on many sliding frames, so a swap needs no new drilling",
             "At 148 mm the pull gives a full four-finger grip without overhanging a narrow stile, so it clears the edge trim as the panel runs past",
         ],
-        "related": ["matte-black-thumb-print-pull", "recessed-steel-cabinet-pull", "square-black-aluminum-cabinet-handle"],
+        "related": ["matte-black-thumb-print-pull", "self-adhesive-black-cabinet-pull", "square-black-aluminum-cabinet-handle"],
     },
     {
         "slug": "glass-tile-vacuum-suction-lifter",
@@ -8878,7 +8878,7 @@ PRODUCTS = [
             "Ideal where rusted or over-torqued fasteners have to come out without drilling the head off",
             "The 6.3 mm shaft also fits a bit driver, so the set doubles as a bit holder",
         ],
-        "related": ["insulated-screwdriver-set-5pc", "magnetic-screwdriver-set", "43pc-magnetic-screwdriver-set"],
+        "related": ["phillips-screwdriver-4-inch-6x90mm", "magnetic-screwdriver-set", "43pc-magnetic-screwdriver-set"],
     },
     {
         "slug": "stainless-steel-flat-trowel",
@@ -8994,7 +8994,7 @@ PRODUCTS = [
             "Worth keeping a handful on the shelf, since one failed joint takes the whole air line out of service",
             "An 8 mm tube on one end and a 1/4 inch port on the other join a tool to a standard line",
         ],
-        "related": ["pneumatic-air-pressure-regulator", "retractable-air-hose-reel-10m", "pneumatic-vacuum-blow-gun"],
+        "related": ["pneumatic-air-pressure-regulator", "pneumatic-turbine-vibrator-gt10", "pneumatic-fitting-kit-128-piece"],
     },
     {
         "slug": "air-filter-regulator-lubricator-afc2000",
@@ -9082,7 +9082,7 @@ PRODUCTS = [
             "The plastic body will not rust in a damp plant room, where a painted steel clamp would",
             "M10 bolts on 60 mm centres take a standard spanner, so a run is clamped with tools already on the van",
         ],
-        "related": ["adjustable-l-bracket-58mm", "stainless-straight-connector-plate", "adjustable-furniture-support-leg"],
+        "related": ["adjustable-l-bracket-58mm", "stainless-straight-connector-plate", "stainless-cabinet-vent-hole-cover"],
     },
     {
         "slug": "office-chair-swivel-caster-2-5-inch",
@@ -9171,7 +9171,7 @@ PRODUCTS = [
             "Fits in a pocket, so a fitter marks a hole at the machine instead of fetching a hammer",
             "The spring resets after every press, so a row of holes along a rail is marked at even spacing without swinging a hammer",
         ],
-        "related": ["broken-screw-extractor-set", "tap-and-die-set-110pc", "solid-rubber-mallet-non-bounce"],
+        "related": ["broken-screw-extractor-set", "automatic-chalk-line-reel", "solid-rubber-mallet-non-bounce"],
     },
     {
         "slug": "flat-mill-file-6-inch",
@@ -9201,7 +9201,7 @@ PRODUCTS = [
             "A 16 mm blade width works a slot or a rebate that a wider file will not sit inside",
             "The 260 mm overall length and 121 g weight let it drop into a toolbag side pocket, so a cut edge can be dressed on site rather than taken back to the bench",
         ],
-        "related": ["diamond-file-set-10-pcs", "crv-woodworking-chisel-set", "65mn-wood-handsaw"],
+        "related": ["diamond-file-set-10-pcs", "crv-woodworking-chisel-set", "flat-masonry-chisel-150mm"],
     },
     {
         "slug": "cordless-brushless-electric-planer",
@@ -9350,7 +9350,7 @@ PRODUCTS = [
             "A plain matte finish reads as an industrial fixing, which suits a workshop or warehouse wall better than a decorative bracket",
             "The six-hole base plate spreads the fixing across a wider patch of wall, so a bracket can be set on a single stud or a block instead of relying on one anchor",
         ],
-        "related": ["adjustable-furniture-support-leg", "adjustable-cabinet-leg", "heavy-duty-swivel-caster"],
+        "related": ["adjustable-furniture-support-leg", "folding-wall-shelf-bracket", "heavy-duty-swivel-caster"],
     },
     {
         "slug": "folding-wall-shelf-bracket",
@@ -9409,7 +9409,7 @@ PRODUCTS = [
             "Levelling is done from the front, so a hung unit is adjusted without taking it down",
             "Supplied in 23 mm and 27 mm rail heights, so one bracket line covers standard and deep 600 mm carcasses from a single stock item",
         ],
-        "related": ["machine-leveling-caster-gd40", "heavy-duty-wall-shelf-bracket", "soft-close-drawer-slide-45mm"],
+        "related": ["aluminium-wardrobe-hanging-rod", "heavy-duty-wall-shelf-bracket", "soft-close-drawer-slide-45mm"],
     },
     {
         "slug": "cross-lug-wrench-20-inch",
@@ -9523,7 +9523,7 @@ PRODUCTS = [
             "Covers sealing, grout lines, flooring and window and door frame work off one battery platform",
             "The battery and charger are in the kit, so the gun works straight out of the case",
         ],
-        "related": ["cordless-caulking-gun-led", "cordless-electric-grease-gun-24v", "drill-mounted-sheet-metal-shear"],
+        "related": ["cordless-caulking-gun-led", "cordless-electric-grease-gun-24v", "08-cordless-staple-nail-gun"],
     },
     {
         "slug": "drill-mounted-metal-shear",
@@ -9553,7 +9553,7 @@ PRODUCTS = [
             "The cut runs along the edge of a sheet, so flashing or a duct section already fixed in place can be trimmed to fit rather than being cut on the bench and carried up",
             "At 412.5 g the attachment adds little weight to a drill already on site, so flashing and ductwork can be cut from a ladder without a second power lead",
         ],
-        "related": ["drill-mounted-sheet-metal-shear", "industrial-sheet-metal-scissors", "pneumatic-metal-shear"],
+        "related": ["drill-mounted-sheet-metal-shear", "drill-mounted-rivet-nut-adapter", "pneumatic-metal-shear"],
     },
     {
         "slug": "pneumatic-grease-gun-400cc",
@@ -9694,7 +9694,7 @@ PRODUCTS = [
             "The 33 mm tread spreads the load on a soft floor, so a loaded cart does not sink in",
             "A 75 mm wheel rolls over thresholds, cable covers and floor grates that a smaller castor would jam on",
         ],
-        "related": ["3-inch-nylon-swivel-caster", "heavy-duty-swivel-caster", "heavy-duty-pu-iron-caster"],
+        "related": ["3-inch-nylon-swivel-caster", "heavy-duty-swivel-caster", "office-chair-swivel-caster-2-5-inch"],
     },
     {
         "slug": "glass-tube-cutter",
@@ -9723,7 +9723,7 @@ PRODUCTS = [
             "A cutter kept in a lab drawer means tubing is cut to length as the setup changes, rather than a stock of pre-cut lengths being ordered and stored against each size",
             "The wheel scores in one pass, so a tube is cut without a saw, a vise or a second pair of hands to hold it",
         ],
-        "related": ["tungsten-carbide-glass-cutter", "diamond-oil-feed-glass-cutter", "ratchet-pipe-cutter-8-29mm"],
+        "related": ["tungsten-carbide-glass-cutter", "diamond-oil-feed-glass-cutter", "manual-tile-cutter-300-400mm"],
     },
     {
         "slug": "ratchet-flare-nut-wrench-set",
@@ -9750,7 +9750,7 @@ PRODUCTS = [
             "Moulded tray with size markings shows at a glance when a piece is missing",
             "The flare nut heads grip the flats of a pipe union, so a soft brass nut is not rounded",
         ],
-        "related": ["15pc-swivel-ratchet-wrench-set", "7-in-1-double-ended-ratchet-wrench", "72-tooth-ratchet-wrench-set"],
+        "related": ["15pc-swivel-ratchet-wrench-set", "7-in-1-double-ended-ratchet-wrench", "13pc-interchangeable-head-ratchet-set"],
     },
     {
         "slug": "aviation-tin-snips-right-cut",
@@ -9861,7 +9861,7 @@ PRODUCTS = [
             "Pistol grip and rubber handle stay comfortable through a shift of production setting",
             "Air power keeps the setting force constant through a run, so every nut pulls down the same",
         ],
-        "related": ["pneumatic-rivnut-gun", "pneumatic-rivet-gun", "manual-hand-rivet-gun"],
+        "related": ["pneumatic-rivnut-gun", "pneumatic-rivet-gun", "air-rivet-nut-gun-m3-m4"],
     },
     {
         "slug": "wet-air-stone-polisher-4-inch",
@@ -10003,7 +10003,7 @@ PRODUCTS = [
             "The flat blade can be turned to clear a joint sideways as well as driven straight",
             "At 0.11 kg it rides in a tool belt all day, and the short 145 mm body can be swung one-handed for light joint work",
         ],
-        "related": ["solid-rubber-mallet-non-bounce", "heavy-duty-lifting-pry-bar", "crv-woodworking-chisel-set"],
+        "related": ["solid-rubber-mallet-non-bounce", "flat-mill-file-6-inch", "crv-woodworking-chisel-set"],
     },
     {
         "slug": "cobalt-drill-bit-pack-2-5mm",
@@ -10145,7 +10145,7 @@ PRODUCTS = [
             "The trigger hose adds pressure in short bursts, so a tyre is not taken past the target",
             "Runs straight off the air line with no battery or charging, so the gauge is ready the moment a vehicle pulls into the bay",
         ],
-        "related": ["retractable-air-hose-reel-10m", "high-pressure-air-blow-gun", "air-filter-regulator-lubricator-afc2000"],
+        "related": ["retractable-air-hose-reel-10m", "high-pressure-air-blow-gun", "digital-tire-inflator-gauge"],
     },
     {
         "slug": "digital-tire-inflator-gauge",
@@ -10174,7 +10174,7 @@ PRODUCTS = [
             "0 to 100 psi covers car, motorcycle and light commercial tyres, so one gauge in a fleet bay serves the whole yard",
             "A brass adapter fitting ships in the box, so the gauge goes onto a standard tyre valve without a separate purchase",
         ],
-        "related": ["retractable-air-hose-reel-10m", "high-pressure-air-blow-gun", "oil-free-air-compressor-50l"],
+        "related": ["retractable-air-hose-reel-10m", "high-pressure-air-blow-gun", "pneumatic-tire-inflator-gauge"],
     },
     {
         "slug": "self-adhesive-door-bottom-seal",
@@ -10202,7 +10202,7 @@ PRODUCTS = [
             "One length cuts into several strips, so a whole landing of doors can be sealed from a single roll",
             "Because no threshold is fitted, a mop, a vacuum head or a trolley wheel still runs straight over the doorway",
         ],
-        "related": ["invisible-magnetic-floor-door-stop", "heavy-duty-sliding-door-pulley", "stainless-sliding-window-hook-lock"],
+        "related": ["invisible-magnetic-floor-door-stop", "heavy-duty-sliding-door-pulley", "epdm-self-adhesive-window-seal"],
     },
     {
         "slug": "epdm-self-adhesive-window-seal",
@@ -10344,7 +10344,7 @@ PRODUCTS = [
             "The 9 inch handle gives the leverage to cut a hard wire without a second hand",
             "A forged steel body stands up to levering and twisting, so the pliers survive the prying jobs they get used for on site",
         ],
-        "related": ["industrial-lineman-pliers", "9-inch-chrome-vanadium-combination-pliers", "stainless-multi-purpose-wire-stripper"],
+        "related": ["industrial-lineman-pliers", "9-inch-chrome-vanadium-combination-pliers", "8-inch-offset-combination-pliers"],
     },
     {
         "slug": "cordless-hydraulic-crimping-tool",
@@ -10401,7 +10401,7 @@ PRODUCTS = [
             "Runs on 220 V or 110 V, so one machine covers a European site circuit and a US-standard 110 V outlet",
             "At 13 kg in an 82 x 29 x 51 cm carton, one person can carry it between floors and it loads into a small van without a ramp",
         ],
-        "related": ["110v-6-speed-corded-angle-grinder", "5-inch-brushless-cordless-angle-grinder", "wet-air-stone-polisher-4-inch"],
+        "related": ["110v-6-speed-corded-angle-grinder", "portable-inverter-mma-welder", "concrete-vibrator-zn50"],
     },
     {
         "slug": "long-nozzle-air-blow-gun",
@@ -10809,7 +10809,7 @@ PRODUCTS = [
             "Barrel sits behind the door edge for a clean cabinet face",
             "Black, satin gold and silver finishes let one hinge line match the ironmongery schedule across a whole fit-out",
         ],
-        "related": ["self-closing-spring-hinge", "loose-pin-door-hinge", "heavy-duty-welded-hinge"],
+        "related": ["self-closing-spring-hinge", "concealed-3d-adjustable-door-hinge", "heavy-duty-welded-hinge"],
     },
     {
         "slug": "mirror-combination-wrench-set-8pc",
@@ -10836,7 +10836,7 @@ PRODUCTS = [
             "Rolls into a compact canvas pouch for a road kit",
             "Sizes start at 6 mm, covering the small fasteners on bikes and garden machinery that a set beginning at 10 mm leaves out",
         ],
-        "related": ["72-tooth-ratchet-wrench-set", "15pc-swivel-ratchet-wrench-set", "52in1-wrench-set"],
+        "related": ["14pc-combination-wrench-set-8-24mm", "15pc-swivel-ratchet-wrench-set", "52in1-wrench-set"],
     },
     {
         "slug": "socket-set-46pc-chrome-vanadium",
@@ -10862,7 +10862,7 @@ PRODUCTS = [
             "Labelled recesses show a missing socket at a glance",
             "Case measures 235 x 125 x 45 mm and weighs 1.16 kg for a boot kit",
         ],
-        "related": ["72-tooth-ratchet-wrench-set", "ball-end-hex-key-set-9pcs", "52in1-wrench-set"],
+        "related": ["12pc-socket-ratchet-set-crv", "ball-end-hex-key-set-9pcs", "52in1-wrench-set"],
     },
     {
         "slug": "phillips-screwdriver-4-inch-6x90mm",
@@ -10888,7 +10888,7 @@ PRODUCTS = [
             "Rubber overmould grips with oily hands and eases hard turns",
             "Hanging hole keeps the driver where it is put",
         ],
-        "related": ["magnetic-screwdriver-set", "insulated-screwdriver-set-5pc", "security-triangle-screwdriver-set"],
+        "related": ["magnetic-screwdriver-set", "insulated-screwdriver-set-5pc", "through-tang-impact-screwdriver-set"],
     },
     {
         "slug": "21v-brushless-drill-kit-10mm",
@@ -10914,7 +10914,7 @@ PRODUCTS = [
             "10 mm keyless chuck takes round shank and hex accessories",
             "Moulded case holds bits, sockets and a flexible shaft driver",
         ],
-        "related": ["brushless-cordless-drill", "12v-cordless-drill", "brushless-impact-drill-kit"],
+        "related": ["brushless-cordless-drill", "cordless-drill-13mm-two-battery", "brushless-impact-drill-kit"],
     },
     {
         "slug": "cordless-drill-13mm-two-battery",
@@ -10994,7 +10994,7 @@ PRODUCTS = [
             "Reverse lever backs the mandrel out without spinning the insert",
             "Ships with air tool oil and ten spare mandrels",
         ],
-        "related": ["pneumatic-rivet-gun", "air-impact-wrench", "multi-purpose-air-staple-gun"],
+        "related": ["pneumatic-rivet-gun", "pneumatic-rivet-nut-gun", "multi-purpose-air-staple-gun"],
     },
     {
         "slug": "3-inch-stainless-butt-hinge-2pcs",
@@ -11077,7 +11077,7 @@ PRODUCTS = [
             "Surface fixing means an apartment or hotel door is secured without lifting the leaf or cutting a pocket",
             "One set covers entrance, hotel and apartment doors, so a contractor orders a single reference for a whole block",
         ],
-        "related": ["304-stainless-long-shackle-padlock", "interior-door-handle-lock-set", "stainless-square-surface-slide-bolt"],
+        "related": ["304-stainless-long-shackle-padlock", "stainless-door-viewer", "stainless-square-surface-slide-bolt"],
     },
     {
         "slug": "manual-tile-cutter-300-400mm",
@@ -11214,7 +11214,7 @@ PRODUCTS = [
             "550 W body runs on standard site power, so grout raking and edge trimming stay in-house instead of going to a specialist",
             "Diamond pads and cut-off wheels in the case cover grout raking, edge trimming and polishing, so a bathroom refit needs one tool instead of three",
         ],
-        "related": ["dust-free-tile-cutting-machine", "handheld-marble-cutter-125mm", "cordless-polisher-12v-125mm"],
+        "related": ["cordless-tile-vibrator-1221b", "handheld-marble-cutter-125mm", "cordless-polisher-12v-125mm"],
     },
     {
         "slug": "pneumatic-turbine-vibrator-gt10",
@@ -11401,7 +11401,7 @@ PRODUCTS = [
             "S2 hardened edge and forged body hold up to repeat batch work",
             "Size dial and 230 mm length suit counter and on-site repairs",
         ],
-        "related": ["heavy-duty-utility-knife", "stainless-feeler-gauge-set", "20pc-bi-metal-hole-saw-set"],
+        "related": ["steel-number-punch-set-5mm", "stainless-feeler-gauge-set", "20pc-bi-metal-hole-saw-set"],
     },
     {
         "slug": "portable-inverter-mma-welder",
@@ -11559,7 +11559,7 @@ PRODUCTS = [
             "Single-hole fixing retrofits existing cabinets without new drilling",
             "52 x 51 mm face suits drawer fronts, wardrobe doors and vanity units",
         ],
-        "related": ["antique-bronze-pumpkin-knob", "gold-mushroom-aluminum-knob", "crystal-glass-diamond-knob"],
+        "related": ["antique-bronze-pumpkin-knob", "gold-mushroom-aluminum-knob", "gold-zinc-alloy-cabinet-pull-96mm"],
     },
     {
         "slug": "self-adhesive-black-cabinet-pull",
@@ -11613,7 +11613,7 @@ PRODUCTS = [
             "Die-cast zinc body keeps the pull rigid under daily use",
             "The 29 mm projection leaves room for a full grip behind the bar on a flush door face",
         ],
-        "related": ["gold-long-aluminum-cabinet-pull", "matte-silver-aluminum-arched-pull", "gold-mushroom-aluminum-knob"],
+        "related": ["brass-half-moon-cabinet-pull-128mm", "new-chinese-style-single-hole-pull", "recessed-steel-cabinet-pull"],
     },
     {
         "slug": "9-inch-ratchet-self-locking-pliers",
@@ -11850,7 +11850,7 @@ PRODUCTS = [
             "Screw-on fitting retrofits existing timber gates",
             "Black coated spring steel for outdoor use",
         ],
-        "related": ["self-closing-spring-hinge", "hidden-self-closing-spring-hinge", "stainless-flag-weld-hinge"],
+        "related": ["self-closing-spring-hinge", "hidden-self-closing-spring-hinge", "heavy-duty-gate-t-hinge"],
     },
     {
         "slug": "casement-window-espagnolette-handle",
@@ -11904,7 +11904,7 @@ PRODUCTS = [
             "Moulded case protects the scale between jobs",
             "At about 7.7 kg the body loads the joint evenly, so a high-torque pull stays square on a truck wheel nut",
         ],
-        "related": ["adjustable-torque-wrench-1-4-inch", "980nm-high-torque-impact-wrench-kit", "3-4-inch-air-impact-wrench-1900nm"],
+        "related": ["adjustable-torque-wrench-1-4-inch", "980nm-high-torque-impact-wrench-kit", "1-4-inch-preset-torque-wrench-3-33nm"],
     },
     {
         "slug": "1-4-inch-preset-torque-wrench-3-33nm",
@@ -11930,7 +11930,7 @@ PRODUCTS = [
             "Dual N.m and kgf.m scale with locking collar",
             "Blow-moulded case keeps the setting protected",
         ],
-        "related": ["adjustable-torque-wrench-1-4-inch", "mini-bolt-cutter-8inch", "1-4-inch-air-ratchet-wrench"],
+        "related": ["adjustable-torque-wrench-1-4-inch", "3-4-inch-heavy-duty-torque-wrench-1000nm", "1-4-inch-air-ratchet-wrench"],
     },
     {
         "slug": "yqk-70-manual-hydraulic-crimper",

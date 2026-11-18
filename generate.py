@@ -523,7 +523,7 @@ def product_page(p):
 <p class="pd-desc">{p['desc']}</p>
 </div>
 </div>
-<section class="related alt"><div class="wrap"><div class="sec-head"><div><h2>More from this range</h2><p>Related {cat_name.lower()} lines buyers often order together.</p></div><a class="view" href="/category-{p['cat']}.html">View all {cat_name} &rarr;</a></div><div class="grid">{rel}</div></div></section>
+<section class="related alt"><div class="wrap"><div class="sec-head"><div><h2>You May Also Like</h2><p>Related {cat_name.lower()} lines buyers often order together.</p></div><a class="view" href="/category-{p['cat']}.html">View all {cat_name} &rarr;</a></div><div class="grid">{rel}</div></div></section>
 {footer(p['name'], p['slug'])}
 </html>"""
     return html
