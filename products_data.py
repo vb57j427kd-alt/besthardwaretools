@@ -4,6 +4,7 @@
 SITE = {
     "brand": "Best Hardware Tools",
     "short": "BHT",
+    "company": "Zaozhuang China Best Technology Co., Ltd.",
     "domain": "besthardwaretools.com",
     "tagline": "One-Stop Hardware & Tools Supplier for Global Buyers",
     "whatsapp": "8618669693290",

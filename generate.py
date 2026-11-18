@@ -18,7 +18,7 @@ YEAR = datetime.now().year
 WA_NUM = SITE["whatsapp"]
 WA_HREF = "https://wa.me/" + WA_NUM
 WA_SHOW = "+86 186 6969 3290"
-LEGAL = SITE["bank_beneficiary"]
+LEGAL = SITE["company"]
 LOCATION = "Linyi, Shandong, China"
 REPLY_PROMISE = "Every inquiry is answered within 24 working hours"
 
