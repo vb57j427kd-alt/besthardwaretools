@@ -12,7 +12,7 @@ SITE = {
     "formspree": "xeeynyba",
     "ga4": "G-5J9VBPKTB4",
     "clarity": "xtrv7vr8dn",
-    "bank_beneficiary": "Linyi Strawberry International Trade Co., Ltd",
+    "bank_beneficiary": "Zaozhuang China Best Technology Co., Ltd.",
     "bank_account": "63003927994",
     "bank_swift": "CHASHKHH / CHASHKHHXXX",
     "bank_note": "USD Payments: Recommend using US J.P. Morgan (CHASUS33) as transit bank to reduce forex risk. This account cannot receive payments from Russia and Belarus.",
