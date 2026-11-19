@@ -319,6 +319,10 @@ def index_html():
         # Day 16 (slot 1): certificate lifecycle - the document file a customs broker or retail
         # compliance team reads is only useful while it is valid, so expiry is tracked per line.
         feat_extra.append(("Certificate Renewal Tracking", "Every CE, ISO and test report backing a line is logged with its issue and expiry date, and the current version is filed against your shipment before the container is booked - so a broker or retail compliance team never receives a document that has quietly lapsed."))
+        # Day 19 (slot 1): buffer stock and call-off - repeat demand does not always justify a
+        # second full container, so the balance of a production run can stay at the partner
+        # factory and be released in smaller shipments against the buyer's own schedule.
+        feat_extra.append(("Buffer Stock & Call-Off Replenishment", "When a production run covers more than the first shipment, the balance is held against your account at the partner factory rather than being invoiced up front, and called off in smaller lots as your stock turns - so a promotion, a new account or a fast-moving SKU is refilled without committing to another 40HQ. Held stock is counted and photographed at each call-off, packed to the same specification and carton marks as the original order, and released with its own invoice and shipping documents."))
     if slot == 1 and feat_extra:
         take = 3 * min(2, len(feat_extra) // 3)
         start = day % len(feat_extra)
