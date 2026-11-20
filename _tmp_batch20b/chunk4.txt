@@ -1,0 +1,470 @@
+BATCH: day 20, slice 1/4 (products_data.py index 0-97)
+count=24
+
+### 1
+slug: industrial-water-pump-pliers
+name: Industrial Water Pump Pliers (10-Inch, 7-Position Adjustable)
+cat: hand-tools | moq: MOQ 1 pc | price: $1.16 - $1.74 /pc
+specs: Material=Forged Steel; Length=10 Inch; Adjustment=7-Position Slide; Grip=Anti-Slip Dipped Handle; Application=Pipes, Nuts, Fittings, Irregular Parts; MOQ=1 pc
+desc: Industrial water pump pliers with a 7-position slide adjustment and extra-wide jaw opening for gripping pipes, nuts, fittings and irregular parts in plumbing, HVAC and general maintenance work. The multi-position joint shifts quickly between jaw openings without losing grip, and the angled jaw profile provides strong leverage with less hand force. Forged steel construction delivers lasting strength, while the anti-slip dipped handle keeps control comfortable even with oily hands. The wide-opening design replaces several fixed-size wrenches on the job, cutting tool-box weight for plumbers, maintenance crews and field technicians. The precision-machined teeth bite firmly on round and hexagonal workpieces, reducing slip and edge damage on soft fittings. A dependable addition for hardware retailers, tool distributors and importers who supply professional plumbing and repair trades, with factory-direct pricing and bulk packaging for volume orders. Retailers can hang these pliers on a pegboard hook beside fittings, tape and sealant so a shopper who came in for a dripping joint picks up the tool on impulse, while the slim dipped handle keeps the carded profile narrow enough for tight shelf runs. A familiar trade shape at a low unit price also makes it an easy add-on at the checkout counter. Water utility crews working on buried mains can adjust and re-tighten fittings at the trench edge, so a repair is completed before the pit is backfilled and the crew avoids a second excavation on the same stretch. A plier for a plumber on an old fitting, where the sliding jaw grips a rounded nut that a fixed spanner would slip off.
+points:
+  1. 7-position slide adjusts jaw width instantly
+  2. Extra-wide jaw opens for large pipes & fittings
+  3. Forged steel with anti-slip dipped handle
+  4. Replaces several fixed-size wrenches
+  5. Angled jaw profile gives strong leverage with less effort
+  6. Gripping teeth bite firmly on round pipes and hex nuts with less slip
+  7. Seven-position adjustment and wide jaws help plumbers and maintenance teams cover varied fittings without carrying multiple pipe wrenches
+  8. Suits radiator, drainage and irrigation work where fitting sizes change from joint to joint
+  9. At this price a pair can be issued to each fitter rather than shared between a gang, so nobody waits for the tool to come back from another site
+  10. Importers can use the pliers as a line filler in mixed hand-tool cartons, keeping freight full without a large commitment to one item
+  11. Wide jaws that bite on a round pipe mean a seized fitting can be broken loose without marking the surface
+  12. A rounded nut or a cast boss is held across the jaw faces rather than on two flats, which is where a fixed spanner of the nominal size loses its grip
+
+### 2
+slug: stainless-multi-purpose-wire-stripper
+name: Stainless Steel Multi-Function Wire Stripper / Cutter
+cat: hand-tools | moq: MOQ 1 pc | price: $0.61 - $0.91 /pc
+specs: Material=Stainless Steel; Function=Strip / Cut / Split / Twist; Type=Multi-Function Manual Stripper; Design=Compact Folding; Application=Electric Wire, Cable Work; MOQ=1 pc
+desc: Multi-function wire stripper made from stainless steel for electricians, technicians and DIY users who need one tool for stripping, cutting, splitting and twisting wire. The precision-ground cutting edges strip insulation cleanly without nicking the copper conductor, while the built-in cutter handles solid and stranded cable up to common residential and light industrial sizes. The integrated crimping and twisting functions reduce tool changes during repetitive wiring work, and the compact folding design stores safely in a pocket or pouch. The corrosion-resistant stainless head keeps the jaws sharp and rust-free in humid work environments. Ideal for panel wiring, appliance repair, lighting installation and general electrical maintenance, this stripper replaces several single-purpose tools on the bench. A practical SKU for tool importers and hardware distributors supplying electrical wholesalers, contractors and hardware stores, with factory-direct supply and OEM branding available on volume orders. Distributors can keep a shallow safety stock because the folding tool is compact to store and quick to count at stocktake, so reorder points are simple to set and smaller branches can carry a card or two without tying up shelf space. Since one line covers stripping, cutting, splitting and twisting, replenishment planners can fill several electrical hand-tool slots from a single code instead of forecasting each function separately. Electrical wholesalers can place the stripper beside the cable reels at the trade counter, so a contractor buying cable can pick up a spare for the van without adding a separate line to the order. A stripper an electrician keeps in a pocket, where the folding body cuts and strips without a second tool on the belt.
+points:
+  1. Precision edges strip without nicking conductors
+  2. Strips, cuts, splits & twists in one tool
+  3. Rust-resistant stainless steel head
+  4. Compact folding design for pocket storage
+  5. Ideal for panel wiring, appliance repair and lighting work
+  6. Cuts solid and stranded cable for residential and light industrial wiring
+  7. Multi-function folding design helps electricians complete panel, appliance and lighting work with fewer tool changes at the bench
+  8. Fits a shirt or pouch pocket so it travels to every service call, unlike benchtop strippers
+  9. Solar and lighting installers can strip and cut at the array or in the ceiling void where no bench is available
+  10. One folding stripper covers stripping, cutting, splitting and twisting, so an electrical contractor can specify the same tool for every operative on a job
+  11. Stripping without nicking the conductor keeps a joint sound first time, so a termination does not need remaking after testing
+
+### 3
+slug: mini-cordless-screwdriver-set
+name: Mini Cordless Screwdriver Set (Gun Type, with Bits)
+cat: power-tools | moq: MOQ 1 set | price: $2.13 - $3.19 /set
+specs: Type=Gun-Type Cordless Screwdriver; Power=Rechargeable Li-ion Battery; Chuck=Quick-Change Hex; Kit Includes=Bits + USB Charging Cable; Application=Furniture, Appliances, Household Repair; MOQ=1 set
+desc: Compact household cordless screwdriver set combining a lightweight gun-type driver with a kit of popular screwdriver bits for everyday fastening jobs around the home. The rechargeable lithium battery delivers reliable torque for furniture assembly, curtain rods, light fixtures, toys, appliances and small repairs, while the variable-speed trigger gives gentle control for delicate materials. The quick-change chuck accepts standard bits, and the included bit assortment covers Phillips, slotted and other common profiles used in household and hobby projects. The compact body fits comfortably in the hand and stores easily in a drawer, toolbox or glove box. The set ships with a USB charging cable and a selection of bits, ready to use out of the box. A practical first power tool for new homeowners, tenants and DIY users, and an affordable impulse item for hardware retailers, e-commerce sellers and importers building home-tool ranges. A trade counter can keep a charged demo unit on the bench and invite walk-in buyers to drive a screw into a scrap of timber, turning an unfamiliar gun-type driver into an easy add-on sale at the till. Showing the bit change and the USB top-up in person answers the two questions trade buyers ask most before they commit, and the compact carton stacks neatly beside the register. Importers can build mixed cartons of household tools around this set, so a first container covers a full DIY shelf without committing to separate shipments for each item. A driver for assembling flat-pack furniture at home, where the gun body reaches a screw the hand cannot turn easily.
+points:
+  1. Rechargeable - no cord or spare batteries
+  2. Quick-change chuck accepts standard bits
+  3. Variable-speed trigger protects delicate materials
+  4. Compact body stores in drawer or glove box
+  5. USB charging cable included for easy recharging
+  6. Everyday home kit - furniture, curtain rods, fixtures, toys and small repairs
+  7. USB charging lets buyers top it up from a phone charger or power bank, with no dedicated dock to misplace
+  8. Flat-pack assembly services can drive a whole unit by hand with a tool light enough to use overhead and inside carcasses
+  9. Maintenance staff can leave one driver in each building for hinge, socket and fixture jobs instead of walking back to the van for a screwdriver
+  10. A driver small enough to hold overhead frees the other hand to steady a bracket during a ceiling fix
+  11. The bit selection covers the Phillips and slotted sizes used on hinges, socket plates and flat-pack fittings, so one driver stands in for the two screwdrivers most often reached for indoors
+
+### 4
+slug: cordless-mini-rotary-tool
+name: Cordless Mini Rotary Tool with Engraving & Polishing Kit
+cat: power-tools | moq: MOQ 1 set | price: $3.94 - $5.92 /set
+specs: Power=Cordless Li-ion; Speed=Variable Speed Control; Collet=Quick-Change Standard Bits; Accessories=Engraving, Grinding, Polishing Kit; Application=Engraving, Polishing, Cutting; MOQ=1 set
+desc: Cordless mini rotary tool for engraving, polishing, cutting and light grinding on wood, metal, jade, stone, plastics and jewelry. The compact pen-style body with variable-speed control provides precise handling for detail work, while the quick-change collet accepts standard rotary bits, grinding stones, felt polishers and cutting discs. Battery-powered operation removes cord restrictions, letting users move freely around a workbench or job site. Ideal for DIY makers, model builders, engravers, jewelers, crafters and repair technicians who need a lightweight, portable tool for fine finishing and detail removal. The kit includes a set of assorted mounted bits, grinding wheels, polishing accessories and a charging cable, so users can start working immediately. A versatile, low-cost entry product for e-commerce sellers and tool importers building hobby and DIY ranges, with factory-direct pricing and bulk packaging for volume orders. A tool crib can issue this rotary set against a signed tag and check the accessory count back in at the end of each shift, so missing stones or wheels are traced before the set goes out again. Because the whole kit travels in one small case, store room staff reconcile sets quickly during a shift change and keep a shared pool complete instead of losing loose pieces. Engraving and trophy shops can keep one set at the counter for personalising gifts, while the workshop set stays on the bench, so walk-in work does not interrupt a production run. A tool for a model maker or an engraver, where the cordless body works on a piece held in the other hand.
+points:
+  1. Cordless pen-style body - works anywhere
+  2. Variable speed for precise detail work
+  3. Kit includes bits, wheels & polishing accessories
+  4. Lightweight for hobby & craft finishing
+  5. Quick-change collet accepts standard rotary bits
+  6. Engraves, polishes, cuts and grinds on wood, metal, jade and stone
+  7. Pen-style grip gives precise handling for jewelry, model and detail work
+  8. Cordless body reaches awkward workpieces where a bench motor tool cannot be mounted
+  9. Because the kit uses standard rotary shanks, worn points and polishing wheels can be topped up from any accessory box rather than a proprietary size
+  10. A pen-style body lets a jeweller work under a bench lamp with the piece held, rather than against a fixed spindle
+  11. Charging runs off a USB cable, so the set can be topped up from a bench supply or a power bank when the work is away from a mains socket
+
+### 5
+slug: handheld-electric-rotary-tool
+name: Handheld Electric Rotary Tool for Engraving, Cutting & Polishing
+cat: power-tools | moq: MOQ 1 set | price: $1.01 - $1.52 /set
+specs: Power=AC Electric; Speed=Variable Speed Dial; Collet=3.2 mm Standard; Application=Engraving, Grinding, Polishing, Drilling; Accessories=Assorted Mounted Bits Included; MOQ=1 set
+desc: Handheld electric rotary tool for engraving, grinding, polishing, drilling and cutting across wood, metal, plastic and soft stone. The compact body with variable-speed control fits comfortably in the hand for precise detail work, while the 3.2 mm collet accepts standard rotary bits, grinding stones, sanding bands and felt polishers. The multi-functional tool suits engravers, model makers, DIY enthusiasts, jewelers, craftsmen and repair technicians working on small parts and tight details. Changing accessories takes seconds with the included wrench, and the speed dial lets users match RPM to the material and task, from delicate carving to fast cutting. The kit ships with an assortment of mounted bits and accessories to cover common jobs out of the box. A popular entry-level power tool for hobbyists and a strong add-on SKU for hardware retailers, e-commerce sellers and importers building power-tool ranges for home and craft markets. A showroom can mount the tool on a sample board beside engraved wood, polished metal and cut plastic coupons so buyers see the finish each accessory produces before they place an order. Since accessories change in seconds, staff can swap the bit on the board during a walk-through and let the visitor test the grip and the speed dial first hand. Craft and model workshops can keep one tool per bench, so several people work at once without queueing for a single bench motor. A tool for a workshop bench doing fine grinding and drilling, where the mains supply keeps speed steady under a load.
+points:
+  1. One tool for engraving, grinding & polishing
+  2. Variable speed matches material & task
+  3. 3.2 mm collet accepts standard rotary bits
+  4. Kit includes mounted bits & accessories
+  5. Speed dial matches RPM to material and task
+  6. Accessory changes in seconds with the included wrench
+  7. Covers detail work on wood, metal, plastic and soft stone at home or in the shop
+  8. Mains power holds speed under load, so cutting and grinding stay consistent on tougher materials
+  9. It makes a straightforward first rotary tool for an apprentice, covering engraving, grinding and polishing without committing to a larger bench motor setup
+  10. A corded body that holds speed under load means a burr cuts cleanly on hard material instead of slowing and smearing
+  11. Drilling sits on the same tool as grinding and polishing, so a model maker can open a pilot hole and dress the edge without changing machines
+
+### 6
+slug: 1-4-inch-air-ratchet-wrench
+name: 1/4-Inch Air Ratchet Wrench (Industrial Straight Type)
+cat: pneumatic-tools | moq: MOQ 1 pc | price: $8.45 - $12.68 /pc
+specs: Drive=1/4 Inch Square; Type=Straight In-Line Ratchet; Power=Air Powered; Torque=High-Torque Air Motor; Application=Auto Repair, Confined Spaces; MOQ=1 pc
+desc: Industrial air ratchet wrench with a 1/4-inch square drive in a straight in-line body, designed for fastening and loosening bolts in confined spaces where a standard wrench cannot swing. The high-torque air motor delivers rapid ratcheting action, and the compact head reaches transmission bolts, under-dash fasteners, brackets and engine components with ease. The direction switch lets operators flip between tighten and loosen instantly, while the comfortable grip keeps control steady during repetitive work. Powered by standard shop air, this ratchet has no batteries to charge and stays cool during continuous use, cutting downtime in busy workshops. Ideal for auto repair shops, motorcycle workshops, marine mechanics and maintenance crews, it replaces manual ratchets for high-volume fastening jobs. A practical addition to professional tool lines for distributors and importers supplying garages and repair trades. Field mechanics can keep a ratchet in the van as cover for jobs where a battery tool has run flat or no inverter is on board, and the in-line body still reaches fasteners that a socket handle cannot turn in a roadside bay. Carrying a spare in each service vehicle means a callout is rarely abandoned over one worn tool, and the air fitting matches the compressor already fitted to the van. Importers can offer the ratchet as a low-cost first item in an air-tool range, so a garage trying shop air starts with one tool and expands the line as work grows. A ratchet for a mechanic working under a dash, where the in-line body fits a space a socket and bar cannot.
+points:
+  1. Compact head reaches tight engine bays
+  2. Instant direction switch - tighten or loosen
+  3. Runs on standard shop air compressors
+  4. No batteries - cool continuous operation
+  5. Reaches transmission bolts, under-dash fasteners and brackets
+  6. Built for auto shops, motorcycle workshops and marine mechanics
+  7. Replaces manual ratchets on high-volume fastening - less wrist effort per shift
+  8. Shops that already run air lines get continuous fastening without battery swaps between vehicles
+  9. Marine and plant fitters can work under decks and inside frames where a battery tool will not fit past the housing
+  10. Tool cribs can hold one ratchet for every service bay, so a written-off unit is swapped at the store window instead of leaving a technician without a fastening tool
+  11. A straight body that slips past a housing lets a technician reach a bolt that a pistol tool cannot get behind
+  12. The 1/4-inch square drive takes the same sockets as a 1/4-inch hand ratchet, so an existing socket set runs on air without a second range being bought
+
+### 7
+slug: 90-degree-air-ratchet-wrench
+name: 90-Degree Air Ratchet Wrench (Compact, 1/4-Inch Drive)
+cat: pneumatic-tools | moq: MOQ 1 pc | price: $8.45 - $12.68 /pc
+specs: Drive=1/4 Inch Square; Type=90-Degree Compact Ratchet; Power=Air Powered; Torque=High-Torque; Application=Engine Bays, Suspensions, HVAC; MOQ=1 pc
+desc: Compact 90-degree air ratchet wrench with a 1/4-inch square drive for fastening work in tight engine bays, suspensions, dashboards and machinery compartments. The angled head delivers high torque at awkward angles where straight tools cannot fit, and the slim profile slips between components with minimal clearance. The variable-speed trigger provides precise control for delicate fastening, while the built-in direction switch makes tightening and loosening quick. Air-powered operation works with standard compressors, providing continuous torque without battery charging or overheating, ideal for professional workshops running long service hours. The hardened drive gear withstands repeated impact loads, and the ergonomic body keeps operator comfort during extended use. Perfect for auto service, motorcycle repair, HVAC installation and general machinery maintenance, this ratchet is a versatile addition for tool distributors and importers building pneumatic tool ranges. Air ratchets sit alongside impact wrenches in the 2026 air tool line-ups, and buyers weighing them usually settle the choice on head size and body weight, because the compact right-angle head is what decides whether a dashboard or suspension bolt is reached in place or the job falls back to a hand ratchet. Goods-in teams can book this ratchet against the receiving note as a line that is checked, tagged and put away with the rest of the delivery, so stock records stay honest and a short shipment is caught on the dock rather than on the job. Because no charge cycle is needed, an inspector can test the trigger and the direction switch at the bench the moment the carton is opened, which turns acceptance into a quick pass or fail decision. A ratchet for a suspension or HVAC job, where the right-angle head reaches a bolt the straight tool cannot approach.
+points:
+  1. 90-degree head reaches awkward angles
+  2. Slim profile fits minimal clearances
+  3. Variable-speed trigger for delicate work
+  4. Hardened drive gear for repeated impact loads
+  5. Fits engine bays, suspensions and dashboards with minimal clearance
+  6. Ergonomic body keeps operators comfortable during extended use
+  7. Built-in direction switch flips tighten and loosen instantly
+  8. A natural second pneumatic tool alongside an impact wrench for dashboard, trim and under-dash work
+  9. Bus and plant fitters can run long rows of bolts in confined bays without the hand fatigue that builds up on a manual ratchet
+  10. A sealed head and a standard air fitting mean one spare unit and a small service kit cover a whole bay, cutting the days a tool spends waiting on parts
+  11. A slim head that turns inside a tight gap saves dismantling a dashboard to reach one fastener
+
+### 8
+slug: 1-2-inch-air-ratchet-wrench-set
+name: 1/2-Inch Heavy-Duty Air Ratchet Wrench Set
+cat: pneumatic-tools | moq: MOQ 1 set | price: $8.79 - $13.18 /set
+specs: Drive=1/2 Inch Square; Type=Heavy-Duty Air Ratchet; Kit Includes=Sockets + Extensions + Case; Power=Air Powered; Application=Trucks, Buses, Construction Equipment; MOQ=1 set
+desc: Heavy-duty air ratchet wrench set with a 1/2-inch square drive, delivering high torque for truck, bus, agricultural and construction equipment fastening. The reinforced housing and hardened ratchet mechanism withstand continuous high-load use, while the multi-position head reaches deep fasteners on frames, suspension and heavy machinery. The set includes sockets, extensions and a carrying case, covering common fastening sizes out of the box. Directional control switches between tightening and loosening instantly, and the ergonomic grip keeps control during long service sessions. Running on standard shop air, the ratchet provides dependable power without battery dependency, making it a reliable choice for fleet maintenance, workshops and field service teams. A complete, ready-to-sell kit for tool importers and distributors supplying commercial vehicle repair and industrial maintenance markets, with factory-direct pricing and bulk packaging available. Estimators quoting several buildings or sites can list this set once and repeat it across each phase, so a complete kit of sockets, extensions and case is priced consistently instead of being rebuilt line by line for every block. Holding the same specification across buildings also simplifies tool-room planning, since one spare set covers whichever site needs it next. A set for a truck or plant mechanic, where the sockets and extensions cover the fasteners on a heavy chassis.
+points:
+  1. High torque for heavy vehicle fastening
+  2. Multi-position head reaches deep fasteners
+  3. Complete set with sockets, extensions & case
+  4. Reinforced housing for continuous high-load use
+  5. Ready-to-sell set with sockets, extensions and case
+  6. Reliable choice for fleet maintenance, workshops and field service teams
+  7. No battery dependency - continuous shop-air torque for long service sessions
+  8. Built for truck, bus and construction-equipment service where fasteners are heavily torqued
+  9. Packed as a complete cased set, it can be signed out to a mobile fitter as a single item, so nothing is left behind at the end of a job
+  10. A reinforced housing stands up to a full shift of heavy fastening, so a bay is not idle waiting on a replacement tool
+  11. Directional control flicks with a thumb, so a fastener is run out and back in without the operator letting go of the head
+  12. The 1/2-inch square drive takes the impact sockets a shop already owns, so the set plugs into existing tooling instead of needing a new socket range
+
+### 9
+slug: cabinet-gas-strut
+name: Cabinet Gas Strut Support (Hydraulic Lift Rod)
+cat: hardware | moq: MOQ 10 pcs | price: $0.36 - $0.55 /pc
+specs: Type=Hydraulic Gas Spring / Lift Support; Force=200N Class; Finish=Galvanized Steel; Application=Flip-Up Cabinet & Wardrobe Doors; MOQ=10 pcs
+desc: Hydraulic gas strut lift support that holds flip-up cabinet doors, wardrobe lids and storage boxes open at a chosen height and lowers them gently under controlled damping. The sealed gas spring keeps consistent push force across temperature changes, while the galvanized body and rod resist corrosion in humid kitchens and bathrooms. Two end fittings with ball studs let installers clip the strut into place without special tools, and the adjustable force options match light and heavy door weights. For cabinet makers, kitchen fitters and furniture brands, this strut upgrades standard cabinets with hands-free opening and steady positioning. The compact 200N-class rod suits wall and base units, and OEM lengths and finishes can be matched to existing production lines. Factory-direct supply supports bulk packaging and private-label branding for hardware distributors and kitchen suppliers worldwide. On a production line the fitting crew can note which force option was used on each cabinet batch, so the incoming shift sets the same strut without re-checking finished units by feel. Clip-in ball stud fittings let a part-built run be handed over mid-batch and completed by the next crew, with no special tooling to pass along either. A strut for a flip-up cabinet door, where the gas charge holds the lid open while both hands are inside the cupboard.
+points:
+  1. Holds flip-up doors open at any chosen height
+  2. Controlled damping prevents slamming
+  3. Clip-in ball stud fittings - no special tools needed
+  4. Galvanized body resists humidity and corrosion
+  5. Matches light and heavy door weights with force options
+  6. OEM lengths and finishes can match existing production lines
+  7. 200N-class lift keeps heavy flip-up doors up steadily without sagging
+  8. Suits overhead kitchen wall units and wardrobe top boxes where the lid must stay raised for access
+  9. A spare strut carried on the fitting van means a mis-picked force rating can be corrected on site without a second trip back to the workshop
+  10. A damped strut lets a wall unit lid close under control, so a heavy overhead door does not drop on the person loading it
+  11. Force options are chosen at order, so one strut line covers a light wall unit and a heavier wardrobe box without a second fitment
+  12. The gas charge does the lifting, so a heavy overhead lid is opened with one hand while the other reaches inside the cupboard
+
+### 10
+slug: foldable-shelf-bracket
+name: Stainless Steel Foldable Shelf Bracket (Wall-Mount)
+cat: hardware | moq: MOQ 1 pc | price: $1.05 - $1.60 /pc
+specs: Material=Stainless Steel; Type=Foldable Triangle Bracket; Mounting=Wall-Mount / Screw-In; Application=Shelves, Worktops, Display Boards; MOQ=1 pc
+desc: Stainless steel foldable shelf bracket that mounts flat against the wall and swings down to support shelves, worktops and display boards when needed. The triangle brace locks rigidly in the open position for stable loading, then folds flat for compact storage or temporary setups. Thickened steel construction with a brushed finish carries heavy loads without flexing, and pre-drilled holes match standard shelf pins and screws. Ideal for kitchens, workshops, garages and retail displays where shelves must be installed and removed quickly. For contractors and furniture suppliers, this bracket solves narrow-space shelving problems without permanent framing, and the corrosion-resistant surface suits damp environments. Factory-direct supply offers mixed-size orders and bulk packaging for hardware distributors and storefitting companies building wall-storage ranges. Facilities teams running a planned maintenance calendar can keep a small buffer of brackets on hand and swap out tired units during routine service rounds, so wall displays stay safe without unplanned joinery work while the building is in use. A bracket for a workshop or a market stall, where the shelf folds flat against the wall when the space is needed.
+points:
+  1. Folds flat when not in use - saves wall space
+  2. Locks rigid in open position for stable loading
+  3. Thickened steel carries heavy loads without flexing
+  4. Corrosion-resistant for kitchens and damp spaces
+  5. Quick install and removal for temporary setups
+  6. Solves narrow-space shelving without permanent framing
+  7. Serves kitchens, workshops, garages and retail displays with one adjustable setup
+  8. Temporary pop-up stands and market displays can fold flat for transport and open where space is tight
+  9. Vans and site cabins can carry folding shelves that stow flat during transit and open on arrival
+  10. Supplied as a plain pair, the brackets can be bundled with shelves or display boards into one retail pack without repackaging them first
+  11. Pre-drilled holes line up with standard shelf pins, so an existing board can be re-hung without drilling it again
+  12. Mounted as a pair, the brackets turn any board into a fold-down prep or work surface in a kiosk, garage or tight kitchen
+
+### 11
+slug: stainless-door-viewer
+name: Stainless Steel Door Viewer Peephole (Wide-Angle)
+cat: hardware | moq: MOQ 2 pcs | price: $0.66 - $0.99 /pc
+specs: Material=Stainless Steel / Zinc Alloy; Viewing Angle=Wide-Angle Lens; Door Thickness=35-65 mm Adjustable; Application=Entry Doors, Hotel Doors; MOQ=2 pcs
+desc: Stainless steel door viewer that gives residents a clear wide-angle view of the hallway before opening the entry door. The optical lens system delivers a bright, undistorted image with a broad field of view, while the metal body and threaded barrel fit standard 35-65mm door thicknesses. The anti-peep cover blocks outside visibility from the opposite side, protecting privacy at home and in hotels. Pre-drilled mounting makes installation a two-minute job with no special tools. Ideal for apartments, houses, rental units and hotel guest doors, this peephole upgrades basic entry doors with an affordable security feature. For hardware distributors and hotel suppliers, the universal fitting range covers most door types and the durable metal construction stands up to daily use. Factory-direct pricing supports bulk orders and mixed finish options. Training coordinators can also build a small teaching kit from sample units so apprentices and new maintenance hires practise barrel alignment and fitting on scrap door blanks before touching live guest or tenant doors. A viewer for an entry or a hotel door, where the wide lens shows a visitor before the door is opened.
+points:
+  1. Clear wide-angle view of the hallway
+  2. Anti-peep cover blocks outside visibility
+  3. Fits standard 35-65mm door thicknesses
+  4. Two-minute installation, no special tools
+  5. Metal construction for daily use durability
+  6. Upgrades entry doors in homes, hotels and rental units
+  7. Bright wide-angle optics let residents identify callers before opening
+  8. The adjustable barrel spans most entry door thicknesses, letting hotels standardise one model across a site
+  9. Landlords can add a security check to entry doors without replacing the door or cutting a larger hole than the standard barrel
+  10. Keeping a few spares on site means a scratched lens or a missing cover can be swapped the same day rather than ordering a whole new door fitting
+  11. A two-minute fit lets a maintenance round add a viewer to a batch of doors in one visit instead of booking a joiner for each flat
+  12. A checked view of the corridor before the door is opened supports the security routine hotels, hostels and letting agents document for guests
+
+### 12
+slug: heavy-duty-utility-knife
+name: Heavy Duty Stainless Utility Knife (18mm Blades)
+cat: hand-tools | moq: MOQ 1 pc | price: $0.09 - $0.13 /pc
+specs: Material=Stainless Steel; Blade Width=18 mm; Type=Heavy-Duty Snap-Off; Application=Boxes, Wallpaper, Drywall; MOQ=1 pc
+desc: Heavy duty utility knife built from full stainless steel with a thick 18mm blade channel for demanding cutting jobs. The rigid all-metal body handles box cutting, wallpaper stripping, drywall scoring and heavy packing without flexing, while the snap-off blade system exposes fresh cutting edges in seconds. The slip-resistant grip keeps control during long cutting sessions, and the sturdy locking mechanism holds the blade firmly at multiple depth settings. For warehouse teams, builders, decorators and workshop users, this knife replaces flimsy plastic cutters with a tool that survives daily abuse. The stainless body resists rust from adhesives and moisture, keeping the knife working in humid environments. Factory-direct pricing and mixed-case packing make it an easy add-on item for tool distributors building hand-tool ranges. After-sales handling also stays simple because the wearing parts are limited to blades, screws and the slider, so a small spares tray settles most warranty claims without returning complete knives or scrapping usable handles. Cutting crews also use it on site protection boards, taped joints and pallet wrap when breaking down deliveries, and a snap-off blade means the same knife handles carton, plasterboard and carpet without a second tool in the pouch. A knife for a site where boxes and board are cut all day, where the snap-off blade is renewed without a sharpening stone.
+points:
+  1. Full stainless body - no flex under pressure
+  2. Snap-off blade exposes fresh edges in seconds
+  3. Slip-resistant grip for long cutting sessions
+  4. Multiple depth settings with firm lock
+  5. Rust-resistant for adhesive and moisture work
+  6. Survives daily abuse from warehouse, builder and decorator work
+  7. Handles box cutting, wallpaper stripping and drywall scoring without flexing
+  8. Snap-off 18 mm blade keeps a fresh edge for carton and drywall work without resharpening
+  9. At this price a warehouse or fit-out team can issue one knife per operative, which makes blade discipline and tool accountability much easier to run
+  10. Blade depth is set on the slider and held by the lock, so a cut through one carton layer does not score the goods inside
+  11. A stainless body wipes clean after adhesive or damp work, so the blade slider keeps moving freely between decorating tasks
+  12. The 18 mm blade channel takes the standard snap-off blade size, so replacement blades come out of the same site stock rather than a tool-specific pack
+
+### 13
+slug: mini-bolt-cutter-8inch
+name: 8" Mini Bolt Cutter (Eagle-Beak, Rebar & Cable)
+cat: hand-tools | moq: MOQ 1 pc | price: $1.11 - $1.65 /pc
+specs: Length=8 Inch; Material=High-Carbon Steel; Type=Eagle-Beak Mini Cutter; Cutting=Cable, Wire, Rebar Ties; MOQ=1 pc
+desc: Compact 8-inch mini bolt cutter with eagle-beak jaws engineered for cutting cable, wire, rebar ties and thin steel rod. The hardened cutting edges deliver clean, square cuts with less effort than standard pliers, and the long handles provide extra leverage for tough materials. The compact size fits in tool bags and reaches confined work areas where full-size bolt cutters cannot swing. Ideal for electricians, construction crews, scaffolders and maintenance teams who need a portable cutter for everyday wire and rebar work. The heat-treated steel jaws stay sharp through repeated use, and the ergonomic grips protect hands during repetitive cutting. For tool distributors, this is a fast-moving low-cost line that pairs naturally with existing pliers and cutters in hand-tool ranges. Factory-direct pricing supports volume orders and private-label branding. Electricians and scaffolders also keep the compact cutter on the tool belt for tie wire, cable and rebar ties, where a full-size bolt cutter is too heavy to carry up ladders. For catalogue and export listing work, the tool photographs well as a standalone item and its clear cutting application is easy to describe across marketplace listings and printed distributor catalogues, helping buyers position it in a cutter category rather than as a spare. Fencing and railing installers use it to cut tie wire and light chain on site, and heating engineers use it on threaded rod and copper tails where a full-size cutter will not open inside the void, so one small tool covers the trimming that would otherwise need a hand saw. A cutter for a rebar tie or a padlock, where the eagle beak reaches into a tight loop a full-size cutter cannot.
+points:
+  1. Eagle-beak jaws cut cable, wire and rebar ties
+  2. Hardened edges deliver clean, square cuts
+  3. Long handles add leverage for tough materials
+  4. Compact size fits tool bags and tight spots
+  5. Heat-treated jaws stay sharp through heavy use
+  6. Fast-moving low-cost line that pairs with pliers and cutters
+  7. Cuts rebar ties and thin steel rod where full-size cutters cannot swing
+  8. One-hand size lets electricians cut cable and ties up a ladder while holding the reel
+  9. With no consumable blade to replace, a cutter can be costed once per van or per toolbox and run for years without ongoing spend
+  10. Rebar ties can be trimmed tight at the jaw before a pour, so no cut end is left standing to catch a glove or a formwork panel on site
+
+### 14
+slug: quick-adjust-pipe-wrench
+name: Industrial Quick-Adjust Pipe Wrench (Fast-Set)
+cat: hand-tools | moq: MOQ 1 pc | price: $0.83 - $1.25 /pc
+specs: Type=Quick-Adjust Pipe Wrench; Material=Drop-Forged Steel; Grip=Anti-Slip Handle; Application=Pipes, Fittings, Water Lines; MOQ=1 pc
+desc: Industrial pipe wrench with a quick-adjust mechanism that grips and releases pipes, fittings and nuts in one motion - no endless handle spinning. The drop-forged steel head and hardened jaw teeth bite firmly on round and flat surfaces, while the fast-set thumb wheel locks the jaw instantly at the exact size. The anti-slip grip handle provides comfortable leverage for tightening and loosening water lines, gas fittings and machinery pipes. Built for plumbers, maintenance crews, HVAC technicians and agricultural equipment service, this wrench speeds up repeated pipe work where conventional wrenches slow crews down. The durable construction handles heavy torque without jaw slip, and the corrosion-resistant finish survives workshop and job-site conditions. A practical line item for distributors supplying plumbing and industrial maintenance trades, with factory-direct pricing and mixed-size packing available. At trade shows and buyer meetings, handing the wrench to a visitor with a length of sample pipe shows the jaw set difference in moments and needs no setup on the stand, which helps sales teams turn a passing enquiry into a trial order. Irrigation and sprinkler contractors use the fast-set jaw on poly fittings and galvanised nipples in the same trench run, and because the jaw opens without unscrewing a knurl, the wrench moves between sizes with one hand while the other holds the pipe. A wrench for a plumber moving between fittings, where the jaw is set with one hand instead of turning a knurl.
+points:
+  1. One-motion grip - no endless handle spinning
+  2. Hardened jaw teeth bite firmly without slipping
+  3. Anti-slip grip for comfortable leverage
+  4. Speeds up repeated pipe and fitting work
+  5. Drop-forged steel for heavy torque loads
+  6. Built for plumbers, HVAC technicians and agricultural crews
+  7. Fast-set thumb wheel locks the jaw instantly at the exact pipe size
+  8. A practical addition to plumbing and HVAC service vans where pipe sizes change from job to job
+  9. Gas and water fitting teams can keep one wrench on the belt for the mixed pipe and fitting sizes met during a single installation
+  10. A new starter can learn the quick-set jaw on one wrench instead of memorising a range of fixed sizes, which speeds up their first weeks on site
+  11. The drop-forged head takes a second hand or a length of pipe on the handle for a seized union, where a cast spanner of the same size would spread its jaw
+
+### 15
+slug: cordless-reciprocating-saw
+name: Cordless Reciprocating Saw (LED, Wood Cutting)
+cat: power-tools | moq: MOQ 1 kit | price: $11.30 - $16.90 /kit
+specs: Power=Cordless Li-ion; Feature=Built-in LED Light; Application=Wood, Pruning, Demolition; Kit Includes=Saw + Battery + Charger; MOQ=1 kit
+desc: Cordless reciprocating saw that cuts wood, prunes branches and handles demolition work anywhere, without dragging a power cord across the job site. The powerful motor drives the blade with a fast sawing stroke, while the adjustable shoe supports the blade for controlled plunge cuts. A built-in LED work light brightens the cutting line in dim attics, under decks and outdoor evening work. The tool-free blade change accepts standard reciprocating saw blades in seconds, and the ergonomic grip with front handle keeps two-handed control stable. Ideal for landscapers, builders, DIY renovators and emergency response crews who need a portable saw that goes where the work is. The battery platform powers additional tools, letting buyers expand a cordless system from one kit. Factory-direct supply supports OEM branding and bulk export packaging for power-tool distributors. Warehouse teams can also hold the kit as one bin-ready unit with a printed shelf location, so pickers pull saw, battery and charger together and put stock back in the right place after each order. Green wood, roots and buried pipe all come within reach of the blade, so landscapers use it to cut out a shrub or a stump without a chainsaw, and plumbers use a short blade to cut copper or plastic in a wall cavity where a hand saw will not fit.
+points:
+  1. Cordless - cut anywhere without dragging a cord
+  2. LED light brightens the cut line in dark areas
+  3. Tool-free blade change in seconds
+  4. Adjustable shoe for controlled plunge cuts
+  5. Expands into a full cordless tool platform
+  6. Cuts wood, prunes branches and powers through demolition work
+  7. Front handle and two-hand grip keep cuts stable during demolition work
+  8. Landscapers and renovation crews can cut where there is no power, from attic joists to garden branches
+  9. Demolition and strip-out crews can cut pipe, timber and fixings free before a skip is loaded, sorting material on site
+  10. Kit form makes it easy to issue a saw, battery and charger to a subcontractor for a strip-out phase and take it all back in one piece
+  11. A short blade reaches pipe and timber inside a wall cavity, so a plumber or strip-out crew cuts in place instead of opening the wall further
+  12. Wood, metal and demolition blades all fit the same clamp, so one saw body covers a strip-out and a pruning job without a second tool
+
+### 16
+slug: magnetic-cob-work-light
+name: Magnetic COB Work Light (USB Rechargeable)
+cat: power-tools | moq: MOQ 1 pc | price: $2.80 - $4.20 /pc
+specs: Light Source=COB LED; Power=USB Rechargeable; Mounting=Magnetic + Hook; Application=Auto Repair, Workshop; MOQ=1 pc
+desc: Magnetic COB work light that sticks to any steel surface, clips onto a hook or stands on its base to light up engine bays, panels and dark corners. The bright COB LED panel floods a wide area with even, shadow-reduced light, while the swivel head angles the beam exactly where it is needed. The built-in USB rechargeable battery runs for hours per charge and tops up from any phone charger, power bank or vehicle port. Compact and impact-resistant, it survives drops in workshops and job sites. Ideal for mechanics, electricians, HVAC technicians and home users who need hands-free lighting in tight spaces. The strong magnet and folding hook keep the light in place while both hands work. For distributors, this is a high-demand accessory that cross-sells with cordless tools and repair kits. Factory-direct pricing supports bulk orders and private-label options. When pricing work, contractors can carry the light as a repeatable line item costed per technician or per service van, so a hands-free lighting allowance is quoted once and reused across every future bid. Electricians also hang it inside a consumer unit or a ceiling void on the hook, and breakdown crews leave it clipped under a bonnet as an engine bay light, which frees a hand for the spanner instead of holding a torch.
+points:
+  1. Strong magnet and hook - hands-free lighting
+  2. Wide COB panel with even, shadow-reduced light
+  3. USB rechargeable - charge from any USB port
+  4. Swivel head angles light exactly where needed
+  5. Impact-resistant body for workshop drops
+  6. Cross-sells with cordless tools and repair kits
+  7. Runs for hours per charge - tops up from power banks or vehicle USB ports
+  8. Magnetic base frees both hands when working inside panels or under vehicles
+  9. Holding a spare light per van means a flat battery at the end of a shift never leaves a technician working one-handed in the dark
+  10. Hook and swivel head together let the light hang above a panel and aim down at the terminals, leaving both hands free
+  11. One lamp per van covers under-bonnet work, panel inspection and ceiling voids, so a crew buys fewer single-purpose lights
+  12. The magnetic base grips a steel conduit, a hoist leg or a machine frame as readily as a vehicle body, so temporary task lighting goes up without a stand or clamp
+
+### 17
+slug: 90-degree-air-die-grinder
+name: 90-Degree Air Die Grinder (Angle Head)
+cat: pneumatic-tools | moq: MOQ 1 pc | price: $10.50 - $15.80 /pc
+specs: Head=90-Degree Angle; Power=Air Powered; Application=Grinding, Deburring, Polishing; Collet=Standard Die Grinder Collet; MOQ=1 pc
+desc: 90-degree angle-head air die grinder that reaches ports, pockets and tight corners where straight grinders cannot fit. The angled head delivers high-speed rotary power for grinding, deburring, porting and polishing on metal, aluminum and composite surfaces. The precision collet holds mounted stones, carbide burrs and sanding discs securely at high RPM, while the variable-speed throttle gives control for fine finishing work. Air-powered operation provides continuous power without battery drain, and the compact body keeps the tool light in the hand during extended use. Ideal for auto shops, fabrication workshops, mold and die makers and aviation maintenance crews. The hardened gears and sealed bearings stand up to daily shop use, and the ergonomic body reduces operator fatigue. A valuable addition to pneumatic tool lines for distributors supplying metalworking and repair industries. Mold and die makers rely on the angled head for porting and cavity blending that straight grinders cannot square up to, keeping hand-finishing time low on complex parts. Rental desks and shared tool stores also benefit, since there is no battery to charge, pair or lose between hires, letting one grinder be issued, returned and re-issued the same day after a quick inspection. The angle head reaches into cylinder ports, weld roots and casting flash that a straight grinder cannot approach, so engine builders and mould repairers use it for the last pass inside a cavity before assembly.
+points:
+  1. 90-degree head reaches ports and tight corners
+  2. High-speed rotary power for grinding and deburring
+  3. Precision collet holds burrs and stones securely
+  4. Air powered - continuous power without batteries
+  5. Compact, light body reduces operator fatigue
+  6. Hardened gears and sealed bearings for daily shop use
+  7. Variable-speed throttle gives precise control for porting and fine finishing
+  8. Air drive runs cool and spark-free near fuel lines and freshly painted surfaces
+  9. One angle grinder per fabrication bay keeps porting and deburring work flowing without staff queuing for a shared tool
+  10. The collet takes mounted stones, carbide burrs and sanding discs, so blending and polishing are finished with the one head
+  11. The 90-degree head keeps the operator's knuckles clear of the work, so a casting or weld root can be deburred with the tool held in a natural grip
+  12. Weld dressing and casting clean-up run through the same head, so a fabrication bench can deburr a weld root and polish the surrounding face without a changeover
+
+### 18
+slug: pneumatic-air-chisel-150mm
+name: Pneumatic Air Chisel 150mm (Impact Hammer)
+cat: pneumatic-tools | moq: MOQ 10 pcs | price: $5.50 - $8.20 /pc
+specs: Chisel Length=150 mm; Power=Air Powered; Application=Rivets, Welds, Rust Removal; Shank=Standard Hex Shank; MOQ=10 pcs
+desc: Pneumatic air chisel with a 150mm chisel barrel that delivers rapid impact strokes for cutting rivets, chipping welds, removing rust and breaking seized fasteners. The high-frequency hammer action powered by standard shop air makes short work of tasks that tire out manual hammers, and the spring-loaded retainer holds standard hex-shank chisels firmly in place. The trigger-controlled power lets operators scale impact from light chipping to heavy removal, while the rubber grip reduces vibration fatigue. Ideal for auto body shops, fabrication yards, ship repair and demolition crews who need a compact, powerful chisel for everyday metal work. The tool runs on any standard compressor and has no batteries or cords to maintain. A reliable, fast-moving line for pneumatic tool distributors supplying workshops, garages and industrial maintenance teams, with factory-direct pricing and chisel accessory bundles available. Ahead of seasonal peaks, garages can stage the tool and a spare set of chisels in advance so bolted and welded assemblies are cleared quickly in the busiest weeks without waiting on consumable deliveries or hired equipment. Workshops call this tool an air hammer as often as an air chisel, and both names describe the same 150mm barrel and hex-shank chisel mount. Bus and plant fitters also use the hammer to drive out a seized kingpin or suspension bolt on the same air line that runs their impact wrench, so no second power source is needed at the bay. Because it works on shop air rather than a battery, the tool stays available across a double shift and needs no charging slot in the tool crib.
+points:
+  1. High-frequency impact cuts rivets and chips welds
+  2. Spring-loaded retainer holds hex chisels firmly
+  3. Trigger-controlled power from light to heavy
+  4. Rubber grip reduces vibration fatigue
+  5. Runs on any standard shop air compressor
+  6. For auto body, fabrication, ship repair and demolition crews
+  7. Breaks seized fasteners and chips welds without manual hammer fatigue
+  8. Long stripping and demolition sessions stay productive on shop air without battery changes
+  9. Exhaust and suspension work benefits from a controlled impact that shifts corroded fasteners without heat
+  10. Issued as a set with its own chisels, the tool can be signed out to a fitter in one go, so chisels stay with the hammer instead of going missing between jobs
+  11. Panel shops use it to shear a spot weld and lift a skin without distorting the surrounding metal
+  12. The 150 mm barrel reaches into a wheel arch or behind a door skin, while the rubber grip keeps the hand off the vibrating body
+
+### 19
+slug: folding-table-leaf-hinge-90
+name: 90° Self-Locking Folding Table Leaf Hinge (Black Antique Bronze)
+cat: hardware | moq: MOQ 1 pc | price: $0.40 - $0.60 /pc
+specs: Material=Steel, Antique Bronze Plated; Angle=90° Open, Self-Locking; Fold Range=180° Folding; Style=Invisible / Concealed Mount; Application=Drop-Leaf Table, Folding Leg, Workbench; MOQ=1 pc
+desc: Sturdy 90-degree folding hinge with an integrated self-lock, designed for drop-leaf tables, folding legs, flip-up workbenches and knockdown furniture. The steel body locks firmly in the open position so tabletops and legs stay stable under load, then releases cleanly for flat folding and compact storage. Ideal for coffee tables, dining tables, craft desks, exhibition booths and space-saving home furniture. The antique bronze plated finish resists corrosion while matching warm-toned wood and metal furniture. Sold with mounting screws and a 180-degree folding range that suits most hinge layouts. A practical hardware line for furniture factories, distributors and e-commerce sellers supplying foldable and space-saving furniture, with dependable lock retention after repeated cycles. Each hinge is pre-drilled for fast assembly on production lines, keeping build times short for bulk furniture orders. For export planning, buyers can size carton quantities around a fixed pallet outline and consolidate these hinges with other hardware lines on the same mixed pallet, so container volume is used fully and fewer cartons are shipped part-empty. Boat and campervan fitters use the same hinge for drop-leaf tables and fold-away worktops, where a self-locking leaf has to stay flat without a leg or a brace underneath.
+points:
+  1. Self-locking latch keeps table leaves firm under load
+  2. Folds flat for compact storage and shipping
+  3. Antique bronze finish resists rust and wear
+  4. Pre-drilled holes for fast production assembly
+  5. Fits drop-leaf tables, folding legs and booths
+  6. Includes mounting screws with a 180-degree folding range
+  7. Antique bronze plating coordinates with warm-toned wood and metal furniture lines
+  8. Suits exhibition booths and space-saving furniture that must fold flat for transport between venues
+  9. Cafe and restaurant fitters can add a folding extension to a fixed table, changing covers per service without a second table
+  10. A spare pair on the fitting van lets a mis-drilled hinge be corrected during a cafe fit-out without holding up the opening date
+  11. Bronze plating matches antique and black hardware sets, so a furniture line keeps one finish across hinges, knobs and pulls
+  12. A self-locking leaf holds a table or workbench extension flat without a folding leg underneath, so a small workshop can double its bench for an assembly run
+
+### 20
+slug: square-black-aluminum-cabinet-handle
+name: Square Black Aluminum Cabinet Handle / Drawer Pull (96mm)
+cat: hardware | moq: MOQ 1 pc | price: $0.23 - $0.35 /pc
+specs: Material=Aluminum Alloy; Finish=Matte Black Anodized; Hole Spacing=96 mm; Style=Square / Modern Minimalist; Application=Cabinet, Drawer, Wardrobe; MOQ=1 pc
+desc: Modern square-profile cabinet handle machined from solid aluminum with a matte black finish. The clean geometric silhouette brings an architectural, contemporary look to kitchen cabinets, wardrobes, drawers and office furniture. Fixed 96mm hole spacing matches standard panels, and each handle ships with the matching screws. The anodized surface resists fingerprints, scratches and daily wear, keeping a uniform look across entire cabinet runs. A strong cross-border bestseller, this pull suits renovation projects, furniture manufacturers and hardware distributors building modern ranges. Its sharp-edged square bar profile also pairs well with 2026 minimalist interiors, giving doors and drawers a defined, design-led grip. Quick two-screw mounting keeps installation fast for production lines and DIY fit-outs alike, and consistent anodizing across batches keeps color matching simple for large projects. For fitting subcontractors, handles can be quoted as a straightforward per-door line and any damaged pulls replaced during the snagging visit, so the client signs off the kitchen or wardrobe handover without a return trip to site. Aluminium keeps the pull light on a wide pan drawer front, which matters where a heavier handle would load the runner and pull it out of alignment over a few years of use. Against white, cream or pale oak door fronts the matte black bar reads as a deliberate contrast rather than a decorative flourish, which is the dark-on-light pairing current kitchen hardware trend reports keep recommending: a black handle sharpens the line of the door without the cabinetry itself being changed.
+points:
+  1. Solid aluminum square profile - modern look
+  2. Matte black anodized finish resists scratches
+  3. 96mm spacing fits standard cabinet panels
+  4. Mounting screws included
+  5. Popular cross-border modern hardware design
+  6. Fingerprint-resistant anodizing keeps a uniform look across cabinet runs
+  7. Quick two-screw mounting suits production lines and DIY fit-outs alike
+  8. 96 mm spacing suits drawer fronts and small cabinet doors in compact kitchens
+  9. Being a plain black anodised pull, it sits alongside matching handles and knobs, so a designer can specify one finish across kitchen and wardrobe fronts
+  10. A single pull can be ordered on its own as a sample for a door mock-up, so the square profile is approved on the real cabinet front before a bulk run is placed
+
+### 21
+slug: ratcheting-combination-wrench-10mm
+name: 10mm Ratcheting Combination Wrench (CR-V, 72-Tooth)
+cat: hand-tools | moq: MOQ 1 pc | price: $0.60 - $0.95 /pc
+specs: Size=10 mm; Material=Chrome Vanadium Steel; Mechanism=72-Tooth Ratcheting Box End; Swing=5° per Click; Finish=Polished Mirror; MOQ=1 pc
+desc: Professional 10mm combination wrench combining an open-end head with a 72-tooth ratcheting box-end head. The fine 5-degree swing angle lets you turn fasteners in tight engine bays, machinery and furniture without repositioning the wrench. Forged from chrome vanadium steel with a polished mirror finish, it delivers reliable strength for daily automotive, industrial and assembly work. The compact 10mm size covers the most common fasteners on bikes, appliances, electronics racks and light machinery. Each wrench carries clear size markings for quick selection on the bench or in the tool bag. A dependable addition to mechanics tool sets and a popular spare unit for distributors, workshops and hardware retailers. The ratcheting mechanism is fully serviceable, and the hardened teeth hold their engagement even under repeated high-torque use in daily repair work. In store, the compact wrench sits comfortably on a clip strip or a till-side counter jar, so a quick browse turns into an impulse pick-up next to screws, fixings and other small parts. Bicycle mechanics, HVAC technicians and appliance engineers all meet the same small fasteners, so a single 10 mm ratchet in a pocket covers the terminal nuts, valve caps and bracket bolts that turn up on a service round.
+points:
+  1. 72-tooth ratchet swings just 5° - works in tight spaces
+  2. Open-end and ratcheting box-end in one wrench
+  3. Chrome vanadium steel for lasting strength
+  4. Clear size marking on both ends
+  5. Ideal spare for automotive and workshop sets
+  6. Covers common fasteners on bikes, appliances and light machinery
+  7. Hardened ratchet teeth keep their engagement under repeated high-torque use
+  8. Mirror-polished finish wipes clean and resists corrosion in a van tool roll
+  9. It makes a sensible first buy for someone building a wrench roll size by size, and the clear markings make the next size easy to add later
+  10. Sold as a single size, it lets a distributor build an open-stock range from 8 mm upward, so a buyer tops up a roll one size at a time
+  11. Five degrees per click is enough to turn a nut that only shows one corner, such as a valve body tucked behind a pipe run, without lifting the wrench off the fastener
+
+### 22
+slug: 9-inch-chrome-vanadium-combination-pliers
+name: 9-Inch Multi-Function Combination Pliers (210mm, CR-V)
+cat: hand-tools | moq: MOQ 1 pc | price: $1.35 - $2.05 /pc
+specs: Total Length=210 mm (9 inch); Material=Chrome Vanadium Steel; Functions=Cutting, Gripping, Stripping, Crimping; Wire Stripping=AWG 14/12/10/8; Handle=Comfort Anti-Slip Grip; MOQ=1 pc
+desc: Heavy-duty 9-inch multi-function combination pliers that cut, grip, strip and crimp in one tool. The chrome vanadium forged head carries hardened cutting edges for steel wire and soft cable, a wire stripper for AWG 14-8 conductors, and a crimper for insulated terminals. The 210mm total length delivers comfortable leverage for daily electrical, plumbing and general workshop tasks, while the slip-resistant handle provides a secure grip even with oily hands. Ideal for electricians, technicians, DIY users and maintenance crews who want one dependable plier on the belt. The drop-forged body keeps the jaws aligned under repeated heavy use, and the rust-resistant finish stays clean in humid conditions. A core fast-moving SKU for hardware wholesalers and tool distributors building complete hand-tool ranges. Steady demand across electrical and plumbing accounts also makes the plier easy to forecast, so buyers can fix a reorder point once and let restocking run on a predictable cycle instead of reacting to shortages. Site electricians use the crimping station for ferrules and bootlace ends during panel wiring, and the serrated grip pulls a stuck gland nut, so the plier stays in hand for a whole first-fix run.
+points:
+  1. Cuts, grips, strips and crimps in one tool
+  2. Hardened CR-V forged head stays aligned
+  3. AWG 14-8 stripping holes for electricians
+  4. 210mm length gives strong leverage
+  5. Anti-slip handle for oily workshop hands
+  6. One dependable belt tool for electrical, plumbing and workshop tasks
+  7. Rust-resistant finish stays dependable in humid workshop conditions
+  8. Useful spare in electrical and plumbing vans where one tool has to cover several trades
+  9. Appliance engineers can grip, cut and crimp on one call-out instead of carrying three separate pliers
+  10. Standardising on one nine-inch plier across a maintenance contract means spares, belt sets and operator training all follow the same part
+  11. 210 mm handles give the leverage to crack a seized gland nut or a rusted union without reaching for a second tool
+  12. The stripping holes take 14, 12, 10 and 8 AWG, which covers the conductor gauges on most domestic and light-commercial circuits, so one plier cuts, strips and crimps the same cable end
+
+### 23
+slug: 6-inch-drop-forged-combination-pliers
+name: 6-Inch Combination Pliers (160mm, Drop-Forged CR-V)
+cat: hand-tools | moq: MOQ 1 pc | price: $0.48 - $0.75 /pc
+specs: Total Length=160 mm (6 inch); Material=Chrome Vanadium Steel; Cutting Edge=Induction Hardened; Handle=Blue-Gray Anti-Slip Grip; Application=Gripping, Cutting, Light Crimping; MOQ=1 pc
+desc: Compact 6-inch combination pliers drop-forged from chrome vanadium steel with induction-hardened cutting edges. The 160mm body is short enough for tool bags and electrical workboxes yet strong enough for daily gripping, cutting and light crimping on wire, nails and cable ties. Double-colored blue-gray handles provide a comfortable, slip-resistant grip, and the precisely aligned jaws keep a firm hold on round and flat stock. The polished head carries the CR-V material marking for grade assurance. A practical choice for electricians, mechanics, hobbyists and technicians who need a versatile second pair of pliers for confined spaces. Frequently sold in multi-piece sets or as a cost-effective spare, it is a reliable volume line for tool importers and hardware distributors serving trade and retail customers. At the trade counter, staff can hand a pair to walk-in buyers so they feel the jaw alignment and handle grip for themselves, which helps close a multi-pair order on the spot without a special-order wait. Appliance repairers use the short jaws to pull spade terminals and release plastic clips inside a dryer or dishwasher cabinet, where a full-length plier would foul the drum housing.
+points:
+  1. 160mm compact body fits tight work areas
+  2. Drop-forged CR-V with hardened cutting edges
+  3. Comfortable dual-color non-slip handles
+  4. Reliable jaw alignment for firm gripping
+  5. Great spare or set companion for tool bags
+  6. Daily gripping, cutting and light crimping on wire, nails and cable ties
+  7. Precisely aligned jaws hold round and flat stock firmly
+  8. A spare-friendly price point makes it practical to keep one pair in every electrician's tool bag
+  9. Instrument and control technicians can work on small terminals and cable ties inside enclosures where a full-size plier will not fit
+  10. It is a practical first plier for an apprentice tool kit, small enough for a belt pouch and cheap enough to replace if it goes missing
+  11. Induction-hardened edges hold their bite on cable ties and small nails, so the pair keeps cutting rather than crushing after a busy install week
+  12. Light crimping of bootlace ferrules and terminal sleeves is part of the jaw's intended work, so a small control panel can be terminated without a second crimping tool
+
+### 24
+slug: cordless-brushless-leaf-blower
+name: Mini Cordless Turbo Leaf Blower (18V Brushless, Bare Tool)
+cat: power-tools | moq: MOQ 1 pc | price: $7.30 - $11.00 /pc
+specs: Voltage=18V Lithium; Motor=Brushless; Type=Handheld Turbo Blower; Battery=Bare Tool (Battery Not Included); Use=Leaves, Dust, Snow, Car Drying; MOQ=1 pc
+desc: Compact cordless turbo leaf blower powered by an 18V brushless motor that pushes a strong, focused airflow for clearing leaves, dust, snow and debris from patios, driveways, garages, workshops and vehicles. The lightweight handheld body reduces arm fatigue during longer cleaning sessions, while the brushless motor delivers higher efficiency and longer per-charge runtime than brushed designs. Turbo nozzle concentrates the air for moving wet leaves and stubborn debris, making it a versatile daily tool for home, garden and auto detailing use. Sold as a bare tool to work with your existing 18V lithium platform, cutting upgrade cost for users who already own compatible batteries and chargers. A growing cross-border favorite for 2026, this blower suits garden tool importers and hardware distributors adding cordless outdoor power to their catalogs. For depots that run a tool crib, the compact bare-tool format is easy to log in and out at the store room window, so each shift can account for the blowers it issues and flag missing units before the next crew takes over. Detailing and valeting bays also use it to dry panels and blow water out of mirror housings and grilles after a wash, so the same bare unit serves garden clearance and vehicle prep without another purchase. It is also the direct swap for a gas-powered blower: no fuel to mix, no pull cord, and nothing to service when the season ends.
+points:
+  1. Brushless motor for longer runtime and efficiency
+  2. Turbo airflow clears leaves and debris fast
+  3. Lightweight body reduces fatigue
+  4. Bare tool - pairs with your 18V batteries
+  5. Great for garden, workshop and car care
+  6. Clears leaves, dust, snow and debris from patios, driveways and vehicles
+  7. Handy for workshop dust cleanup and car interior drying between garden jobs
+  8. Bare-tool format lets buyers with 18V packs add a blower without a second charger
+  9. Come autumn a contractor can hand out one bare unit per crew member knowing the 18V packs are already in the vans, adding capacity without buying chargers
+  10. Snow, grit and wet leaves all sit inside its working range, so the same bare unit keeps paths, steps and loading areas clear through winter instead of being packed away after the autumn leaf drop
+

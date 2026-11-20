@@ -1,0 +1,585 @@
+BATCH: day 20, slice 1/4 (products_data.py index 0-97)
+count=25
+
+### 1
+slug: stainless-steel-soft-close-hinge
+name: 304 Stainless Steel Hydraulic Soft-Close Hinge
+cat: hardware | moq: MOQ 1 pc | price: $0.28 - $0.42 /pc
+specs: Material=304 Stainless Steel; Thickness=2.0 mm; Type=Hydraulic Damping / Soft-Close; Opening=Full Overlay (Large Bend); Application=Cabinet, Wardrobe, Kitchen Door; MOQ=1 pc
+desc: Precision-engineered 304 stainless steel hinge with integrated hydraulic damping for silent, soft-close cabinet doors. The 2.0mm thickened body delivers outstanding rigidity and long service life, while the self-closing mechanism protects cabinets from slamming damage. Ideal for kitchen cabinets, wardrobes and commercial furniture, this hinge suits both new builds and retrofits. Factory-direct supply supports custom finishes, bulk packaging and OEM branding for furniture manufacturers and hardware distributors worldwide. Ideal for hotel joinery, apartment fit-outs and cabinet workshops where silent closing is a selling point, this hinge reduces warranty callbacks caused by slamming doors. Kitchens, wardrobes and vanities with heavy doors all benefit from the smooth hydraulic damped action, while the corrosion-resistant 304 grade body holds up in humid coastal climates and high-moisture commercial settings. Soft-close has become the standard buyers expect in 2026 cabinet hardware trends for kitchen and bath fit-outs, and this hinge delivers that quiet, damped closing as a drop-in upgrade for standard cabinets. Handleless kitchens pair this type of concealed hinge with a push latch, so no pull interrupts the door face. Installers appreciate the self-locking clip-on fitting, which speeds up door hanging on volume runs, while custom packaging and OEM branding let distributors build their own soft-close SKU without tooling investment. Distributors can hold a small reserve of soft-close hinges from the same production run as the cabinets they supply, so a warranty replacement door matches the original damping and finish without opening a new order, which keeps repair jobs moving from local stock. A hinged sample door on the trade counter lets buyers feel the damped closing for themselves, which helps counter staff explain the upgrade to walk-in customers and often settles a purchase on the spot. Caravan and motorhome converters can fit the hinge to locker doors, so cupboards stay shut and stay quiet while the vehicle is on the road. A hinge a kitchen fitter can swap onto an existing door without touching the carcass, so a slamming cupboard is fixed in one visit.
+points:
+  1. Silent hydraulic soft-close prevents door slamming
+  2. 2.0mm 304 stainless steel - rust resistant & durable
+  3. Self-locking clip-on design for fast installation
+  4. Factory-direct with OEM & custom packaging support
+  5. Standard 35mm cup fits most cabinet doors - easy retrofit
+  6. 2.0mm thickened body keeps heavy doors rigid without sag over years of use
+  7. Damped closing keeps heavy doors under control - no slamming and no finger traps for kids and pets
+  8. A quiet upgrade for kitchen, wardrobe and hotel joinery projects that helps reduce noise-related callbacks
+  9. Hydraulic soft-close performance gives cabinet brands a practical premium feature to highlight in kitchen and bath programs
+  10. The standard cabinet-hinge format helps furniture buyers upgrade kitchen and wardrobe programs without redesigning the door layout
+  11. Low minimum order and factory-direct supply let distributors trial a soft-close hinge line before committing to container volumes
+  12. Kitchen and wardrobe installers can retrofit soft-close onto existing doors without changing the hinge cup drilling, so an upgrade is quoted as a swap rather than a rebuild
+  13. Consistent damping across a batch means an installer signs off a whole kitchen without adjusting individual doors
+  14. Furniture rental and student-accommodation operators can hold one hinge reference for entire blocks, so a tenant-damaged cabinet door is repaired from stock between tenancies
+  15. Bathroom and en-suite cabinets need this most, since damp air is where ordinary hinges seize and doors start to bang
+
+### 2
+slug: black-aluminum-cabinet-handle
+name: Black Anodized Aluminum Cabinet Handle / Drawer Pull
+cat: hardware | moq: MOQ 1 pc | price: $0.15 - $0.25 /pc
+specs: Material=Aluminum Alloy; Finish=Anodized Black; Hole Spacing=128 mm (more sizes available); Style=Modern Minimalist; Application=Cabinet, Drawer, Wardrobe; MOQ=1 pc
+desc: Modern minimalist cabinet handle machined from solid aluminum with a durable anodized black finish. The clean, slim profile complements contemporary kitchens, wardrobes and office furniture. Available in multiple hole spacings (128mm standard) to match common cabinet panels. Each handle is precision-drilled for accurate alignment and ships with mounting screws. A popular choice for furniture makers, renovation projects and cross-border e-commerce sellers building hardware ranges. Its clean matte black profile aligns with current cabinet hardware trends toward minimal, tactile pulls that anchor modern kitchens, closets and vanities. The matte black bar also anchors the mixed metals look that is carrying through 2026 kitchens, where designers pair dark pulls with warm brass or antique bronze knobs along the same run. Because the same anodized finish holds across every size in the range, a two-tone scheme can be quoted from one hardware order instead of split across suppliers. Whether renovating a single bathroom or fitting out a whole apartment complex, the consistent anodized finish keeps cabinets and drawers visually uniform across large orders. For furniture factories and e-commerce sellers, the slim bar design installs in minutes with the included screws, cutting assembly time on production lines. The fingerprint-resistant matte surface keeps showroom and demo cabinetry looking clean between customer visits, and screws included in the box mean fitters finish a display unit without sourcing extra fasteners. E-commerce sellers can list the handle as one parent product with size variants and keep the carton light for marketplace shipping, so a single listing serves kitchen, wardrobe and office buyers without building separate pages for each panel size. Hardware stores can keep a small open-stock tray of the handle for customers replacing a broken pull, turning a repair errand into a quick counter sale and a reason to return for other cabinet parts. Developers fitting out a block can specify one handle reference across every kitchen and bathroom, so the site store holds one line when snagging lists are worked through at handover. Suits buyers assembling a hardware range for export, because the neutral profile photographs well against oak, white and grey carcasses. Longer, streamlined bar pulls are the shape specifiers keep asking for in 2026 cabinet hardware, and the multiple hole spacings in this range let a buyer scale one pull line from drawer banks to tall pantry doors without changing supplier.
+points:
+  1. Solid aluminum with scratch-resistant anodized finish
+  2. Slim modern profile fits most furniture styles
+  3. Multiple hole spacings for panel flexibility
+  4. Screws included - ready to install
+  5. Matte black finish resists fingerprints & wear
+  6. Uniform anodized color across large orders keeps whole projects looking consistent
+  7. Bar-style pull pairs with soft-close hinges to complete one coordinated modern cabinet hardware set
+  8. Consistent hole spacing and included screws help installers complete repeat cabinet fit-outs with fewer alignment delays
+  9. A coordinated black handle gives furniture makers an easy upgrade path for modern kitchen, wardrobe and office ranges
+  10. Standard hole-spacing options help importers plan matching handle assortments across kitchen, wardrobe and office furniture lines
+  11. Smooth bar edges avoid snagging aprons and clothing in busy kitchen and wardrobe use
+  12. A single finish across sizes means a damaged handle is replaced months later without a visible mismatch
+  13. Landlords refreshing tired rental kitchens can swap dated pulls for the black bar handle in an afternoon, lifting a unit's presentation before a viewing without replacing cabinet fronts
+  14. One screw pack per handle means the fitter is not sorting mixed fixings when a run of drawer fronts goes on in a single session
+
+### 3
+slug: heavy-duty-swivel-caster
+name: Heavy Duty Swivel Caster Wheel with Brake
+cat: hardware | moq: MOQ 1 pc | price: $0.85 - $1.30 /pc
+specs: Wheel Diameter=4 inch (more sizes available); Type=Swivel with Brake; Material=Rubber Wheel + Steel Bracket; Application=Trolley, Platform Cart, Rack; Feature=360° Swivel, Side Brake; MOQ=1 pc
+desc: Rugged swivel caster with integrated brake, built for trolleys, platform carts, racks and industrial equipment. The hardened rubber wheel delivers smooth, quiet rolling on hard floors while the reinforced steel bracket and ball-bearing swivel ensure heavy load capacity and 360-degree maneuverability. The side brake locks the wheel firmly in place for safe stationary work. Available in multiple sizes and load ratings to match your application. Factory-direct pricing for bulk importers and OEM projects. Commonly fitted to workbenches, mobile tool cabinets, warehouse shelving and catering equipment, this caster's side brake gives operators a stable platform during loading and maintenance. It is a dependable upgrade for carts carrying compressors, welders or heavy stock, where smooth rolling and secure parking reduce daily handling effort. Retail and facility teams working on hard floors benefit from the quiet rubber tread, which limits scuffs and noise on service carts, while the side brake holds loaded units steady during cleaning or restocking. Rental and hire fleets can standardise on one brake caster across trolleys, platform carts and racks, so a failed unit is swapped from van stock in minutes and the asset returns to earning the same day. Shop-floor teams can wheel a loaded tool cabinet straight to the machine being serviced, so a job starts without unloading a cart or lifting heavy boxes, cutting the handling that slows maintenance rounds. Cart and trolley importers can ship a small quantity of spare casters with each container, so a wheel damaged in transit is replaced from the buyer's own stock instead of triggering a claim across markets. Kept as a spare in a warehouse, since a failed caster takes a whole trolley out of service until a replacement arrives.
+points:
+  1. Side brake locks wheel for safe stationary use
+  2. Hardened rubber wheel - quiet on hard floors
+  3. Reinforced steel bracket for heavy loads
+  4. Multiple sizes & load ratings available
+  5. Rubber tread protects workshop floors from scuffs
+  6. 360-degree ball-bearing swivel - easy maneuvering in tight workshop aisles
+  7. Load-rated swivel keeps workbenches and tool cabinets mobile for flexible workshop layouts
+  8. Brake-and-swivel control helps warehouse and workshop teams move, position and secure carts with less handling effort
+  9. A brake-equipped caster lets cart and equipment builders offer both mobility and secure positioning in one hardware component
+  10. The swivel-and-brake combination helps warehouse buyers reposition loaded carts and secure them during picking or maintenance work
+  11. 4-inch wheel diameter rolls over workshop thresholds and uneven concrete without stalling
+  12. Trolley builders can standardise on one caster across a range and cut the number of wheel lines they hold
+  13. Shop fitters can fit the brake caster to display counters, so a floor layout is rearranged between promotions and each unit locks down when trading starts
+  14. Mobile benches can be wheeled clear for cleaning beneath, which matters in food preparation and clinical rooms where floors are washed daily
+
+### 4
+slug: 72-tooth-ratchet-wrench-set
+name: 72-Tooth Dual-Drive Rapid Ratchet Wrench
+cat: hand-tools | moq: MOQ 1 pc | price: $1.35 - $2.00 /pc
+specs: Material=Chrome Vanadium Steel (CR-V); Ratchet=72-Tooth / 5° Swing Arc; Type=Dual-Drive Open-End & Box-End; Size=13 mm (full size range available); Finish=Black Nickel Anti-Corrosion; MOQ=1 pc
+desc: High-efficiency dual-drive ratchet wrench combining open-end and box-end functions in one tool. The 72-tooth ratchet mechanism delivers a fine 5-degree swing arc, letting you work in tight spaces without re-positioning. Forged from hardened chrome vanadium steel with a corrosion-resistant black nickel finish and an anti-slip grip, it provides confident torque for automotive, machinery and general maintenance tasks. Available in multiple sizes and as complete sets. Auto repair technicians reach suspension and under-dash bolts faster with the compact dual-drive head, while maintenance teams cover both open-end and box-end jobs without switching tools. For toolbox suppliers and hardware distributors, the corrosion-resistant black nickel finish keeps the wrench shelf-ready, and the full size range lets buyers stock a single reference that serves cars, trucks and plant machinery. Home-appliance and flat-pack furniture installers also find the dual-drive head handy for the mixed fasteners in one delivery, and the compact 13 mm size fits the everyday kits those crews already carry. Training benches and apprenticeship programs can issue one dual-drive wrench per learner, so new starters practise both open-end and box-end technique on the same tool type qualified crews carry on site, which shortens the gap between training and productive work. On boiler and radiator work, engineers meet a mix of slotted valves, union nuts and panel fixings in one visit, and the dual-drive wrench covers those without a second trip to the van for another spanner. Plant hire and utility workshops can keep one wrench on the counter sign-out board for visiting contractors, so an outside fitter does not fetch a spanner from the van for a single fastener. The five degree swing arc is what makes it usable in an engine bay, where the handle has little room to move back and forth. Trade buyers have shifted toward pro-grade chrome-vanadium ratchet sets, and this forged CR-V body with its 72-tooth head sits squarely in that bracket, so a distributor can answer that demand from one existing reference instead of adding a second supplier.
+points:
+  1. 72-tooth ratchet - works in tight spaces
+  2. Dual drive combines open-end & box-end
+  3. Forged CR-V steel with anti-corrosion finish
+  4. Ideal for automotive & machinery maintenance
+  5. Dual-drive design saves time by reducing tool changes
+  6. Black nickel finish keeps wrenches display-ready for retail & export
+  7. One dual-drive tool covers open-end and box-end jobs - fewer wrenches to carry to the job
+  8. Fine ratcheting action helps mechanics reach fasteners in engine bays and machinery spaces without repeated repositioning
+  9. Dual-drive coverage gives automotive and industrial distributors one versatile wrench story for service, repair and maintenance buyers
+  10. The fine ratchet action helps service teams work around restricted fasteners while carrying fewer separate wrench types
+  11. Service vans can stock one dual-drive wrench per technician to trim tool-cart weight without losing open-end or box-end coverage
+  12. Flat-pack furniture and appliance installers get both end styles in one tool, so a single wrench handles the mixed fasteners in one delivery
+  13. Apprentice toolkits can be built around one dual-drive ratchet, keeping a new starter's tool list short
+  14. Tool-hire counters can issue the dual-drive wrench as one line item, cutting the range of spanners a depot keeps on the shelf for weekend trade hire
+  15. A single wrench in the hand means less weight carried up scaffolding and fewer trips back down for the right size
+
+### 5
+slug: magnetic-screwdriver-set
+name: Industrial Magnetic Screwdriver Set (CR-V)
+cat: hand-tools | moq: MOQ 1 pc | price: $0.36 - $0.55 /pc
+specs: Material=Chrome Vanadium Steel (CR-V); Tips=Phillips & Slotted, Magnetic; Length=75 mm shaft (multi sizes); Handle=Ergonomic Anti-Slip Grip; Application=Electrical, Assembly, DIY; MOQ=1 pc
+desc: Professional-grade screwdriver set featuring hardened chrome vanadium steel shafts with strong magnetic tips that hold screws firmly during fastening. Ergonomic handles provide a comfortable, slip-resistant grip for extended working sessions. This set covers Phillips and slotted (flat) heads in multiple sizes, making it a versatile addition for electricians, mechanics, DIY users and assembly lines. Suitable for household repairs, appliance service and industrial maintenance. Electricians rely on the magnetic tips when working inside switch boxes and appliances, while assembly technicians value the multi-size coverage that reduces tip changes during long production runs. A dependable companion for handymen, locksmiths and electronics repair shops that need one set for everyday fastening. The anti-slip grip also helps during the long assembly shifts common on appliance and electronics benches, and multi-size Phillips and slotted tips mean a single set covers the fasteners on a typical maintenance round. Assembly plants can tag one multi-size set per bench and hold a small float in the tool crib, so a missing driver is replaced before a station slows and every shift keeps full Phillips and slotted coverage. Flat-pack assemblers can use the magnetic tips on the cam and hinge screws supplied with a typical unit, so builds finish with fewer loose fastenings and fewer return visits to refit a missed panel. Colleges running electrical courses can buy the set in class quantities and hold a few spares, so every student works with the same magnetic tips they will meet on site. A set for an electrician working inside a distribution board, where a dropped screw would fall behind live parts and the magnetic tip holds it.
+points:
+  1. Strong magnetic tip holds screws securely
+  2. Hardened CR-V steel - wear resistant
+  3. Ergonomic grip for comfortable use
+  4. Multi-size set covers common tasks
+  5. Magnetic tips help retrieve dropped screws in tight spots
+  6. 75mm shafts reach recessed screws inside appliances, panels & switchboards
+  7. Multi-size coverage means fewer trips back to the toolbox on assembly and repair jobs
+  8. Magnetic Phillips and slotted tips help assembly teams start screws cleanly in recessed panels and appliances
+  9. A mixed Phillips and slotted assortment helps maintenance buyers standardize everyday fastening across appliances, panels and fixtures
+  10. Magnetic tips help assembly and repair distributors reduce dropped-screw interruptions in recessed panels and appliance work
+  11. One multi-size set replaces a drawer of single screwdrivers, so a service van or assembly bench stocks fewer tools for the same coverage
+  12. Appliance and HVAC technicians can retrieve screws dropped inside panels and ductwork where fingers and standard drivers cannot reach
+  13. Sold as a boxed set, it gives distributors a straightforward line to place beside power tools
+  14. Tool cribs can hold one set per issue point and reorder by the box, so a busy maintenance store keeps fastening coverage without tracking loose drivers
+  15. Refurbishment and strip-out crews can pull screws from dismantled panels for reuse instead of sweeping them into waste
+
+### 6
+slug: industrial-lineman-pliers
+name: Industrial Grade Lineman Pliers 6" (CR-V Forged)
+cat: hand-tools | moq: MOQ 1 pc | price: $0.90 - $1.35 /pc
+specs: Material=Chrome Vanadium Steel, Drop Forged; Length=6 inch (8/9 inch available); Type=Lineman / Combination Pliers; Functions=Cutting, Gripping, Crimping; Handle=TPR Comfort Grip; MOQ=1 pc
+desc: Heavy-duty lineman pliers drop-forged from chrome vanadium steel with induction-hardened cutting edges that slice through wire, cable and light metal with ease. The multi-function design integrates cutting, gripping, crimping and stripping functions in one tool. A precision-aligned joint ensures smooth, consistent operation, while the TPR comfort grip reduces hand fatigue. A staple for electricians, construction workers and general trades. On residential rewires and commercial fit-outs, the combined jaws let technicians cut, strip and crimp in one pass, reducing the trips back to the tool bag that slow down panel and junction-box work. For maintenance crews servicing machinery and conveyors, the hardened edges stay sharp through daily use on copper, steel wire and light cable, while the TPR grip keeps hands comfortable during long overhead sessions. Contractors standardising hand tools can order the 6 inch size for panel work and step up to the 8 or 9 inch option for heavier cable runs, keeping one familiar plier style across the crew. Electrical contractors can keep the same plier style on every service van and in the workshop, so a technician moving between vehicles picks up a familiar tool with no change to cutting, gripping or crimping technique. A training centre can issue the same plier across a class, so learners build consistent cutting and crimping habits, and a worn pair is replaced from a class spare, which keeps the teaching set complete. Site supervisors can keep a spare pair in the cabin so a mislaid or damaged plier is swapped at the start of a shift, keeping the crew on the same tool for the whole job. A plier a linesman reaches for on overhead work, since the one head grips, twists and cuts without a second tool on the belt.
+points:
+  1. Drop-forged CR-V steel - strong & durable
+  2. Induction-hardened cutting edges
+  3. Multi-function: cut, grip, crimp, strip
+  4. Crimp and strip wire without extra tools
+  5. Comfort grip reduces hand fatigue
+  6. Precision-aligned joint stays true through repeated heavy cuts
+  7. Combined cut, grip, crimp and strip functions replace three separate tools in the bag
+  8. A practical all-in-one choice for electrical fit-outs and maintenance teams that need fewer tool changes at the panel
+  9. Multi-function jaws help electrical and construction buyers equip crews with one compact tool for common wire tasks
+  10. The combined cutting, gripping and crimping functions help contractors reduce tool changes during panel and junction-box work
+  11. 6-inch length fits tight panel and distribution-board work where a full-size plier will not go
+  12. Contractors can standardise on one forged plier across crews instead of mixing sizes and types
+  13. Panel builders can crimp and trim wire ends at the bench, so cabinet harnesses are finished straight to the terminal before the enclosure leaves the shop
+  14. One forged plier on the belt means a junction box is opened, wired and closed without setting a bag down on a finished floor
+
+### 7
+slug: brushless-cordless-drill
+name: 21V Brushless Cordless Drill Kit (2 Batteries + Charger)
+cat: power-tools | moq: MOQ 1 kit | price: $11.00 - $16.00 /kit
+specs: Voltage=21 V Li-ion; Motor=Brushless; Kit Includes=2 Batteries + Charger + Case; Chuck=Keyless; Plug Standard=EU / US (on request); MOQ=1 kit
+desc: Powerful 21V brushless cordless drill driver delivering high efficiency and longer runtime than brushed motors. The variable-speed trigger, keyless chuck and LED work light make drilling and screw-driving fast and accurate in any job site condition. This complete kit includes two lithium batteries, a fast charger and a durable plastic case, ready for export. Excellent for carpenters, electricians, furniture assembly teams and DIY enthusiasts. On assembly lines and renovation sites, the two-battery kit keeps drilling moving while one pack charges, and the keyless chuck makes bit changes quick between pilot holes and screw-driving. For electricians and furniture teams, the variable-speed trigger and LED work light give clean control in cabinets, roof voids and dark corners. For crews building a cordless system, this drill pairs with a compact 21V impact driver on the same battery platform to handle both drilling and fastening across the job. As current cordless power tools trends favor brushless efficiency and longer battery runtime, this cordless drill kit also fits the market shift toward complete battery-platform work systems, giving teams a dependable entry point for moving off corded or brushed tools. Buyers weighing a cordless drill against an impact driver usually find the drill driver is the one that covers pilot holes, hole saws and controlled screw depth, while an impact driver only pulls ahead on long decking and framing screws. Brushless now accounts for the majority of new cordless drill sales as the price gap to brushed models narrows, which makes this kit an easy first step for buyers replacing brushed tools or standardising a crew on one battery platform. Service technicians can keep the drill, charger and spare pack together in the supplied case, so nothing is mislaid between van appointments, and the EU or US plug option lets importers match local sockets on the same model. Battery efficiency is the cordless drill trend buyers keep returning to in 2026, so a brushless model is normally the one specified when several tools have to share the same pack set. Distributors can bundle the drill with a matching bit and driver accessory set as a ready-to-work site kit, so contractors equip a new crew with one order line and one carton rather than separate purchases. For retail programmes built around two-tool combo kits, the same drill can ship paired with the matching 21V impact driver in one carton, so a store shelves a single combo kit SKU instead of competing against its own open-stock lines. Exhibition and shop-fitting crews often work in venues before the power is live, so the drill and a charged pack let a stand or counter go up without waiting for a supply to be connected. Distributors can list the charger and spare pack as separate catalogue items beside the kit, so a customer who drains a battery mid-season is served from the same supplier without a new tool order. Buyers have moved toward compact, lightweight cordless drills for overhead and cabinet-height work, where a shorter, lighter tool is easier to control one-handed, and a two-battery 21V kit covers that handling need while keeping drilling and driving on one tool. With battery chemistry now advancing toward solid-state and higher-density lithium-silicon cells, staying on a single 21V cordless ecosystem keeps future upgrades simple, since new packs remain compatible with the tools and chargers already on the shelf. Suits a workshop buying its first cordless drill, since the case, charger and packs arrive together and nothing else is needed to start.
+points:
+  1. Brushless motor - more power, longer life
+  2. Complete kit: 2 batteries + charger + case
+  3. Fast charging - one pack tops up while the other works
+  4. Variable speed & keyless chuck
+  5. Ready for export with plug options
+  6. LED work light brightens dark corners & cabinets
+  7. Pairs with the 21V impact driver & saws - one battery platform for the whole job
+  8. Brushless efficiency delivers more drilling per charge - fewer mid-job battery swaps
+  9. Twin-battery kit helps carpenters and installers keep a full workday moving across rooms and job sites
+  10. Complete 21V kit packaging gives distributors an approachable cordless starter product for construction, furniture and electrical buyers
+  11. The two-battery kit helps contractors maintain workflow by rotating one pack while the other is charging
+  12. Single-box packing keeps picking and packing simple for e-commerce sellers shipping the kit direct to customers
+  13. Rental and loaner fleets can issue the complete kit and take it back without sorting loose parts
+  14. Facilities maintenance teams replacing corded drills can standardise on this kit, so one pack set covers drilling across several buildings without extension leads
+  15. A drill that charges in its case lets a small crew top up over lunch without a dedicated charging bench
+  16. Compact brushless body fits overhead cabinets and tight stud bays - the format behind cordless dominance in everyday drilling
+
+### 8
+slug: brushless-cordless-angle-grinder
+name: 21V Brushless Cordless Angle Grinder 4.5"
+cat: power-tools | moq: MOQ 1 kit | price: $26.00 - $38.00 /kit
+specs: Voltage=21 V Li-ion; Motor=Brushless; Disc Size=100 mm / 4.5 inch; Battery=Up to 7.5 Ah (kit option); Head=3-Axis Rotating; MOQ=1 kit
+desc: Versatile brushless cordless angle grinder with a rotating head for cutting, grinding, polishing and rust removal in hard-to-reach positions. The 21V brushless motor delivers consistent power with up to 7.5Ah battery capacity for extended working time. Features include tool-free guard adjustment, side handle for control and spindle lock for fast disc changes. Ideal for metalwork, construction, tile work and maintenance crews who need cordless freedom. The rotating head lets operators cut and grind flush against surfaces fixed-head grinders cannot reach, such as door frames, chassis rails and confined ductwork. Maintenance crews switch between grinding disc and polishing pad in seconds using the spindle lock, keeping changeover time to a minimum on the job. Because it shares the 21V battery platform, contractors already running the cordless range can add cutting and grinding coverage without buying into a separate battery system, and the tool-free guard and side handle keep setup quick on site. Contractors can order the grinder together with the cutting and grinding discs they use most, keeping consumable supply lined up with the tool so crews are not left waiting for a replacement wheel before the next metalwork job can start. Plumbing and heating crews can cut pipe and threaded rod on site where a bench vise is unavailable, so a repair in a plant room or service riser is finished during the same visit instead of being left for a return trip. Steel stockholders can cut bar and section to length at the trade counter on battery power, so a customer's order is prepared without walking the stock to a fixed saw. Cordless models increasingly set the standard for site mobility in 2026, because the cutting and grinding work can be finished where the work actually is instead of where the nearest power point happens to be. A brushless angle grinder holds its disc speed when the wheel bites into steel, so a cut runs straight instead of stalling, and the 4.5-inch disc covers most site cutting without making the tool too heavy to control one-handed. A grinder for a fabricator on a scaffold or a roof, where a lead would be a trip hazard and a socket is not within reach.  Trade buyers now rank battery-powered angle grinders among the fastest-selling cordless lines, which is why this model is quoted as a complete kit for the shelf rather than a bare tool the buyer has to assemble from separate battery and accessory lines.
+points:
+  1. Rotating head reaches awkward angles
+  2. Brushless motor with up to 7.5Ah runtime
+  3. Cutting, grinding, polishing & rust removal
+  4. Tool-free guard & spindle lock
+  5. Shares the 21V Li-ion platform across the cordless range
+  6. No extension cords - full cordless freedom for rooftop, duct & field work
+  7. One tool covers cutting, grinding, polishing and rust removal - fewer tools to buy for metal and tile jobs
+  8. Rotating-head access helps maintenance crews finish awkward edge and overhead work without repositioning the workpiece
+  9. Cordless multi-function operation helps field-service buyers cover cutting, grinding and polishing where outlets are unavailable
+  10. The rotating head helps maintenance distributors support awkward-angle metalwork where a fixed grinder is harder to position
+  11. Workshop benches can add a cordless grinder for quick deburring and weld dressing between jobs
+  12. Tile and stone finishers can switch discs for cutting and edge dressing on the same tool, cutting down on the tools carried between rooms
+  13. Fabricators can keep one grinder per bench and give each operator their own battery, cutting waiting time
+  14. Tool hire shops can send the grinder out with one battery and discs, so a weekend DIY customer gets a complete cutting setup in a single hire line
+  15. Weld dressing on a finished frame can be done in place, so a fabricated assembly does not travel back to the bench for one rough edge
+
+### 9
+slug: brushless-impact-wrench
+name: 21V Brushless Cordless Impact Wrench Kit (Model 285)
+cat: power-tools | moq: MOQ 1 kit | price: $15.00 - $22.00 /kit
+specs: Voltage=21 V Li-ion; Motor=Brushless; Drive=1/2 inch Square; Battery=2 × 10-Cell Li-ion; Application=Auto Repair, Scaffolding, Construction; MOQ=1 kit
+desc: High-torque brushless cordless impact wrench purpose-built for automotive repair, scaffolding and construction fastening. The 21V brushless motor delivers rapid-impact torque to remove stubborn lug nuts and bolts, while the compact body fits tight engine bays. This export kit includes two 10-cell batteries and a fast charger. A dependable workhorse for mechanics, tire shops and field service teams. Designed for buyers building a professional cordless impact wrench range, this high-torque model delivers the removal power crews expect without needing an air compressor nearby, and its compact body and balanced grip make it easy to carry between work areas and handle overhead or under-dash fastening for extended periods. For tire shops rotating seasonal wheels and field service teams working roadside, the cordless design removes the need for a compressor and hose, while the included twin-battery kit keeps the wrench running through a full day of lug-nut work. Current cordless impact wrench buying guides emphasize torque, drive size and battery-system fit, and this twin-battery kit gives tire and field service crews a practical combination for repeated fastening work. Cordless dominance is now the defining shift behind those guides: battery runtime and torque have closed most of the gap on pneumatic guns in everyday service work, so a kit like this one leads the bay's tool list rather than the air gun. The 1/2-inch square drive also settles the usual impact wrench vs impact driver question: this model takes sockets for lug nuts, wheel bolts and structural fasteners, while an impact driver runs hex-shank bits for screws. Scaffolding crews tightening couplers and beam clamps can work at height without running an air hose, while agricultural and trailer workshops free seized wheel nuts in the yard using the same 1/2 inch sockets already in the van. Workshops can log each wrench against its battery pair so warranty claims and spares requests are traced to the original kit, which makes after-sales support simpler for tire shops and field service buyers when a pack or charger has to be replaced later. Hire desks covering seasonal wheel and construction demand can issue the cased kit for short-term jobs, checking it back in as one unit so nothing is lost between short hires. Buyers searching for a brushless impact wrench in this class usually compare motor type, drive size and battery count first, and this kit answers all three with a 21V brushless motor, a 1/2 inch drive and two 10-cell packs. Body shops and salvage yards can remove seized suspension and chassis bolts before straightening work begins, so an estimate is prepared from the same inspection visit. On a service call the unit is usually just the cordless wrench in the van, and because the 1/2 inch square drive takes the sockets already carried for lug nuts, scaffolding couplers and chassis bolts, it replaces a separate air gun and hose without an adapter in the case. The shift toward stubby, compact impact wrenches matters most in engine bays and under-dash work, where a short body reaches fasteners a full-length gun cannot, and buyers now weigh body length against torque instead of torque alone. A socket set and this wrench cover most roadside wheel work, which is why fleets tend to buy the pair together.  Automotive buyers now specify torque-documented fastening for traceability, which makes one consistent kit reference easier for a distributor to place across a fleet than a mixed shelf of wrenches.
+points:
+  1. High-torque impact for stubborn fasteners
+  2. Brushless motor - longer runtime & life
+  3. 1/2" drive fits standard sockets
+  4. Export kit with 2 batteries + charger
+  5. Compact body fits tight engine bays & scaffolding joints
+  6. Works without an air compressor - roadside & remote field service ready
+  7. Breaks loose rusted, over-torqued fasteners that hand tools and breaker bars cannot budge
+  8. Cordless operation keeps roadside mechanics and field crews productive where compressor access is limited
+  9. Twin-battery cordless supply gives tire shops and field-service distributors a complete ready-to-work fastening offer
+  10. The compact 1/2-inch drive helps service teams handle wheel and construction fastening without routing an air hose
+  11. Twin 10-cell batteries let a two-person workshop keep one pack charging while the wrench stays in use
+  12. Agricultural and trailer workshops can free seized wheel nuts and linkage bolts in the yard without running an air line to the machine
+  13. One part number for the kit keeps fleet spares lists short when several vehicles run the same tool
+  14. Formwork and steel-fix crews can tighten clamps and bolts on site without a compressor, so a pour is set up without dragging a hose across the deck
+  15. Scaffold and racking erectors can run a full tower of couplers on one pack, without a generator or a hose run up the standards
+
+### 10
+slug: air-impact-wrench
+name: 1/2" Heavy Duty Air-Powered Impact Wrench (Pistol Grip)
+cat: pneumatic-tools | moq: MOQ 1 pc | price: $30.00 - $44.00 /pc
+specs: Drive=1/2 inch; Type=Pistol Grip Impact Wrench; Body=Aluminum Housing; Mechanism=Twin-Hammer; Application=Auto Repair, Tire Service, Industry; MOQ=1 pc
+desc: Industrial-grade pneumatic impact wrench with high torque output for automotive tire service, machinery maintenance and heavy assembly work. The pistol-grip body is precision-balanced for comfortable control, and the twin-hammer mechanism delivers reliable, repeatable impact force. Built with a durable aluminum housing and ergonomic rubber grip, this tool connects to any standard air compressor for long, maintenance-free service. A cost-effective choice for garages and workshops worldwide. Tire shops and fleet garages rely on the twin-hammer impact for fast wheel changes during peak service hours, while machinery maintenance teams use the 1/2-inch drive with standard sockets to break loose corroded bolts on pumps and gearboxes. Because it runs on shop air, there are no batteries to recharge or motors to overheat, keeping cost per job low in high-volume workshops. With 2026 demand for air impact wrenches shifting toward application fit, durability and stable supply, the heavy-duty twin-hammer build gives garages a dependable daily driver that keeps replacement cycles long and downtime predictable. Search interest in air tools this year keeps circling two questions: single hammer or twin hammer, and how compact and lightweight the body is. A single-hammer gun spins up faster and carries less weight, while the twin-hammer mechanism in this wrench trades a little of that for impact force that stays consistent through a full shift of wheel changes. The balanced pistol grip and light aluminum housing make one-handed work under raised vehicles easier, and because it runs on shop air, bays can share the same tool with no charging downtime. Because the wrench runs on existing shop air and standard sockets, workshops can quote wheel and machinery jobs without charging for battery kits, which keeps estimates clear and lets one tool serve several bays across the working week. Farm and plant yards can run the wrench from a compressor line near the machines, so an implement is worked on where it stands instead of being towed into the workshop for a single stubborn fastener. Air tool distributors can keep a loan unit on the shelf while a customer's own wrench is serviced, so a tyre bay does not lose a day of wheel work. A garage tool that lives on a hose at the tyre bay, where the twin hammer keeps hitting through a long shift with no motor to overheat. Weight counts for more on an air tool than on a cordless one, because the line already carries the energy and nothing in the body has to store it; that is why the lightweight composite air impact wrench keeps turning up in the 2026 air tool round-ups, and why a hose-fed gun finishes a shift that a battery tool would stop halfway through for a pack change.
+points:
+  1. High torque for lug nuts & bolts
+  2. Twin-hammer mechanism - reliable power
+  3. Lightweight aluminum body, ergonomic grip
+  4. Works with standard air compressors
+  5. Standard 1/2 inch drive fits existing sockets
+  6. No batteries to recharge or motors to overheat - low cost per job in busy shops
+  7. Twin-hammer power keeps wheel changes fast through peak hours in tire and fleet service
+  8. Shop-air operation supports repeated wheel and machinery jobs without battery charging pauses
+  9. Twin-hammer air power gives tire and fleet-service buyers a dependable high-volume tool for repeated fastening cycles
+  10. Standard compressor operation helps workshops schedule repeated wheel-service work without battery charging pauses
+  11. Aluminum housing keeps the tool light enough for one-hand work under raised vehicles
+  12. Workshops already on shop air can add a second impact station without another power drop
+  13. Truck and bus depots can work from one compressor outlet, so a fleet wheel change is done in the yard without moving the vehicle to a service bay
+  14. A shop that already owns a compressor adds wheel-service capacity for the price of the tool alone, with no charger or battery stock
+
+### 11
+slug: pneumatic-air-nailer
+name: Pneumatic Straight Nail Gun (F30 / 30mm)
+cat: pneumatic-tools | moq: MOQ 1 pc | price: $6.00 - $9.00 /pc
+specs: Fastener=F30 Straight Nails (30 mm); Magazine=Anti-Jam Design; Body=Lightweight Aluminum; Application=Woodworking, Furniture, Trim; Air Supply=Standard Compressor; MOQ=1 pc
+desc: Reliable pneumatic finish nailer designed for cabinet making, furniture assembly, trim work and general woodworking. Fires 30mm F-type finish nails with consistent depth control, and the anti-jam magazine keeps production moving. The lightweight aluminum body and comfortable grip reduce operator fatigue during long shifts. Connects to any standard air compressor with a quick-connect fitting. A practical addition to any workshop or production line. Cabinet shops and furniture factories use the F30 nailer for face frames, drawer boxes and trim, where consistent depth control reduces sanding and touch-up work. For installers fitting baseboards and crown molding, the anti-jam magazine and quick-connect air fitting keep the finish nailer feeding smoothly through long finishing runs. With global demand for nailers and staplers expanding steadily through the 2030s, pneumatic finish nailers remain the value choice for trimmers and cabinet installers building a low-cost, high-output fastening line. The light aluminum body helps carpenters work overhead on door casings and paneling without arm fatigue, and the common F30 size lets cabinet shops, joiners and site crews run one fastener across several departments. Cabinet and trim shops can set a simple minimum stock of F30 nails alongside the tool, so the fastening line keeps feeding between replenishment cycles and an urgent fastener top-up no longer stops production or delays a delivery date. Export packers can use it on wooden crates and cases, driving finish nails into battens and linings during a despatch run, which keeps a packing bench fastening at a steady pace through the shipping season. Lodge and mobile home builders can pin internal trim before a unit leaves the yard, so mouldings stay fixed through transport and a site visit is not needed for refitting. A gun for a furniture shop assembling frames, where the anti-jam magazine keeps a run going instead of stopping to clear a bent nail.
+points:
+  1. Anti-jam magazine for non-stop work
+  2. 30mm F-type finish nails
+  3. Lightweight - reduces fatigue
+  4. Perfect for furniture & woodworking
+  5. Consistent depth control cuts sanding & touch-up work
+  6. Quick-connect fitting runs off any standard shop compressor
+  7. One nailer serves framing, trim, cabinet and furniture crews on the common F30 nail size
+  8. Consistent finish nailing helps cabinet and trim installers reduce visible rework before painting or delivery
+  9. F30 compatibility gives woodworking and trim distributors a clear common-fastener offer for repeat cabinet and installation work
+  10. Consistent depth control helps trim installers reduce sanding and touch-up time before painting or delivery
+  11. Consistent pneumatic depth lets cabinet and trim shops move from hand-nailing to repeatable production output
+  12. A nailer line pulls repeat orders for F-type nails, giving suppliers a steady consumables sale
+  13. Store fit-out crews can pin display plinths and panel trim on site, so a shop is merchandised the same week it is handed over
+  14. Batch cabinet runs pin together faster than hand nailing, so a small shop can quote more units without adding a second bench hand
+
+### 12
+slug: hvlp-gravity-spray-gun
+name: HVLP Gravity Spray Gun 1.4mm Nozzle (H827)
+cat: pneumatic-tools | moq: MOQ 1 pc | price: $5.00 - $7.50 /pc
+specs: Type=HVLP Gravity Feed; Nozzle=1.4 mm; Cup=600 ml Top Cup Included; Body=Anodized Aluminum; Application=Auto Paint, Primer, Furniture Finish; MOQ=1 pc
+desc: Professional HVLP gravity-feed spray gun delivering fine, even atomization for automotive topcoats, primers, furniture finishes and industrial coatings. The 1.4mm nozzle balances flow rate and finish quality for both base and clear coats. Anodized aluminum body with stainless steel needle and nozzle ensures corrosion resistance and easy cleaning. Precise air and fluid controls give painters full command over pattern width and material delivery. Excellent value for body shops and finishing workshops. HVLP's high transfer efficiency keeps overspray down, so more of each litre lands on the panel instead of the booth floor - a practical saving on primers and clear coats as shops look to cut material waste in 2026. For kitchen-cabinet and furniture finishers, the fine atomization builds smooth, even coats without runs or orange peel, while the 600ml top cup keeps long sessions moving with fewer refills. Body-shop operators can switch between primer and clear-coat simply by dialing the air and fluid controls, making this gun a practical first HVLP for growing workshops. For importers and distributors, the stainless needle and nozzle mean easy solvent cleaning and durable service, which supports repeat sales of nozzles, cups and spare parts. Gravity feed also draws nearly every drop from the cup, which helps small finishing shops control material cost when spraying higher-priced primers and topcoats, and the compact body suits touch-up work in bays where booth space is limited. Importers can bundle the gun with spare cups and an extra needle and nozzle set as a finishing starter pack, so a new body shop or furniture workshop buys its first spraying setup in one line item. Plant and tool hire depots can refresh returned equipment before it goes back out, touching up frames and panels so a hire unit looks well kept and holds its value for the next customer. Training benches can keep one gun for learners to practise pattern and fluid settings on scrap panels, so an apprentice builds control before spraying customer work. A gun for a refinisher spraying panels in a booth, where the top cup keeps paint flowing as the gun is tilted.
+points:
+  1. Fine atomization - smooth professional finish
+  2. 1.4mm nozzle suits base & clear coats
+  3. Stainless needle & nozzle - easy clean
+  4. Precise air & fluid adjustment controls
+  5. 600ml top cup - fewer refills mid-job
+  6. Gravity feed uses nearly every drop of paint - less waste on expensive finishes
+  7. Fine control suits body shops and furniture finishers that need repeatable coats across doors, panels and trim
+  8. Adjustable atomization helps distributors serve both automotive repair and furniture finishing buyers with one versatile spray platform
+  9. The 1.4mm setup helps finishing buyers balance material flow and surface coverage for routine base and clear-coat work
+  10. Ideal for small-batch custom furniture and cabinet refinishing where smooth coverage matters more than high volume
+  11. Touch-up and panel-repair bays get repeatable coverage on doors, wings and bumpers without a full booth setup
+  12. Distributors can sell the gun alongside nozzles, cups and seals as a repeat consumables line
+  13. Second-hand farm and plant dealers can refinish implement panels and frames before resale, so used stock looks presentable on the forecourt without a full respray
+  14. A gun kept for one colour lets a finisher lay down a full set of doors from a single mix, so every face in a kitchen matches
+
+### 13
+slug: loose-pin-door-hinge
+name: 304 Stainless Steel Loose-Pin Door Hinge (25mm Pin)
+cat: hardware | moq: MOQ 1 pc | price: $0.14 - $0.20 /pc
+specs: Material=304 Stainless Steel; Type=Loose-Pin Flag Hinge; Pin=25 mm Steel Core; Finish=Brushed; Application=Wooden Door, Gate, Furniture; MOQ=1 pc
+desc: Heavy-duty loose-pin door hinge machined from 304 stainless steel with a solid 25mm steel-core pin. The detachable pin design lets the door lift off the frame in seconds for quick installation, cleaning or replacement, while the two interlocking barrels keep the door perfectly aligned under heavy daily use. Ideal for wooden doors, gates, workshop furniture and renovation projects, this hinge suits both indoor and outdoor applications thanks to its corrosion-resistant brushed finish. Factory-direct supply supports custom sizes, bulk packaging and OEM finishing for hardware distributors, furniture makers and construction suppliers worldwide. For importers and distributors, its fast-moving price point, compact packaging and custom-size capability make it an easy add-on SKU for door hardware ranges serving fencing, barn doors and outdoor utility builds. With door hardware brands refreshing their lever, knob and hinge lines for the 2026 remodel season, this hinge lets distributors pair matching pulls and stops to build complete residential door sets from a single order. Maintenance teams on barn doors, garden gates and outdoor utility buildings can lift each leaf off for repainting and drop it back onto the same barrels without a full re-hang, while the brushed 304 finish stays consistent across the project. Facilities teams managing several properties can standardise the loose-pin hinge across gate and utility door repairs, so one stored reference covers many buildings and caretakers carry less variety between sites when a door is lifted off for service. Retail display units can be built with lift-off doors, so staff take a leaf off to restock a cabinet and drop it back onto the same barrels without fetching tools during a busy trading day. Theatre and stage set builders can lift a door leaf off its barrels between productions and store it flat, so the same leaf is reused in a different frame. A hinge for a door that has to come off its frame for moving, since pulling the pin releases the leaf without unscrewing anything.
+points:
+  1. Detachable pin - door lifts off in seconds
+  2. 304 stainless steel - rust resistant outdoors
+  3. Solid 25mm pin keeps alignment under heavy use
+  4. Factory-direct with custom sizes & finishing
+  5. Easy add-on SKU for door hardware ranges - high turnover
+  6. Interlocking barrels keep door aligned under heavy daily use
+  7. One hinge suits wooden doors, gates, workshop furniture & outdoor builds
+  8. Lift-off pin lets doors come off in seconds for painting, carpet fitting or replacement - no unscrewing
+  9. A reusable loose-pin format helps contractors speed up door installation and future maintenance visits
+  10. Corrosion-resistant loose-pin construction gives door hardware buyers a flexible option for indoor, outdoor and workshop projects
+  11. The lift-off pin helps installers and maintenance teams remove doors quickly for painting, cleaning or replacement work
+  12. Suits barn doors, garden gates and outdoor utility builds where doors are lifted off for seasonal maintenance
+  13. Joinery shops can pre-hang doors at the bench and lift them off for finishing and transport, then drop them back on site without realignment
+  14. Decorators can lift a door clear to paint both faces and the frame edges without masking the hinge
+  15. Holiday parks can lift chalet doors off at season end, so winter maintenance is done indoors and the door returns to the same barrels
+  16. A door lifted clear leaves the frame edges accessible, so a two-coat repaint is finished in one visit rather than two
+
+### 14
+slug: 360-degree-pivot-door-hinge
+name: 360° Stainless Steel Pivot Door Hinge (Concealed)
+cat: hardware | moq: MOQ 1 pc | price: $0.17 - $0.25 /pc
+specs: Material=304 Stainless Steel; Rotation=360 Degrees; Plate Size=59 x 11 mm; Thickness=1.6 mm; Weight=Approx. 30.5 g; MOQ=1 pc
+desc: Concealed pivot hinge offering full 360-degree rotation for doors that must open flat against the wall or swing in tight spaces. Each plate is precision-stamped from 304 stainless steel at 1.6mm thickness with four countersunk mounting holes for a secure, flush fit. The compact 59 x 11mm profile disappears into the door edge, creating an invisible mounting point that suits modern minimalist interiors, wardrobe doors, partition panels and light commercial partitions. Sold individually, factory-direct with consistent quality for furniture makers and renovation contractors. Its low cost and space-saving design make it a strong complementary line for hardware retailers and e-commerce sellers stocking modern door fittings. With 2026 interior work leaning further into hidden hinges and invisible door systems, the pivot gives a distributor a concealed fitting for handleless wardrobes and flush partitions without asking the factory to cut a new hinge cup. At roughly 30.5 g per plate it adds almost no weight to a wardrobe or partition door, and the four countersunk holes keep fixing quick on corner wardrobes and room dividers where a standard hinge cannot swing clear. Retailers can time pivot hinge replenishment with the spring and autumn interior refit seasons, so stock covers wardrobe and partition demand peaks without holding deep inventory through the quieter months and tying up working cash. Camper, caravan and boat fitters can swing locker doors flat against a bulkhead, so a compact interior keeps a clear walkway even while its storage is open for loading or cleaning. Hotel refurbishment crews replacing wardrobe doors can keep the existing plate positions, so a door swap does not require the carcass to be re-drilled. A hinge for a door that folds back against the wall, where the pivot carries the leaf through a full swing in a tight hallway.
+points:
+  1. Full 360° rotation - opens flat against the wall
+  2. 1.6mm stainless steel plates, flush concealed fit
+  3. Compact profile for minimalist door designs
+  4. Four countersunk holes for secure mounting
+  5. Low-cost space-saver - a natural add-on for modern door fitting ranges
+  6. Weighs only ~30.5g - quick, easy installation
+  7. Ideal for wardrobe doors, partition panels & light commercial partitions
+  8. Full rotation lets doors lie flat against the wall - saves floor space in compact rooms
+  9. Concealed mounting keeps wardrobe and partition projects visually clean while giving installers flexible door movement
+  10. Concealed 360-degree movement gives furniture and office-fit-out buyers a clean hardware solution for space-conscious door layouts
+  11. The compact concealed profile helps installers preserve a clean door edge on wardrobe and partition projects
+  12. Suits corner wardrobes and room dividers where a standard hinge cannot swing clear
+  13. A single pivot type covers wardrobe and divider doors, so a fitter carries one box for a whole job
+  14. Furniture retailers selling modern wardrobes can list the pivot as a replacement part, so a damaged door is sorted with a low-cost fitting rather than a new unit
+  15. A pivot that folds the door back flat keeps a small room usable while it stands open, which matters in compact apartments and studio lets
+
+### 15
+slug: cabinet-hinge-repair-plate
+name: Stainless Steel Cabinet Hinge Repair Plate (90mm)
+cat: hardware | moq: MOQ 1 pc | price: $0.04 - $0.06 /pc
+specs: Material=Stainless Steel; Size=90 x 47 mm; Center Opening=35 mm; Holes=7 Pre-Drilled; Screws=4 Mounting Screws Included; MOQ=1 pc
+desc: Practical hinge repair plate that restores stripped or broken cabinet hinge holes in minutes. The brushed stainless steel plate measures 90 x 47mm with a 35mm center opening and seven pre-drilled holes that accept both the original hinge screws and fresh screws into solid wood. Simply position the plate over the damaged area, mark the pilot holes and re-mount the hinge for a rock-solid fix. Four self-tapping mounting screws are included. A low-cost, high-value accessory for cabinet makers, kitchen remodelers, property maintenance teams and furniture repair services. For retailers it is an ideal impulse-buy accessory that pairs with any hinge range and solves a common on-site problem for tradespeople. Kitchen fitters and rental maintenance crews can keep a stack of plates on the van and finish a stripped-hinge callback in a single visit, which keeps door-repair budgets predictable across large flat and hotel refurbishments. Distributors can use a mounted repair plate as a counter demonstration, letting a customer see how a stripped hinge hole is renewed before buying, which shortens the conversation and supports clear catalogue entries for the accessory. Furniture upcyclers and second-hand dealers can rescue a cabinet with stripped hinge holes, so a piece is sold on rather than broken up for parts, which turns a low-value item into a quick sale. Flat-pack retailers can hold a few plates at the customer service desk, so a customer reporting loose hinge screws is offered a repair rather than a replacement unit. A plate for a kitchen door whose hinge screws have torn out of the chipboard, where it spreads the load back into sound material.
+points:
+  1. Fixes stripped hinge holes in minutes
+  2. 90mm stainless plate - strong & rust resistant
+  3. 7 pre-drilled holes fit standard hinges
+  4. Mounting screws included - ready to install
+  5. Natural cross-sell accessory for any hinge range
+  6. Brushed stainless finish blends with existing hinges
+  7. 35mm center opening clears standard cup hinges while fresh screws bite into solid wood
+  8. Saves whole cabinet doors from replacement after hinge screws strip out
+  9. A low-cost repair option helps property maintenance teams restore usable cabinets without replacing the complete door
+  10. Repair plates give cabinet-service buyers a simple add-on that turns stripped hinge holes into a practical restoration job
+  11. The pre-drilled repair format helps property-maintenance teams restore cabinet doors without replacing the complete door panel
+  12. Repairs the door panel rather than the hinge, keeping existing cup hinges and matching door fronts in service
+  13. Property managers can hold a box of repair plates to close out hinge failures on repeat callouts
+  14. School caretakers can keep a box of plates with the maintenance stock, so a stripped hinge on a classroom cupboard is fixed without a joiner call-out
+  15. A door saved from replacement also saves the matching front, so a kitchen keeps its original finish instead of one odd panel
+
+### 16
+slug: mini-ratchet-handle-set
+name: Mini Ratchet Handle 72-Tooth (1/4" Drive, 90mm)
+cat: hand-tools | moq: MOQ 1 pc | price: $1.75 - $2.60 /pc
+specs: Drive=1/4 inch (6.35 mm); Teeth=72-Tooth Ratchet; Length=90 mm; Material=Chrome-Plated Steel; Feature=Quick-Release Button; MOQ=1 pc
+desc: Compact mini ratchet handle built for fast work in tight spaces. The 72-tooth mechanism delivers a fine 5-degree swing arc, and the 1/4-inch (6.35mm) square drive accepts standard socket sets. A polished chrome-plated finish resists corrosion, while the knurled grip and quick-release button give confident one-handed control. At just 90mm long it slips into tool bags, gloveboxes and service kits with ease. A dependable addition for mechanics, electricians, plumbers and DIY users who need a pocket-sized ratchet that performs like a full-size tool. Light enough to bundle into socket sets and service kits, it gives distributors a high-margin pocket tool that complements full-size ratchet ranges. Appliance and bicycle service technicians can keep one in each field kit so a single handle covers callout work, while retail buyers gain a low-cost companion item that lifts the average order value. For workshop tool cribs, the compact format is easy to tag and issue as a numbered sign-out item, so every handle is tracked to a named technician and returned at shift end rather than disappearing into overalls or van pockets. Data and comms cabinet installers can tighten rail and shelf bolts inside a rack where a full-size handle will not swing, keeping the run of equipment assembly moving without pulling the rack forward. Access-control fitters can tighten closer and lock-case screws in a narrow frame reveal, so a door set is commissioned without taking the leaf off. A handle for a fastener under a dashboard or inside a cabinet, where a full-length ratchet will not fit but a bit still has to turn.
+points:
+  1. 72-tooth ratchet - works in tight spaces
+  2. 1/4" drive fits standard sockets
+  3. Knurled grip & quick-release button
+  4. Pocket-size 90mm length for travel kits
+  5. High-margin pocket tool that complements full-size ratchet ranges
+  6. 5-degree swing arc - fast work in confined areas
+  7. Polished chrome plating shrugs off corrosion in damp tool storage
+  8. Pocket-sized enough for service calls and ladder work - a spare ratchet that is always within reach
+  9. Compact 1/4-inch format gives mobile technicians socket access where a full-size handle cannot be used
+  10. Small-format ratchet gives service-kit buyers an easy add-on for glovebox, ladder and field-maintenance tool assortments
+  11. The 90mm body helps mobile technicians reach recessed fasteners where a full-size ratchet is difficult to position
+  12. Assembly and appliance-repair benches can keep one pocket ratchet per technician for quick fastener runs
+  13. Bicycle, motorcycle and appliance service kits get a compact socket driver that fits inside a saddle bag or an under-sink cabinet
+  14. A pocket tool that sells as an add-on at the counter, lifting the average basket on a small purchase
+  15. Plumbing and heating engineers can tighten radiator valve nuts and access-panel screws in a tight cupboard, where a full-size ratchet cannot swing
+  16. A ratchet that fits a pocket goes up the ladder with the technician, so a ceiling fixing is not a two-trip job
+
+### 17
+slug: diagonal-cutting-pliers
+name: 8" Diagonal Cutting Pliers (CR-V Forged, 186mm)
+cat: hand-tools | moq: MOQ 1 pc | price: $1.05 - $1.60 /pc
+specs: Material=Chrome Vanadium Steel, Drop Forged; Length=186 mm (8 inch); Head Thickness=10 mm; Weight=287 g; Handle=TPR Anti-Slip Grip; MOQ=1 pc
+desc: Industrial-grade diagonal cutting pliers drop-forged from chrome vanadium steel with induction-hardened cutting edges that slice through wire, cable, nails and thin metal with minimal effort. The precision-aligned joint keeps the jaws true under repeated heavy cuts, while the ergonomic two-tone TPR handles provide a comfortable, non-slip grip that reduces hand fatigue during long jobs. At 186mm overall length they balance leverage and control for electrical work, automotive repairs, construction and general maintenance. Ships in retail card packaging, ready for hardware shelves and export orders. With its card-pack display and mid-range price point, it is a dependable stock-keeping unit for hardware retailers, tool wholesalers and online sellers. Site electricians and shop-floor harness teams can cover wire and cable trimming with a single pouch tool, which lets distributors place one SKU across both professional and general-purpose planograms. Cutters like this sell well from a showroom sample board, so distributors can display one open unit beside the catalogue data sheet and let buyers feel the grip before committing to a carton order, which shortens the decision cycle for new stock lines. Warehouse and despatch teams can cut plastic strapping and banding on incoming pallets, so a delivery is opened quickly at the goods-in door and the load is not left waiting for another tool. Fencing contractors can cut tie wire and mesh ends when erecting panels, so a run is tensioned and trimmed with the one tool already on the belt. A plier for a sparky trimming cable ends all day, where the forged head holds its edge through repeated cuts on copper.
+points:
+  1. Drop-forged CR-V steel - strong & durable
+  2. Induction-hardened edges for clean cuts
+  3. Ergonomic TPR grip reduces fatigue
+  4. Retail card pack ready for export
+  5. Card-pack format - shelf-ready for hardware retail
+  6. Cuts wire, cable, nails & thin metal with minimal effort
+  7. 287g lightweight build - comfortable for all-day electrical work
+  8. 186mm length balances leverage and control for electrical & auto jobs
+  9. Cuts wire and nails flush and close to surfaces - clean results on electrical and trim work
+  10. High-leverage diagonal jaws help electricians and installers make clean cuts without carrying a separate cutter
+  11. Forged diagonal cutters give electrical and construction distributors a reliable everyday wire-cutting SKU for professional tool ranges
+  12. The induction-hardened edges help electrical crews make clean wire and cable cuts with less repeated effort
+  13. Card packaging lets retailers sell the cutter as a single unit straight off a pegboard hook
+  14. Cable and harness assemblers can trim wire ends and cable ties flush to the connector, keeping bundles clean before they are tied off
+  15. A single 186 mm size covers most harness and panel work, so a stores list does not need three cutters
+  16. Cycle and motorcycle workshops can trim brake and gear cable to length, so a repair is finished with one cutter from the bench
+  17. Flush cuts leave no sharp tag on a trimmed cable tie, so a finished harness passes inspection without a second pass with a knife
+
+### 18
+slug: brushless-impact-drill-kit
+name: 21V Brushless Impact Drill Kit (1 Battery + Charger)
+cat: power-tools | moq: MOQ 1 kit | price: $7.30 - $11.00 /kit
+specs: Voltage=21 V Li-ion; Motor=Brushless; Kit Includes=1 Battery + Charger + Box; Chuck=Keyless; Feature=Impact Function, LED Light, Belt Clip; MOQ=1 kit
+desc: Compact 21V brushless impact drill combining drilling and screw-driving power with a hammer drill impact function for masonry work. The brushless motor delivers more torque and longer runtime than brushed designs, while the keyless chuck, variable-speed trigger and built-in LED work light keep the job moving in any light. A belt clip and ergonomic grip make it easy to carry around the site. This export kit includes one lithium battery, a fast charger and a storage box - a practical starter package for DIY users, electricians, carpenters and furniture assembly teams. With hammer-drill drilling and screw-driving in one brushless tool, it covers both impact driver and hammer drill duties on the cordless battery platform, matching the way modern job sites search for and buy compact impact drivers. For importers, the brushless value story and complete kit format deliver a strong entry-level power-tool offer that encourages repeat battery-platform purchases. Furniture assembly and light masonry crews can start work with the supplied battery, charger and box, giving importers a single-SKU offer for contractors who prefer a ready-to-run kit over bare tools. Because trade demand builds ahead of the peak building season, importers can plan seasonal stock around one lead item instead of holding separate bare tools, batteries and chargers, which simplifies both the order plan and the shelf space needed. A trade counter can run the drill from the box so a walk-in buyer hears and feels the tool before purchase, turning a specification sheet into a live demonstration that helps staff close a sale without preparing a separate display model. Property refurbishment contractors can leave a boxed kit on each floor of a project, so trades drill and drive without carrying a tool bag between levels. A drill for a fitter who needs the hammer function for masonry plugs as well as screws, so one tool covers a whole wall.
+points:
+  1. Brushless motor - more torque & runtime
+  2. Impact function drills masonry & brick
+  3. LED work light for dark job sites
+  4. Ready-to-go kit with battery & charger
+  5. Strong entry point into a cordless battery platform
+  6. Keyless chuck & variable-speed trigger - full control
+  7. 21V Li-ion power with belt clip - site-ready convenience
+  8. Storage box keeps drill, battery & charger together for easy transport
+  9. One kit covers masonry drilling and screw-driving - fewer tools to buy for site and home jobs
+  10. A complete battery-and-charger package lets installers start same-day repair and assembly work without extra accessories
+  11. Brushless impact drilling gives tool distributors a versatile 21V starter kit for masonry, fastening and everyday site work
+  12. The battery-and-charger package helps installers start same-day drilling and fastening work without sourcing separate power accessories
+  13. Belt clip and LED light keep both hands free when positioning on ladders or in crawl spaces
+  14. Sites with no power on the floor can drill and drive from the same pack, cutting the leads a fitter has to run
+  15. A single-battery kit suits one-person crews that do not need a second pack, so a sole trader buys only the battery they will actually use
+  16. One box holding drill, pack and charger means a fitter arrives on site with everything the first fixing round needs
+
+### 19
+slug: 12v-cordless-drill
+name: 12V Sub-Compact Cordless Drill / Screwdriver
+cat: power-tools | moq: MOQ 1 pc | price: $3.10 - $4.70 /pc
+specs: Voltage=12 V Li-ion; Chuck=Keyless; Speeds=2-Speed Gearbox; Torque=1-9 Adjustable Clutch; Type=Drill / Screwdriver; MOQ=1 pc
+desc: Lightweight 12V-class cordless drill engineered for precision fastening and light drilling. The compact teal body houses a two-speed gearbox, a 1-9 adjustable torque clutch that protects screw heads from over-driving, and a forward/reverse switch for quick bit changes. The keyless chuck accepts standard drill bits and screwdriver bits, making it ideal for furniture assembly, cabinet installation, electronics repair and everyday household tasks. Its slim grip and low weight reduce fatigue during extended use, while the low-noise motor keeps indoor assembly quiet enough for apartment and home use. Sold as a bare tool, allowing buyers to pair it with their existing battery platform. At this size it belongs to the sub-compact class that trade buyers now specify for overhead and in-carcass work, where an 18V body is too long to reach. For hardware retailers and e-commerce sellers, the compact form factor and beginner-friendly controls make it a strong impulse add-on for first-time tool buyers, while the bare-tool format keeps stock flexible and matches customers who already own a 12V battery and charger. The cordless design frees users from extension cords and outlet positions, so DIY projects around the home - assembling flat-pack furniture, hanging shelves or fitting cabinet handles - can move freely from room to room without stopping to plug in. Property maintenance teams and flat-pack assemblers can keep one in each van kit and pair it with the 12V packs they already run, which helps sellers reach platform owners without stocking batteries. For training centres and apprentice workshops, the beginner-friendly controls and bare-tool format let learners practise fastening and drilling on scrap stock without tying up a full kit or a charged battery, which keeps a bench of students working from a single shared power source. Retail delivery crews assembling flat-pack items in a customer's room can tighten a joint or refit a handle on the spot instead of booking a second visit, which protects the retailer's reputation and reduces repeated journeys. Trade counters can keep a bare unit behind the desk as an exchange for a failed drill, so a customer's project restarts the same day without a repair turnaround. A compact drill for cabinet and furniture work, where the light body can be held overhead or inside a carcass without tiring the wrist.
+points:
+  1. Compact & lightweight - less fatigue
+  2. Two-speed gearbox with 1-9 torque clutch
+  3. Keyless chuck accepts standard bits
+  4. Bare tool pairs with existing battery systems
+  5. Slim grip & low weight - comfortable all-day use
+  6. 1-9 torque clutch protects screw heads from over-driving
+  7. Low-noise motor - quiet enough for indoor apartment assembly work
+  8. Compact body reaches into drawers and tight furniture joints where full-size drills cannot fit
+  9. Low-noise cordless control suits apartment maintenance, flat-pack assembly and cabinet installation without a trailing cord
+  10. Bare-tool flexibility lets 12V platform owners add a compact drill without paying twice for another battery and charger
+  11. The two-speed control and adjustable clutch help furniture assemblers match fastening force to different panel and screw tasks
+  12. Small enough for one-handed use on a stepladder while the other hand holds the panel in place
+  13. Vocational workshops can issue one per student, since the compact format suits small hands and light materials
+  14. Lettings and block-maintenance teams can leave one in each apartment utility cupboard for tenant use, cutting call-outs for simple furniture fixes
+  15. A compact drill that fits a kitchen drawer means a small repair is done without a full tool bag coming into the home
+
+### 20
+slug: brushless-impact-wrench-kit
+name: 21V Brushless Cordless Impact Wrench Kit (2 Batteries + 12 Accessories)
+cat: power-tools | moq: MOQ 1 kit | price: $29.80 - $44.70 /kit
+specs: Voltage=21 V Li-ion; Motor=Brushless; Drive=1/2 inch Square; Kit Includes=2 Batteries + US Charger + Case + 12 Accessories; Application=Auto Repair, Tire Service, Construction; MOQ=1 kit
+desc: High-torque 21V brushless cordless impact wrench built for automotive repair, tire service, scaffolding and construction fastening. The 1/2-inch square drive delivers rapid-impact torque to break loose stubborn lug nuts and bolts, while the compact body and rubberized grip give full control in tight bays. This complete export kit includes two lithium batteries, a US-standard charger, a hard plastic carrying case and 12 accessories covering six impact sockets, a drill chuck, screwdriver bits and adapters - everything a workshop needs out of the box. A dependable workhorse for mechanics, fleet maintenance and field service teams. For distributors, the all-in-one kit reduces accessory sourcing and after-sales friction, while the interchangeable battery platform encourages repeat purchases of bare tools and spare batteries across the same 21V line. Mobile tire vans and agricultural workshops can keep the case loaded for roadside and yard calls, while distributors gain a complete 1/2 inch kit that buyers can resell without sourcing sockets or a second battery. Holding spare batteries and sockets alongside the original kit order keeps fleet wrenches in service, so buyers can replace a worn part from stock rather than parking the tool and waiting on a single-part shipment, which protects the workshop schedule on busy service weeks. A busy workshop can hand the cased kit to a new starter, so an apprentice learns fastening technique straight away instead of hunting for sockets, batteries or a charger across other benches. Cordless impact wrenches have become the cordless category buyers ask about first in 2026, which makes a complete kit like this the simplest way to add fastening capability to a range that already stocks drilling and cutting tools. For tire changes, the 1/2-inch drive and the six impact sockets in the case cover lug nuts on passenger cars and light trucks, so a seasonal wheel swap needs neither a compressor nor a second trip to the van. A kit bought for a tyre shop or a service van, where the accessory set covers the sockets and adaptors a wheel change calls for.
+points:
+  1. High-torque impact for stubborn fasteners
+  2. Complete kit: 2 batteries + charger + case
+  3. 12 accessories cover common workshop jobs
+  4. Compact body fits tight engine bays
+  5. Rubberized grip - steady control in oily, tight spaces
+  6. 1/2-inch square drive - standard socket compatibility
+  7. Hard case keeps sockets & bits organized for mobile fleet service
+  8. All-in-one kit removes separate accessory sourcing - ready for wheel and suspension work out of the box
+  9. Twin-battery coverage and organized accessories help mobile fleet teams reduce setup time between service calls
+  10. Interchangeable 21V battery platform helps workshops expand their cordless range without buying redundant chargers and packs
+  11. The accessory-rich case helps fleet and workshop buyers standardize common fastening tasks from one ready-to-deploy kit
+  12. Roadside and service-call crews get a self-contained fastening set that starts work without a bench or mains power
+  13. Agricultural and trailer repair teams get enough torque for seized wheel nuts in the field, with both batteries covering a full day away from the workshop
+  14. Rental yards can issue the cased kit for a single-job hire and check it back in by part number
+  15. Counter staff can demonstrate the whole kit from the case, so a walk-in trade customer sees every socket and battery before deciding
+  16. The US charger specification lets North American importers list a kit that plugs straight into workshop outlets without a separate converter
+  17. Both packs travel in the case, so a technician working away from the van is not walking back for a recharge mid-job
+
+### 21
+slug: mining-air-impact-wrench
+name: Heavy-Duty Air Impact Wrench (1" Drive, D-Handle)
+cat: pneumatic-tools | moq: MOQ 1 pc | price: $33.80 - $50.70 /pc
+specs: Drive=1 inch Square; Type=D-Handle Impact Wrench; Body=Aluminum Alloy with Cooling Fins; Application=Mining, Heavy Machinery, Truck Tire; Includes=Auxiliary Handle, Bolts, Air Fitting; MOQ=1 pc
+desc: Industrial-grade pneumatic impact wrench with a 1-inch square drive and integrated D-handle, engineered for the highest-torque fastening jobs in mining, heavy machinery maintenance, truck tire service and plant assembly. The twin-hammer mechanism delivers powerful, repeatable impact force, while the rugged aluminum housing and cooling fins stand up to continuous workshop duty. A rear air inlet with regulator knob, detachable auxiliary handle, mounting bolts and air fitting are included for fast setup. Connects to any standard high-capacity air compressor for long, dependable service. For heavy-industry suppliers and equipment rental fleets, the 1-inch drive fills the gap where smaller wrenches stall, and the included mounting hardware cuts setup time on job sites, making it a high-value line item for mining, transport and plant maintenance contracts. Quarry and truck-yard crews can keep one plumbed into the shop compressor for back-to-back wheel and frame work, giving rental fleets a heavy-fastener tool that stays in service rather than on the bench. Because the unit is plumbed into a compressor line, workshop planners can list it on routine air-tool inspection rounds and keep the records together, so it is never pulled from service for a missing check, which keeps heavy fastening work on schedule. Plant dealers preparing used machinery for resale can free seized bolts during inspection, so a machine reaches the sales yard ready to demonstrate and the workshop avoids sending units out for extra preparation. Buyers specifying a workshop air line can price this wrench into the compressor package, so the tool, hose and air supply arrive together rather than being sourced from separate suppliers. A gun for heavy plant and truck wheels, where the D-handle puts both hands behind the force and the fins keep it running in a hot pit.
+points:
+  1. 1" drive for maximum torque output
+  2. Twin-hammer mechanism - reliable power
+  3. D-handle & auxiliary handle for control
+  4. Built for mining & heavy-duty service
+  5. Includes auxiliary handle, bolts & air fitting - ready to run
+  6. Cooling fins & aluminum housing for continuous heavy-duty duty
+  7. Rear air inlet with regulator knob - tune power to the job at hand
+  8. 1-inch drive output tackles the large fasteners found on mining equipment, trucks and heavy plant
+  9. D-handle control supports safer positioning during repeated truck, mining and plant maintenance work
+  10. A D-handle heavy impact wrench gives mining and heavy-industry buyers a high-torque removal solution for the most stubborn truck and plant fasteners
+  11. The 1-inch drive and auxiliary handle help heavy-equipment teams control large-fastener work during truck and plant maintenance
+  12. Runs from any high-capacity shop compressor, so mining and plant workshops need no extra power infrastructure
+  13. Tyre bays can run the 1-inch drive continuously through a full truck wheel set, with the regulator dialled back for lighter fasteners
+  14. One 1-inch drive covers both truck wheels and structural bolts, so a site stores one impact rather than two sizes
+  15. Field service managers can issue one wrench per van and keep a spare on the shelf, so a single failure does not idle a crew
+  16. A wrench hung on a balancer above the bay stays out of the way until a wheel set arrives, so the floor stays clear
+
+### 22
+slug: aluminum-siphon-spray-gun
+name: Aluminum Siphon-Feed Spray Gun (1000ml, Undercoat & Rust-Proof)
+cat: pneumatic-tools | moq: MOQ 1 pc | price: $6.40 - $9.60 /pc
+specs: Type=Siphon-Feed Pressure Canister; Cup=1000 ml Steel Canister; Nozzle=Brass Adjustable; Includes=Pressure Gauge + Regulator, 2 Extension Tubes; Application=Undercoat, Rust-Proof, Thick Coatings; MOQ=1 pc
+desc: Heavy-duty siphon-feed spray gun purpose-built for thick coatings such as automotive undercoating, rust-proofing, chassis protection and industrial paints. The 1000ml stainless steel canister feeds material through a brass adjustable nozzle, while the integrated pressure gauge and regulator give precise control over atomization and spray pattern. Two flexible extension tubes with brass spray tips reach into cavities, box sections and hard-to-access frames. The ergonomic pistol grip and heavy construction make long coating sessions comfortable. A practical choice for body shops, garages and maintenance crews. For tool suppliers and industrial distributors, the undercoating niche complements standard HVLP lines with minimal shelf overlap, and the 1000ml canister plus extension tubes give technicians a complete rust-protection setup from a single SKU. Fleet workshops and trailer repair bays can rust-proof chassis and box sections before winter salt season, and the same gun moves straight from undercoating to routine paint work on the next vehicle. Because undercoating work consumes coating material and wears nozzle tips, stockists can bundle the gun with a replenishment plan so body shops reorder tips and sealer without searching for a matching supplier each time a rust-proofing job comes in. Used-car dealers can refresh an underbody before a vehicle goes onto the forecourt, so trade-ins look presentable for viewing and the reconditioning bay works through more stock without waiting on an outside specialist. Importers running a mixed pneumatics container can commit to the gun against seasonal undercoating demand, holding it as a planned line instead of reordering small quantities as jobs arrive. A gun for a body shop laying undercoat and rust proofing, where the steel canister holds enough to finish a panel without a refill.
+points:
+  1. Siphon feed handles thick undercoat paints
+  2. 1000ml steel canister - less refilling
+  3. Gauge + regulator for precise control
+  4. Extension tubes reach hidden cavities
+  5. Complete undercoat setup - gauge, regulator & tips included
+  6. Brass adjustable nozzle for fine atomization
+  7. Stainless steel canister resists solvent and rust-proofing chemicals
+  8. Fills the undercoating niche that complements standard HVLP spray gun lines
+  9. Protects chassis and frames against corrosion - extends vehicle and equipment life in salt and damp conditions
+  10. Extension tubes help body shops and maintenance crews coat boxed sections and cavities that standard spray guns cannot reach
+  11. An undercoat-specific canister and nozzle setup help automotive distributors serve the chassis-protection niche alongside standard HVLP lines
+  12. The extension tubes help body-shop buyers reach boxed sections and cavities that are difficult to coat with a standard spray gun
+  13. Pressure canister keeps a steady feed across large chassis panels without stopping to refill
+  14. Body shops can quote underbody protection as a fixed add-on service using one setup
+  15. Equipment hire firms can offer the gun as a hire item to customers coating their own vehicles, so a trailer restoration job needs no painting bay
+  16. Underbody coating in one pass lets a workshop offer it as a fixed-price add-on instead of quoting by the hour
+
+### 23
+slug: soft-close-drawer-slide-45mm
+name: 45mm Soft-Close Drawer Slide (3-Section, 16" / 400mm)
+cat: hardware | moq: MOQ 1 pair | price: $1.70 - $2.60 /pair
+specs: Width=45 mm; Length=400 mm (16 inch); Load Capacity=45 kg; Material=Cold-Rolled Steel; Type=3-Section Detachable, Soft-Close Damping; Mounting=Side-Mounted
+desc: Three-section ball-bearing drawer slide with a built-in damping buffer that closes drawers softly and quietly every time. The 45mm-wide cold-rolled steel rails are hardened for a 45kg load rating, and the detachable design lets you install the drawer and cabinet members separately for simple alignment. Side-mounted with pre-drilled oval and round mounting holes, it fits standard 16-inch (400mm) cabinet openings and works well for kitchen cabinets, wardrobes, dressers and office desks. The corrosion-resistant finish keeps the action smooth in humid environments, and the self-closing cushion protects both the hardware and the drawer front from slamming. A dependable choice for furniture makers, cabinet shops and renovation projects that need smooth, quiet drawers at a factory-direct price. Soft-close drawer slides remain a defining 2026 kitchen trend because they cut slamming noise, protect the cabinet box and give every drawer a refined, high-end feel - benefits this slide delivers at an accessible price point. Full-extension ball-bearing side-mount slides are still the specification most kitchen buyers ask for in 2026, and the three-section travel here runs the drawer right out so the back of the box is reachable without unloading it. Soft-close has shifted from an optional upgrade to a baseline expectation in modular kitchen and bath cabinetry, so carrying a damped slide as a standard line keeps a cabinet program competitive on quiet operation as much as on price. Kitchen and wardrobe production lines can fit the slides to standard 400mm carcases and load them to 45kg, letting cabinet shops promise quiet, high-capacity drawers without moving to a costlier slide range. Cabinet factories running several lines can set simple reorder levels for this slide so a fitting bay never stalls for want of a pair, keeping assembly schedules steady through the peak kitchen season, which helps protect delivery dates on fitted projects. Developers fitting out several apartments can order the slide by the pair to match each kitchen layout, so every unit in the block is finished to the same drawer feel and handover snagging lists close out without mixing slide types. Distributors can pair the slide with the hinges and handles they already supply to a kitchen programme, so a cabinet maker receives matching hardware for the whole carcass on a single delivery note. A slide for a kitchen drawer that closes quietly at night, where the damper takes the last part of the push instead of the drawer banging.
+points:
+  1. Built-in damping buffer - quiet, soft close
+  2. 45kg load rating for heavy drawers
+  3. Detachable rails for easy installation
+  4. Corrosion-resistant, smooth ball bearings
+  5. Self-closing cushion protects drawer fronts
+  6. Pre-drilled oval & round holes - quick, aligned mounting
+  7. 400mm / 16-inch length drops into standard kitchen cabinet openings
+  8. Lets cabinet makers offer soft-close as standard - a low-cost upgrade that lifts perceived quality
+  9. Three-section extension gives kitchen and wardrobe makers smoother full-access drawer movement for premium fit-outs
+  10. Hardened steel construction and 45kg rating help kitchen cabinet makers deliver stable, high-capacity storage with a modern soft-close feel
+  11. The detachable three-section design helps furniture factories align drawer and cabinet members separately during installation
+  12. Side-mounted format drops into standard cabinet side panels without a rebate or under-mount bracket
+  13. A damped slide supplied as a pair means a warranty replacement is one line on the order
+  14. Kitchen showrooms gain a selling point when one working drawer front lets customers feel the soft close before ordering a full run
+  15. Drawers that close themselves quietly matter in bedrooms and open-plan kitchens, where a bang carries through the whole floor
+
+### 24
+slug: no-drill-magnetic-door-stop
+name: No-Drill Magnetic Door Stop (Black, Strong Suction)
+cat: hardware | moq: MOQ 1 pc | price: $0.50 - $0.75 /pc
+specs: Type=Magnetic Floor Door Stop; Installation=No-Drill (Adhesive/Stick-On); Color=Black; Material=Zinc Alloy / ABS; Suction=Strong Built-In Magnet; Application=Home Doors, Bedroom, Bathroom
+desc: Slim two-piece magnetic door stop that holds doors open without drilling into walls or floors. The compact black floor plate houses a strong magnet, while the matching door bracket attaches to the bottom edge of the door - when the door swings open, the two halves click together and keep it firmly in place until you pull it free. The low-profile design suits modern interiors and works on wooden, metal and hollow doors in bedrooms, bathrooms, kitchens and utility rooms. Because there is no wall anchor, it also protects plaster and tile from damage and makes rental-friendly installation possible. A practical, low-cost upgrade for homeowners, property managers and hardware retailers building door hardware ranges. A consistent fast-mover in hardware retail hot-product roundups, the no-drill door stop is a compact, high-margin add-on that pairs naturally with hinges and handles in any door hardware assortment. Apartment refurbishments and serviced accommodation can fit them room by room without touching the plaster, so maintenance teams keep spare stops on hand for quick tenant-ready turnover work. Because it is small and light, online sellers can list it as an inexpensive add-on with clear carton markings, which keeps warehouse picking accurate and helps mixed parcels ship without extra postage bands, so promotion volumes stay easy to fulfil. Exhibition and event stand builders can hold a display or site-office door open on a venue floor without leaving a fixing behind, so the build packs down cleanly and the hired space is returned without patching. Door and joinery suppliers can recommend the stop when a customer orders an internal door, so the hold is chosen with the door and leaves the branch as part of the same order. Fitted to a rented flat or a door that cannot be drilled, where the adhesive base holds the stop without a hole in the floor.
+points:
+  1. No drilling - protects walls and floors
+  2. Strong magnet holds doors firmly open
+  3. Slim low-profile design for modern homes
+  4. Works on wood, metal and hollow doors
+  5. Protects plaster and tile from damage
+  6. Zinc alloy / ABS build - durable for high-traffic rooms
+  7. Two-piece magnetic click keeps doors open until you pull them free
+  8. Leaves no holes when removed - easy to reposition between rooms or take to a new property
+  9. Rental managers can add door holding without drilling, then remove or reposition the stop between tenant turnovers
+  10. Strong magnetic holding and damage-free mounting give property managers a practical door-holding SKU for modern apartment fit-outs
+  11. The adhesive no-drill installation helps rental and renovation buyers add door control without drilling finished walls or floors
+  12. Hotel and office fit-outs can add door holding without damaging painted walls or tiled floors
+  13. Shipping containers, cabins and portable offices can hold doors open on steel frames without drilling through cladding
+  14. Facilities teams can fit the stop during a handover walk without booking a maintenance slot
+  15. Interior design and staging firms can add the stop to show-home doorways, then remove it when the property is sold and reuse it at the next listing
+  16. A door held open keeps a corridor passable for prams and trolleys without a wedge left lying on the floor
+
+### 25
+slug: magnetic-glass-door-catch
+name: Magnetic Glass Door Catch (Brushed Silver)
+cat: hardware | moq: MOQ 1 pc | price: $0.90 - $1.35 /pc
+specs: Material=Zinc Alloy, Brushed Silver Finish; Type=Magnetic Catch for Glass Doors; Installation=Clamp-On U-Bracket (10-12mm Glass); Magnet=Recessed Circular Magnet; Fasteners=Hex Screws Included; Application=Office Partitions, Glass Doors
+desc: Strong magnetic catch designed for glass partition doors and office glass doors. The brushed-silver housing holds a recessed circular magnet that locks cleanly onto the matching strike plate, while the U-shaped clamp bracket fits over the edge of a 10-12mm glass pane with a protective lining that prevents scratching. Two hex screws on the bracket secure the grip on the glass, and the set screw on the base fixes the magnet position. The result is a quiet, positive hold that keeps glass doors closed or open exactly where you want them, without visible floor hardware. Ideal for office partitions, conference rooms, showrooms and modern interiors where clean lines matter. For hardware importers, it is an easy add-on SKU for glass door fitting lines, and the clamp-on design removes the need for glass drilling that scares off many buyers. Shop fitters and office partition installers can hang doors on 10-12mm panes in a single site visit, and the clamp-on bracket lets the same catch move to a new layout when a floor plan changes. Facilities teams managing several properties can standardise on one catch across every glass partition specification, which simplifies spares holding when a door needs identical replacement hardware years later without matching an obsolete fitting, so maintenance crews learn one fixing routine across the whole estate. A glazing contractor can keep the catches on the van, so when a client asks for one more partition door during a fit-out the extra hold is added the same visit instead of booking a return trip. For a partition supplier, keeping the catch on the same order line as the clamps and hinges means an installer collects all the hardware for a glazed screen at once, before the panels reach site. A catch for an office partition where the glass cannot be drilled, since the clamp bracket grips the panel edge instead.
+points:
+  1. Clamps onto glass - no drilling required
+  2. Recessed magnet gives a clean, positive hold
+  3. Protective lining prevents glass scratching
+  4. Brushed silver finish matches modern interiors
+  5. Easy add-on SKU for glass door hardware ranges
+  6. Fits 10-12mm glass panes with secure hex-screw grip
+  7. Set-screw base locks magnet position - no drift over time
+  8. Keeps glass partition doors quietly held - no visible floor hardware
+  9. Pairs naturally with glass partition hardware ranges - an easy add-on for office fit-out suppliers
+  10. Clamp-on installation helps office fit-out teams secure glass doors without drilling or taking panels to a workshop
+  11. A clamp-on magnetic hold helps office fit-out teams secure glass partition doors without the risk and cost of specialized glass drilling
+  12. The protective lining helps glass-door installers secure 10-12mm panes while reducing the risk of surface scratching during fitting
+  13. Lets fit-out crews finish partition doors on site - no glass panel ever has to leave for workshop drilling
+  14. Retail and office partitions can be reconfigured later without leaving drill holes in the glass, protecting the panel for reuse elsewhere
+  15. Glass partitions can be commissioned without a glazier on site, since the catch clamps to the pane
+  16. During a live refit, shop-fitting contractors can add a hold to display doors, so a store keeps trading while partitions are changed
+  17. Glass panels stay undrilled, so the same pane can be moved into a new partition layout instead of scrapped with the old one
+

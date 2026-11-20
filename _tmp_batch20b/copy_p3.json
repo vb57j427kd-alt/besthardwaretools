@@ -1,0 +1,122 @@
+[
+ {
+  "slug": "multi-purpose-air-staple-gun",
+  "field": "desc",
+  "text": "Door and window fitters adding draught seals and cover trims can set a staple flush in one pass, so a full set of openings is finished in a single visit instead of hand-tacking each strip and returning to trim."
+ },
+ {
+  "slug": "2-inch-air-mini-sander",
+  "field": "desc",
+  "text": "Alloy wheel refurbishers can blend kerb scuffs on a spoke face with the small pad, so a set of wheels is dressed and lacquered without masking a whole wheel or moving it to a full-size sander."
+ },
+ {
+  "slug": "stainless-draw-latch",
+  "field": "desc",
+  "text": "Joinery shops can fit the latch to jigs, pattern boxes and site crates that get shifted between benches, so a lid stays shut while a box is carried and the contents are not spilled across the floor."
+ },
+ {
+  "slug": "self-locking-latch",
+  "field": "desc",
+  "text": "Coachbuilders can fit the latch to battery and luggage bay doors, so a panel stays shut over rough roads and depot staff open it with one press during a pre-service check."
+ },
+ {
+  "slug": "magnetic-door-stop",
+  "field": "desc",
+  "text": "In a home with a through draught, the stop holds a kitchen or balcony door at the wall so it does not swing into a worktop or catch someone walking past, and it goes in after the decorating is finished."
+ },
+ {
+  "slug": "52in1-wrench-set",
+  "field": "desc",
+  "text": "Caravan and campervan owners can keep the case in an onboard toolbox, so a loose bracket or a water fitting is tightened at the pitch without towing the van to a workshop."
+ },
+ {
+  "slug": "magnetic-aluminum-level",
+  "field": "desc",
+  "text": "Fabricators can hold the level against a tacked steel frame to check both legs before the final weld, so a twisted frame is corrected while the joints are still adjustable rather than after the bench is finished."
+ },
+ {
+  "slug": "1-2-inch-socket-set",
+  "field": "desc",
+  "text": "An assembly line running the same bolt all day can stock the 14mm size at each station, so a worn socket is swapped without opening a new set and the line keeps its torque routine unchanged."
+ },
+ {
+  "slug": "electric-triangle-sander",
+  "field": "desc",
+  "text": "Floor layers can key the edge strip along a skirting before the final coat, so the perimeter is sanded to the same finish as the field and the job does not need a hand block along every wall."
+ },
+ {
+  "slug": "mini-cordless-chainsaw",
+  "field": "desc",
+  "text": "Fencing crews can clear overhanging branches and brash along a new line before the posts go in, so the run is set out without stopping to fetch a full-size saw or wait for a tree contractor."
+ },
+ {
+  "slug": "pneumatic-rivet-gun",
+  "field": "desc",
+  "text": "Racking and metal shelving manufacturers can set the upright joints on the bench with one pull each, so a batch is assembled to a consistent clamp and a frame does not need reworking after a loose rivet is found."
+ },
+ {
+  "slug": "pneumatic-grease-gun",
+  "field": "desc",
+  "text": "Bus and coach depots can grease the nipples above an axle from the pit with the flexible hose, so a vehicle is lubricated inside its inspection slot and released back to service without dropping any panels."
+ },
+ {
+  "slug": "casement-window-hinge",
+  "field": "desc",
+  "text": "A school or leisure centre can renew vent-window pivots across a summer programme on one profile, so every opening in the block matches and the maintenance store holds a single spare type for later repairs."
+ },
+ {
+  "slug": "gold-long-aluminum-cabinet-pull",
+  "field": "desc",
+  "text": "Furniture factories shipping flat-pack wardrobes can pack the pull with the fittings, so the customer drills to the stated 128mm spacing and finishes the unit without ordering hardware separately."
+ },
+ {
+  "slug": "antique-bronze-pumpkin-knob",
+  "field": "desc",
+  "text": "Cafe and bar fit-outs with a vintage theme can dress a run of cupboard doors with the knob, so the frontage reads as period joinery without commissioning bespoke cabinet work."
+ },
+ {
+  "slug": "imperial-ratcheting-wrench-set",
+  "field": "points",
+  "text": "Buyers running a mixed metric and imperial fleet can add the single imperial size to a metric order, so one purchase covers both standards on the same vehicle"
+ },
+ {
+  "slug": "43pc-magnetic-screwdriver-set",
+  "field": "points",
+  "text": "Garden machinery and bike shops can use the Torx and hex bits on engine covers and brake fittings, so a service does not stall for a missing driver size"
+ },
+ {
+  "slug": "118pc-precision-screwdriver-set",
+  "field": "points",
+  "text": "A labeled slot for every bit lets a shop check the set back in after a repair, so a missing size is reordered before the next device is opened"
+ },
+ {
+  "slug": "13mm-brushless-cordless-impact-drill",
+  "field": "points",
+  "text": "A kit kept in the site cabin can be issued as a pooled drill, so a subcontractor who arrives without one still starts on time"
+ },
+ {
+  "slug": "5-inch-brushless-cordless-angle-grinder",
+  "field": "points",
+  "text": "Steel erectors and scaffolders can trim bolts and cut fixings at height, where running a cable up a ladder is impractical"
+ },
+ {
+  "slug": "8016-u-type-air-stapler",
+  "field": "points",
+  "text": "Sign and display shops can staple canvas or vinyl onto a timber frame, where a wider crown would show through the printed face"
+ },
+ {
+  "slug": "pneumatic-multi-nailer-f30-t64",
+  "field": "points",
+  "text": "A packaging bench can build a crate with nails and then staple its lining without reaching for a second gun"
+ },
+ {
+  "slug": "stainless-flag-weld-hinge",
+  "field": "points",
+  "text": "Marine and dock fitters can weld the hinge to a steel locker or hatch, so a cover lifts off for loading and the stainless holds up to salt spray"
+ },
+ {
+  "slug": "heavy-duty-welded-hinge",
+  "field": "points",
+  "text": "Farm and estate workshops can replace a rusted gate pivot with a welded stainless pair, so a gate is back in use without fitting a new frame"
+ }
+]

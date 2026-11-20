@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "bench-drill-press-tilting-table",
+    "field": "desc",
+    "text": "A maintenance bench can drill out a sheared bolt from a bracket once it is clamped to the table, so the part is saved rather than replaced."
+  },
+  {
+    "slug": "pneumatic-tire-inflator-gauge",
+    "field": "points",
+    "text": "A tyre bay can keep one gun per air line, so two fitters work different vehicles without passing a hose between bays"
+  },
+  {
+    "slug": "digital-tire-inflator-gauge",
+    "field": "desc",
+    "text": "A rental desk can record a return pressure in the unit the hire agreement uses, so a check-in note needs no conversion before it is signed."
+  },
+  {
+    "slug": "self-adhesive-door-bottom-seal",
+    "field": "desc",
+    "text": "A hotel maintenance round can close the draught under a corridor of guest doors between check-outs, with each strip cut and pressed on while the room is cleaned."
+  },
+  {
+    "slug": "epdm-self-adhesive-window-seal",
+    "field": "desc",
+    "text": "A camper or caravan owner can line a locker or window frame from the roll, cutting each length with scissors as the fit-out goes along."
+  },
+  {
+    "slug": "304-stainless-long-shackle-padlock",
+    "field": "desc",
+    "text": "A caretaker can pass the long shackle through the handles of a bin store so the lid stays shut in wind, where a short lock would not span them."
+  },
+  {
+    "slug": "20pc-bi-metal-hole-saw-set",
+    "field": "desc",
+    "text": "An electrician cutting downlight holes in a plasterboard ceiling can work from a step ladder with the case open beside them, changing saw size as the layout demands."
+  },
+  {
+    "slug": "masonry-wall-hole-saw",
+    "field": "desc",
+    "text": "A plumber running a condensate pipe through a block wall can core from inside the room, so the hole is set out from the finished face rather than from a scaffold."
+  },
+  {
+    "slug": "9-inch-bent-head-combination-pliers",
+    "field": "points",
+    "text": "A plumber can reach a tap connector behind a basin and turn it, with the offset head keeping the hand above the trap"
+  },
+  {
+    "slug": "cordless-hydraulic-crimping-tool",
+    "field": "desc",
+    "text": "A substation crew can crimp lugs on cables already pulled into a panel, working down a row of terminals without a pump and hose in the way."
+  },
+  {
+    "slug": "concrete-floor-grinder",
+    "field": "desc",
+    "text": "A warehouse handover can come forward if the slab is ground before racking goes in, since the machine works the aisles while they are still clear."
+  },
+  {
+    "slug": "long-nozzle-air-blow-gun",
+    "field": "points",
+    "text": "A mechanic can clear swarf from a blind bolt hole in a gearbox casing before refitting, where a cloth cannot reach"
+  },
+  {
+    "slug": "pneumatic-coil-nailer-cn55",
+    "field": "desc",
+    "text": "A pallet repair line can run the gun down a row of stacks on a long air line, so damaged boards are fixed where the pallets sit."
+  },
+  {
+    "slug": "aluminium-wardrobe-hanging-rod",
+    "field": "points",
+    "text": "A fitter can run one continuous rail through a row of wardrobes, cutting each length to span so no joint falls where hangers bunch"
+  },
+  {
+    "slug": "concealed-floor-spring-hinge",
+    "field": "desc",
+    "text": "A village hall can leave the leaf open at 90 degrees through an event, then let it fall shut as the last people leave."
+  },
+  {
+    "slug": "concealed-3d-adjustable-door-hinge",
+    "field": "desc",
+    "text": "A panelling contractor can finish the paint before the leaf is hung, so the flush panel is not disturbed by a second fitting visit."
+  },
+  {
+    "slug": "three-in-one-lever-tubing-bender",
+    "field": "points",
+    "text": "A garage can make up a brake or fuel line on the vehicle, bending to the scale against the chassis rather than ordering a pre-formed pipe"
+  },
+  {
+    "slug": "multifunction-wire-stripping-pliers",
+    "field": "desc",
+    "text": "A shopfitter wiring a display unit can strip and cut at the fitting with one tool, so a small job does not need the full electrician's bag."
+  },
+  {
+    "slug": "steel-number-punch-set-5mm",
+    "field": "points",
+    "text": "A hire yard can stamp an asset number into a machine before it goes out, so a returned unit is booked back without a paper tag"
+  },
+  {
+    "slug": "cordless-tile-vibrator-1221b",
+    "field": "desc",
+    "text": "A bathroom fitter can bed a large format wall tile above head height, working with one hand while the other steadies the panel."
+  },
+  {
+    "slug": "cordless-rebar-tier",
+    "field": "points",
+    "text": "A groundwork crew can tie a footing cage between deliveries, since the tier runs on a battery pack and needs no air line across the mud"
+  },
+  {
+    "slug": "portable-sandblast-pot-5gal",
+    "field": "desc",
+    "text": "A fabrication shop can blast a welded frame before paint without moving it to a booth, so the coating goes on the day the weld is finished."
+  },
+  {
+    "slug": "pneumatic-rectangular-sanding-block",
+    "field": "desc",
+    "text": "A body shop can block a repaired panel flat before primer, since the long pad bridges a filler repair instead of dipping into it."
+  },
+  {
+    "slug": "brass-half-moon-cabinet-pull-128mm",
+    "field": "points",
+    "text": "A flat-pack furniture maker can bag one pull per unit, so a wardrobe ships with its handle in the carton and no separate hardware order"
+  },
+  {
+    "slug": "4515-stainless-ball-bearing-slide-350mm",
+    "field": "desc",
+    "text": "A cabinet maker can fit the rails to the drawer box on the bench and slide the box into the carcase last, so the front is aligned once."
+  }
+]

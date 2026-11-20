@@ -1,0 +1,312 @@
+BATCH: day 20, slice 4/4 (products_data.py index 294-391)
+count=24
+
+### 1
+slug: hidden-self-closing-spring-hinge
+name: Hidden Self-Closing Spring Hinge (Adjustable Tension)
+cat: hardware | moq: MOQ 1 pc | price: $0.39 - $0.59 /pc
+specs: Type=Concealed Spring Hinge; Spring=Adjustable Tension; Handedness=Non-Handed (Reversible); Detent=90 Degree Hold-Open or Free-Swing; Finishes=Black, Satin Gold, Silver; Mounting=Screw-On
+desc: A concealed spring hinge that pulls a door shut on its own and holds it at 90 degrees when you want it open. Spring tension is adjustable on the body, so a light wardrobe door and a heavier solid door can both be set to close at a controlled speed instead of slamming. It is non-handed, which means one stock item covers left and right hung doors, and the same hinge runs either as hold-open at 90 degrees or as a free-swinging pivot once the detent setting is changed. The barrel sits behind the door edge once fitted, so the face of the cabinet stays clean. Screw fixing through each leaf, with the coil spring on the outside of the knuckle for access when tension needs a tweak. Suits cabinet doors, cupboard units, machine guards and folding panels. A hinge for a gate or cupboard that has to close behind people, where the spring does the work a closer would do on a heavier door. The black option is the finish specifiers reach for on matte black kitchen schemes, while the gold and silver versions suit warmer timber palettes.
+points:
+  1. Adjustable spring tension sets closing speed for light or heavy doors
+  2. Non-handed design covers left and right hung doors from one stock item
+  3. Switch between 90 degree hold-open and free swing
+  4. Barrel sits behind the door edge for a clean cabinet face
+  5. Black, satin gold and silver finishes let one hinge line match the ironmongery schedule across a whole fit-out
+
+### 2
+slug: mirror-combination-wrench-set-8pc
+name: Mirror Polished Combination Wrench Set, 8 Pcs (6-19 mm)
+cat: hand-tools | moq: MOQ 1 set | price: $2.28 - $3.42 /set
+specs: Material=Chrome Vanadium Steel; Pieces=8; Sizes=6, 8, 10, 12, 13, 14, 17, 19 mm; Type=Open Jaw + 12-Point Ring; Finish=Mirror Polished; Storage=Green Canvas Roll
+desc: An eight piece combination wrench set, mirror polished and drop forged in chrome vanadium steel, supplied in a green canvas roll. Sizes run 6, 8, 10, 12, 13, 14, 17 and 19 mm, covering the fixings on bikes, garden machinery, plumbing fittings and light automotive work. Each wrench carries an open jaw at one end and a twelve point ring at the other, so the same tool breaks a nut loose and then finishes the turn on a tight fastener. The mirror chrome surface wipes clean of grease and resists rust in a damp workshop, and the slim heads reach recessed nuts where a bulky spanner will not sit. Size markings are stamped into the shank and stay readable after years of use. The canvas roll keeps the set together in a toolbox drawer and rolls up small enough for a road kit. A set to hand a new starter, since the sizes cover the fasteners on most small engines and the roll keeps the set together between jobs.
+points:
+  1. Open jaw and ring end on each wrench covers loosening and final torque
+  2. Eight sizes from 6 mm to 19 mm cover bikes, garden gear and plumbing
+  3. Mirror chrome wipes clean and resists rust in a damp workshop
+  4. Rolls into a compact canvas pouch for a road kit
+  5. Sizes start at 6 mm, covering the small fasteners on bikes and garden machinery that a set beginning at 10 mm leaves out
+
+### 3
+slug: socket-set-46pc-chrome-vanadium
+name: 46-Piece Socket Set, Chrome Vanadium Steel
+cat: hand-tools | moq: MOQ 1 set | price: $1.52 - $2.28 /set
+specs: Material=Chrome Vanadium Steel; Pieces=46; Case Size=235 x 125 x 45 mm; Weight=1.16 kg; Contents=Sockets, Bits, Extensions, Ratchet; Storage=Moulded Red Case
+desc: A 46 piece socket set in chrome vanadium steel, packed in a moulded red case that keeps every socket and bit in its own slot. The set covers the usual range of hex sockets, screwdriver bits, extension bars and a ratchet, which is enough for brake work, engine bay jobs and general assembly without hunting for a missing size. Chrome vanadium steel takes torque without rounding at the corners, and the polished finish wipes down after a greasy job. Each piece sits in a labelled recess, so a missing socket is obvious at a glance and the whole case can be carried to the vehicle instead of working out of a drawer. The case measures 235 x 125 x 45 mm and weighs 1.16 kg, small enough for a boot kit. Suits automotive repair, motorcycle servicing and workshop assembly. A case to keep in a vehicle for call-outs, where the sockets, bits and ratchet arrive together instead of being gathered from a bench.
+points:
+  1. 46 pieces cover sockets, bits, extensions and a ratchet in one case
+  2. Chrome vanadium steel holds torque without rounding corners
+  3. Labelled recesses show a missing socket at a glance
+  4. Case measures 235 x 125 x 45 mm and weighs 1.16 kg for a boot kit
+
+### 4
+slug: phillips-screwdriver-4-inch-6x90mm
+name: Phillips Screwdriver, 4 Inch Blade (6 x 90 mm)
+cat: hand-tools | moq: MOQ 2 pc | price: $1.06 - $1.60 /pc
+specs: Type=Phillips; Blade Length=90 mm (4 inch); Tip Size=6 mm; Overall Length=190 mm; Handle=Rubber Overmould, Black and Yellow; Shaft=Chrome Plated
+desc: A single Phillips screwdriver with a 90 mm shaft and a 6 mm tip, 190 mm long overall. The four inch blade is the length that suits switch plates, cabinet hinges, appliance panels and terminal blocks, long enough to reach a recessed screw and short enough to stay controllable in a tight space. The tip is hardened and machined to seat in a Phillips head without camming out, so soft brass or zinc plated screws do not get chewed. A black and yellow rubber overmould grips when hands are oily and takes the sting out of a hard turn, and the handle has a hanging hole so the driver stays where it is put. The chrome shaft resists corrosion in a damp toolbox. Suits electricians, appliance fitters and assembly benches that want one dependable driver rather than a full set. A driver to keep in a tool bag rather than a rack, since one good Phillips covers the screws a fitter meets on a routine call.
+points:
+  1. 4 inch blade reaches recessed screws on switch plates and appliance panels
+  2. Hardened tip seats in the head without camming out
+  3. Rubber overmould grips with oily hands and eases hard turns
+  4. Hanging hole keeps the driver where it is put
+
+### 5
+slug: 21v-brushless-drill-kit-10mm
+name: 21V Brushless Cordless Drill Kit (10 mm Chuck, 2 Batteries)
+cat: power-tools | moq: MOQ 1 set | price: $11.15 - $16.73 /set
+specs: Voltage=21V; Motor=Brushless; Chuck=10 mm Self-Locking Keyless; Batteries=2 Included; Charger=Included; Case=Moulded Kit Case with Bits
+desc: A 21V brushless cordless drill kit with a 10 mm self-locking chuck, two batteries, a charger and a fitted case of drill bits and driver bits. The brushless motor runs cooler and lasts longer than a carbon brush motor, and it delivers more turns per charge from the same pack, which matters when a fitter is working away from power. The keyless chuck takes bits without a chuck key and grips round shank accessories as well as hex. Two batteries mean one charges while the other works, so the drill stays in use through a whole fitting job. The case keeps bits, sockets and a flexible shaft driver in moulded slots so nothing is lost between sites. Torque is set on the collar for driving screws without stripping heads, and the two-speed trigger covers drilling and fastening. Suits cabinet fitting, flat pack assembly and light trade work. A kit that suits a first power tool purchase, since the drill, packs, charger and bits arrive together and the case keeps them in one place.
+points:
+  1. Brushless motor runs cooler and gives more work per charge
+  2. Two batteries keep the drill running through a full fitting job
+  3. 10 mm keyless chuck takes round shank and hex accessories
+  4. Moulded case holds bits, sockets and a flexible shaft driver
+
+### 6
+slug: cordless-drill-13mm-two-battery
+name: 13 mm Cordless Drill with Two 5-Cell Batteries
+cat: power-tools | moq: MOQ 1 set | price: $13.30 - $19.94 /set
+specs: Chuck=13 mm Keyless; Batteries=2 x 5-Cell, Included; Charger=Included; Speed=2-Speed Trigger; Extras=Battery Level Display, Side Handle Mount; Case=Blow-Moulded Tool Case
+desc: A 13 mm cordless drill sold with two five-cell batteries, a charger and a blow-moulded tool case. The larger 13 mm chuck takes drill bits and hole saws that a compact 10 mm drill cannot hold, which makes it the one to reach for when a job needs a bigger hole in timber, board or thin metal. Five-cell packs hold their voltage under load better than three-cell packs, so the drill keeps its speed when a hole saw bites. A battery level display on the body shows charge at a glance instead of guessing, and a threaded boss on the collar lets an auxiliary side handle be fitted for heavy drilling. The two-speed trigger covers screwdriving and drilling, and torque is set on the front collar. The case has moulded recesses for the drill, both batteries and the charger. Suits bench work, site fitting and workshop assembly. A drill for a fitter who needs a bigger bit than a compact tool will hold, and the second pack means the work continues while one charges.  Importers assembling a cordless range now weigh battery interoperability before anything else, so a drill that arrives with two packs and a charger is the unit their catalogue tends to be built around.
+points:
+  1. 13 mm chuck holds drill bits and hole saws a compact drill cannot
+  2. Five-cell packs keep speed up when a hole saw bites
+  3. Battery level display shows charge without guessing
+  4. Case has recesses for the drill, both batteries and the charger
+  5. Two packs and a charger in the kit mean one battery runs while the other charges, so the drill is not idle mid-shift
+  6. A two-speed trigger with a front-collar torque setting drives screws and bores holes from the same tool, so a fitter carries one drill to the job
+
+### 7
+slug: pistol-air-drill-3-8-inch
+name: 3/8 Inch Pistol Air Drill with Forward and Reverse
+cat: pneumatic-tools | moq: MOQ 1 pc | price: $9.02 - $13.52 /pc
+specs: Chuck=3/8 inch Keyed; Type=Pistol Grip Air Drill; Speed Control=Progressive Trigger; Direction=Forward and Reverse; Housing=Aluminium; Included=20PM Quick Coupler, Chuck Key
+desc: A pistol grip air drill with a 3/8 inch keyed chuck, built for drilling in places where a mains drill will not fit or where a cable is in the way. The trigger is progressive, so spindle speed is set by how far it is pulled rather than by a switch, and the forward and reverse lever sits under the thumb for backing a bit out of a deep hole. The aluminium housing keeps weight down for overhead work, and there is no motor to overheat, so the tool runs all day on shop air. The chuck takes standard 3/8 inch shank bits and is tightened with the supplied key. A 20PM quick coupler comes in the box for the air line. Suits metal fabrication, timber drilling, panel work and maintenance jobs where compressed air is already plumbed in. A drill for a shop where air is already at the bench, so a hole can be drilled without running a lead across a wet or busy floor.
+points:
+  1. Progressive trigger sets spindle speed by feel, not by a switch
+  2. Forward and reverse lever under the thumb backs a bit out of a deep hole
+  3. No motor to overheat, so it runs all day on shop air
+  4. Ships with a 20PM quick coupler and chuck key
+
+### 8
+slug: air-rivet-nut-gun-m3-m4
+name: 801 Air Rivet Nut Gun with M3 and M4 Nose Pieces
+cat: pneumatic-tools | moq: MOQ 1 set | price: $32.18 - $48.28 /set
+specs: Model=801 Air Rivet Nut Gun; Nose Pieces=M3 and M4 Included; Drive=Pneumatic; Direction=Forward and Reverse; Included=Air Tool Oil, 10 Mandrels; Application=Sheet Metal, Tube, Panel Work
+desc: An 801 air rivet nut gun that sets threaded M3 and M4 nutserts in sheet metal, tube and plate. Instead of a hand tool that needs two hands and a lot of wrist, the air motor spins the mandrel and pulls the nut up in one trigger stroke, so a run of inserts goes in quickly and at an even crush. Both M3 and M4 nose pieces are supplied and swap without tools, which covers the two sizes most panels and brackets use. The pistol body is compact enough to work inside a frame, and the forward and reverse lever backs the mandrel out cleanly without spinning the insert. A bottle of air tool oil and ten spare mandrels come in the box, so the tool can be serviced without a second order. Suits fabrication, automotive panel work and sheet metal assembly. A gun for a fabricator setting nuts into tube and panel, where the air drive keeps the crush even across a long run of inserts.
+points:
+  1. Sets M3 and M4 nutserts in one trigger stroke at an even crush
+  2. Both nose pieces swap without tools
+  3. Reverse lever backs the mandrel out without spinning the insert
+  4. Ships with air tool oil and ten spare mandrels
+
+### 9
+slug: 3-inch-stainless-butt-hinge-2pcs
+name: 3 Inch Stainless Steel Butt Hinge (2-Pack, 1.5 mm)
+cat: hardware | moq: MOQ 1 pair | price: $0.20 - $0.30 /pair
+specs: Material=304 Stainless Steel; Size=3 inch (70 mm); Thickness=1.5 mm; Hole Diameter=4 mm; Finish=Brushed; Pack=2 Pieces
+desc: A 3 inch butt hinge pressed from 304 stainless steel and finished with a brushed grain that keeps painted and lacquered doors looking clean. The knuckle runs on a segmented pin, so a door swings without the squeak and side play that plain pin hinges develop after a season of daily use. At 1.5 mm thick with 4 mm screw holes, it matches the rebate depth and screw pattern of standard timber door preparation, so replacing a worn leaf is a straight swap rather than a re-hang. The pack holds two leaves, one for each side of the door line, and suits internal doors, cabinets, workshop boxes and light gate work. Brushed 304 holds up in kitchens, bathrooms and coastal sites where zinc plated steel starts to spot. Every leaf is drilled and countersunk cleanly so screw heads seat flush, and a peel-off protective film keeps the surface unmarked until the job is finished.
+points:
+  1. Segmented pin knuckle swings quietly with no side play
+  2. 1.5 mm 304 stainless resists rust in kitchens and coastal sites
+  3. Standard 4 mm screw pattern drops into existing door preparation
+  4. Two leaves per pack with peel-off protective film
+  5. Two leaves per pack cover both sides of one door line, so a fitter picks in door units rather than loose pieces
+
+### 10
+slug: 304-position-stop-torque-hinge
+name: 304 Stainless Steel Position-Stop Torque Hinge (26 x 26 mm)
+cat: hardware | moq: MOQ 1 pc | price: $0.25 - $0.37 /pc
+specs: Material=304 Stainless Steel; Size=26 x 26 mm; Thickness=1.5 mm; Hole Pattern=4 x 4 mm, 16 mm spacing; Torque=Fixed, position-stop; Application=Lids, enclosures, display boxes
+desc: A compact 26 x 26 mm torque hinge that holds a lid or flap wherever it is left, so small enclosures stay open without a gas strut or a stay arm. The friction is set inside the knuckle at a fixed torque, which means a display box, instrument case or wall cabinet lid does not creep shut while someone is working inside it. Stamped from 304 stainless steel at 1.5 mm, the leaf is stiff enough to keep a small panel rigid and thin enough to sit flush in a shallow rebate. Four 4 mm countersunk holes take standard screws, and the 16 mm hole spacing fits narrow frames where a larger hinge will not go. Brushed finish blends with stainless panels and painted sheet. Suits retail display units, electrical enclosures, medical carts, camper fit-outs and any small door that needs to stay put at a set angle without hardware hanging off the outside.
+points:
+  1. Holds a lid at any angle with no strut or stay
+  2. Fixed torque stops panels creeping shut mid-task
+  3. Compact 26 mm footprint fits narrow frames
+  4. 304 stainless leaf with four countersunk fixing holes
+  5. Fixed torque replaces a gas strut or stay arm, so a small lid carries fewer parts that can fail
+  6. The 1.5 mm leaf keeps a small panel rigid without a reinforcing plate, so a display box or enclosure lid stays simple to build
+
+### 11
+slug: 304-stainless-door-security-chain
+name: 304 Stainless Steel Door Security Chain with Sliding Plate
+cat: hardware | moq: MOQ 1 set | price: $0.74 - $1.10 /set
+specs: Material=304 Stainless Steel; Type=Security chain with sliding plate; Finish=Brushed Silver; Installation=Screw-mounted, 4 screws included; Application=Entrance, hotel and apartment doors; MOQ=1 set
+desc: A door security chain in 304 stainless steel that lets a door open a hand's width for checking a caller while the chain still holds it. The long plate slides on a mushroom-headed stud and the short plate carries a keyhole slot, so the chain can be hooked on from inside and released in one movement. Both plates are screw fixed with four screws supplied, which suits timber and composite doors without cutting a pocket. The chain links are welded and the plates are finished in brushed silver, so the set keeps its colour on entrance doors, hotel room doors, apartment doors and service counters where plated steel would go dull. Because the fixings go straight into the door face and frame, the chain can be retrofitted to an existing door in minutes with a drill and a screwdriver. Supplied as a complete set with mounting screws.
+points:
+  1. Lets the door open a hand's width while staying secured
+  2. Sliding plate and keyhole slot hook on and release in one motion
+  3. Welded links in 304 stainless keep their finish outdoors
+  4. Four mounting screws included for a straight retrofit
+  5. Surface fixing means an apartment or hotel door is secured without lifting the leaf or cutting a pocket
+  6. One set covers entrance, hotel and apartment doors, so a contractor orders a single reference for a whole block
+
+### 12
+slug: manual-tile-cutter-300-400mm
+name: Manual Tile Cutter 300 / 400 mm with Hardened Scoring Wheel
+cat: hand-tools | moq: MOQ 1 pc | price: $7.50 - $11.20 /pc
+specs: Model=300; Cutting Length=300 mm / 400 mm; Cutting Thickness=6 - 10 mm; Min. Cut Width=35 mm; Base Size=48 x 18 cm; Operation=Handheld lever
+desc: A manual tile cutter for straight cuts on wall and floor tiles up to 400 mm, with a 48 x 18 cm base that stays steady on a bench or floor. The lever arm carries a hardened scoring wheel on a bearing slide, so a single pass scores a clean line before the breaker bar snaps the tile along it. Set-up is a matter of lining the tile against the adjustable fence and locking it, which keeps repeated cuts to the same width without measuring again. It handles tiles from 6 to 10 mm thick and can strip a minimum 35 mm sliver, which covers edge trims and skirting returns. The orange body is moulded with a rubberised pad that grips the tile and damps the snap, and the whole tool weighs little enough to carry between rooms. Suits tilers, kitchen and bathroom fitters, and workshops cutting porcelain, ceramic and stone-look tiles without water or power.
+points:
+  1. Hardened scoring wheel on a bearing slide for a clean line
+  2. Cuts wall and floor tiles 6 - 10 mm thick up to 400 mm
+  3. Adjustable fence locks repeat widths without re-measuring
+  4. No water or power needed, so it works anywhere on site
+  5. Covers 6 - 10 mm tile, so wall tile and floor tile on one bathroom refit are cut with the same tool
+
+### 13
+slug: 100cc-single-lever-grease-gun
+name: 100cc Single-Lever Manual Grease Gun with Flexible Hose
+cat: hand-tools | moq: MOQ 1 pc | price: $2.00 - $3.00 /pc
+specs: Capacity=100 cc; Type=Single-lever manual; Hose=Flexible reinforced hose; Included=Rigid extension, hydraulic coupler, pointed nozzle; Filling=Cartridge or hand fill; Application=Bearings, chassis, workshop machinery
+desc: A 100 cc single-lever grease gun for bearings, chassis points and machinery nipples that are easier to reach by hand than by compressor. The lever drives a single plunger, so one squeeze delivers a measured shot and the handle returns on its own spring. A flexible reinforced hose reaches around guards and into tight corners, while the rigid steel extension takes over where the hose would kink. The hydraulic coupler clips onto a standard nipple and releases without dribbling, and a pointed nozzle is supplied for fittings that have lost their nipple. The barrel fills from a cartridge or by hand, and the follower seals against the tube so the grease is pushed rather than bypassing the piston. At 100 cc it is light enough to carry in a tool bag for maintenance rounds on trailers, farm equipment, workshop machines and plant, and it needs no air line or battery to work.
+points:
+  1. One lever stroke delivers a measured shot of grease
+  2. Flexible hose plus rigid extension reach behind guards
+  3. Hydraulic coupler clips on and releases without dribbling
+  4. No air line or battery needed for maintenance rounds
+  5. Fills from a cartridge or by hand, so a maintenance van can restock in whichever format is already on the shelf
+
+### 14
+slug: automatic-chalk-line-reel
+name: Automatic Chalk Line Reel with Rewind Dial
+cat: hand-tools | moq: MOQ 1 pc | price: $0.55 - $0.80 /pc
+specs: Type=Automatic rewind chalk line; Body=ABS with rubberised grip; Line=Braided nylon; Ink Chamber=Refillable, sealed cap; Features=Fixing pin, belt hook, rewind dial; Application=Layout and marking on site
+desc: An automatic chalk line reel that snaps a straight reference line across a floor, wall or sheet in one pull. The line pays out, the hook holds the far end, and lifting the line leaves a crisp chalk mark; the rewind dial then winds it back without the loose coil that makes a hand-wound reel tangle. The ink chamber opens for a refill of powder and the cap seals so chalk does not leak into a tool bag. A fixing pin at the nose lets one person anchor the end into a timber or plaster surface and work alone, which saves a second pair of hands on layout work. The body is moulded in ABS with a rubberised grip band and a belt hook. Suits carpenters, drywall installers, tilers, decking crews and anyone marking parallel lines, stud positions, tile courses or cut lines before a saw or drill goes anywhere near the material.
+points:
+  1. Rewind dial coils the line evenly with no tangles
+  2. Fixing pin anchors one end so a single user can mark alone
+  3. Sealed refillable ink chamber keeps chalk out of the tool bag
+  4. Braided nylon line snaps a crisp, straight reference mark
+  5. Belt hook and rubberised grip keep the reel to hand on a ladder, so layout marks need no trip back to the toolbox
+  6. The ink chamber refills from loose chalk powder, so an emptied reel is topped up rather than replaced
+
+### 15
+slug: concrete-vibrator-zn50
+name: Electric Concrete Poker Vibrator, 50 mm Head with 6 m Shaft
+cat: power-tools | moq: MOQ 1 set | price: $39.00 - $59.00 /set
+specs: Type=Insertion (poker) vibrator; Head Diameter=50 mm; Flexible Shaft=6 m; Motor=Electric, air-cooled; Head Material=Chrome steel; Application=Columns, footings, beams, slabs
+desc: An electric poker vibrator that drives a 50 mm head through fresh concrete on a 6 m flexible shaft, so pours in columns, footings, beams and slabs can be consolidated without a crew standing in the mix. The motor sits on a steel base away from the pour, and the shaft carries the drive down to the eccentric head, which shakes out trapped air and lets the aggregate settle tight against formwork and rebar. Working in short vertical plunges at regular spacing leaves a dense, even surface with fewer blowholes and cold joints, which is what shows after the formwork comes off. The head is smooth chrome steel so it pulls out cleanly instead of dragging a hole, and the shaft coils for transport between floors. Suits concrete contractors, groundwork crews, precast yards and builders pouring footings, columns, walls and raft slabs on residential and light commercial sites.
+points:
+  1. 50 mm head consolidates concrete around rebar and formwork
+  2. 6 m shaft reaches deep pours from a motor kept clear of the mix
+  3. Smooth chrome head plunges in and pulls out without dragging
+  4. Cuts blowholes and cold joints for a denser finished surface
+  5. Air-cooled electric motor runs off site power, so a residential pour needs no compressor on the ground
+
+### 16
+slug: angled-tile-groover-550w
+name: 550W Angled-Head Tile Groover and Trim Tool Kit
+cat: power-tools | moq: MOQ 1 set | price: $27.00 - $41.00 /set
+specs: Power=550 W; Speed Control=6-speed variable; Head=90 degree angled; Collet Sizes=2.35 / 3.0 / 3.17 mm; Accessories=Diamond pads, cut-off wheels, backing pad, wrenches, brushes; Application=Grout removal, edge trimming, polishing
+desc: A 550 W rotary tool with a 90 degree angled head that reaches into grout lines and along tile edges where a straight grinder cannot sit flat. The angled neck keeps the body clear of the wall, so the bit follows a joint instead of fighting the housing. Six speeds let the operator slow down for cutting grout without chipping the tile glaze, then spin up for polishing or light grinding. Three collets cover 2.35, 3.0 and 3.17 mm shanks, and the blow-moulded case holds diamond pads, cut-off wheels, a backing pad, collets, wrenches and spare brushes, so a full grout removal or edge trim job starts from one box. Common uses include raking out grout before re-grouting, cleaning tile adhesive off a wall, trimming laminate or aluminium edge strip, deburring, and polishing small stainless and mould surfaces. Suits tilers, bathroom fitters, shopfitters and maintenance teams.
+points:
+  1. 90 degree angled head follows grout lines flat against the wall
+  2. Six speeds cut grout slowly and polish fast without burning glaze
+  3. Three collet sizes take common 2.35 - 3.17 mm shanks
+  4. Carry case holds the full pad, wheel and brush set
+  5. 550 W body runs on standard site power, so grout raking and edge trimming stay in-house instead of going to a specialist
+  6. Diamond pads and cut-off wheels in the case cover grout raking, edge trimming and polishing, so a bathroom refit needs one tool instead of three
+
+### 17
+slug: pneumatic-turbine-vibrator-gt10
+name: GT-10 Pneumatic Turbine Vibrator (50 kg Force, 1/8 in)
+cat: pneumatic-tools | moq: MOQ 1 pc | price: $2.50 - $3.70 /pc
+specs: Model=GT-10; Vibration Force=50 kg at 0.6 MPa; Air Inlet=1/8 in; Body Size=86 x 50 x 50 mm; Mounting Hole Spacing=68 mm; Included=PC8-01 fitting, 1/8 in silencer
+desc: A GT-10 turbine vibrator that bolts to a hopper, chute or bin wall and shakes material loose before it bridges or rat-holes. Compressed air spins an internal turbine, and the unbalanced rotor delivers 50 kg of vibration force at 0.6 MPa, enough to keep powder, grain, sand and small parts flowing through a narrow throat. Because the drive is air, there are no electrical components at the point of use and no motor to burn out in a dusty environment. The body is a compact 86 mm block with 68 mm mounting hole spacing, so it fits small hoppers and fabricated chutes where a piston knocker would be too bulky. A 1/8 in air inlet takes a standard push-in fitting, and a silencer is included to take the edge off the exhaust noise. Air pressure can be regulated to tune the force to the material.
+points:
+  1. 50 kg of vibration force at 0.6 MPa clears bridges and rat-holes
+  2. Air driven, so no electrical parts sit in a dusty bin
+  3. Compact 86 mm body suits small hoppers and fabricated chutes
+  4. Regulate air pressure to match powder, grain or small parts
+  5. Bolts to an existing hopper or chute wall, so a bridging problem is solved with a drilled mounting rather than a new bin
+
+### 18
+slug: pneumatic-chamfering-tool-45-degree
+name: Pneumatic 45-Degree Chamfering Tool with Carbide Insert Set
+cat: pneumatic-tools | moq: MOQ 1 set | price: $13.80 - $20.80 /set
+specs: Drive=Pneumatic; Chamfer Angle=45 degree; Depth Settings=1.0 / 2.0 / 3.0 mm; Inserts=10 carbide inserts, R1.5; Included=6 bearings, screws, hex keys, O-rings, 2 couplers; Application=Metal deburring, wood and plastic edge trimming
+desc: A pneumatic chamfering tool that cuts a 45 degree edge on steel, aluminium, plastic and timber with a replaceable carbide insert instead of a grinding wheel. The insert shears the corner cleanly, so the edge comes out bright and consistent rather than smeared or heat marked, and the depth collar is marked at 1.0, 2.0 and 3.0 mm so a repeat chamfer can be set without gauging each part. The angled head reaches an inside corner and the front bearing guide follows a curved or straight edge, which keeps the cut even on tube, plate and machined blocks. Air drive means the tool keeps its speed under load and has no motor to overheat during a long deburring run. The set ships with ten carbide inserts, six guide bearings, spare screws, two hex keys, O-rings and two quick couplers, so the tool can be re-tipped on the bench. Suits fabrication, welding and machine shops.
+points:
+  1. Carbide insert shears a clean 45 degree edge with no heat mark
+  2. Depth collar marked at 1.0, 2.0 and 3.0 mm for repeat work
+  3. Bearing guide follows straight or curved edges evenly
+  4. Ships with ten inserts and a full rebuild kit
+  5. Cuts steel, aluminium, plastic and timber, so one deburring station serves mixed-material fabrication work
+  6. The angled head reaches an inside corner that a straight grinder cannot sit in, so a welded frame is chamfered without being dismantled
+
+### 19
+slug: 304-stainless-wedge-expansion-bolt
+name: 304 Stainless Steel Wedge Expansion Anchor Bolt (M6 - M16)
+cat: hardware | moq: MOQ 1 pc | price: $0.10 - $0.16 /pc
+specs: Material=304 Stainless Steel (A2-70); Standard=GB/T 15856.1-2002, Grade A; Diameters=M6 / M8 / M10 / M12 / M14 / M16; Lengths=50 - 150 mm (27 combinations); Finish=Pickled and passivated; Packing=Carton, with nut and washer
+desc: Wedge expansion anchors for cracked and uncracked concrete, made from 304 stainless steel at A2-70 strength so the fixing keeps its load capacity in damp basements, coastal sites and wash-down areas. The bolt expands as the nut is tightened, clamping the sleeve against the drilled hole, which gives a through-fixing that can be removed and re-used without resin. Six diameters from M6 to M16 cover balustrades, awnings, racking, air-conditioning brackets, machine bases and scaffold ties, with 27 length options from 50 mm to 150 mm so buyers can match slab thickness. The acid-pickled finish leaves a clean silver surface that resists fingerprinting and light chemical attack. A2-70 grade means the stud holds tensile loads of the 700 MPa class without the plating flaking that plated carbon steel suffers outdoors. Supplied in cartons with nuts and washers, and available in mixed-size assortments for distributors building a fastener range.
+points:
+  1. A2-70 stainless stud keeps load capacity in damp, coastal and wash-down areas
+  2. Wedge sleeve expands on tightening - removable fixing, no resin or curing time
+  3. Six diameters and 27 lengths cover slab thickness from 50 mm to 150 mm
+  4. Pickled finish resists fingerprints and light chemical attack on site
+
+### 20
+slug: 304-stainless-screw-nut-washer-kit
+name: 304 Stainless Steel Screw, Nut and Washer Kit (13 Types, 250 g)
+cat: hardware | moq: MOQ 2 sets | price: $0.60 - $0.90 /set
+specs: Material=304 Stainless Steel; Contents=13 types in 8 compartments; Machine screws=M3x6, M3x10, M4x10, M4x20, M5x10, M5x20; Nuts=M3 / M4 / M5; Washers=M3 / M4 / M5; Net weight=Approx. 250 g
+desc: A compartmented assortment case that keeps the most-used stainless fasteners within reach on the bench, in the van or on site. Thirteen component types sit in eight labelled compartments: pan-head cross-recess machine screws from M3x6 to M5x20, matching hex nuts and flat washers in M3, M4 and M5, plus a run of self-tapping screws for timber and plastic. All parts are 304 stainless steel, so they will not rust in bathrooms, kitchens or outdoor cabinets, and the threads are rolled cleanly so they start without cross-threading. The transparent lid shows stock levels at a glance, which makes reordering simple for workshops that use the same sizes every week. Roughly 250 grams of hardware covers cabinet assembly, appliance repair, shelving, signage and small machine builds. A practical counter item for hardware retailers and a low-cost add-on for buyers already ordering hinges, slides or brackets in bulk.
+points:
+  1. 304 stainless throughout - no rust in bathrooms, kitchens or outdoor cabinets
+  2. Eight labelled compartments with a clear lid for instant stock checks
+  3. Covers machine screws, self-tapping screws, nuts and washers in one case
+  4. Light enough for a tool bag, cheap enough to reorder by the carton
+
+### 21
+slug: copper-tube-flaring-tool-kit
+name: 45 Degree Copper Tube Flaring Tool Kit (2-Piece, 3/16 - 5/8 inch)
+cat: hand-tools | moq: MOQ 1 set | price: $2.80 - $4.20 /set
+specs: Flare angle=45 degree; Tube sizes=3/16, 1/4, 5/16, 3/8, 7/16, 1/2, 5/8 inch; Bar material=Forged steel, chrome plated; Jaw material=Chrome vanadium steel; Kit contents=Flaring bar + screw-type yoke; Application=Copper, aluminium, thin-wall stainless tube
+desc: A two-piece 45 degree flaring set for copper, aluminium and thin-wall stainless tube, built for air-conditioning, refrigeration, gas and plumbing work. The forged bar carries seven threaded ports marked 3/16, 1/4, 5/16, 3/8, 7/16, 1/2 and 5/8 inch, so one tool covers the small-bore sizes used on split systems and water lines. The screw-type yoke with a T-handle presses the cone into the tube end squarely, producing a smooth flare that seats without leaks, and the wing nuts clamp the bar onto the tube without crushing it. Chrome vanadium jaws and a polished chrome finish keep the tool working after repeated use in damp plant rooms. It packs into a toolbox for service calls and needs no power, which suits field engineers working on rooftops and in tight cupboards. A low-cost item that service companies order in multiples for each van and each technician.
+points:
+  1. Seven imperial ports from 3/16 to 5/8 inch in one bar
+  2. Screw-type yoke seats the cone squarely for leak-free flares
+  3. Chrome vanadium jaws and chrome plating survive damp plant rooms
+  4. No power needed - fits a tool bag for rooftop and cupboard work
+  5. The screw-type yoke flares thin-wall stainless as well as copper, so a technician does not need a separate hydraulic tool for stainless lines
+
+### 22
+slug: 8-line-green-laser-level
+name: 8-Line Green Beam Self-Leveling Laser Level (Rechargeable)
+cat: hand-tools | moq: MOQ 1 set | price: $8.40 - $12.50 /set
+specs: Laser=Green beam, Class II; Line count=8 lines (wall and floor); Leveling=Self-leveling; Brightness=Adjustable; Power=Rechargeable Li-ion battery + charger; Kit=Carry case, battery, charger, manual
+desc: An eight-line green beam laser level for setting out walls, floors and ceilings before tiling, plastering or joinery. The green diode reads more clearly than red in bright rooms, and the brightness can be adjusted, so lines stay visible against dark screed and light plasterboard alike. Self-levelling takes over once the unit is roughly set, and the housing sits on a base that can be rotated for corner and staircase work. A rechargeable lithium battery and charger are included with a padded carry case, so the kit travels to site ready to run without hunting for cells. Lines project on both wall and floor planes, which lets one setup mark a floor line and the matching wall line for a kitchen or bathroom, cutting the number of resets per room. Compact enough for a toolbox, and a sensible entry point for contractors moving from spirit levels to laser layout work.
+points:
+  1. Green beam stays readable in bright rooms and against dark screed
+  2. Wall and floor lines from one setup - fewer resets per room
+  3. Self-leveling with adjustable brightness for low-light and outdoor work
+  4. Ships as a kit with battery, charger and padded case
+  5. The base rotates for corner and staircase work, so lines can be carried round an inside corner without moving the tripod
+
+### 23
+slug: revolving-leather-hole-punch-pliers
+name: 6-Hole Revolving Punch Pliers for Leather and Belts (2.0 - 4.5 mm)
+cat: hand-tools | moq: MOQ 2 pcs | price: $1.55 - $2.30 /pc
+specs: Body=High-carbon steel, drop-forged; Cutting edge=S2 steel, hardened; Hole sizes=2.0 / 2.5 / 3.0 / 3.5 / 4.0 / 4.5 mm; Overall length=230 mm; Weight=400 g; Handles=Plastic coated, anti-slip
+desc: A revolving punch for leather, belts, straps, grommets, plastic sheet and light card. Six hardened punches are mounted on a rotating turret, so the operator turns the head to the required diameter instead of hunting for a separate punch: 2.0, 2.5, 3.0, 3.5, 4.0 and 4.5 mm. The high-carbon steel body is drop-forged with an S2 steel cutting edge, and the compound lever action multiplies hand force, which matters when punching thick harness leather or repeated runs of belt holes. Plastic-coated handles stay comfortable over long batches. A size dial on the head shows the selected hole at a glance. At 230 mm overall and 400 grams, it fits a tool roll and needs no anvil or mallet, so repairs can be done at the counter or on site. A steady seller for leatherworkers, saddlers, belt makers and workshop supply buyers.
+points:
+  1. Six punch sizes on one rotating turret - no loose punches to lose
+  2. Compound lever action cuts thick harness leather with hand pressure
+  3. S2 hardened edge and forged body hold up to repeat batch work
+  4. Size dial and 230 mm length suit counter and on-site repairs
+
+### 24
+slug: portable-inverter-mma-welder
+name: Portable Inverter MMA Welding Machine 400 A (110V / 220V)
+cat: power-tools | moq: MOQ 1 set | price: $15.20 - $22.80 /set
+specs: Input voltage=110 V / 220 V dual voltage; Output current=20 - 400 A; Rated capacity=5 kVA; Welding mode=DC stick (MMA), IGBT inverter; Cooling=Forced air fan; Kit contents=Leads, earth clamp, holder, hammer, brush, gloves, shield
+desc: A portable inverter welder for stick (MMA) work on steel, stainless and galvanised sections, built for site repairs and light fabrication. The IGBT inverter delivers a stable DC arc from a 110V or 220V supply, so the same machine can be used on US and European jobs, and the current adjusts from 20 to 400 amps to suit electrodes from thin sheet up to heavy plate. Anti-stick control releases the electrode if it fuses to the workpiece, and hot-start strikes the arc without scratching. A cooling fan and slatted steel case keep duty cycles usable during long runs, while the protected outlets and rubber feet suit rough floors. The kit ships with welding leads, earth clamp, electrode holder, chipping hammer, wire brush, gloves and a shield, so a buyer can start work without extra purchases. Compact and light enough for one person to carry up scaffolding or into a service van.
+points:
+  1. Dual voltage input works on US and European single-phase supplies
+  2. Hot-start and anti-stick keep the arc stable on thin sheet and repair work
+  3. Ships as a working kit - leads, shield, gloves and chipping hammer included
+  4. Light enough for one person to carry to a rooftop or into a service van
+

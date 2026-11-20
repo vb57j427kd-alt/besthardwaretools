@@ -1,0 +1,361 @@
+BATCH: day 20, slice 4/4 (products_data.py index 294-391)
+count=25
+
+### 1
+slug: cabinet-hanging-bracket
+name: Heavy-Duty Cabinet Hanging Bracket Set (240 kg, Adjustable)
+cat: hardware | moq: MOQ 1 pc | price: $1.15 - $1.72 /pc
+specs: Material=Cold-Rolled Steel; Finish=Nickel-Plated; Rated Load=240 kg per Set; Adjustment=7 mm Vertical and 7 mm In-Out; Set Weight=Approx. 525 g, 23 mm or 27 mm High; Cabinet Depth=Up to 600 mm
+desc: Hanging bracket set for wall-mounted cabinets, bathroom vanities, floating cupboards and suspended TV units, rated to 240 kg per set in cold-rolled steel. The three-part layout is a hanging plate, a seat and a cover, and it allows 7 mm of vertical and 7 mm of in-out adjustment after the cabinet is on the wall, which is how a run of units gets levelled without packing shims behind the carcass. The seat also clears the 13 mm side space needed by side-mount three-section drawer slides, so a drawer box can slide past the bracket without fouling it. Each set weighs about 525 g, sits 23 or 27 mm high and includes expansion bolts and self-tapping screws. Grey and white covers are available. Suits cabinet depths up to 600 mm and any back panel thickness. Full fixing hardware is supplied. Kitchen installers keep spare sets in the van, so a wall unit can be hung on the day the carcasses arrive rather than waiting on another trip. Suits a fitter hanging wall units alone, since the adjustment is made from the front after the cabinet is on the rail rather than during the lift. Because the plate and seat are closed off by the cover once they are seated, a finished unit shows a clean edge under the carcass rather than an exposed bracket, which is what a specifier looks at on a showroom run. Contract joiners fitting a block of apartments can hang the same set on every unit, so the levelling method does not change from kitchen to bathroom to utility cupboard.
+points:
+  1. 240 kg rated set means a heavily loaded bathroom or kitchen unit hangs without trusting the panel
+  2. 7 mm vertical and 7 mm in-out adjustment levels a run of units without packing shims
+  3. Three-part seat clears the 13 mm side space needed by side-mount drawer slides
+  4. Nickel-plated cold-rolled steel resists damp air in bathrooms and utility rooms
+  5. Expansion bolts and self-tapping screws come with each set so nothing has to be sourced separately
+  6. Levelling is done from the front, so a hung unit is adjusted without taking it down
+  7. Supplied in 23 mm and 27 mm rail heights, so one bracket line covers standard and deep 600 mm carcasses from a single stock item
+
+### 2
+slug: cross-lug-wrench-20-inch
+name: 20 Inch Cross Lug Wrench (Cr-V, 17/19/21/23 mm)
+cat: hand-tools | moq: MOQ 1 pc | price: $2.13 - $3.19 /pc
+specs: Material=Cr-V Alloy Steel; Length=20 inch; Socket Sizes=17 / 19 / 21 / 23 mm; Handle Diameter=Approx. 15.8 mm; Socket Wall=Approx. 4.5 mm; Weight=1.71 kg, Double-Reinforced
+desc: Four-way cross wheel wrench forged from Cr-V alloy steel for roadside and workshop tyre changes. Four sockets sit on a single 20 inch cross, so the two sizes not in use act as the handle and both hands can stay on the tool, which is what stops a stubborn nut from rolling the wrench off. The sockets cover 17, 19, 21 and 23 mm, the four common passenger and light commercial wheel nut sizes, and the chrome-plated finish with a knurled grip wipes clean and does not slip in wet weather. Handles are about 15.8 mm across and the socket walls about 4.5 mm, giving the stiffness needed to take a breaker bar load without splaying. The tool weighs 1.71 kg and is double-reinforced at the centre joint. A useful line for tyre shops, service vans, hire fleets and car accessory sellers. Car owners changing between summer and winter wheels keep it on a garage shelf, since the sockets cover both sets. Kept in the boot or the van as the one tool for a roadside wheel change, where both hands on the cross give the leverage a short bar cannot.
+points:
+  1. Four sockets on one cross give both hands a grip, so a tight nut does not roll the wrench off
+  2. 17, 19, 21 and 23 mm covers the common passenger and light commercial wheel nut sizes in one tool
+  3. Cr-V alloy steel with 4.5 mm socket walls takes breaker bar loads without splaying
+  4. Chrome plating and a knurled grip stay usable with wet hands at the roadside
+  5. One tool in the boot or the van replaces hunting through a socket set at night
+  6. Chrome plating resists the road salt that eats a plain steel wrench left in a boot
+  7. One 1.71 kg cross in the boot covers four nut sizes, so a wheel change does not depend on finding the right socket bar first
+
+### 3
+slug: tungsten-carbide-glass-cutter
+name: Tungsten Carbide Glass and Tile Cutter (185 mm, Roller)
+cat: hand-tools | moq: MOQ 1 pc | price: $0.73 - $1.10 /pc
+specs: Length=185 mm; Cutting Wheel=Tungsten Carbide, Micro-Nano Ground; Cutting Range=2 to 80 mm; Type=Roller Cutter with Tapping Head; Guide Angle=Approx. 60 Degrees; Weight=105 g
+desc: Roller glass cutter with a tungsten carbide wheel for scoring flat glass, mirror, tile and glazed ceramic before snapping. The wheel is micro-nano ground and runs on a sealed steel shaft, so the score stays even along the length of the cut, and the alloy tapping head at the tail is used to tap under the score line so the break follows it. A 185 mm body gives enough leverage for a straight cut and the knurled ergonomic grip keeps the hand from sliding when pressure is applied. An alloy oil guide tube with an anti-leak rubber ring feeds a small amount of oil to the wheel, which is what keeps a fresh edge running smoothly. Cuts material from 2 to 80 mm and is guided at about 60 degrees. Not for tempered glass or quartz. Weighs 105 g. Hardware and tile shops list it as a counter item, since customers cutting a single panel rarely own a cutter already. A small tool for a glazier or a hobbyist cutting mirror and tile, where the tapping head saves carrying a separate breaker. For a workshop that only cuts the occasional mirror or tile replacement, the cutter takes less drawer space than a bench model and needs no setting up before a single score is run. Because it scores rather than grinds, there is no glass dust left on the bench or in the air to clear before the next job, which matters where the cutting table is shared with other work.
+points:
+  1. Tungsten carbide wheel on a sealed steel shaft holds an even score along the whole cut
+  2. Alloy tapping head at the tail lets the break follow the score line instead of wandering
+  3. Oil guide tube with an anti-leak ring keeps the wheel fed so it stays smooth
+  4. Knurled grip gives the leverage to score thicker tile without the hand slipping
+  5. One cutter handles flat glass, mirror, tile and glazed ceramic from 2 to 80 mm
+  6. The sealed shaft keeps grit out of the wheel, so the score stays even after months in a pocket
+
+### 4
+slug: tap-wrench-set-6pc
+name: 6-Piece Tap and Die Wrench Set (M3 to M8, Ground Flutes)
+cat: hand-tools | moq: MOQ 1 set | price: $1.22 - $1.83 /set
+specs: Set Contents=6 Pieces, Taps and Wrench; Tap Sizes=M3 x 0.5, M4 x 0.7, M5 x 0.8, M6 x 1, M8 x 1.25; Flutes=Fully Ground, Straight; Tap Wrench=Covers M3 to M8; Die Wrench=M25; Handle Variants=Long and T-Handle Covering M5 to M12
+desc: Six-piece tap and wrench set for cutting and cleaning threads by hand in the workshop, service van or assembly bench. The taps are fully ground with straight flutes and hardened cutting edges, which keeps them cutting true in steel, aluminium and brass instead of rubbing and tearing the thread. The set covers M3 by 0.5, M4 by 0.7, M5 by 0.8, M6 by 1 and M8 by 1.25, and the tap wrench grips the square shank firmly so the tap cannot spin or snap under load. The die wrench takes M25 dies, and the longer T-handle variants reach M5 through M12 for deeper work. The clamping jaws are made to hold tight rather than slip, which is the usual cause of a broken tap in a blind hole. A compact set to keep on the bench for repair and rethreading jobs. Plumbers and electricians on site use the set to cut fresh threads on fittings and conduit instead of ordering pre-threaded parts to length. A bench set for repairing a stripped thread on a machine rather than sending the part out, since the tap wrench covers the common repair sizes.
+points:
+  1. Fully ground straight-flute taps with hardened edges cut steel, aluminium and brass without tearing the thread
+  2. M3 to M8 in one set covers the common repair and assembly thread sizes
+  3. Clamping jaws hold the square shank tight, which is what stops a tap spinning or snapping in a blind hole
+  4. Die wrench takes M25 dies and the longer handles reach M12 for deeper work
+  5. Small enough to keep on the bench, in a service van or in a maintenance kit
+  6. Straight flutes clear chips ahead of the cutting edge, so a thread in soft metal does not pack
+  7. Kept in a service van, the set rethreads a fitting where it is installed, so a repair stays inside one visit instead of a part being taken off and sent out
+
+### 5
+slug: cordless-caulking-gun-21v
+name: 21V Cordless Caulking Gun (Brushless, 6-Speed)
+cat: power-tools | moq: MOQ 1 kit | price: $21.97 - $32.96 /kit
+specs: Power=21V Lithium Rechargeable; Motor=Brushless; Speed Settings=6; Drive=Solid Push Rod; Release=Pull Plate to Withdraw Rod; Type=Cordless, Kit with Battery and Charger
+desc: Cordless caulking gun running a brushless motor on a 21V lithium battery pack, built for long runs of sealant and grout where a hand gun would leave the wrist aching and the bead uneven. Six speed settings let the same tool lay a slow bead of stiff adhesive along a cabinet edge and then run a fast bead of flexible sealant around a window. A solid push rod drives the plunger with the motor instead of a spring, so the bead stays the same thickness from the first centimetre to the last and the material does not surge when the trigger is held. The pull plate releases so the rod can be drawn back and a part-used tube changed without fighting the piston. Suits kitchen and bathroom sealing, tile grout lines, flooring and window and door frame work. Supplied as a kit with battery and charger. Shopfitters and window installers buy it when a job has a long run of joints to seal in a single visit rather than mixing beads by hand. A gun for a decorator running long beads on a fit-out, where the cordless drive keeps the bead even as the tube empties. With no air line and no lead to move, the gun goes from a bathroom to a window run without anything being unplugged, and the operator's free hand stays on the nozzle guiding the bead rather than working a release. Changing from a stiff adhesive to a flexible sealant is a matter of resetting the speed, so one tube after another is run on the same tool instead of a swap to a hand gun.
+points:
+  1. Brushless motor on a 21V pack runs long beads of stiff adhesive without the wrist fatigue of a hand gun
+  2. Six speeds let one tool lay a slow bead along a cabinet edge and a fast bead around a window
+  3. Solid push rod holds the bead the same thickness from first centimetre to last
+  4. Pull plate withdraws the rod so a part-used tube can be changed without fighting the piston
+  5. Covers sealing, grout lines, flooring and window and door frame work off one battery platform
+  6. The battery and charger are in the kit, so the gun works straight out of the case
+
+### 6
+slug: drill-mounted-metal-shear
+name: Drill-Mounted Metal Shear Attachment (Forged, Replaceable Blades)
+cat: power-tools | moq: MOQ 1 set | price: $3.27 - $4.90 /set
+specs: Type=Drill-Mounted Shear Attachment; Compatibility=21V and 12V Drills, Including Impact Drills; Body=Thickened Alloy Steel, One-Piece Forged; Blades=Detachable and Replaceable, 1 to 3 Options; Cuts Steel Sheet=0.2 to 1.0 mm; Weight=412.5 g, Universal Hex Shank
+desc: Shear attachment that converts an ordinary 21V or 12V drill, including impact drills, into a powered sheet metal cutter. A precision gear drive takes the drill rotation to the blades, which shear the sheet instead of grinding it, so the cut is clean and burr free with no sparks, no kickback and no water to trap rust on the edge. The thickened alloy steel body is one-piece forged around the gear train, which is what keeps the blades in alignment under load. The blades are detachable and replaceable, and one, two or three blade options can be specified so the same body cuts steel sheet from 0.2 to 1.0 mm, copper and aluminium from 0.3 to 1.2 mm and stainless from 0.2 to 0.8 mm. A non-slip universal hex shank fits the drill chuck. Weighs 412.5 g. Sheet metal workers use it on ducting, flashing and guttering where a short cut is quicker than setting up a bench shear. Turns a drill already on the van into a shear for duct and flashing work, which saves carrying a separate powered shear to site.
+points:
+  1. Turns a 21V or 12V drill into a powered sheet metal cutter off a tool already in the van
+  2. Shearing blades leave a clean burr-free edge with no sparks, no kickback and no water to trap rust
+  3. One-piece forged alloy steel body holds the gear train and blades in alignment under load
+  4. Replaceable blades and a choice of one to three options cover steel, copper, aluminium and stainless
+  5. Non-slip universal hex shank fits the chuck without an adapter
+  6. Shearing leaves the sheet flat, so a cut edge can be joined without hammering it straight first
+  7. The cut runs along the edge of a sheet, so flashing or a duct section already fixed in place can be trimmed to fit rather than being cut on the bench and carried up
+  8. At 412.5 g the attachment adds little weight to a drill already on site, so flashing and ductwork can be cut from a ladder without a second power lead
+
+### 7
+slug: pneumatic-grease-gun-400cc
+name: 400cc Pneumatic Grease Gun (Dual-Mode, High Pressure)
+cat: pneumatic-tools | moq: MOQ 1 kit | price: $7.55 - $11.32 /kit
+specs: Capacity=400 cc; Mode=Pneumatic and Manual; Air Supply=0.8 MPa, 1/4 inch Inlet, 8 mm Bore Hose; Head=Zinc Alloy on Alloy Body; Weight and Length=1.5 kg, 43 cm Overall; Kit Contents=Pneumatic Head, Metal Barrel, 230 mm Hose, 130 mm Pipe, 5 Nozzles, Switch Fitting
+desc: Dual-mode grease gun that runs either from the shop air line or by hand, so a machine can be greased at the bench with air pressure and then finished in a corner where no hose reaches. In pneumatic mode it takes 0.8 MPa through a 1/4 inch inlet on an 8 mm bore hose, which develops the pressure needed to push grease through a blocked or long grease nipple. The head is zinc alloy on an alloy body, and the pressure rod and threads are thickened to survive the shock of a line that is pulsed on and off. The barrel holds 400 cc and the whole gun weighs 1.5 kg over 43 cm. The kit includes the pneumatic head, a metal grease barrel, a 230 mm hose, a 130 mm rigid pipe, two flat nozzles, two short pointed nozzles, one long pointed nozzle and a switch fitting. Suits excavators, bulldozers, harvesters, tractors, ships and cars. Fleet and plant workshops keep the kit beside the air line, so a machine can be greased before it goes back out. A gun for a plant or fleet workshop where greasing points are reached on air at the bench and by hand where the line will not reach. The flat, short pointed and long pointed nozzles let the operator pick the tip that seats on a recessed or angled nipple, so a service round is not stopped by the one fitting a standard coupler cannot reach. The 400 cc barrel covers a full round of grease points before a refill, which is why the kit is kept charged beside the air line rather than packed away between services.
+points:
+  1. Runs on air at the bench and by hand in a corner where no hose will reach
+  2. 0.8 MPa through a 1/4 inch inlet develops the pressure to clear a blocked or long grease nipple
+  3. Thickened pressure rod and threads survive a line pulsed on and off all day
+  4. Zinc alloy head on an alloy body with a 400 cc barrel covers a full service round
+  5. Five nozzles, hose and rigid pipe come in the kit to suit excavators, tractors, harvesters and cars
+  6. Running on air leaves one hand free to hold the coupler on the nipple
+
+### 8
+slug: air-tool-oil-500ml
+name: Air Tool Oil 500 ml (Pneumatic Lubricant, Anti-Rust)
+cat: pneumatic-tools | moq: MOQ 1 bottle | price: $0.71 - $1.07 /bottle
+specs: Volume=500 ml per Bottle; Gross Weight=440 g; Shelf Life=3 Years; Carton=30 Bottles, 14 kg, 40 x 33 x 24.5 cm; Application=Air Impact Wrenches, Nailers, Compressors; Method=Inject 3 to 5 mm Oil Column, Run 3 to 5 Minutes Off Load
+desc: Pneumatic lubricant blended for air tools, supplied in a 500 ml bottle at 440 g gross with a three year shelf life and packed 30 bottles to a carton. It is intended to go into the tool rather than onto the floor: a 3 to 5 mm oil column is injected into the air inlet before use and the tool is then run off load for 3 to 5 minutes so the oil reaches the vanes, bearings and seals. Six jobs are claimed for it, deep lubrication, anti-rust and derusting, wear and noise reduction, cooling and anti-corrosion, oxidation stability and cleaning care. Used on air impact wrenches, air nailers and compressors as well as small air and mechanical parts around the workshop such as bearings and door locks. A consumable worth stocking beside every air tool on the shelf. Kept on the bench beside the compressor, it becomes part of the routine before a nailer or impact wrench goes back in the van. A consumable a workshop reorders on a schedule, since a bottle at each air drop keeps tools running between services.
+points:
+  1. Inject a 3 to 5 mm column into the air inlet before use and the tool runs quieter and cooler
+  2. Six claimed jobs in one bottle: lubrication, anti-rust, wear and noise reduction, cooling, oxidation stability and cleaning
+  3. Also suits small air and mechanical parts round the workshop such as bearings and door locks
+  4. Three year shelf life and a 30 bottle carton make it easy to stock beside every air tool
+  5. A low cost consumable that protects the vane and bearing wear that scraps an air tool early
+  6. A bottle kept beside the air line turns oiling into routine rather than a task to remember
+  7. Because the dose is a short oil column rather than a full fill, one 500 ml bottle covers many oiling rounds, so workshops reorder it by the carton alongside air tool spares
+
+### 9
+slug: magnetic-cabinet-door-catch
+name: Zinc-Plated Magnetic Cabinet Door Catch (Screws Included)
+cat: hardware | moq: MOQ 2 pc | price: $0.04 - $0.06 /pc
+specs: Material=Zinc-Plated Steel; Type=Magnetic Cabinet Door Catch; Finish=Zinc Plated; Pack=1 Piece; Fasteners=Mounting Screws Included; Application=Wardrobe, Cabinet and Cupboard Doors
+desc: A compact magnetic catch that holds a cabinet door shut with a strong magnet instead of a sprung roller, so the door stays closed without the rattle and wear that a ball catch develops over time. The body is pressed from steel and finished in zinc plating that holds up through humid kitchens and utility rooms, and the matching strike plate mounts on the door itself so the alignment is set once at installation. The magnet draws the door home smoothly, which suits wardrobe doors, under-sink cupboards and any panel that has to sit flush without a handle or a knob. Because the fitting is only a few pieces, it installs with the supplied screws and nothing more than a screwdriver, and it can be retrofitted to a door that has lost its original catch. Where a soft-close hinge damper cannot hold a warped or frequently used door shut on its own, a catch of this type supplies the closing pull, and because the parts sit inside the cabinet nothing is added to the door front. Supplied one piece per pack with the mounting screws. A simple swap for a worn catch on a kitchen or wardrobe door, where the magnet holds the door shut without a spring that weakens over time. On a run of fitted cupboards the catch is aligned to its strike after the door is hung, so a carcass that is slightly out of square does not leave a door standing proud of the run. The same part number serves a wardrobe, a sink unit and a display cabinet, which lets a fitter or a retailer carry one line instead of several catch types.
+points:
+  1. Strong magnet pulls the door shut instead of a sprung roller, so there is no rattle to develop
+  2. Zinc-plated steel body holds its finish in kitchens, bathrooms and utility rooms
+  3. Matching strike plate mounts on the door, so alignment is set once at installation
+  4. Supplied with mounting screws, so a worn original catch can be replaced with a screwdriver
+  5. A practical line for hardware retailers, since the catch suits both new cabinet builds and repairs
+  6. The catch sits inside the cabinet, so a repair does not change the face of the door
+
+### 10
+slug: adjustable-glass-shelf-clamp
+name: Adjustable Duckbill Glass Shelf Clamp (Brushed Nickel, 3-18 mm)
+cat: hardware | moq: MOQ 1 pc | price: $0.54 - $0.81 /pc
+specs: Finish=Brushed Nickel; Glass Thickness=3 - 18 mm; Type=Duckbill Glass Shelf Clamp; Reach=56 mm; Body Height=30 mm; Net Weight=Approx. 49 g per Piece
+desc: A duckbill-shaped shelf clamp that holds glass panels from 3 mm up to 18 mm, so one fitting covers the thicknesses found across a run of shelves instead of needing a separate part for every size. The back plate takes a screw into the wall or the support, and the shelf slides between the jaw and the base where a single screw clamps it tight; soft pads under the jaw spread the load so the glass is not marked. The brushed nickel finish keeps the fitting quiet against glass, mirror and polished stone without the glare of bright chrome. At about 49 g per piece it feels solid in the hand yet stays visually light once it is under a shelf. The jaw reaches 56 mm and the body stands 30 mm high, which gives clearance for thicker shelves and the fixings behind them. Suits bathroom shelving, retail displays and office partitions, on new builds or as a retrofit. Shop and hotel refurbishment crews fit new clamps to existing glass, so a tired display can be refreshed without new panels. A fitting a shopfitter can standardise on, since one clamp covers the shelf thicknesses that turn up across a fit-out. Satin and brushed nickel are where 2026 bathroom hardware has settled, favoured for resisting water spots and fingerprints where polished finishes show every touch, so this clamp keeps a shower or vanity shelf looking clean between service visits and matches nickel tapware already specified on the plans.
+points:
+  1. One clamp covers glass from 3 to 18 mm, so a shelf run needs one part number instead of several
+  2. Single clamping screw locks the panel, and soft pads spread the load so the glass is not marked
+  3. Brushed nickel keeps the fitting quiet against glass, mirror and polished stone
+  4. Back plate screws to the wall or support, so it suits new builds and retrofits alike
+  5. The clamp can be fitted after the glass is in place, so a shelf goes in without dismantling the unit
+  6. At roughly 49 g and 30 mm tall, a row of clamps reads as a slim line under the shelf rather than a heavy bracket, which is what retail and hotel fit-outs ask for
+
+### 11
+slug: heavy-duty-swivel-caster-3-inch
+name: 3-Inch Solid Rubber Swivel Caster (63 x 95 mm Plate, Quiet Roll)
+cat: hardware | moq: MOQ 2 pc | price: $0.79 - $1.18 /pc
+specs: Wheel Diameter=75 mm (3 inch); Wheel Material=Solid Rubber; Mounting Height=100 mm; Top Plate Size=63 x 95 mm; Hole Spacing=45 x 72 mm; Wheel Width=33 mm
+desc: A three inch swivel caster built around a solid rubber wheel, which rolls far more quietly over hard workshop and showroom floors than a hard nylon or cast iron wheel, and soaks up the small steps and grit that make a loaded trolley bang and judder. The wheel measures 75 mm across and 33 mm wide, and the ball-bearing swivel head turns a full 360 degrees so a cart can be steered into a tight aisle without being lifted. The steel bracket carries a top plate measuring 63 x 95 mm with 45 x 72 mm hole centres and a 100 mm mounting height, so it bolts straight onto the pressed-steel frames used for trolleys, mobile racks and tool cabinets. This medium duty variant is supplied without a brake, for carts that only have to roll. The minimum order is two pieces, so a pair can be fitted in one go. Workshops that keep rolling racks and tool cabinets in daily service buy these casters to replace a worn unit and put the cart straight back to work. A replacement wheel for a trolley or cart that has started to drag, where the solid rubber tread keeps the roll quiet on a hard shop floor. Because the plate and hole centres match the frames already used for trolleys and tool cabinets, a worn caster is swapped for a new one without the frame being redrilled, so the cart goes back into service the same day. The 33 mm tread also carries a loaded cart over the cable covers, door thresholds and floor joints that would stop a hard narrow wheel.
+points:
+  1. Solid rubber wheel rolls quietly over hard floors and takes up small steps and grit
+  2. 360 degree ball-bearing swivel steers a loaded cart into a tight aisle without lifting it
+  3. 63 x 95 mm plate with 45 x 72 mm hole centres bolts onto common pressed-steel trolley frames
+  4. 100 mm mounting height and a 75 mm wheel keep the load low and the cart stable
+  5. The 33 mm tread spreads the load on a soft floor, so a loaded cart does not sink in
+  6. A 75 mm wheel rolls over thresholds, cable covers and floor grates that a smaller castor would jam on
+
+### 12
+slug: glass-tube-cutter
+name: Glass Tube Cutter with Cutting Wheel (Zinc Alloy Body)
+cat: hand-tools | moq: MOQ 1 pc | price: $1.04 - $1.55 /pc
+specs: Body Material=Zinc Alloy; Type=Glass Tube Cutter; Cutting Wheel=Fitted, Supplied With the Tool; Jaw Action=Coil Return Spring; Use=Scoring Glass Tubing; Pack=Complete Set
+desc: A handheld cutter for scoring glass tubing to length, built around a zinc alloy frame with a coil return spring that opens the jaws as soon as hand pressure is released. The cutting wheel scores the wall of the tube in one pass and the tube is then snapped along the score, which gives a clean, square end without the chips and ragged cracks that come from sawing or from snapping a tube that was never scored. The tool is supplied as a complete set with its cutting wheel fitted, so it is ready to use on arrival and needs no assembly. The compact frame sits in a bench drawer or a tool pocket and can be carried to the glassware store, the laboratory bench or the site where the tube is being run. Suits glass tubing in laboratories, instrument repair, workshops and glass processing. Buyers often keep a cutter at each bench rather than sharing, so a job is never held up waiting for the tool to come back. A bench tool for laboratories and workshops cutting tubing to length, where scoring and breaking avoids the glass dust a saw would raise.
+points:
+  1. Scores glass tubing in one pass so the tube breaks on a clean, square line
+  2. Coil return spring opens the jaws the moment pressure comes off the grip
+  3. Zinc alloy frame is compact enough for a bench drawer or a tool pocket
+  4. Supplied as a complete set with the cutting wheel fitted, so it is ready to use
+  5. Scores and breaks tubing without a saw, so no glass dust is left on the bench
+  6. A cutter kept in a lab drawer means tubing is cut to length as the setup changes, rather than a stock of pre-cut lengths being ordered and stored against each size
+  7. The wheel scores in one pass, so a tube is cut without a saw, a vise or a second pair of hands to hold it
+
+### 13
+slug: ratchet-flare-nut-wrench-set
+name: 12-Piece Swivel Ratchet Flare Nut Wrench Set (8-18 mm)
+cat: hand-tools | moq: MOQ 1 set | price: $16.19 - $24.28 /set
+specs: Pieces=12 (2 Wrenches + 10 Sockets); Wrench Head Sizes=14 / 15 / 19 mm; Socket Sizes=8, 9, 10, 11, 12, 13, 15, 16, 17, 18 mm; Head Type=Swivel Ratchet; Case=Moulded Tray with Clear Lid; Finish=Chrome
+desc: A twelve piece set that pairs two swivel-head ratchet wrenches with ten sockets, all laid out in a moulded tray inside a case with a clear lid so a missing piece is obvious before the job starts. The wrenches carry ratcheting heads at each end, sized 14, 15 and 19 mm, and the heads pivot so a fastener tucked beside a bulkhead or behind a pipe can still be turned. The ten sockets cover 8, 9, 10, 11, 12, 13, 15, 16, 17 and 18 mm, which is the band that carries most automotive, plumbing and machinery work, and every size is engraved on the tray as well as on the socket so the right one can be picked without reading glasses. The ratchet action turns the fastener without the wrench having to be lifted and repositioned, which matters where the swing arc is short. Chrome finish wipes clean. Mobile mechanics and service vans are the usual buyers, because the set can be carried to the vehicle and handle a brake or fuel line job without a return trip for tools. A set for brake and hydraulic line work, where the flare nut head grips a union that an open wrench would round off. The clear lid lets a set be checked at the end of a job before it goes back in the van, which is how a missing socket is caught before the next callout rather than at the roadside. Sizes are marked on the tray as well as on each piece, so the right socket is picked out of a full case without tipping it out onto a wing or a bench.
+points:
+  1. Two swivel-head wrenches and ten sockets cover the 8 to 18 mm band most jobs need
+  2. Ratcheting heads turn a fastener without the wrench being lifted off in a short swing arc
+  3. Heads pivot to reach fasteners buried beside a bulkhead or behind a pipe
+  4. Moulded tray with size markings shows at a glance when a piece is missing
+  5. The flare nut heads grip the flats of a pipe union, so a soft brass nut is not rounded
+
+### 14
+slug: aviation-tin-snips-right-cut
+name: Aviation Tin Snips, Right Curve (275 mm, Cuts 0.8 mm Sheet)
+cat: hand-tools | moq: MOQ 1 pc | price: $2.14 - $3.21 /pc
+specs: Overall Length=275 mm; Overall Width=53 mm; Blade Length=57 mm; Cuts Sheet Metal=0.1 - 0.8 mm; Cuts Stainless Steel=0.1 - 0.6 mm; Net Weight=517 g
+desc: A right-curve aviation snip for cutting sheet metal and stainless on site, with a compound linkage that multiplies hand force at the blades so a long cut through thin sheet does not have to be forced. The cutting head is set for right-hand curves, which makes it the snip for trimming flashing, following a radius and cutting out a corner, and the straight lead-in at the tip lets a cut be started from a drilled hole or from the edge of a panel. The tool measures 275 mm overall with 57 mm blades and weighs 517 g, so it has the leverage to be pushed through a run of sheet without the wrist tiring. It is rated for sheet metal from 0.1 to 0.8 mm and stainless steel from 0.1 to 0.6 mm. The blackened cutting head and compound linkage are sized for ducting, roofing and body panel work. Roofers and ducting crews usually carry it alongside a left-cut tool, buying the right-cut version when their work runs mostly the same way around a panel. A snip for roofing or ducting work where the cut follows a curve, and the right-cut head leaves the offcut clear of the blades.
+points:
+  1. Right-curve head follows a radius and trims flashing, corners and ducting edges
+  2. Compound linkage multiplies hand force so a long cut through sheet does not have to be forced
+  3. 275 mm body with 57 mm blades gives the leverage to cut without tiring the wrist
+  4. Rated for 0.1 to 0.8 mm sheet metal and 0.1 to 0.6 mm stainless steel
+  5. The right-cut head leaves the offcut clear, so waste does not curl back into the cut line
+  6. At 517 g the snip carries enough weight to keep the blades moving through a long run, so a full-length piece is trimmed without stopping to reset the grip
+
+### 15
+slug: drill-mounted-rivet-nut-adapter
+name: Drill-Mounted Rivet Nut Adapter (M3-M8, Spanner Included)
+cat: power-tools | moq: MOQ 1 pc | price: $6.76 - $10.14 /pc
+specs: Type=Drill-Mounted Rivet Nut Adapter; Shank=Hex Shank for Drill Chuck; Size Range=M3 - M8; Nose Tips=5 Tips (M3, M4, M5, M6, M8); Tip Fitted=M6; Supplied With=Flat Spanner Wrench
+desc: An adapter that turns an ordinary drill into a powered rivet nut setter, so a job that would otherwise be done with a long-handled manual tool or a dedicated air gun can be run off a drill that is already in the van. The hex shank goes straight into the chuck, the drill turns the mandrel, and the rivet nut is drawn down onto the panel in the same way as with a purpose-built setter, leaving a strong threaded point in thin sheet, tubing or a closed section that cannot be reached from behind. Five nose tips cover M3, M4, M5, M6 and M8, and the tip fitted to the tool as supplied is M6, so the common sizes are covered from the box. The flat spanner provided is used to change the tips and to hold the body while the mandrel is seated. Supplied one piece per order. Trailer builders and shopfitters are typical buyers, since blind fixings let a panel be fastened from the outside without access behind the frame. A repair kit that turns up in a van rather than a workshop, since the adapter sets the nuts a job needs without a dedicated gun. Because the drill pulls the nut, the same tool that drilled the hole sets the fixing, so a fitter working along a frame does not put one tool down and pick another up at every position. The nose tips screw on with the supplied spanner, so a change from the M6 fitted as supplied to a smaller or larger nut is a quick swap rather than a second tool being ordered.
+points:
+  1. Turns a drill already in the van into a powered rivet nut setter
+  2. Hex shank drops into the chuck, so one tool covers sheet, tubing and closed sections
+  3. Five nose tips cover M3, M4, M5, M6 and M8, with M6 fitted as supplied
+  4. Flat spanner included for changing tips and holding the body while the mandrel is seated
+  5. One adapter covers M3 to M8, so a repair kit needs a single setter instead of one per size
+
+### 16
+slug: cordless-rotary-hammer-3-in-1
+name: 3-in-1 Brushless Cordless Rotary Hammer (Bare Tool)
+cat: power-tools | moq: MOQ 1 pc | price: $14.11 - $21.17 /pc
+specs: Motor=Brushless; Modes=3 (Drill, Hammer Drill, Chisel); Supplied As=Bare Tool, No Battery or Charger; Auxiliary Handle=Side Handle Included; Housing=Ventilated Red and Black Body; Power Source=Cordless, Buyer's Own Battery Platform
+desc: A three-mode cordless rotary hammer with a brushless motor and battery platform compatibility, supplied as a bare tool so a buyer who already runs a set of packs pays only for the machine. The mode selector switches between straight drilling, hammer drilling and chisel-only work, which lets one tool drill an anchor hole in concrete, chase out a channel and then drive a chisel under a tile bed without a second machine being brought to the job. The brushless motor carries no brushes to replace between services, and the ventilated housing and auxiliary side handle keep the tool steady when it is worked overhead or pushed into a wall. Being cordless it can be carried between rooms and up to a roof without a lead, which suits renovation and fit-out work where power is not always available. Battery and charger are not included. Maintenance teams often justify the tool on chisel mode alone, since a machine already on site can lift a tile bed without bringing another tool in. Chosen by buyers already on a battery platform who want hammer and chisel work without adding another charger to the van. Cordless rotary hammers are steadily replacing corded models on fit-out and maintenance work, where there is no lead to run across a finished floor or up a scaffold, and the bare-tool format lets a crew already on a battery platform add hammer drilling without buying another kit.
+points:
+  1. Three modes cover straight drilling, hammer drilling and chisel-only work with one machine
+  2. Brushless motor has no brushes to replace between services
+  3. Bare tool format avoids paying twice for batteries you already own
+  4. Side handle and ventilated housing keep the tool steady overhead and into a wall
+  5. Chisel mode lifts a tile or a bed of mortar without swapping to a separate breaker
+  6. Bare tool supply puts one more machine on a crew already holding the packs, so a second operator is not waiting for the drill to come free
+  7. Runs on the buyer's own packs, so a crew keeps one charger and one spare battery across the whole tool bag
+
+### 17
+slug: pneumatic-rivet-nut-gun
+name: Pneumatic Rivet Nut Gun (M5 / M6 / M8 Tips, 600 rpm)
+cat: pneumatic-tools | moq: MOQ 1 kit | price: $30.42 - $45.63 /kit
+specs: Type=Pneumatic Rivet Nut Gun; Power=Compressed Air; Supplied Nose Tips=M5 / M6 / M8; Nose Tip Fitted=M6; Speed=600 rpm; Full Size Platform=M3 - M10 Rivet Nuts
+desc: A pistol-grip air tool for pulling rivet nuts into sheet metal, tubing and closed sections where the nut has to be set from one side only. Compressed air drives the mandrel at 600 rpm to spin the nut down onto the panel and then draws it up to form the threaded point, which takes a fraction of the time a hand setter needs and gives the same result on every insert of a run. Three screw-on nose tips are supplied for M5, M6 and M8 rivet nuts, and the tip fitted on the tool as delivered is M6; the same tool family covers the wider M3 to M10 range with further tips. The body and rubber grip are sized for production work where the setter is in the hand all shift, and the tips screw on and off without special tools. Body shops and duct fabricators are the usual buyers, since air is already plumbed at the bench and no separate power supply is needed at the point of work. A production tool for a shop setting the same nut repeatedly, where air holds force constant across a long run and the tips swap as the order changes. Set on a bench with the line already at the tool, a box of loose nuts becomes finished panels at a steady rate, and the pull does not fall away late in the shift the way it does with a hand setter. Nose tips screw on and off by hand, so a change of nut size between jobs is made without hunting for a collet or a second gun.
+points:
+  1. Air-powered setting draws a rivet nut onto the panel in a fraction of the time a hand setter needs
+  2. Three screw-on nose tips cover M5, M6 and M8, with M6 fitted as delivered
+  3. Tips change without special tools, and the tool family runs out to the full M3 to M10 range
+  4. Pistol grip and rubber handle stay comfortable through a shift of production setting
+  5. Air power keeps the setting force constant through a run, so every nut pulls down the same
+
+### 18
+slug: wet-air-stone-polisher-4-inch
+name: 4-Inch Water-Fed Air Stone Polisher (Wet Grinder)
+cat: pneumatic-tools | moq: MOQ 1 pc | price: $51.27 - $76.90 /pc
+specs: Pad Size=4 inch; Power=Compressed Air; Type=Water-Fed Stone Polisher; Water Feed=Built-In Water Swivel; Gear Head=90 Degree Angle Head; Application=Granite, Marble and Engineered Stone
+desc: A water-fed air polisher for grinding and polishing stone, built so the water runs through the tool to the face of the disc rather than being sprayed over it from a bottle. Keeping water at the contact point holds the dust down and keeps the surface cool, which is what stops a polished edge from burning and lets the abrasive keep cutting instead of glazing over. The 90 degree gear head puts the 4 inch pad flat on the work with the body held clear, and the side handle takes the torque of a heavy cut so the operator can steer the tool along an edge without it pulling away. Running on compressed air means there is no electric motor next to the water, which is the practical reason wet stone work is done with air tools. The brass water swivel at the back lets the supply hose follow the tool. Suits granite, marble and engineered stone. Stone shops that finish on site often pair it with the workshop machine, using the air unit where a bench cannot be brought to the slab. A tool for a fabricator polishing fitted tops in a customer kitchen, where a water-fed air head lets the work continue without closing the room down.
+points:
+  1. Water runs through the tool to the disc face, holding down dust and stopping the stone from burning
+  2. Air powered, so no electric motor sits next to the water on a wet grinding job
+  3. 90 degree head lays the 4 inch pad flat while the body stays clear of the work
+  4. Side handle takes the torque of a heavy cut and the brass swivel lets the hose follow the tool
+  5. Water keeps dust down at the disc, so a fitted top can be polished indoors
+  6. The built-in swivel lets the supply hose turn with the tool, so an edge is worked from either side of a slab without the line twisting and pulling the head off the stone
+
+### 19
+slug: sliding-window-crescent-lock
+name: Sliding Window Crescent Lock (Zinc Base, Aluminium Handle)
+cat: hardware | moq: MOQ 1 pc | price: $0.42 - $0.63 /pc
+specs: Type=Crescent Window Lock; Base Plate=Die-Cast Zinc Alloy; Handle=Cast Aluminium Lever; Action=Cam Hook with Frame Striker; Finishes=White and Black; Mounting=Two Countersunk Screw Holes
+desc: An espagnolette-style crescent lock for aluminium and uPVC sliding windows, built with a die-cast zinc base plate and a cast aluminium lever handle. Turning the handle down swings the cam hook into the frame striker, locking the sash against sliding travel and against being lifted out of its track, which is the anti-theft job this pattern of window lock is normally bought for. Two countersunk fixing holes set the base plate flat against the sash stile so the head sits flush and cannot be worked from the side. The lock is offered in white and in black, letting the hardware match the window profile instead of standing out against it. Zinc die-casting keeps its shape better than pressed sheet, which is what holds the cam hook square after years of daily opening and closing. Suits standard residential aluminium and plastic-steel window sections. Window fabricators order these in bulk for new sashes, while service callers fit them as an upgrade on older windows whose original catch no longer seats. A direct replacement for a failed lock on aluminium sliding windows, where the cam hook holds the sash where the frame has settled.
+points:
+  1. Cam hook locks the sash against sliding travel and against being lifted out of its track
+  2. Die-cast zinc base plate holds the cam square instead of bending like pressed sheet
+  3. Two countersunk holes let the plate sit flush on the stile so the head cannot be worked from the side
+  4. Offered in white and black so the lock can be matched to the window profile
+  5. The cam hook holds the sash at the meeting stile, so it cannot be lifted along the track
+  6. Cast aluminium lever keeps a firm, solid pull, so the lock still throws positively on a sash that swells in summer heat
+
+### 20
+slug: stainless-sliding-window-hook-lock
+name: Sliding Window Hook Lock (182 mm, Recessed Slab)
+cat: hardware | moq: MOQ 1 pc | price: $0.32 - $0.47 /pc
+specs: Type=Recessed Slab Hook Lock; Overall Length=182 mm; Body Width=23 mm; Body Thickness=17 mm; Screw Hole Spacing=164 mm; Hook Throw=9 mm
+desc: A recessed slab hook lock for sliding aluminium windows and doors, cut into the stile so the handle sits flush with the frame face. The body is 182 mm long, 23 mm wide and 17 mm thick, with screw holes set 164 mm apart, which lines up with the standard 90 series window section used on residential sliding sashes. Pressing the sprung lever throws a 9 mm hook out of the end of the body to catch the striker plate supplied with the lock, and the slotted striker takes up the tolerance in the frame so the hook still engages squarely after the building has settled. The recessed format leaves nothing proud of the frame to snag a curtain or a sleeve, and it gives the assembled window the continuous flat sight line that a surface-mounted latch breaks. Suits aluminium and plastic-steel sliding windows and balcony doors. Fabricators running balcony door sets keep these beside the profile lengths, so a sash can be drilled and locked as it moves through the shop. A lock a fitter can match to an existing recess, since the body and screw centres line up with the slab locks already on the frame.
+points:
+  1. Recessed slab body sits flush in the stile, leaving nothing proud to snag a curtain or sleeve
+  2. 182 mm body with 164 mm screw centres matches the standard 90 series sliding window section
+  3. Sprung lever throws a 9 mm hook into the slotted striker plate
+  4. Striker slots take up frame tolerance so the hook still engages squarely as the building settles
+  5. The sprung lever gives a positive click when the hook seats, so a window is not left part locked
+  6. A 23 mm wide, 17 mm thick body drops into the slab recess already routed in the stile, so a replacement lock needs no new cut-out
+  7. At 17 mm thick the body sits inside the profile, so it fits sashes where a surface-mounted latch would foul the sliding pane
+
+### 21
+slug: chrome-wall-hook-rail-58cm
+name: Chrome Wall Hook Rail (58.5 cm, 7 Hook Positions)
+cat: hardware | moq: MOQ 2 pc | price: $0.11 - $0.17 /pc
+specs: Finish=Polished Chrome over Steel; Length=58.5 cm; Hooks=7 Positions, Upper and Lower Arms; Hook Spacing=8 cm; Screw Hole Spacing=42 cm; Projection From Wall=8 cm
+desc: A wall-mounted hook rail for cloakrooms, hallways and utility rooms where coats, bags and towels need to come off the floor. The rail is 58.5 cm long and carries seven hook positions, each formed as a matching pair of ball-end arms so a coat hangs from the upper arm while a bag or an umbrella strap takes the lower one. The arms stand 8 cm clear of the wall, which leaves room for a padded jacket to hang without its shoulders pressing into the plaster, and the 8 cm spacing between positions stops bulky items from crushing together. Two fixing holes are set 42 cm apart, wide enough that the load is spread across a decent span of wall instead of being concentrated in one patch. The rail is finished in polished chrome over steel, and matching screws and wall plugs are included in the carton. Rental refurbishment buyers fit rails like this because a long rail covers a hallway wall and cuts the number of separate hooks that have to be bought and fixed. Suits a hallway or office fitting-out job where several coats and bags need one neat line rather than a scatter of single hooks.
+points:
+  1. Seven hook positions, each a matching upper and lower arm, hold coats and bags on one rail
+  2. Arms stand 8 cm off the wall so a padded jacket hangs clear of the plaster
+  3. Fixings set 42 cm apart spread the load over a wide span instead of one patch of wall
+  4. Matching screws and wall plugs are included in the carton
+  5. One rail mounts on a single line, so a hallway wall is not peppered with separate hook fixings
+  6. The 58.5 cm span drops into a 600 mm cloakroom or utility alcove without cutting the rail down
+  7. Seven positions with an upper and lower arm each give fourteen hanging points on one rail, enough for a family hallway or a staff cloakroom
+
+### 22
+slug: flat-masonry-chisel-150mm
+name: Flat Masonry Chisel (150 mm, 16 mm Tip)
+cat: hand-tools | moq: MOQ 1 pc | price: $0.95 - $1.43 /pc
+specs: Material=Hardened Alloy Steel; Nominal Size=150 mm; Overall Length=145 mm Ground; Body Thickness=8 mm; Tip Width=16 mm; Weight=0.11 kg
+desc: A flat masonry chisel for cutting brick, block, concrete and stone, and for chasing out mortar where a grinder cannot reach. The body starts at 150 mm overall and measures 145 mm once the cutting edge has been ground back, and it is 8 mm through the thickest part, so it takes a mallet blow straight down the shank without whipping. The cutting tip is 16 mm wide, which is narrow enough to drop into a mortar joint and wide enough to clear spoil as it goes rather than jamming. A bent neck lifts the body away from the wall, so knuckles stay off the masonry when the chisel is driven home. The shank carries a green painted finish and weighs 0.11 kg, light enough to be carried all day but heavy enough to take a proper swing. Suits general building work, tile lifting and light demolition. Bricklayers usually carry the chisel in the tool bag for cutting out a damaged brick, where a grinder would throw dust across the rest of the wall. A chisel for trimming brick and clearing mortar on a repair job, where the flat blade turns to clean a joint side-on.
+points:
+  1. 16 mm tip drops into a mortar joint and still clears spoil as it cuts
+  2. 8 mm body takes a mallet blow straight down the shank without whipping
+  3. Bent neck keeps knuckles off the masonry on a full swing
+  4. Ground back to 145 mm from a 150 mm start, so there is plenty of life left in the tip
+  5. The flat blade can be turned to clear a joint sideways as well as driven straight
+  6. At 0.11 kg it rides in a tool belt all day, and the short 145 mm body can be swung one-handed for light joint work
+
+### 23
+slug: cobalt-drill-bit-pack-2-5mm
+name: Cobalt Twist Drill Bit Pack (2.5 mm, 10 pcs)
+cat: hand-tools | moq: MOQ 1 pack | price: $0.42 - $0.63 /pack
+specs: Pack Quantity=10 Pieces; Diameter=2.5 mm; Material=Cobalt High-Speed Steel; Shank=Straight Round; Suitable Materials=Wood, Plastic, Copper, Aluminium, Stainless Steel; MOQ=1 pack
+desc: A workshop pack of ten identical 2.5 mm twist drills in cobalt high-speed steel, the size that gets used up fastest on pilot holes and on stainless steel fittings. Cobalt-alloyed high-speed steel keeps its hardness when the tip runs hot, which is the difference between a drill that keeps cutting stainless sheet and an ordinary bit that dulls and then polishes the surface instead of biting. The 2.5 mm diameter is the pilot size behind M3 screws and self-tapping fixings, and it is the usual size for drilling hinge plates and cabinet hardware on site. The pack is intended for wood, plastic, copper, aluminium and stainless steel. Ten identical bits in one pack keeps the drawer stocked through a batch of work instead of stopping the job when a single bit breaks. Kitchen and shopfitting crews buy the pack because hinge and handle screws are drilled in a run, and a snapped bit mid-run costs more than the bit does. A size a workshop runs through quickly, so a pack of identical bits keeps the drawer stocked instead of sending someone out for one.
+points:
+  1. Cobalt-alloyed steel holds its hardness when the tip runs hot on stainless
+  2. 2.5 mm is the pilot size behind M3 screws and self-tapping fixings
+  3. Ten identical bits keep the drawer stocked through a batch of work
+  4. Intended for wood, plastic, copper, aluminium and stainless steel
+  5. Cobalt holds its edge in stainless, so the surface is not work hardened by a dull tip
+  6. The straight round shank spins true in a three-jaw chuck or a collet, so the bit starts exactly where it is spotted
+
+### 24
+slug: octagonal-stone-hammer
+name: Octagonal Stone Hammer (95 cm, High-Carbon Steel Head)
+cat: hand-tools | moq: MOQ 1 pc | price: $0.88 - $1.32 /pc
+specs: Type=Octagonal Stone Hammer; Head Material=High-Carbon Steel; Total Length=95 cm; Handle Length=89 cm; Head Size=15 x 5.5 x 5.5 cm; Head Weight=Approx. 3.0 kg
+desc: A long-handled octagonal sledge for driving masonry chisels and breaking out brick, block and concrete. The head is an octagonal block of high-carbon steel measuring 15 cm long, 5.5 cm wide and 5.5 cm high, mounted on an 89 cm shaft so the whole tool stands 95 cm from grip to striking face. That length is what makes it useful on demolition: the operator can stand back from the wall and let the head do the work instead of leaning in over the swing. The shaft is sleeved in two black rubber grips, an upper section where the leading hand sits and a lower section at the butt, which is where the vibration of a hard strike on masonry is felt. Head weight is approximately 3.0 kg. Used with a flat chisel or on its own to open up a wall for repair. It is often bought by crews stripping out partition walls, because a long handle lets the head reach over a demolished stub without the operator stepping onto the rubble. A tool for splitting and dressing stone where the operator needs to stand back from the block, and the long shaft keeps the head clear.
+points:
+  1. 95 cm overall length lets the operator stand back and let the head do the breaking
+  2. Octagonal high-carbon steel head drives a masonry chisel through brick and block
+  3. Two rubber grip sleeves take the vibration out of a hard strike on masonry
+  4. Roughly 3.0 kg of head weight carried on an 89 cm shaft
+  5. The octagonal head does not roll off a scaffold board between blows
+  6. Roughly 3.0 kg of high-carbon steel behind the strike opens a brick wall in fewer blows than a framing hammer, which is what the long shaft is there to deliver
+  7. The 15 x 5.5 x 5.5 cm head follows a chisel into a chase without fouling the brick on either side of the cut
+
+### 25
+slug: drywall-sander-telescopic
+name: Telescopic Drywall Sander (1.2 - 2.2 m, Self Dust Extraction)
+cat: power-tools | moq: MOQ 1 pc | price: $28.29 - $42.44 /pc
+specs: Type=Telescopic Drywall Sander; Telescopic Reach=1.2 - 2.2 m; Max Ceiling Height=3.5 m; Dust Extraction=Dual-Tube, Self-Contained; Speed=5-Speed, All-Copper Motor; Included=Hex Key, 2 Carbon Brushes, Dust Bag, 6 Abrasive Sheets, 2 m Hose
+desc: A long-reach drywall sander for levelling filler and skim coat on walls and ceilings without working off a platform. The shaft telescopes from 1.2 m out to 2.2 m and reaches a ceiling up to 3.5 m, so the operator stays on the floor while the head runs overhead. Two extraction tubes run the length of the shaft down to the head, pulling dust straight off the abrasive into the dust bag instead of letting it hang in the room, and a dual-row LED strip lights the working face so the pass marks left in the filler are visible as they are cut back. Speed is set across five steps on an all-copper motor, which lets the tool be run slowly over a filled joint and faster across flat board. The carton holds five accessories: a hex key, two carbon brushes, a dust bag, six abrasive sheets and a 2 m dust hose. Decorators and fit-out crews buy it before painting, because filler dust left in a room settles on every surface that has already been finished. A decorator can reach a ceiling without a tower, and the dust bag keeps the room usable on a job where furniture stays in place.
+points:
+  1. Telescopes from 1.2 m to 2.2 m and reaches a ceiling 3.5 m up without a platform
+  2. Two extraction tubes pull dust off the abrasive into the bag instead of into the room
+  3. Dual-row LED lights the face so filler pass marks show as they are cut back
+  4. Five speeds on an all-copper motor, with five accessories and a 2 m hose in the carton
+  5. Six abrasive sheets in the carton cover a room before a refill has to be ordered
+  6. Two spare carbon brushes ship in the carton, so the motor can be re-brushed on site instead of the sander going away for service
+
