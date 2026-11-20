@@ -6,8 +6,14 @@
 images/*_raw.jpg
 images/*_raw.png
 
-# One-off scratch scripts
+# One-off scratch scripts and their working output.
+# Batch dumps (chunk*.txt) and copy JSON belong here, not in the repo: a stray
+# `git add -A` must not publish half-finished copy plans.
 _tmp_*.py
+_tmp_*.json
+_tmp_*.txt
+_tmp_*.log
+_tmp_*/
 
 # Scratch slug inventories and staged image downloads from daily ops runs
 _all_slugs.json
