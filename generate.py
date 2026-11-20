@@ -543,7 +543,13 @@ def category_html(cid):
     title = f"{c['name']} | Factory Direct Wholesale | Best Hardware Tools"
     desc = f"Browse {len(items)} factory-direct {c['name'].lower()} lines for importers and distributors, including {items[0]['name'].lower()}. Wholesale pricing, low MOQ and OEM/ODM support."
     canonical = f"{URL}category-{cid}.html"
-    jsonld = f'''{{"@context":"https://schema.org","@type":"CollectionPage","name":"{title}","description":"{desc}","url":"{canonical}"}}'''
+    # json.dumps owns the quoting here too: a product name carried into this description can
+    # contain a literal inch mark (1/2"), which used to close the JSON string early and make the
+    # whole CollectionPage block unparseable on that category page.
+    jsonld = json.dumps({
+        "@context": "https://schema.org", "@type": "CollectionPage",
+        "name": title, "description": desc, "url": canonical,
+    }, ensure_ascii=False, separators=(",", ":"))
     html = head(title, desc, canonical, URL + "images/" + items[0]['slug'] + ".jpg")
     html += f"""<script type="application/ld+json">{jsonld}</script>
 <body>
