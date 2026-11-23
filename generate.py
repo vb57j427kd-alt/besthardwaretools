@@ -465,6 +465,111 @@ def index_html():
 </html>"""
     return html
 
+def faq_pairs(p):
+    """Q&A for one product page.
+
+    Every answer is assembled from data this product already carries (moq / price / specs)
+    or from statements the site already publishes elsewhere (FOB China, T/T, export carton,
+    sampling, OEM/ODM, 24-hour reply). Nothing is added here that the catalogue cannot
+    support: no lead-time days, no certifications, no test results, no capacity claims.
+    """
+    pairs = [
+        ("What is the minimum order quantity?",
+         f"{p['moq']}, FOB China. Volume pricing is confirmed per order."),
+        ("What is the factory-direct price range?",
+         f"{p['price']}, FOB China. The final price depends on quantity and packing."),
+    ]
+    head_specs = p["specs"][:4]
+    if head_specs:
+        pairs.append((
+            "What are the key specifications?",
+            "; ".join(f"{k}: {v}" for k, v in head_specs) + ".",
+        ))
+    for k, v in p["specs"]:
+        if k.strip().lower() in ("application", "applications", "use", "usage", "used for"):
+            pairs.append(("What is it used for?", f"{v}."))
+            break
+    pairs.append((
+        "Is OEM / ODM available?",
+        "Yes. OEM/ODM is supported - send your artwork, colour and packing requirements "
+        "with the inquiry.",
+    ))
+    pairs.append((
+        "How is it packed and shipped?",
+        "Export carton with moisture-resistant packing, FOB China, shipped worldwide. "
+        "Lead time is confirmed in your quotation.",
+    ))
+    return pairs
+
+
+def faq_block(p):
+    """Visible Q&A section plus the matching FAQPage block for answer engines."""
+    pairs = faq_pairs(p)
+    qa = "".join(f'<div class="qa"><h3>{esc(q)}</h3><p>{esc(a)}</p></div>' for q, a in pairs)
+    section = f"""<section class="faqsec"><div class="wrap">
+<div class="sec-head"><div><h2>Sourcing questions</h2><p>Short answers taken from this product's own specification and trade data.</p></div></div>
+<div class="faq">{qa}</div>
+</div></section>
+"""
+    schema = json.dumps({
+        "@context": "https://schema.org", "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}}
+            for q, a in pairs
+        ],
+    }, ensure_ascii=False, separators=(",", ":"))
+    return section, f'<script type="application/ld+json">{schema}</script>\n'
+
+
+def llms_txt():
+    """Machine-readable site summary for answer engines (llmstxt.org convention).
+
+    Generated, never hand-edited: counts come from PRODUCTS so the file cannot drift
+    away from the catalogue.
+    """
+    counts = {c["id"]: len([p for p in PRODUCTS if p["cat"] == c["id"]]) for c in CATEGORIES}
+    out = [
+        f"# {SITE['brand']}",
+        "",
+        f"> {SITE['tagline']}. Factory-direct hardware and tools for importers, distributors "
+        f"and private-label buyers: {len(PRODUCTS)} SKUs across "
+        f"{', '.join(c['name'].lower() for c in CATEGORIES)}. OEM/ODM supported, FOB China, "
+        f"worldwide shipping.",
+        "",
+        "## Site facts",
+        f"- Legal entity: {LEGAL} (sales office {LOCATION})",
+        f"- Catalogue: {len(PRODUCTS)} product pages, each listing specifications, key points, "
+        f"minimum order quantity, a USD price range and trade terms",
+        f"- Categories: " + ", ".join(f"{c['name']} ({counts[c['id']]})" for c in CATEGORIES),
+        "- Price basis: FOB China, USD",
+        "- Payment: T/T bank transfer",
+        "- Packing: export carton with moisture-resistant packing",
+        "- Sampling: available before a bulk order",
+        "- OEM/ODM: supported",
+        f"- Reply time: {REPLY_PROMISE.lower()}",
+        "",
+        "## Categories",
+    ]
+    for c in CATEGORIES:
+        out.append(f"- [{c['name']}]({URL}category-{c['id']}.html): {counts[c['id']]} product lines")
+    out += [
+        "",
+        "## Key pages",
+        f"- [Homepage]({URL})",
+        f"- [XML sitemap]({URL}sitemap.xml): every product and category URL on the site",
+        "",
+        "## Product pages",
+        f"Each product lives at {URL}products/<slug>.html and carries the same shape: "
+        "specification table, key points, minimum order quantity, USD price range and trade terms.",
+        "",
+        "## Contact",
+        f"- Email: {SITE['email']}",
+        f"- WhatsApp: {WA_SHOW}",
+        "",
+    ]
+    return "\n".join(out)
+
+
 def product_page(p):
     cat_name = next(c["name"] for c in CATEGORIES if c["id"] == p["cat"])
     title = f"{p['name']} | Factory Direct Wholesale | Best Hardware Tools"
@@ -508,9 +613,10 @@ def product_page(p):
         "image": f"{URL}{p['img'].lstrip('/')}", "description": desc,
         "brand": {"@type": "Brand", "name": SITE["brand"]}, "offers": offers,
     }, ensure_ascii=False, separators=(",", ":"))
+    faq_html, faq_schema = faq_block(p)
     html = head(title, desc, canonical, URL + "images/" + p['slug'] + ".jpg")
     html += f"""<script type="application/ld+json">{jsonld}</script>
-<body>
+{faq_schema}<body>
 {nav()}
 <div class="wrap crumb"><a href="/">Home</a> &rsaquo; <a href="/category-{p['cat']}.html">{cat_name}</a> &rsaquo; {p['name']}</div>
 <div class="wrap pd">
@@ -531,7 +637,7 @@ def product_page(p):
 <p class="pd-desc">{p['desc']}</p>
 </div>
 </div>
-<section class="related alt"><div class="wrap"><div class="sec-head"><div><h2>You May Also Like</h2><p>Related {cat_name.lower()} lines buyers often order together.</p></div><a class="view" href="/category-{p['cat']}.html">View all {cat_name} &rarr;</a></div><div class="grid">{rel}</div></div></section>
+{faq_html}<section class="related alt"><div class="wrap"><div class="sec-head"><div><h2>You May Also Like</h2><p>Related {cat_name.lower()} lines buyers often order together.</p></div><a class="view" href="/category-{p['cat']}.html">View all {cat_name} &rarr;</a></div><div class="grid">{rel}</div></div></section>
 {footer(p['name'], p['slug'])}
 </html>"""
     return html
@@ -581,9 +687,18 @@ def main():
     # CNAME
     with open(os.path.join(BASE, "CNAME"), "w", encoding="utf-8") as f:
         f.write(DOMAIN + "\n")
-    # robots.txt
+    # robots.txt - explicit allow for the answer-engine crawlers, on top of the wildcard.
+    # Nothing here restricts access; it only makes the intent to be crawled explicit.
+    ai_agents = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot",
+                 "PerplexityBot", "Google-Extended"]
+    robots = "User-agent: *\nAllow: /\n\n"
+    robots += "".join(f"User-agent: {a}\nAllow: /\n\n" for a in ai_agents)
+    robots += f"Sitemap: {URL}sitemap.xml\n"
     with open(os.path.join(BASE, "robots.txt"), "w", encoding="utf-8") as f:
-        f.write(f"User-agent: *\nAllow: /\nSitemap: {URL}sitemap.xml\n")
+        f.write(robots)
+    # llms.txt - machine-readable summary for answer engines
+    with open(os.path.join(BASE, "llms.txt"), "w", encoding="utf-8") as f:
+        f.write(llms_txt())
     # sitemap.xml
     urls = [f"<url><loc>{URL}</loc><priority>1.0</priority><changefreq>daily</changefreq></url>"]
     for c in CATEGORIES:
@@ -595,7 +710,7 @@ def main():
     # 404
     with open(os.path.join(BASE, "404.html"), "w", encoding="utf-8") as f:
         f.write(f"""<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>404 - Best Hardware Tools</title><meta name="robots" content="noindex"><link rel="canonical" href="{URL}404.html"></head><body style="background:#FFFFFF;color:#0F1317;font-family:Inter,system-ui,sans-serif;text-align:center;padding:80px 20px"><h1 style="font-size:3rem;color:#C2410C;letter-spacing:-.02em">404</h1><p style="color:#4A525C">Page not found.</p><p><a href="/" style="color:#C2410C;font-weight:600">Back to Best Hardware Tools</a></p></body></html>""")
-    print("Generated:", len(PRODUCTS) + 1, "pages + CNAME/robots/sitemap/404")
+    print("Generated:", len(PRODUCTS) + 1, "pages + CNAME/robots/llms/sitemap/404")
 
 if __name__ == "__main__":
     main()

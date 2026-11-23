@@ -277,3 +277,9 @@ body:has(.modal.open) .wa-fab{display:none}
   /* the sticky mobile action bar already carries a WhatsApp button in this corner */
   body:has(.mbar) .wa-fab{display:none}
 }
+.faqsec{padding:44px 0}
+.faq{display:grid;gap:14px}
+.faq .qa{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px}
+.faq .qa h3{font-size:.98rem;font-weight:600;margin:0 0 7px;color:var(--ink)}
+.faq .qa p{font-size:.9rem;color:var(--t2);margin:0}
+@media(min-width:760px){.faq{grid-template-columns:1fr 1fr}}
