@@ -20,3 +20,6 @@ _all_slugs.json
 _cat_slugs.txt
 _slugs_now.txt
 _tmp_imgs/
+
+# local backups from the daily-ops scripts
+*.bak
