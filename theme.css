@@ -283,3 +283,61 @@ body:has(.modal.open) .wa-fab{display:none}
 .faq .qa h3{font-size:.98rem;font-weight:600;margin:0 0 7px;color:var(--ink)}
 .faq .qa p{font-size:.9rem;color:var(--t2);margin:0}
 @media(min-width:760px){.faq{grid-template-columns:1fr 1fr}}
+
+/* ---------- header search ----------
+   One icon button in the nav opens a full-width panel; the index is fetched on first open.
+   A permanent input was rejected on measurement: the desktop nav row is already 958px of fixed
+   content (logo 203 + links 580 + CTA 175.5), so an inline field would only have fitted by
+   squeezing the nav or by widening the collapse further. */
+.srch-tgl{display:flex;width:42px;height:42px;padding:0;margin-left:auto;border:1px solid var(--line);border-radius:10px;background:#fff;cursor:pointer;align-items:center;justify-content:center;flex:0 0 auto}
+.srch-tgl:hover{border-color:var(--ink)}
+.srch-tgl svg{width:18px;height:18px;fill:none;stroke:var(--ink);stroke-width:2;stroke-linecap:round}
+.srch{position:absolute;top:100%;left:0;right:0;z-index:2;background:#fff;border-bottom:1px solid var(--line);box-shadow:0 14px 30px rgba(15,19,23,.10);padding:14px 0 16px}
+.srch[hidden]{display:none}
+.srch-in{max-width:660px;margin:0 auto;padding:0 24px}
+.srch-box{position:relative;display:flex;align-items:center}
+.srch-q{width:100%;height:46px;padding:0 40px 0 42px;border:1px solid var(--line);border-radius:12px;background:var(--bg2);color:var(--ink);font-family:inherit;font-size:.95rem;outline:none;-webkit-appearance:none;appearance:none;transition:border-color .16s,box-shadow .16s,background .16s}
+.srch-q::-webkit-search-cancel-button,.srch-q::-webkit-search-decoration{display:none}
+.srch-q:focus{border-color:var(--accent);background:#fff;box-shadow:0 0 0 3px rgba(194,65,12,.13)}
+.srch-q::placeholder{color:var(--t3)}
+.srch-ico{position:absolute;left:14px;top:50%;transform:translateY(-50%);width:17px;height:17px;fill:none;stroke:var(--t3);stroke-width:2;stroke-linecap:round;pointer-events:none}
+.srch-x{position:absolute;right:8px;top:50%;transform:translateY(-50%);width:30px;height:30px;border:0;border-radius:50%;background:transparent;color:var(--t3);font-size:1.2rem;line-height:1;cursor:pointer}
+.srch-x:hover{color:var(--ink)}
+.srch-res{margin-top:10px;max-height:min(62vh,420px);overflow:auto;border-top:1px solid var(--line);padding-top:6px}
+.srch-res[hidden]{display:none}
+.sres{display:flex;align-items:center;gap:11px;padding:8px;border-radius:9px}
+.sres:hover,.sres.on{background:var(--bg2)}
+.sres img{width:44px;height:44px;flex:0 0 auto;object-fit:contain;background:#fff;border:1px solid var(--line);border-radius:7px}
+.sres span{display:flex;flex-direction:column;min-width:0}
+.sres b{font-size:.86rem;font-weight:600;line-height:1.32;color:var(--ink)}
+.sres i{font-size:.74rem;font-style:normal;color:var(--t3);margin-top:2px}
+.sres-more{font-size:.76rem;color:var(--t3);padding:9px 10px 4px;border-top:1px solid var(--line);margin-top:6px}
+.sres-none{padding:10px 10px 6px}
+.sres-none b{display:block;font-size:.88rem;color:var(--ink);margin-bottom:5px}
+.sres-none p{font-size:.8rem;color:var(--t2);margin:0 0 8px}
+.sres-cta{font-size:.8rem;font-weight:600;color:var(--accent)}
+
+/* The nav row carries 203 (logo) + 580 (links) + 175.5 (CTA) + 42 (search) + 4 gaps = 1060px of
+   fixed content, so below 1181px it cannot fit side by side and used to overflow the page
+   horizontally (measured: 136px of overflow at a 901px viewport, 13px at 1024px). Collapsing the
+   nav at 1180 keeps the row intact and is what gives the search button its room. The utility bar
+   goes with it, so the fixed mobile menu still starts exactly at the 70px nav edge. */
+@media(max-width:1180px){
+  .topbar{display:none}
+  .nav-toggle{display:flex}
+  .nav-links{display:none}
+  .nav-open .nav-links{display:flex;flex-direction:column;gap:0;position:fixed;top:70px;left:0;right:0;bottom:0;background:#fff;padding:6px 24px 30px;overflow:auto;border-top:1px solid var(--line)}
+  .nav-open .nav-links a{padding:17px 0;border-bottom:1px solid var(--line);font-size:1.02rem;color:var(--ink)}
+  .nav-cta{display:none}
+  .nav-cta-m{display:inline-flex}
+  .nav-wa{display:inline-flex;color:var(--wa);font-weight:600}
+  .nav-open .nav-links a.nav-wa{color:var(--wa)}
+}
+@media(max-width:620px){
+  /* measured at 375px: logo 203 + two 42px buttons leaves 9px of slack with the old 20px gap,
+     which is too little to survive a wider fallback font, so the row tightens here */
+  .nav-in{gap:10px}
+  .srch-tgl{width:38px;height:38px}
+  .srch-in{padding:0 18px}
+  .srch-q{height:44px;font-size:.9rem}
+}

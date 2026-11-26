@@ -311,7 +311,65 @@ body:has(.modal.open) .wa-fab{display:none}
 .faq .qa{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px}
 .faq .qa h3{font-size:.98rem;font-weight:600;margin:0 0 7px;color:var(--ink)}
 .faq .qa p{font-size:.9rem;color:var(--t2);margin:0}
-@media(min-width:760px){.faq{grid-template-columns:1fr 1fr}}</style>
+@media(min-width:760px){.faq{grid-template-columns:1fr 1fr}}
+
+/* ---------- header search ----------
+   One icon button in the nav opens a full-width panel; the index is fetched on first open.
+   A permanent input was rejected on measurement: the desktop nav row is already 958px of fixed
+   content (logo 203 + links 580 + CTA 175.5), so an inline field would only have fitted by
+   squeezing the nav or by widening the collapse further. */
+.srch-tgl{display:flex;width:42px;height:42px;padding:0;margin-left:auto;border:1px solid var(--line);border-radius:10px;background:#fff;cursor:pointer;align-items:center;justify-content:center;flex:0 0 auto}
+.srch-tgl:hover{border-color:var(--ink)}
+.srch-tgl svg{width:18px;height:18px;fill:none;stroke:var(--ink);stroke-width:2;stroke-linecap:round}
+.srch{position:absolute;top:100%;left:0;right:0;z-index:2;background:#fff;border-bottom:1px solid var(--line);box-shadow:0 14px 30px rgba(15,19,23,.10);padding:14px 0 16px}
+.srch[hidden]{display:none}
+.srch-in{max-width:660px;margin:0 auto;padding:0 24px}
+.srch-box{position:relative;display:flex;align-items:center}
+.srch-q{width:100%;height:46px;padding:0 40px 0 42px;border:1px solid var(--line);border-radius:12px;background:var(--bg2);color:var(--ink);font-family:inherit;font-size:.95rem;outline:none;-webkit-appearance:none;appearance:none;transition:border-color .16s,box-shadow .16s,background .16s}
+.srch-q::-webkit-search-cancel-button,.srch-q::-webkit-search-decoration{display:none}
+.srch-q:focus{border-color:var(--accent);background:#fff;box-shadow:0 0 0 3px rgba(194,65,12,.13)}
+.srch-q::placeholder{color:var(--t3)}
+.srch-ico{position:absolute;left:14px;top:50%;transform:translateY(-50%);width:17px;height:17px;fill:none;stroke:var(--t3);stroke-width:2;stroke-linecap:round;pointer-events:none}
+.srch-x{position:absolute;right:8px;top:50%;transform:translateY(-50%);width:30px;height:30px;border:0;border-radius:50%;background:transparent;color:var(--t3);font-size:1.2rem;line-height:1;cursor:pointer}
+.srch-x:hover{color:var(--ink)}
+.srch-res{margin-top:10px;max-height:min(62vh,420px);overflow:auto;border-top:1px solid var(--line);padding-top:6px}
+.srch-res[hidden]{display:none}
+.sres{display:flex;align-items:center;gap:11px;padding:8px;border-radius:9px}
+.sres:hover,.sres.on{background:var(--bg2)}
+.sres img{width:44px;height:44px;flex:0 0 auto;object-fit:contain;background:#fff;border:1px solid var(--line);border-radius:7px}
+.sres span{display:flex;flex-direction:column;min-width:0}
+.sres b{font-size:.86rem;font-weight:600;line-height:1.32;color:var(--ink)}
+.sres i{font-size:.74rem;font-style:normal;color:var(--t3);margin-top:2px}
+.sres-more{font-size:.76rem;color:var(--t3);padding:9px 10px 4px;border-top:1px solid var(--line);margin-top:6px}
+.sres-none{padding:10px 10px 6px}
+.sres-none b{display:block;font-size:.88rem;color:var(--ink);margin-bottom:5px}
+.sres-none p{font-size:.8rem;color:var(--t2);margin:0 0 8px}
+.sres-cta{font-size:.8rem;font-weight:600;color:var(--accent)}
+
+/* The nav row carries 203 (logo) + 580 (links) + 175.5 (CTA) + 42 (search) + 4 gaps = 1060px of
+   fixed content, so below 1181px it cannot fit side by side and used to overflow the page
+   horizontally (measured: 136px of overflow at a 901px viewport, 13px at 1024px). Collapsing the
+   nav at 1180 keeps the row intact and is what gives the search button its room. The utility bar
+   goes with it, so the fixed mobile menu still starts exactly at the 70px nav edge. */
+@media(max-width:1180px){
+  .topbar{display:none}
+  .nav-toggle{display:flex}
+  .nav-links{display:none}
+  .nav-open .nav-links{display:flex;flex-direction:column;gap:0;position:fixed;top:70px;left:0;right:0;bottom:0;background:#fff;padding:6px 24px 30px;overflow:auto;border-top:1px solid var(--line)}
+  .nav-open .nav-links a{padding:17px 0;border-bottom:1px solid var(--line);font-size:1.02rem;color:var(--ink)}
+  .nav-cta{display:none}
+  .nav-cta-m{display:inline-flex}
+  .nav-wa{display:inline-flex;color:var(--wa);font-weight:600}
+  .nav-open .nav-links a.nav-wa{color:var(--wa)}
+}
+@media(max-width:620px){
+  /* measured at 375px: logo 203 + two 42px buttons leaves 9px of slack with the old 20px gap,
+     which is too little to survive a wider fallback font, so the row tightens here */
+  .nav-in{gap:10px}
+  .srch-tgl{width:38px;height:38px}
+  .srch-in{padding:0 18px}
+  .srch-q{height:44px;font-size:.9rem}
+}</style>
 </head>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Product","name":"Dust-Free Tile and Stone Cutting Machine 1650 W","image":"https://besthardwaretools.com/images/dust-free-tile-cutting-machine.jpg","description":"Handheld cutting machine for tile, stone and chasing work where dust has to be kept down. A 1650 W motor drives the blade through the base plate, and","brand":{"@type":"Brand","name":"Best Hardware Tools"},"offers":{"@type":"AggregateOffer","priceCurrency":"USD","lowPrice":29.07,"highPrice":43.61,"availability":"https://schema.org/InStock","url":"https://besthardwaretools.com/products/dust-free-tile-cutting-machine.html"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the minimum order quantity?","acceptedAnswer":{"@type":"Answer","text":"MOQ 1 pc, FOB China. Volume pricing is confirmed per order."}},{"@type":"Question","name":"What is the factory-direct price range?","acceptedAnswer":{"@type":"Answer","text":"$29.07 - $43.61 /pc, FOB China. The final price depends on quantity and packing."}},{"@type":"Question","name":"What are the key specifications?","acceptedAnswer":{"@type":"Answer","text":"Power: 1650 W; Type: Handheld Dust-Free Cutting Machine; Dust Collection: Built-In Port with Dust Bag; Included: Dust Bag, 2 Carbon Brushes, Scale Ruler, Wrench."}},{"@type":"Question","name":"What is it used for?","acceptedAnswer":{"@type":"Answer","text":"Tile, Stone, Panel and Chasing Work."}},{"@type":"Question","name":"Is OEM / ODM available?","acceptedAnswer":{"@type":"Answer","text":"Yes. OEM/ODM is supported - send your artwork, colour and packing requirements with the inquiry."}},{"@type":"Question","name":"How is it packed and shipped?","acceptedAnswer":{"@type":"Answer","text":"Export carton with moisture-resistant packing, FOB China, shipped worldwide. Lead time is confirmed in your quotation."}}]}</script>
@@ -323,6 +381,17 @@ body:has(.modal.open) .wa-fab{display:none}
 <nav><div class="wrap nav-in">
 <a href="/" class="logo">BEST <b>HARDWARE</b> TOOLS</a>
 <div class="nav-links" id="navLinks"><a href="/category-power-tools.html">Power Tools</a><a href="/category-pneumatic-tools.html">Pneumatic Tools</a><a href="/category-hand-tools.html">Hand Tools</a><a href="/category-hardware.html">Hardware</a><a href="/#why">Why Us</a><a href="/#quote">Contact</a><a href="https://wa.me/8618669693290" class="nav-wa" target="_blank" rel="noopener">WhatsApp +86 186 6969 3290</a><a href="/#quote" class="btn btn-p nav-cta-m">Get a Free Quote</a></div>
+<button class="srch-tgl" type="button" aria-label="Search products" aria-expanded="false" aria-controls="srch" onclick="srchToggle()"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6.5"></circle><line x1="15.4" y1="15.4" x2="21" y2="21"></line></svg></button>
+<div class="srch" id="srch" hidden>
+<div class="srch-in">
+<div class="srch-box">
+<svg class="srch-ico" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6.5"></circle><line x1="15.4" y1="15.4" x2="21" y2="21"></line></svg>
+<input id="srchQ" class="srch-q" type="search" placeholder="Search 412 products - name, size or finish" aria-label="Search products" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="srchRes" aria-autocomplete="list" oninput="srchInput()" onkeydown="srchKey(event)">
+<button class="srch-x" type="button" aria-label="Close search" onclick="srchClose()">&times;</button>
+</div>
+<div class="srch-res" id="srchRes" role="listbox" hidden></div>
+</div></div>
+<noscript><style>.srch,.srch-tgl{display:none!important}</style></noscript>
 <a href="/#quote" class="btn btn-p nav-cta">Get a Free Quote</a>
 <button class="nav-toggle" type="button" aria-label="Open menu" aria-controls="navLinks" onclick="toggleNav()"><i></i></button>
 </div></nav>
@@ -412,6 +481,31 @@ document.addEventListener('click',function(e){var a=e.target.closest?e.target.cl
 function quoteData(f){var g=function(n){var el=f.elements[n];return el&&el.value?el.value.trim():''};return{name:g('name'),email:g('email'),company:g('company'),country:g('country'),phone:g('phone'),requirement:g('requirement'),product:g('product')||'General sourcing inquiry',sku:g('sku'),page:g('page')||location.href}}
 function quoteMessage(d){return 'Quote request - '+d.product+'\nName: '+d.name+'\nCompany: '+d.company+'\nEmail: '+d.email+'\nCountry: '+d.country+(d.phone?'\nPhone/WhatsApp: '+d.phone:'')+'\nRequirement: '+d.requirement+'\nSent via besthardwaretools.com'}
 function submitQuote(e){e.preventDefault();var f=e.target;var d=quoteData(f);var fd=new FormData();for(var k in d){if(d[k])fd.append(k,d[k])}fd.append('_subject','Quote request - '+d.product);fetch('https://formspree.io/f/xeeynyba',{method:'POST',body:fd,headers:{Accept:'application/json'}}).catch(function(){});var ok=f.parentNode.querySelector('.form-ok');var wa=ok?ok.querySelector('a.wa'):null;if(wa)wa.href='https://wa.me/'+WA+'?text='+encodeURIComponent(quoteMessage(d));f.style.display='none';if(ok)ok.style.display='block'}
+
+/* ---------- product search ----------
+   The index (/search-index.json) is fetched the first time the panel opens, never on page
+   load, so the homepage keeps its current weight. Matching is deliberately simple: every
+   query token must appear in name + category + slug, a word-start hit outranks a mid-word
+   hit, and a short synonym table covers spanner/wrench, calliper/caliper and air/pneumatic
+   so a buyer's own vocabulary still lands. No fuzzy scoring - with 400-odd descriptive
+   titles "all tokens present" is what makes the result list trustworthy. */
+var SIDX=null,SPEND=0,SWAIT=[],SQ='',SACT=-1,STIM=null,SURL='/search-index.json';
+var SYN={spanner:['wrench'],spanners:['wrench'],wrench:['spanner'],calliper:['caliper'],callipers:['caliper'],caliper:['calliper'],taps:['tapping','thread'],tap:['tapping','thread'],dies:['thread'],die:['thread'],air:['pneumatic'],pneumatic:['air'],battery:['cordless'],cordless:['battery'],vice:['vise'],vise:['vice'],pliers:['plier'],plier:['pliers'],bits:['bit'],bit:['bits'],allen:['hex'],hex:['allen'],torx:['star'],rubber:['rubber'],hoist:['jack'],jack:['hoist'],callipers:['caliper']};
+var CATN={};
+function srchEs(){return{d:document.getElementById('srch'),q:document.getElementById('srchQ'),r:document.getElementById('srchRes'),t:document.querySelector('.srch-tgl')}}
+function srchLoad(cb){if(SIDX){cb();return}SWAIT.push(cb);if(SPEND)return;SPEND=1;var done=function(d){SIDX=(d&&d.p)?d:{p:[],bad:1};if(d&&d.cats)for(var k in d.cats)CATN[k]=d.cats[k];SPEND=2;var w=SWAIT;SWAIT=[];for(var i=0;i<w.length;i++){try{w[i]()}catch(e){}}};if(!window.fetch||!window.Promise){done(null);return}fetch(SURL).then(function(r){if(!r.ok)throw 0;return r.json()}).then(done).catch(function(){done(null)})}
+function sEsc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
+function sTok(q){return q.toLowerCase().replace(/[^a-z0-9]+/g,' ').split(' ').filter(function(t){return t.length>0}).slice(0,6)}
+function sHit(h,t){var alts=SYN[t],best=-1,tok=t,p=h.indexOf(t);if(p>=0)best=p;if(alts){for(var i=0;i<alts.length;i++){var q=h.indexOf(alts[i]);if(q>=0&&(best<0||q<best)){best=q;tok=alts[i]}}}if(best<0)return -1;var ws=(best===0||h.charAt(best-1)===' ');return (ws?100:40)+(h.indexOf(tok)===0?60:0)}
+function sRows(){if(!SIDX)return[];if(SIDX.rows)return SIDX.rows;SIDX.rows=SIDX.p.map(function(e){var c=CATN[e[2]]||e[2]||'';return{s:e[0],n:e[1],c:e[2],h:(e[1]+' '+c+' '+(e[2]||'').replace(/-/g,' ')).toLowerCase()}});return SIDX.rows}
+function sRun(q){var toks=sTok(q);if(!toks.length)return[];var rows=sRows(),out=[];for(var i=0;i<rows.length;i++){var r=rows[i],total=0,ok=1;for(var j=0;j<toks.length;j++){var sc=sHit(r.h,toks[j]);if(sc<0){ok=0;break}total+=sc}if(ok)out.push({s:r.s,n:r.n,c:r.c,sc:total-r.n.length*0.2})}out.sort(function(a,b){return b.sc-a.sc});return out}
+function srchInput(){var e=srchEs();if(!e.q||!e.r)return;var q=e.q.value.trim();SQ=q;if(q.length<2){e.r.hidden=true;e.r.innerHTML='';e.q.setAttribute('aria-expanded','false');return}srchLoad(function(){if(SQ===q)srchRender(q)})}
+function srchRender(q){var e=srchEs();if(!e.r)return;var hits=sRun(q),n=hits.length,MAX=8,html='';var cta='<a class="sres-cta" href="/#quote">Request a quote &rarr;</a>';if(SIDX&&SIDX.bad){html='<div class="sres-none"><b>Search is unavailable right now</b><p>Send the part name, size or a photo and we will come back with a price.</p>'+cta+'</div>'}else if(!n){html='<div class="sres-none"><b>No match for &ldquo;'+sEsc(q)+'&rdquo;</b><p>We source to drawing and sample - send the part name, size or a photo and we will quote it.</p>'+cta+'</div>'}else{for(var i=0;i<(n<MAX?n:MAX);i++){var r=hits[i];html+='<a class="sres" id="srchO'+i+'" role="option" aria-selected="false" href="/products/'+r.s+'.html"><img src="/images/'+r.s+'.jpg" alt="" width="44" height="44" loading="lazy"><span><b>'+sEsc(r.n)+'</b><i>'+sEsc(CATN[r.c]||r.c||'')+'</i></span></a>'}if(n>MAX)html+='<div class="sres-more">Showing '+MAX+' of '+n+' matches - add a size, material or finish to narrow it down.</div>'}e.r.innerHTML=html;e.r.hidden=false;e.q.setAttribute('aria-expanded','true');SACT=-1;if(STIM)clearTimeout(STIM);STIM=setTimeout(function(){if(window.gtag&&SQ===q)gtag('event','search',{search_term:q,results:n})},900)}
+function srchKey(ev){var e=srchEs(),items=e.r?e.r.querySelectorAll('.sres'):[];if(ev.key==='Escape'){srchClose();return}if(ev.key==='ArrowDown'||ev.key==='ArrowUp'){if(!items.length)return;ev.preventDefault();SACT=ev.key==='ArrowDown'?Math.min(SACT+1,items.length-1):Math.max(SACT-1,0);for(var i=0;i<items.length;i++){items[i].className='sres'+(i===SACT?' on':'');items[i].setAttribute('aria-selected',i===SACT?'true':'false')}e.q.setAttribute('aria-activedescendant','srchO'+SACT);return}if(ev.key==='Enter'){if(SACT>=0&&items[SACT]){ev.preventDefault();location.href=items[SACT].getAttribute('href')}else if(items.length){ev.preventDefault();location.href=items[0].getAttribute('href')}}}
+function srchOpen(){var e=srchEs();if(!e.d)return;document.body.classList.remove('nav-open');document.body.style.overflow='';e.d.hidden=false;if(e.t)e.t.setAttribute('aria-expanded','true');if(e.q){e.q.focus();srchInput()}}
+function srchClose(){var e=srchEs();if(!e.d)return;e.d.hidden=true;if(e.r){e.r.hidden=true;e.r.innerHTML=''}if(e.q){e.q.value='';e.q.setAttribute('aria-expanded','false');e.q.removeAttribute('aria-activedescendant')}SQ='';SACT=-1;if(e.t)e.t.setAttribute('aria-expanded','false')}
+function srchToggle(){var e=srchEs();if(!e.d)return;if(e.d.hidden)srchOpen();else srchClose()}
+document.addEventListener('click',function(ev){var e=srchEs();if(!e.d||e.d.hidden)return;var t=ev.target.closest?ev.target.closest('.srch-tgl'):null;if(t)return;if(!e.d.contains(ev.target))srchClose()});
 </script>
 </body></html>
 </html>

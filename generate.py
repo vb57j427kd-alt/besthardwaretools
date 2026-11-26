@@ -55,6 +55,31 @@ document.addEventListener('click',function(e){var a=e.target.closest?e.target.cl
 function quoteData(f){var g=function(n){var el=f.elements[n];return el&&el.value?el.value.trim():''};return{name:g('name'),email:g('email'),company:g('company'),country:g('country'),phone:g('phone'),requirement:g('requirement'),product:g('product')||'General sourcing inquiry',sku:g('sku'),page:g('page')||location.href}}
 function quoteMessage(d){return 'Quote request - '+d.product+'\\nName: '+d.name+'\\nCompany: '+d.company+'\\nEmail: '+d.email+'\\nCountry: '+d.country+(d.phone?'\\nPhone/WhatsApp: '+d.phone:'')+'\\nRequirement: '+d.requirement+'\\nSent via besthardwaretools.com'}
 function submitQuote(e){e.preventDefault();var f=e.target;var d=quoteData(f);var fd=new FormData();for(var k in d){if(d[k])fd.append(k,d[k])}fd.append('_subject','Quote request - '+d.product);fetch('https://formspree.io/f/__FS__',{method:'POST',body:fd,headers:{Accept:'application/json'}}).catch(function(){});var ok=f.parentNode.querySelector('.form-ok');var wa=ok?ok.querySelector('a.wa'):null;if(wa)wa.href='https://wa.me/'+WA+'?text='+encodeURIComponent(quoteMessage(d));f.style.display='none';if(ok)ok.style.display='block'}
+
+/* ---------- product search ----------
+   The index (/search-index.json) is fetched the first time the panel opens, never on page
+   load, so the homepage keeps its current weight. Matching is deliberately simple: every
+   query token must appear in name + category + slug, a word-start hit outranks a mid-word
+   hit, and a short synonym table covers spanner/wrench, calliper/caliper and air/pneumatic
+   so a buyer's own vocabulary still lands. No fuzzy scoring - with 400-odd descriptive
+   titles "all tokens present" is what makes the result list trustworthy. */
+var SIDX=null,SPEND=0,SWAIT=[],SQ='',SACT=-1,STIM=null,SURL='/search-index.json';
+var SYN={spanner:['wrench'],spanners:['wrench'],wrench:['spanner'],calliper:['caliper'],callipers:['caliper'],caliper:['calliper'],taps:['tapping','thread'],tap:['tapping','thread'],dies:['thread'],die:['thread'],air:['pneumatic'],pneumatic:['air'],battery:['cordless'],cordless:['battery'],vice:['vise'],vise:['vice'],pliers:['plier'],plier:['pliers'],bits:['bit'],bit:['bits'],allen:['hex'],hex:['allen'],torx:['star'],rubber:['rubber'],hoist:['jack'],jack:['hoist'],callipers:['caliper']};
+var CATN={};
+function srchEs(){return{d:document.getElementById('srch'),q:document.getElementById('srchQ'),r:document.getElementById('srchRes'),t:document.querySelector('.srch-tgl')}}
+function srchLoad(cb){if(SIDX){cb();return}SWAIT.push(cb);if(SPEND)return;SPEND=1;var done=function(d){SIDX=(d&&d.p)?d:{p:[],bad:1};if(d&&d.cats)for(var k in d.cats)CATN[k]=d.cats[k];SPEND=2;var w=SWAIT;SWAIT=[];for(var i=0;i<w.length;i++){try{w[i]()}catch(e){}}};if(!window.fetch||!window.Promise){done(null);return}fetch(SURL).then(function(r){if(!r.ok)throw 0;return r.json()}).then(done).catch(function(){done(null)})}
+function sEsc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
+function sTok(q){return q.toLowerCase().replace(/[^a-z0-9]+/g,' ').split(' ').filter(function(t){return t.length>0}).slice(0,6)}
+function sHit(h,t){var alts=SYN[t],best=-1,tok=t,p=h.indexOf(t);if(p>=0)best=p;if(alts){for(var i=0;i<alts.length;i++){var q=h.indexOf(alts[i]);if(q>=0&&(best<0||q<best)){best=q;tok=alts[i]}}}if(best<0)return -1;var ws=(best===0||h.charAt(best-1)===' ');return (ws?100:40)+(h.indexOf(tok)===0?60:0)}
+function sRows(){if(!SIDX)return[];if(SIDX.rows)return SIDX.rows;SIDX.rows=SIDX.p.map(function(e){var c=CATN[e[2]]||e[2]||'';return{s:e[0],n:e[1],c:e[2],h:(e[1]+' '+c+' '+(e[2]||'').replace(/-/g,' ')).toLowerCase()}});return SIDX.rows}
+function sRun(q){var toks=sTok(q);if(!toks.length)return[];var rows=sRows(),out=[];for(var i=0;i<rows.length;i++){var r=rows[i],total=0,ok=1;for(var j=0;j<toks.length;j++){var sc=sHit(r.h,toks[j]);if(sc<0){ok=0;break}total+=sc}if(ok)out.push({s:r.s,n:r.n,c:r.c,sc:total-r.n.length*0.2})}out.sort(function(a,b){return b.sc-a.sc});return out}
+function srchInput(){var e=srchEs();if(!e.q||!e.r)return;var q=e.q.value.trim();SQ=q;if(q.length<2){e.r.hidden=true;e.r.innerHTML='';e.q.setAttribute('aria-expanded','false');return}srchLoad(function(){if(SQ===q)srchRender(q)})}
+function srchRender(q){var e=srchEs();if(!e.r)return;var hits=sRun(q),n=hits.length,MAX=8,html='';var cta='<a class="sres-cta" href="/#quote">Request a quote &rarr;</a>';if(SIDX&&SIDX.bad){html='<div class="sres-none"><b>Search is unavailable right now</b><p>Send the part name, size or a photo and we will come back with a price.</p>'+cta+'</div>'}else if(!n){html='<div class="sres-none"><b>No match for &ldquo;'+sEsc(q)+'&rdquo;</b><p>We source to drawing and sample - send the part name, size or a photo and we will quote it.</p>'+cta+'</div>'}else{for(var i=0;i<(n<MAX?n:MAX);i++){var r=hits[i];html+='<a class="sres" id="srchO'+i+'" role="option" aria-selected="false" href="/products/'+r.s+'.html"><img src="/images/'+r.s+'.jpg" alt="" width="44" height="44" loading="lazy"><span><b>'+sEsc(r.n)+'</b><i>'+sEsc(CATN[r.c]||r.c||'')+'</i></span></a>'}if(n>MAX)html+='<div class="sres-more">Showing '+MAX+' of '+n+' matches - add a size, material or finish to narrow it down.</div>'}e.r.innerHTML=html;e.r.hidden=false;e.q.setAttribute('aria-expanded','true');SACT=-1;if(STIM)clearTimeout(STIM);STIM=setTimeout(function(){if(window.gtag&&SQ===q)gtag('event','search',{search_term:q,results:n})},900)}
+function srchKey(ev){var e=srchEs(),items=e.r?e.r.querySelectorAll('.sres'):[];if(ev.key==='Escape'){srchClose();return}if(ev.key==='ArrowDown'||ev.key==='ArrowUp'){if(!items.length)return;ev.preventDefault();SACT=ev.key==='ArrowDown'?Math.min(SACT+1,items.length-1):Math.max(SACT-1,0);for(var i=0;i<items.length;i++){items[i].className='sres'+(i===SACT?' on':'');items[i].setAttribute('aria-selected',i===SACT?'true':'false')}e.q.setAttribute('aria-activedescendant','srchO'+SACT);return}if(ev.key==='Enter'){if(SACT>=0&&items[SACT]){ev.preventDefault();location.href=items[SACT].getAttribute('href')}else if(items.length){ev.preventDefault();location.href=items[0].getAttribute('href')}}}
+function srchOpen(){var e=srchEs();if(!e.d)return;document.body.classList.remove('nav-open');document.body.style.overflow='';e.d.hidden=false;if(e.t)e.t.setAttribute('aria-expanded','true');if(e.q){e.q.focus();srchInput()}}
+function srchClose(){var e=srchEs();if(!e.d)return;e.d.hidden=true;if(e.r){e.r.hidden=true;e.r.innerHTML=''}if(e.q){e.q.value='';e.q.setAttribute('aria-expanded','false');e.q.removeAttribute('aria-activedescendant')}SQ='';SACT=-1;if(e.t)e.t.setAttribute('aria-expanded','false')}
+function srchToggle(){var e=srchEs();if(!e.d)return;if(e.d.hidden)srchOpen();else srchClose()}
+document.addEventListener('click',function(ev){var e=srchEs();if(!e.d||e.d.hidden)return;var t=ev.target.closest?ev.target.closest('.srch-tgl'):null;if(t)return;if(!e.d.contains(ev.target))srchClose()});
 """
 
 def clip_words(text, limit):
@@ -125,6 +150,7 @@ def nav(active=""):
 <nav><div class="wrap nav-in">
 <a href="/" class="logo">BEST <b>HARDWARE</b> TOOLS</a>
 <div class="nav-links" id="navLinks">{links}<a href="/#why">Why Us</a><a href="/#quote">Contact</a><a href="{WA_HREF}" class="nav-wa" target="_blank" rel="noopener">WhatsApp {WA_SHOW}</a><a href="/#quote" class="btn btn-p nav-cta-m">Get a Free Quote</a></div>
+{search_ui()}
 <a href="/#quote" class="btn btn-p nav-cta">Get a Free Quote</a>
 <button class="nav-toggle" type="button" aria-label="Open menu" aria-controls="navLinks" onclick="toggleNav()"><i></i></button>
 </div></nav>"""
@@ -674,6 +700,47 @@ def category_html(cid):
 </html>"""
     return html
 
+def search_ui():
+    """Header search entry plus the drop-down panel, present on every page.
+
+    Collapsed to one icon button rather than a permanent input on purpose: the desktop nav row
+    already carries 958px of fixed content, so an always-visible field would have forced either a
+    squeezed nav or a wider collapse. One button costs 42px and the panel gets the full width of
+    the page for the query and the result list, which suits a 412-title catalogue.
+    Without JavaScript the button is hidden, so nobody is handed a dead control.
+    """
+    mag = ('<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">'
+           '<circle cx="10.5" cy="10.5" r="6.5"></circle>'
+           '<line x1="15.4" y1="15.4" x2="21" y2="21"></line></svg>')
+    mag_ico = mag.replace("<svg ", '<svg class="srch-ico" ')
+    return f"""<button class="srch-tgl" type="button" aria-label="Search products" aria-expanded="false" aria-controls="srch" onclick="srchToggle()">{mag}</button>
+<div class="srch" id="srch" hidden>
+<div class="srch-in">
+<div class="srch-box">
+{mag_ico}
+<input id="srchQ" class="srch-q" type="search" placeholder="Search {len(PRODUCTS)} products - name, size or finish" aria-label="Search products" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="srchRes" aria-autocomplete="list" oninput="srchInput()" onkeydown="srchKey(event)">
+<button class="srch-x" type="button" aria-label="Close search" onclick="srchClose()">&times;</button>
+</div>
+<div class="srch-res" id="srchRes" role="listbox" hidden></div>
+</div></div>
+<noscript><style>.srch,.srch-tgl{{display:none!important}}</style></noscript>"""
+
+
+def search_index():
+    """Compact client-side index for the header search, written to /search-index.json.
+
+    One row per product: [slug, name, category id]. The image path is not stored - it is always
+    /images/<slug>.jpg, verified across all products - so the payload stays at ~42 KB for the
+    whole catalogue. json.dumps owns the quoting because a dozen product names carry a literal
+    inch mark, which breaks any hand-built f-string.
+    """
+    return json.dumps({
+        "v": len(PRODUCTS),
+        "cats": {c["id"]: c["name"] for c in CATEGORIES},
+        "p": [[p["slug"], p["name"], p["cat"]] for p in PRODUCTS],
+    }, ensure_ascii=False, separators=(",", ":"))
+
+
 def main():
     os.makedirs(os.path.join(BASE, "products"), exist_ok=True)
     with open(os.path.join(BASE, "index.html"), "w", encoding="utf-8") as f:
@@ -699,6 +766,9 @@ def main():
     # llms.txt - machine-readable summary for answer engines
     with open(os.path.join(BASE, "llms.txt"), "w", encoding="utf-8") as f:
         f.write(llms_txt())
+    # search-index.json - only fetched when a visitor opens the header search
+    with open(os.path.join(BASE, "search-index.json"), "w", encoding="utf-8") as f:
+        f.write(search_index())
     # sitemap.xml
     urls = [f"<url><loc>{URL}</loc><priority>1.0</priority><changefreq>daily</changefreq></url>"]
     for c in CATEGORIES:
